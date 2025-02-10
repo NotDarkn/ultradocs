@@ -1,5 +1,5 @@
-import comp from "D:/special stuff for ultrakill guides/ultradocs/docs/.vuepress/.temp/pages/guides/speedrun-tech.html.vue"
-const data = JSON.parse("{\"path\":\"/guides/speedrun-tech.html\",\"title\":\"Speedrun Tech\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"guides/speedrun-tech.md\"}")
+import comp from "C:/Users/Darkn/Documents/GitHub/ultradocs/docs/.vuepress/.temp/pages/guides/speedrun-tech.html.vue"
+const data = JSON.parse("{\"path\":\"/guides/speedrun-tech.html\",\"title\":\"Speedrun Tech\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Base Movement:\",\"slug\":\"base-movement\",\"link\":\"#base-movement\",\"children\":[]}],\"git\":{\"updatedTime\":1739210192000,\"contributors\":[{\"name\":\"Darkn\",\"username\":\"Darkn\",\"email\":\"privateservice000@gmail.com\",\"commits\":1,\"url\":\"https://github.com/Darkn\"}]},\"filePathRelative\":\"guides/speedrun-tech.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

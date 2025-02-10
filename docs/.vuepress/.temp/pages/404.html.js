@@ -1,4 +1,4 @@
-import comp from "D:/special stuff for ultrakill guides/ultradocs/docs/.vuepress/.temp/pages/404.html.vue"
+import comp from "C:/Users/Darkn/Documents/GitHub/ultradocs/docs/.vuepress/.temp/pages/404.html.vue"
 const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{\"layout\":\"NotFound\"},\"headers\":[],\"git\":{},\"filePathRelative\":null}")
 export { comp, data }
 

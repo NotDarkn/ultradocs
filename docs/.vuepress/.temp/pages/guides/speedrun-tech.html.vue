@@ -1,10 +1,10 @@
 <template><div><h1 id="speedrun-tech" tabindex="-1"><a class="header-anchor" href="#speedrun-tech"><span>Speedrun Tech</span></a></h1>
-<p>Base Movement:
-Slide and Slam Momentum Mechanics
+<h2 id="base-movement" tabindex="-1"><a class="header-anchor" href="#base-movement"><span>Base Movement:</span></a></h2>
+<p>Slide and Slam Momentum Mechanics
 Sliding preserves any momentum you had prior to the slide, this momentum will be slowly lost
 while sliding on the ground
 Jumping or sliding after a slam grants additional jump height or slide speed
-based on how long you were slamming
+d on how long you were slamming
 Slide Jump
 Jumping during a slide carries the slide momentum into the jump and amplifies
 it

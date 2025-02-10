@@ -5,6 +5,7 @@ sidebar: false
 # Any% (Choosing Layer)
 Any% is perhaps the most popular category in **any game *ever*** mostly because of how easy it is to get into. That same rule applies to ULTRAKILL as well! The majority of the strats in this game aren't too hard to do, and after some practice you'll be able to do that with ease as well.
 
+asdasd
 ## Layers
 ::: note
 Difficulty is based on how hard it may be to **learn** or **execute** strats in all of the levels combined.
@@ -57,7 +58,7 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
 
 <ul>
     <li><font size="4">
-        <a href="/guides/any/layer/any-Wrath.html"><b>Wrath</b></a>
+        <a href="/guides/any/layer/any-wrath.html"><b>Wrath</b></a>
     </font></li>
     <font size="2">
         <b>Difficulty</b>: Slightly Hard (4/5)
@@ -66,7 +67,7 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
 
 <ul>
     <li><font size="4">
-        <a href="/guides/any/layer/any-Wrath.html"><b>Heresy</b></a>
+        <a href="/guides/any/layer/any-heresy.html"><b>Heresy</b></a>
     </font></li>
     <font size="2">
         <b>Difficulty</b>: Intermediate (3/5)
@@ -75,7 +76,7 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
 
 <ul>
     <li><font size="4">
-        <a href="/guides/any/layer/any-Wrath.html"><b>Violence</b></a>
+        <a href="/guides/any/layer/any-violence.html"><b>Violence</b></a>
     </font></li>
     <font size="2">
         <b>Difficulty</b>: Hard (5/5)

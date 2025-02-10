@@ -1,5 +1,5 @@
-import comp from "D:/special stuff for ultrakill guides/ultradocs/docs/.vuepress/.temp/pages/guides/any/any-choosing.html.vue"
-const data = JSON.parse("{\"path\":\"/guides/any/any-choosing.html\",\"title\":\"Any% (Choosing Layer)\",\"lang\":\"en-US\",\"frontmatter\":{\"sidebar\":false},\"headers\":[{\"level\":2,\"title\":\"Layers\",\"slug\":\"layers\",\"link\":\"#layers\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"guides/any/any-choosing.md\"}")
+import comp from "C:/Users/Darkn/Documents/GitHub/ultradocs/docs/.vuepress/.temp/pages/guides/any/any-choosing.html.vue"
+const data = JSON.parse("{\"path\":\"/guides/any/any-choosing.html\",\"title\":\"Any% (Choosing Layer)\",\"lang\":\"en-US\",\"frontmatter\":{\"sidebar\":false},\"headers\":[{\"level\":2,\"title\":\"Layers\",\"slug\":\"layers\",\"link\":\"#layers\",\"children\":[]}],\"git\":{\"updatedTime\":1739210192000,\"contributors\":[{\"name\":\"Darkn\",\"username\":\"Darkn\",\"email\":\"privateservice000@gmail.com\",\"commits\":1,\"url\":\"https://github.com/Darkn\"}]},\"filePathRelative\":\"guides/any/any-choosing.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
