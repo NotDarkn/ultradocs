@@ -4,6 +4,8 @@ sidebar: false
 
 # Getting Started
 
+cat is dumb (truth)
+
 Hey! It seems you wanna get into ULTRAKILL speedrunning. Fear not, this serves
 as a place for you to easily find resources, guides, and a variety of other things relating to tech and strats to this game.
 

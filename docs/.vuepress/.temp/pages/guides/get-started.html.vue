@@ -1,4 +1,5 @@
 <template><div><h1 id="getting-started" tabindex="-1"><a class="header-anchor" href="#getting-started"><span>Getting Started</span></a></h1>
+<p>cat is dumb (truth)</p>
 <p>Hey! It seems you wanna get into ULTRAKILL speedrunning. Fear not, this serves
 as a place for you to easily find resources, guides, and a variety of other things relating to tech and strats to this game.</p>
 <p>Currently this is <strong>in development</strong>, so changes are being made periodically.</p>
