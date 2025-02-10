@@ -4,6 +4,8 @@ sidebar: false
 
 # Getting Started
 
+fuck you (trurth)
+
 cat is dumb (truth)
 
 Hey! It seems you wanna get into ULTRAKILL speedrunning. Fear not, this serves
@@ -22,6 +24,7 @@ LINK REDIRECT EXAMPLE:
 ```md
 [text](/guides/speedrun-tech.md#base-movement)
 [any%](/guides/any/any-choosing.md)
+[4-2](/guides/any/level/any-4-2.md)
 ```
 ::: important
 make FUCKING SURE you use `.md`
