@@ -12,7 +12,7 @@ export default defineUserConfig({
     logo: 'https://vuejs.press/images/hero.png',
 
     navbar: ['/', '/guides/get-started', '/guides/speedrun-tech'],
+    
   }),
-
   bundler: viteBundler(),
 })

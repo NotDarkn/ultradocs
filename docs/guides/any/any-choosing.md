@@ -10,74 +10,42 @@ Any% is perhaps the most popular category in **any game *ever*** mostly because 
 Difficulty is based on how hard it may be to **learn** or **execute** strats in all of the levels combined.
 :::
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/0-prelude/"><b>Prelude</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Intermediate (3/5)
-    </font>
-</ul>
+- ## [Prelude](/guides/any/0-prelude/)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font>
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/1-limbo/any-limbo.html"><b>Limbo</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Easy (1/5)
-    </font>
-</ul>
+- ## [Limbo](/guides/any/1-limbo/)
+<font size="2">
+    <b>Difficulty</b>: Easy (1/5)
+</font>
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/2-lust/any-lust.html"><b>Lust</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Slightly Easy (2/5)
-    </font>
-</ul>
+- ## [Lust](/guides/any/2-lust/)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font>
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/3-gluttony/any-gluttony.html"><b>Gluttony</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Slightly Easy (2/5)
-    </font>
-</ul>
+- ## [Gluttony](/guides/any/3-gluttony/)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font>
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/4-greed/any-greed.html"><b>Greed</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Intermediate (3/5)
-    </font>
-</ul>
+- ## [Greed](/guides/any/4-greed/)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font>
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/5-wrath/any-wrath.html"><b>Wrath</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Slightly Hard (4/5)
-    </font>
-</ul>
+- ## [Wrath](/guides/any/5-wrath)
+<font size="2">
+    <b>Difficulty</b>: Slightly Hard (4/5)
+</font>
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/6-heresy/any-heresy.html"><b>Heresy</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Intermediate (3/5)
-    </font>
-</ul>
+- ## [Heresy](/guides/any/6-heresy)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font>
 
-<ul>
-    <li><font size="4">
-        <a href="/guides/any/7-violence/any-violence.html"><b>Violence</b></a>
-    </font></li>
-    <font size="2">
-        <b>Difficulty</b>: Hard (5/5)
-    </font>
-</ul>
+- ## [Violence](/guides/any/7-violence)
+<font size="2">
+    <b>Difficulty</b>: Hard (5/5)
+</font>
