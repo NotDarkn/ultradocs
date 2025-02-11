@@ -2,14 +2,14 @@
 ## Checkpoint
 
 ### [Double Ce Boost](https://youtu.be/t32Djfbqi70)
-[Ce boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) through red doors as they open, slam when you reach the door, dash slide through, then [Ce boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) over the lava, when you land, [slide jump](/guides/speedrun-tech.md#slide-jump) and wait until the boss door starts to open before checkpointing so that the boss will do the fast spawn animation
+[CE boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) through red doors as they open, slam when you reach the door, dash slide through, then [Ce boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) over the lava, when you land, [slide jump](/guides/speedrun-tech.md#slide-jump) and wait until the boss door starts to open before checkpointing so that the boss will do the fast spawn animation
 ### [Lava Hall UB](https://youtu.be/7KOZgVpFU9k)
 [Slam Store](/guides/speedrun-tech.md#slam-store) in the red room hallway and slide, using [slideways](/guides/speedrun-tech.md#slideways) for extra speed <br />
 [UB](/guides/speedrun-tech.md#ub-ultraboost) to bonk onto the ceiling and then perfectly go straight into the door <br />
 When you land [slide jump](/guides/speedrun-tech.md#slide-jump) and wait until the boss door starts to open before checkpointing so that the boss will do the fast spawn animation <br />
 For the ub, stand in line with the red line in the image and look where shown, you also want to be on the half of the platform closer to the wall you are aiming at <br />
 You can hold left or right to adjust slightly to make sure you land at the door <br />
-I(Kano) dont know how to add an image here
+![Lava Hall UB](<lava hall ub.png>)
 
 ## Boss Kill
 ### [Simple Variation](https://www.youtube.com/watch?v=oB-7rGVHKnU)
