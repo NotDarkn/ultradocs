@@ -2,36 +2,31 @@
 sidebar: false
 ---
 
-# Prelude
+# Lust
 
-Alright, it seems you want to run **Prelude**! What level would you like to run?
+Alright, it seems you want to run **Lust**! What level would you like to run?
 
 ## Levels
 ::: note
 Difficulty is based on how hard it may be to **learn** or **execute** strats in all of the levels combined.
 :::
 
-- ## [0-1](/guides/any/0-prelude/any-0-1.md)
+- ## [1-1](/guides/any/2-lust/any-2-1.md)
 <font size="2">
     <b>Difficulty</b>: ? (?)
 </font>
 
-- ## [0-2](/guides/any/0-prelude/any-0-2.md)
+- ## [1-2](/guides/any/2-lust/any-2-2.md)
 <font size="2">
     <b>Difficulty</b>: ? (?)
 </font>
 
-- ## [0-3](/guides/any/0-prelude/any-0-3.md)
+- ## [1-3](/guides/any/2-lust/any-2-3.md)
 <font size="2">
     <b>Difficulty</b>: ? (?)
 </font>
 
-- ## [0-4](/guides/any/0-prelude/any-0-4.md)
-<font size="2">
-    <b>Difficulty</b>: ? (?)
-</font>
-
-- ## [0-5](/guides/any/0-prelude/any-0-5.md)
+- ## [1-4](/guides/any/2-lust/any-2-4.md)
 <font size="2">
     <b>Difficulty</b>: ? (?)
 </font>

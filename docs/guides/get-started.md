@@ -4,6 +4,8 @@ sidebar: false
 
 # Getting Started
 
+cat is dumb again (truth)
+
 fuck you (trurth)
 
 cat is dumb (truth)
@@ -35,6 +37,13 @@ VIDEO EXAMPLE:
 
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
+VIDEO EXAMPLE (AT A TIMESTAMP):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc?start=7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc?start=7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
 ```
 
 ::: note
@@ -92,7 +101,23 @@ i don't like dogs
 :::
 ```
 
-LIST EXAMPLE:
+::: details
+bruh
+:::
+
+```
+::: details
+bruh
+:::
+```
+
+(HTML) LIST EXAMPLE:
+<ul>
+    <li><font size="4">
+        <a href="/guides/any/layer/any-lust.md"><b>Lust</b></a>
+    </font></li>
+</ul>
+
 ```html
 <ul>
     <li><font size="4">
@@ -101,9 +126,35 @@ LIST EXAMPLE:
 </ul>
 ```
 
-FONT SIZE EXAMPLE:
+(MARKDOWN) LIST EXAMPLE:
+- hi wassup
+- wassup 
+- lol fuck you
+
+```md
+- hi wassup
+- wassup 
+- lol fuck you
+```
+
+(HTML) FONT SIZE EXAMPLE:
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font>
+
 ```html
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
+```
+
+(MARKDOWN) HEADER SIZE EXAMPLE:
+### hewwo
+## hewwo
+# hewwo
+
+```
+### hewwo
+## hewwo
+# hewwo
 ```
