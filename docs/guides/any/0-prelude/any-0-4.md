@@ -1,4 +1,4 @@
-# 0-4
+# 0-4 // A ONE-MACHINE ARMY (Any%)
 ## First Arena
 ### Jumpstart
 Placing 3 magnets and using jumpstart on one of the strays<br />

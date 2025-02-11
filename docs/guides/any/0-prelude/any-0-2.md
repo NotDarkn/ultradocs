@@ -1,4 +1,4 @@
-# 0-2
+# 0-2 // THE MEATGRINDER (Any%)
 ## Updoor
 ### Ce Boost
 Slam store in the red room hallway and slide diagonally around the cerberus statue, then to the end of the second room<br />
