@@ -35,17 +35,17 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-- ## [Wrath](/guides/any/5-wrath)
+- ## [Wrath](/guides/any/5-wrath/)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>
 
-- ## [Heresy](/guides/any/6-heresy)
+- ## [Heresy](/guides/any/6-heresy/)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-- ## [Violence](/guides/any/7-violence)
+- ## [Violence](/guides/any/7-violence/)
 <font size="2">
     <b>Difficulty</b>: Hard (5/5)
 </font>
