@@ -8,7 +8,7 @@ Jumping or sliding after a slam grants additional jump height or slide speed dep
 Jumping during a slide carries the slide momentum into the jump and amplifies it <br />
 ### DSJ (Dash Slide Jump)
 Dash then slide and then jump, basically a dash jump for 1 stamina <br />
-Slam Store
+### Slam Store
 Interrupting a slam with a wall jump stores the slam state without the downward speed, allows reaching max slam momentum quickly <br />
 ### Dives
 Jump and then slide almost at the same time, slide jump that gives more height, gains both horizontal and vertical speed from slam momentum
@@ -16,6 +16,10 @@ Jump and then slide almost at the same time, slide jump that gives more height, 
 Holding sideways while sliding sideways increases your horizontal speed by 5 unitsWall Bounces/
 ### Wounces
 Wall Jumping while in a slide reverses and preserves your momentum
+### Dash Extension
+Dash towards a ledge and slide as you go over it
+### Dash Extension Jump
+Dash towards a ledge and slide as you go over it then jump
 ### SSJ (Super Slide Jump)
 After letting go of slide there is a 3 frame window(assuming 120 fps) where pressing jump will do a <br />
 slide jump that adds either 24, 12 or 6 units to your speed depending on which of the frames you jump in <br />
@@ -25,7 +29,7 @@ Entering the command “prefs set bool ssjIndicator true” into console (opened
 ### Wall SSJ
 	
 ### Whip cancel
-Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones
+Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones or for quickly reaching max jackhammer damage
 ### Whip slamming
 Slamming during a whiplash will not give downward speed but does build slam momentum
 ## Weapon Movement Tech:
@@ -42,8 +46,6 @@ this is significantly easier to do on 120 fps
 Fire a rocket then whiplash it, fast explosion boost that can be done midair
 ### Floor fup
 With freezeframe active while looking down, fire a rocket then whiplash it, launches straight up if not holding directional keys, otherwise launches in the direction you are moving
-### Oil
-Sliding on oil perfectly preserves momentum
 ### Instant Rocket Ride
 Activate freezeframe shoot a rocket, jump, then slam, works while grounded or to swap to a new rocket while already rocket riding <br />
 Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air
@@ -73,8 +75,6 @@ Hitting a mindflayer with an explosion as it does the blue orbs attack will refl
 At point blank fire a cannonball then punch with feedbacker slightly after, quick high damage, one taps virtues, cerberi, and sentries. <br />
 If you get the +CANNONBOOST style bonus, you punched too soon. <br />
 You only need to charge srs cannon to 25% for full damage.
-### Jackhammer whip cancel
-Whip canceling instantly grants max jackhammer damage
 ### Conduction in water
 Jumpstart and electric rail automatically trigger conduction while underwater with far greater 
 range and self damage if you are touching the water
@@ -88,7 +88,7 @@ Firing one blue saw fully charges the heat on the green sawblade
 ## Coin Tech:
 ### Split coins
 Shooting a coin with the default revolver during the flash at the peak of its ark or after it has started making a humming sound while falling will cause it to turn into two hitscans, 
-### Coin Punching
+### Coin Punch
 Punching a coin with the feedbacker at any point after the flash will send the coin into the nearest enemy or wherever you are facing and make it bounce back into the air with a damage increase, its damage caps after punching it into a surface 3 times
 ### Dead coins
 Shooting a coin and immediately after firing a new coin will transfer the damage to the new coin and increase it, allowing you to bypass the damage cap on coin punching
@@ -123,12 +123,13 @@ placed precisely due to mounting a rocket teleporting you slightly
 
 ## Level Exits:
 ### CE Boost exit
-Core eject boost as the red door opens, place oil, slide jump, and slam
+[Ce boost](http://localhost:8080/guides/speedrun-tech.html#ce-boost-core-eject-boost) as the red door opens, place oil, [slide jump](http://localhost:8080/guides/speedrun-tech.html#slide-jump), and slam
 ### Slam store exit
-Slam store off of the exit door, place oil, slide and turn sideways holding in the direction you are moving, then slam into the exit
+[Slam store](http://localhost:8080/guides/speedrun-tech.html#slam-store) off of the exit door, place oil, slide and use [slideways](http://localhost:8080/guides/speedrun-tech.html#slideways) for extra speed
 ### Ub exit
-Put your back to the exit door and ultraboost as the door opens, then quickly turn around and place oil, then slam into the exit <br />
+Put your back to the exit door and [ultraboost](http://localhost:8080/guides/speedrun-tech.html#ub-ultraboost) as it opens, then quickly turn around and place oil, then slam into the exit <br />
 or <br />
-Stand slightly back from the door, as it opens flick ub, then place oil, then slam into the exit 
-### Sandwich exit
+Stand slightly back from the door, as it opens [flick ub](http://localhost:8080/guides/speedrun-tech.html#flick-ub), then place oil, then slam into the exit 
 ### Dash Extension Exit
+[Dash Extension](http://localhost:8080/guides/speedrun-tech.html#dash-extension) as the end door opens, then [slide jump](http://localhost:8080/guides/speedrun-tech.html#slide-jump) and slam
+### Sandwich exit
