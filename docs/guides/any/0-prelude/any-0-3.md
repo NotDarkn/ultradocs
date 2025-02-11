@@ -1,4 +1,4 @@
-# 0-3
+# 0-3 // DOUBLE DOWN (Any%)
 ## First Checkpoint
 ### [No Glass Punch](https://youtu.be/YXRGVLAIi8g) 
 Slam store in the start room then dive through the doors, fire a rocket up to break the glass then ultraboost up.<br />
