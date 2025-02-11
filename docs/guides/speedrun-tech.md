@@ -6,7 +6,7 @@ Sliding preserves any momentum you had prior to the slide, this momentum will be
 Jumping or sliding after a slam grants additional jump height or slide speed depending on how long you were slamming <br />
 ### Slide Jump
 Jumping during a slide carries the slide momentum into the jump and amplifies it <br />
-### Dash Slide Jump
+### DSJ (Dash Slide Jump)
 Dash then slide and then jump, basically a dash jump for 1 stamina <br />
 Slam Store
 Interrupting a slam with a wall jump stores the slam state without the downward speed, allows reaching max slam momentum quickly <br />
@@ -16,31 +16,31 @@ Jump and then slide almost at the same time, slide jump that gives more height, 
 Holding sideways while sliding sideways increases your horizontal speed by 5 unitsWall Bounces/
 ### Wounces
 Wall Jumping while in a slide reverses and preserves your momentum
-### Super Slide Jump/Ssj
+### SSJ (Super Slide Jump)
 After letting go of slide there is a 3 frame window(assuming 120 fps) where pressing jump will do a <br />
 slide jump that adds either 24, 12 or 6 units to your speed depending on which of the frames you jump in <br />
 Entering the command “prefs set bool ssjIndicator true” into console (opened by pressing tilda) will tell you when you successfully ssj
-### Dive Super Slide Jump/Dive Ssj
+### Dive SSJ
 	
-### Wall Super Slide Jump/Wall Ssj
+### Wall SSJ
 	
 ### Whip cancel
 Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones
 ### Whip slamming
 Slamming during a whiplash will not give downward speed but does build slam momentum
 ## Weapon Movement Tech:
-### Core Eject Boost/Ce Boost
+### Ce Boost (Core Eject Boost)
 Tap slide and fire a core eject down at the same time, gives high vertical speed 
-### Ultraboost/Ub
+### Ub (Ultraboost)
 Malicious Rail a core eject, fastest method of movement in the game
-### Flick Ultraboost/Flick Ub
+### Flick Ub 
 A faster method of ultra boosting that can be done in the air, fire a core and dash at the same time, turn the camera 180 degrees, then malicious rail
-### Checkpoint Ub/Chub
+### Chub (Checkpoint Ub)
 Ultraboost, then checkpoint as you take damage from it, gives you momentum after respawning <br /> 
 this is significantly easier to do on 120 fps
-### Frozen Unfriendly Pull-it/Fup
+### Fup (Frozen Unfriendly Pull-it)
 Fire a rocket then whiplash it, fast explosion boost that can be done midair
-### Floor Frozen Unfriendly Pull-it/Floor fup
+### Floor fup
 With freezeframe active while looking down, fire a rocket then whiplash it, launches straight up if not holding directional keys, otherwise launches in the direction you are moving
 ### Oil
 Sliding on oil perfectly preserves momentum
@@ -64,7 +64,7 @@ Firing a malicious rail at a core eject creates a very large high damage explosi
 Firing a revolver at a core eject creates a large red explosion
 ### Over Pump Dodge
 The blast from a fully charged green shotgun can be dodged
-### Frozen Unfriendly Pull-it/Fup
+### Fup (Frozen Unfriendly Pull-It)
 Whiplash a rocket then freeze it, you need to be in the air when the rocket reaches you,  creates a <br />
 large red explosion at the cost of 35 hp
 ### Flayer Instas
