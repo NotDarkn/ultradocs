@@ -44,4 +44,3 @@ Optionally fire electric rail, this will make the kill work whether or not you t
 
 Ven Kill (might be so niche that we shouldn’t even include btw)<br/>
 Halak Kill<br/>
-<!--guys *PLEASE* dont include corner kill>
