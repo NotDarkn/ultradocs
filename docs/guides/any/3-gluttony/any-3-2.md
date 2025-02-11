@@ -1,4 +1,4 @@
-# 3-2
+# 3-2 // IN THE FLESH (Any%)
 ## Slide Clip
 Dash jump into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then dive and hold slide <br />
 Dash forward, slam, and ce boost <br />

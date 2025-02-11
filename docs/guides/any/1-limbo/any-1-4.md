@@ -1,4 +1,4 @@
-# 1-4 // CLARE DE LUNE (Any%)
+# 1-4 // CLAR DE LUNE (Any%)
 ## Enter Arena
 ### [Slam Store + Over Pump](https://youtu.be/4uwNYTG6wPM)
 Charge an overpump
