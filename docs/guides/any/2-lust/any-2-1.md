@@ -1,4 +1,4 @@
-# 2-1 // BRIDGEBURNER(Any%)
+# 2-1 // BRIDGEBURNER (Any%)
 ## No Jump Pad
 ### [Flick Ub]()
 Slam store and slide diagonally to the right <br />

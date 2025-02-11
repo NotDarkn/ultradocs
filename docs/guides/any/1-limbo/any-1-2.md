@@ -1,4 +1,4 @@
-# 1-2
+# 1-2 // THE BURNING WORLD (Any%)
 ## 1st Checkpoint
 ### [Malicious Rail](https://youtu.be/WKLfKy4Ohog)
 Slam store slide until out from under the central structure then boost up with malicious rail cannon <br />

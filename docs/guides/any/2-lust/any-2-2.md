@@ -1,4 +1,4 @@
-# 2-2 // DEATH AT 20,000 VOLTS
+# 2-2 // DEATH AT 20,000 VOLTS (Any%)
 ## [First Room](https://youtu.be/aIgoM4be7I8)
 Slam store in the start room, slide into the right wall of the red room, then wounce <br />
 Fire a rocket at the window of the building on the right to break the electrical panel inside it <br />

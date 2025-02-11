@@ -1,4 +1,4 @@
-# 2-4 // Court of the Corpse King
+# 2-4 // Court of the Corpse King (Any%)
 ## Door Clip
 ### [Walk + Slide](https://youtu.be/wS88pQJbhqc)
 Start walking till the starting door opens <br />

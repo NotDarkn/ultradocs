@@ -1,4 +1,4 @@
-# 1-1
+# 1-1 // HEART OF THE SUNRISE (Any%)
 ## [Untagged Wall Clip](https://youtu.be/ddrVnvt-kRI)
 Slam store in the entrance pipe, slide jump, then slide jump slightly to the left to curve around the cerberus statue. <br />
 Slide under the tree. <br />

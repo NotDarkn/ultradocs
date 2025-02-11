@@ -1,4 +1,4 @@
-# 1-3
+# 1-3 // HALLS OF SACRED REMAINS (Any%)
 ## [Blue Skull](https://youtu.be/II3uolCMr6A)
 Slam store in the start room, slide into the left wall of the red room, then wounce and hold slide<br />
 After going through the door, slide then dash slide to go around the wall, then malicious rail boost up dash forward and slam into the blue skull room<br />

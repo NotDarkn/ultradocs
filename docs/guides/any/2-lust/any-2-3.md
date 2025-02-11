@@ -1,4 +1,4 @@
-# 2-3 SHEER HEART ATTACK
+# 2-3 SHEER HEART ATTACK (Any%)
 ## Slide Clip
 ### [Core Snipe Boost]()
 Core snipe boost through the red doors <br />
