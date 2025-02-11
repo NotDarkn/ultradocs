@@ -3,13 +3,6 @@ sidebar: false
 ---
 
 # Getting Started
-
-cat is dumb again (truth)
-
-fuck you (trurth)
-
-cat is dumb (truth)
-
 Hey! It seems you wanna get into ULTRAKILL speedrunning. Fear not, this serves
 as a place for you to easily find resources, guides, and a variety of other things relating to tech and strats to this game.
 
@@ -38,6 +31,10 @@ VIDEO EXAMPLE:
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
+
+::: note
+make sure to change `wS88pQJbhqc` to the ID of the video YOU ARE USING.
+:::
 
 VIDEO EXAMPLE (AT A TIMESTAMP):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc?start=7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
