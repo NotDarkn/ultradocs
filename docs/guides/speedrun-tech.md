@@ -16,6 +16,8 @@ Jump and then slide almost at the same time, slide jump that gives more height, 
 Holding sideways while sliding sideways increases your horizontal speed by 5 unitsWall Bounces/
 ### Wounces
 Wall Jumping while in a slide reverses and preserves your momentum
+### Bhop
+Jumping on the frame you hit the ground to preserve all horizontal units. someone fact check that please lmao
 ### Dash Extension
 Dash towards a ledge and slide as you go over it
 ### Dash Extension Jump
