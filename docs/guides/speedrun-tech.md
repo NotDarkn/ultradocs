@@ -79,8 +79,8 @@ You only need to charge srs cannon to 25% for full damage.
 Jumpstart and electric rail automatically trigger conduction while underwater with far greater 
 range and self damage if you are touching the water
 ### Rocket Traps
-Placing a frozen rocket where an enemy spawns will create a large red explosion, this works 
-whether or not the rocket has had time to supercharge due to enemies spawning slightly off and the ground
+Placing a frozen rocket where an enemy will walk will let the rocket supercharge creating a red explosion 
+If you instead place the rocket where an enemy spawns it will create a red explosion whether or not it supercharged due to enemies spawning slightly off the ground
 ### Knuckleblast Cooldown Cancel
 Pressing swap arm or whiplash will cancel the cooldown from a knuckleblaster shockwave
 ### Overheat Quick Charge
