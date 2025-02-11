@@ -3,7 +3,7 @@
 
 ## Checkpoint
 
-### [Double Ce Boost](https://youtu.be/t32Djfbqi70)
+### [Double CE Boost](https://youtu.be/t32Djfbqi70)
 [CE boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) through red doors as they open, slam when you reach the door, dash slide through, then [Ce boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) over the lava, when you land, [slide jump](/guides/speedrun-tech.md#slide-jump) and wait until the boss door starts to open before checkpointing so that the boss will do the fast spawn animation
 
 ### [Lava Hall UB](https://youtu.be/7KOZgVpFU9k)
