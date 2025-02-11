@@ -94,6 +94,8 @@ Punching a coin with the feedbacker at any point after the flash will send the c
 Shooting a coin and immediately after firing a new coin will transfer the damage to the new coin and increase it, allowing you to bypass the damage cap on coin punching
 ### Double Dead Coin
 Firing multiple coins then shooting and firing a new coin will transfer all the damage of the coins to the new one, this requires delaying firing the new coin slightly more than with only one coin
+### Fast Coin
+Redrawing marksman with a variation # bind while firing coins will throw them faster
 ### Slab Coins
 Slab Piercer charge shot does incredibly high damage when shooting a coin
 ### Railcoins 
