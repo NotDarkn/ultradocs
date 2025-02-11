@@ -15,7 +15,7 @@ Let go of slide, jump, then flick ub <br />
 Slam down to final arena and slide diagonally through the door <br />
 Place the overheat saw aiming for the bottom third of the wall<br />
 Fire blue saws where the two strays spawn until they spawn and die<br />
-## Slam store exit
-False Exit<br />
+Slam store exit
+## False Exit
 Rocket Ride Into Exit<br />
 Pump Charge Into Exit
