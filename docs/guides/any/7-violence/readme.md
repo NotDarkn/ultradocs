@@ -26,6 +26,11 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
     <b>Difficulty</b>: ? (?)
 </font>
 
+- ## [7-S](/guides/any/7-violence/any-7-s.md)
+<font size="2">
+    <b>Difficulty</b>: ? (?)
+</font>
+
 - ## [7-4](/guides/any/7-violence/any-7-4.md)
 <font size="2">
     <b>Difficulty</b>: ? (?)

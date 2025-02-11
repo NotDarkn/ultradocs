@@ -1,4 +1,4 @@
-# 6-2 // AESTHETICS OF HATE
+# 6-2 // AESTHETICS OF HATE (Any%)
 ## Checkpoint
 ### Rocket Ride
 ### Slam Store
