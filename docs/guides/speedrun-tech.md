@@ -28,7 +28,7 @@ Jump and then slide almost at the same time, slide jump that gives more height, 
 Holding either A or D (dependent on the diriction you are sliding) while sliding sideways increases your
 horizontal speed by 5 units.
 
-### Wall Bounces/Wounces
+### Wall Bounces
 Wall Jumping while in a slide reverses your direction and preserves your momentum.
 
 ### Bhop

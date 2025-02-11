@@ -1,7 +1,7 @@
 # 1-3 // HALLS OF SACRED REMAINS (Any%)
 ## [Blue Skull](https://youtu.be/II3uolCMr6A)
-[Slam store](/guides/speedrun-tech.md#slam-store)] in the start room, slide into the left wall of the red room, then wounce and hold slide<br />
-After going through the door, slide then dash slide to go around the wall, then malicious rail boost up dash forward and slam into the blue skull room<br />
+[Slam store](/guides/speedrun-tech.md#slam-store) in the start room, slide into the left wall of the red room, then [wall bounce](/guides/speedrun-tech.html#wall-bounces) and hold slide<br />
+After going through the door, slide then dash slide to go around the wall, then malicious rail boost up dash forward and slam into the blue skull room <br />
 Aim diagonally down and whiplash the skull before landing, then checkpoint <br />
 ## Boss Kills
 ### [Soap Kill](https://youtu.be/P1LFHIxkhsY)
