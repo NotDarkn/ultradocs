@@ -4,6 +4,7 @@
 Slam store in the start room and slide into the right wall then wall bounce <br />
 Dash slide <br />
 Stand against the glowing red thing, look at the vertical line of darker pixels <br />
+![5-1 Consistent Clip Lineup](<5-1 Consistent Clip Lineup.jpg>)
 Hold weapon wheel and spam slide <br />
 Flick Ub <br />
 Rocket ride to the checkpoint <br />
@@ -35,8 +36,9 @@ Due to random sentry movement in this room, they won't allways die, if this happ
 ### Sentry Jumpstart
 ## Final Wave
 ### Virtue Rail
-Place a magnet and a couple saws where one of the side strays will spawn <br />
-Place a rocket trap where on of the center strays will spawn <br />
+Place a magnet and a couple saws where shown in the image the kill one of the strays <br />
+![5-1 Wave 3 Saw Placement](<5-1 Wave 3 saw placement.jpg>)
+Place a rocket trap where one of the center strays will spawn <br />
 Dash jump <br />
 Whiplash and srs combo the sentry <br />
 Dash and electric rail the virtue <br />
