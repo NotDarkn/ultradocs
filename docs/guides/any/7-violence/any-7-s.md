@@ -1,10 +1,10 @@
 # 7-S // HELL BATH NO FURY (Any%)
 
 
-## First Whip Clip
+## First Victoria Clip
 
 
-## Second Whip Clip
+## Second Victoria Clip
 
 ### Ultraboost Exit
 
