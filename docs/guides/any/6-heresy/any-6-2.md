@@ -1,5 +1,8 @@
 # 6-2 // AESTHETICS OF HATE (Any%)
+
+
 ## Checkpoint
+
 ### Rocket Ride
 Dash jump and instant rocket ride through the red doors as they open <br/>
 Angle the rocket up <br/>
@@ -7,6 +10,7 @@ Jump and whiplash the hookpoint <br/>
 Whip cancel <br/>
 Hold slide  <br/>
 Turn around and ub as it opens <br/>
+
 ### Slam Store
 Charge an over pump <br/>
 Dash jump and slam store on the left wall of the red room hallway <br/>
@@ -15,6 +19,7 @@ Turn around and over pump <br/>
 Hold slide  <br/>
 Turn around and ub as it opens <br/>
 ## Boss Kill
+
 ### Dead Coin
 Jump throw a coin below you and punch it 3 times <br/>
 Look up and dead coin 4 times <br/>
@@ -27,4 +32,5 @@ Dash and punch the coin <br/>
 Slam <br/>
 Wait until the coin falls under Gabriel then jump and punch it <br/>
 Fire the charge shot and electric rail up through Gabriel into the coin
+
 ### Stuon Kill

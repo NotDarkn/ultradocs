@@ -30,8 +30,11 @@ Slam <br/>
 Slide jump <br/>
 Jumpstart the tram as you checkpoint 
 ### Eanra Arch Clip
+
 ### First Room Clip
+
 ## Minotaur Phase 1
+
 ### Frozen Rockets
 Dash twice and press the button <br/>
 Fire rockets until the strays die <br/>
@@ -46,6 +49,7 @@ Rail coin and coin add all your coins <br/>
 Srs combo <br/>
 Watch for when saw disappear, then checkpoint
 ### Harmless Strats
+
 ## Minotaur Phase 2
 Dash <br/>
 Press the button <br/>
