@@ -1,7 +1,7 @@
 # 3-2 // IN THE FLESH (Any%)
 
 
-## Slide Clip
+## [Slide Clip](https://youtu.be/34pancli8jU)
 Dash jump into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then dive and hold slide <br/>
 Dash forward, slam, and ce boost <br/>
 Slam at the next and slide diagonally into the doorframe to clip through it <br/>
@@ -10,7 +10,7 @@ Flick ub to reach the checkpoint<br/>
 
 ## Boss Kill
 
-### Standard Deadcoin
+### [Deadcoin](https://youtu.be/MSDlRIudFZ8)
 Dash jump, look down and throw a coin, then punch it 3 times <br/>
 Look up and dead coin 4 times <br/>
 Jump and punch the coin as Gabriel spawns <br/>
