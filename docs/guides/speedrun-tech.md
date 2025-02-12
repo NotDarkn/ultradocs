@@ -80,8 +80,10 @@ Fire a rocket then whiplash it, fast explosion boost that can be done midair
 ### Floor fup
 With freezeframe, active while looking down, fire a rocket then whiplash it, launches straight up if not holding directional keys, otherwise launches in the direction you are moving.
 
-### Instant Rocket Ride
+### Rocket Ride
 Activate freezeframe and shoot a rocket, jump, then slam. Works while grounded or to swap to a new rocket while already rocket riding.<br/>
+
+### Instant Rocket Ride
 Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air.
 
 ### Core Snipe Boosts
