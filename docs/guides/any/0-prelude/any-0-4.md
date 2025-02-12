@@ -3,7 +3,7 @@
 
 ## First Arena
 
-### Jumpstart
+### [Jumpstart](https://youtu.be/8oITzC_7xmg)
 [Slam Store](/guides/speedrun-tech.md#slam-store) slide to the arena <br/>
 [Slide jump](/guides/speedrun-tech.md#slide-jump) through the door <br/>
 Place 3 magnets
@@ -12,7 +12,7 @@ Thow additional coins to ensure jumpstart kills <br/>
 Dash jump into maurice with jackhammer to instakill<br/>
 [Flick ub](/guides/speedrun-tech.md#flick-ub) to checkpoint
 
-### Trigger skip
+### [Trigger skip](https://youtu.be/foBhu5TiZok)
 Line up camera to spot shown in video without moving<br/>
 [Slam Store](/guides/speedrun-tech.md#slam-store) slide to the arena <br/>
 [Slide jump](/guides/speedrun-tech.md#slide-jump) through the door <br/>
@@ -23,7 +23,7 @@ Jump onto the rocket then [Flick ub](/guides/speedrun-tech.md#flick-ub) to the c
 ### Hard Clear
 Place oversaw on the rightmost stray <br/>
 [Split coin](/guides/speedrun-tech.md#split-coins) the right 2 strays <br/>
-[Split coin](/guides/speedrun-tech.md#split-coins) the top strays <br/>
+Split coin the top strays <br/>
 Place magnets to kill filth (optional, for consistency) <br/>
 Knuckle blast remaining filth <br/>
 Dash jump and jackhammer maurice <br/>
@@ -35,7 +35,7 @@ Cxn you do this
 
 ## Rest of the level
 
-### Mal Rail Boost
+### [Mal Rail Boost](https://youtu.be/z3r3dL_k9bs)
 [Ce boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) or [ultraboost](/guides/speedrun-tech.md#ub-ultraboost) through the long hallway <br/>
 Slam if neccessary and dash to checkpoint <br/>
 Checkpoint <br/>
