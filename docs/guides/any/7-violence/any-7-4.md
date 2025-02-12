@@ -1,5 +1,5 @@
 # 7-4 // .. LIKE ANTENNAS TO HEAVEN (Any%)
 ## Checkpoint
-### Victoria Clip
+### Whip Clip
 ### Arch Clip
 ## Lobotomy

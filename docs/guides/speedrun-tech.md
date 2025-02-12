@@ -1,5 +1,38 @@
 # Speedrun Tech
 
+<!----------------------------------------------->
+EXPERIMENTING WITH MARKDOWN TABLES
+
+<tb style="width:100%; vertical-align: top">
+  <tr>
+    <th colspan="3" bgcolor="2A2B2E">
+        <font size="5">Base Movement</font>
+    </th>
+  </tr>
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>TITLE</td>
+    <td>DESCRIPTION</td>
+    <td>IMAGE</td>
+  </tr>
+  <tr>
+    <td>Slide and Slam Momentum Mechanics</td>
+    <td>
+        Sliding preserves any momentum you had prior to the slide, this momentum will be slowly lost while sliding on the ground. Jumping or sliding after a slam grants additional jump height or slide speed depending on how long you were slamming.
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay>
+            <source src="/videos/quick-reference-2.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+  <tr>
+    <td>placeholder</td>
+    <td>placeholder</td>
+    <td>placeholder</td>
+  </tr>
+</tb>
+
+
 <!---------------------------------------------->
 
 ## Base Movement
@@ -195,7 +228,7 @@ Certain walls are untagged and thus will not correct where the rocket launcher p
 mounting a rocket, allowing you to teleport through them. Untagged walls can be identified by
 whiplashing them; if the whiplash passes through, the wall is untagged.
 
-### Victoria Clip
+### Whip Clip
 Certain walls, primarily in the violence layer are thinner, and don’t destroy frozen rockets that are placed in them. 
 Getting on a rocket that is in this state will clip the camera out of bounds, from on the rocket
 looking down at about a 45 degree angle, then shooting a rocket, tapping whiplash and jump at the same time will clip you out.

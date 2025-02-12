@@ -33,5 +33,5 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
 
 - ## [0-5](/guides/any/0-prelude/any-0-5.md)
 <font size="2">
-    <b>Difficulty</b>: Intermediate (3/6)
+    <b>Difficulty</b>: Intermediate (3/5)
 </font>
