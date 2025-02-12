@@ -43,6 +43,6 @@ Nuke far enough out to kill the 2 closer strays <br/>
 Dash right to avoid the nuke, then ce boost to hit the swordsmachine <br/>
 Whiplash to the cerberus and srs combo the cerberus <br/>
 Split coin the remaining strays <br/>
-Ce boost to reach the exit <br/>
+Rocket ride to reach the exit <br/>
 Ce boost exit
 ### Firestorm’s Swag Clear
