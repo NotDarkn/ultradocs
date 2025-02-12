@@ -3,7 +3,7 @@
 
 ## Checkpoint
 
-### Rocket Ride
+### [Rocket Ride](https://youtu.be/bFLRgSnoQbo)
 Dash jump and instant rocket ride through the red doors as they open <br/>
 Angle the rocket up <br/>
 Jump and whiplash the hookpoint <br/>
@@ -11,7 +11,7 @@ Whip cancel <br/>
 Hold slide  <br/>
 Turn around and ub as it opens <br/>
 
-### Slam Store
+### [Slam Store](https://youtu.be/mMjFsTK1bfg)
 Charge an over pump <br/>
 Dash jump and slam store on the left wall of the red room hallway <br/>
 Dive <br/>
@@ -20,7 +20,7 @@ Hold slide  <br/>
 Turn around and ub as it opens <br/>
 ## Boss Kill
 
-### Dead Coin
+### [Dead Coin](https://youtu.be/bFLRgSnoQbo)
 Jump throw a coin below you and punch it 3 times <br/>
 Look up and dead coin 4 times <br/>
 Use whiplash to keep the coin in the air to wait for 2 more coins <br/>
@@ -33,4 +33,5 @@ Slam <br/>
 Wait until the coin falls under Gabriel then jump and punch it <br/>
 Fire the charge shot and electric rail up through Gabriel into the coin
 
-### Stuon Kill
+### Stuon Kill 
+Darkn you do this
