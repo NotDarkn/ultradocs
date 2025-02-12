@@ -95,7 +95,7 @@ The height of the core when you shoot it is very lenient.
 ### Duck Boosting
 Shotgun primary fire pushes you forward slightly, can be used with [shotgun swapping](/guides/speedrun-tech.md#shotgun-swapping)
 
-### Biercer
+### Buffered Piercer
 Holding left click while charging a piercer shot will fire it the instant it full charges.
 
 <!---------------------------------------------->
