@@ -1,23 +1,49 @@
 # Speedrun Tech
 
-<!----------------------------------------------->
-EXPERIMENTING WITH MARKDOWN TABLES
+<!---------------------------------------------->
 
+## Base Movement
+
+### Slide and Slam Momentum Mechanics
+<br /> 
+<!-- break necessary to have a gap -->
 <tb style="width:100%; vertical-align: top">
-  <tr>
-    <th colspan="3" bgcolor="2A2B2E">
-        <font size="5">Base Movement</font>
-    </th>
-  </tr>
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
-    <td>TITLE</td>
-    <td>DESCRIPTION</td>
-    <td>IMAGE</td>
+    <td>DESCRIPTION</td> <!-- these three are the row names -->
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
   </tr>
   <tr>
-    <td>Slide and Slam Momentum Mechanics</td>
-    <td>
+    <td> <!-- description (edit below) -->
         Sliding preserves any momentum you had prior to the slide, this momentum will be slowly lost while sliding on the ground. Jumping or sliding after a slam grants additional jump height or slide speed depending on how long you were slamming.
+    </td>
+    <td width="100px"> <!-- inputs -->
+      TBA (To Be Added)
+    </td>
+    <td width="200px"> <!-- video example (change link in src=) -->
+        <video width="300" height="auto" loop autoplay>
+            <source src="/videos/quick-reference-2.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+### Slide Jump
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Jumping during a slide carries the slide momentum into the jump and amplifies it.
+    </td>
+    <td width="100px"> 
+      1. Slide <br />
+      2. Stop sliding <br />
+      3. Press jump right after <br />
     </td>
     <td width="200px">
         <video width="300" height="auto" loop autoplay>
@@ -25,24 +51,7 @@ EXPERIMENTING WITH MARKDOWN TABLES
         </video>
     </td>
   </tr>
-  <tr>
-    <td>placeholder</td>
-    <td>placeholder</td>
-    <td>placeholder</td>
-  </tr>
 </tb>
-
-
-<!---------------------------------------------->
-
-## Base Movement
-
-### Slide and Slam Momentum Mechanics
-Sliding preserves any momentum you had prior to the slide, this momentum will be slowly lost  while sliding on the ground 
-Jumping or sliding after a slam grants additional jump height or slide speed depending on how long you were slamming.
-
-### Slide Jump
-Jumping during a slide carries the slide momentum into the jump and amplifies it.
 
 ### Dash Jump
 Dashing and then imputing a jump during the dash give a boost of horizantal, and vertical, momentum, at the cost of 2 stamina bars.
