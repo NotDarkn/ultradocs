@@ -33,6 +33,7 @@ Jumpstart the tram as you checkpoint
 
 ### First Room Clip
 
+
 ## Minotaur Phase 1
 
 ### Frozen Rockets
@@ -49,6 +50,7 @@ Rail coin and coin add all your coins <br/>
 Srs combo <br/>
 Watch for when saw disappear, then checkpoint
 ### Harmless Strats
+
 
 ## Minotaur Phase 2
 Dash <br/>
