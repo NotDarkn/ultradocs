@@ -195,11 +195,10 @@ Certain walls are untagged and thus will not correct where the rocket launcher p
 mounting a rocket, allowing you to teleport through them. Untagged walls can be identified by
 whiplashing them; if the whiplash passes through, the wall is untagged.
 
-### Victoria Clip
+### Whip Clip
 Certain walls, primarily in the violence layer are thinner, and don’t destroy frozen rockets that are placed in them. 
 Getting on a rocket that is in this state will clip the camera out of bounds, from on the rocket
-looking down at about a 45 degree angle, then shooting a rocket, tapping whiplash and jump at the
-same time will clip you out.
+looking down at about a 45 degree angle, then shooting a rocket, tapping whiplash and jump at the same time will clip you out.
 
 ### Tight Space Clips
 Certain gaps in geometry that the player can’t normally fit through can be moved through by mounting

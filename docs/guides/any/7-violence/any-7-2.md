@@ -3,7 +3,7 @@
 
 ## Checkpoint
 
-### Victoria Clip
+### Whip Clip
 Charge an over pump <br/>
 Slam store in the red room hallway and slide <br/>
 Slide jump <br/>
