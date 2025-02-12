@@ -2,8 +2,8 @@
 
 
 ## [Untagged Wall Clip](https://youtu.be/ddrVnvt-kRI)
-[Slam store](/guides/speedrun-tech.md#slam-store) in the entrance pipe, slide jump, then [slide jump](/guides/speedrun-tech.md#slide-jump) slightly to the left to curve around the cerberus statue. <br/>
-Slide under the tree. <br/>
+[Slam store](/guides/speedrun-tech.md#slam-store) in the entrance pipe, slide jump, then [slide jump](/guides/speedrun-tech.md#slide-jump) slightly to the right to curve around the cerberus statue. <br/>
+Slide under the tree branch. <br/>
 Place a frozen rocket against the wall between the fallen pillar and the door, facing straight down <br/>
 Jump and slam to mount the rocket <br/>
 Slam off the rocket and [flick ub](/guides/speedrun-tech.md#flick-ub) to the checkpoint <br/>
