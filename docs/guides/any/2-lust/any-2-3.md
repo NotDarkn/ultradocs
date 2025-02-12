@@ -31,5 +31,5 @@ Yeah whatever that shit is <br/>
 
 
 ## Alternate Exits
-CE boost exit as the doors open <br/>
+CE boost exit <br/>
 [Cerb Slide Clip](https://youtu.be/G8J0pXr85_0) 
