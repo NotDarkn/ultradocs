@@ -13,10 +13,10 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
 
 - ## [3-1](/guides/any/3-gluttony/any-3-1.md)
 <font size="2">
-    <b>Difficulty</b>: ? (?)
+    <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
 - ## [3-2](/guides/any/3-gluttony/any-3-2.md)
 <font size="2">
-    <b>Difficulty</b>: ? (?)
+    <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
