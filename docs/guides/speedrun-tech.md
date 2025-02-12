@@ -21,7 +21,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px"> <!-- video example (change link in src=) -->
-        <video width="300" height="auto" loop autoplay>
+        <video width="300" height="auto" loop autoplay muted>
             <source src="/videos/quick-reference-2.mp4" type="video/mp4">
         </video>
     </td>
@@ -40,13 +40,13 @@
     <td> 
       Jumping during a slide carries the slide momentum into the jump and amplifies it.
     </td>
-    <td width="100px"> 
+    <td width="100px">
       1. Slide <br />
       2. Stop sliding <br />
-      3. Press jump right after <br />
+      3. Press jump right after
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay>
+        <video width="300" height="auto" loop autoplay muted>
             <source src="/videos/quick-reference-2.mp4" type="video/mp4">
         </video>
     </td>
@@ -54,10 +54,54 @@
 </tb>
 
 ### Dash Jump
-Dashing and then imputing a jump during the dash give a boost of horizantal, and vertical, momentum, at the cost of 2 stamina bars.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Dashing and then imputing a jump during the dash give a boost of horizantal, and vertical, momentum, at the cost of 2 stamina bars.
+    </td>
+    <td width="100px"> 
+      1. Dash <br />
+      2. Jump right after
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### DSJ (Dash Slide Jump)
-Dash, slide, and then jump.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      A DSJ is when you do a slide jump right after dashing. While a simple mechanic, has many use cases such as in 0-1.
+    </td>
+    <td width="100px"> 
+      1. Dash <br />
+      2. Slide <br />
+      3. Stop sliding <br />
+      4. Jump right after
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autopla muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Slam Store
 Interrupting a slam with a wall jump stores the slam state without the downward speed.<br/>
