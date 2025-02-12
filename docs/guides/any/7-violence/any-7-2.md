@@ -3,7 +3,7 @@
 
 ## Checkpoint
 
-### Whip Clip
+### [Whip Clip](https://youtu.be/JMR3vHRWvhI)
 Charge an over pump <br/>
 Slam store in the red room hallway and slide <br/>
 Slide jump <br/>
@@ -22,12 +22,18 @@ Slam into final arena entrance and slide jump <br/>
 Checkpoint
 ### Arch Clip
 
-### Instarch Clip
-
+### [Instant Arch Clip](https://youtu.be/BA3vd7XK9wY)
+Dash jump and slam store off the left side of the red room hallway, wall jump off the right side, and land as far forward and left as possible
+Look up at a 45 degree angle and as much right as you can without bonking during the dive
+Dive, then place a frozen rocket right as you bonk on the ceiling
+Flick ub
+Slam
+Instant rocket ride or dash to reach the checkpoint depending on how far you are from it
+Checkpoint
 
 ## Maze
 
-### Wall Bounce + Oil
+### [Wall Bounce + Oil](https://youtu.be/nIPqwxC9qGk)
 Dash, turn right and dash jump <br/>
 Dive and hold slide <br/>
 Wall bounce <br/>
@@ -35,8 +41,16 @@ Slam <br/>
 Dash slide and place oil under you to maintain speed <br/>
 Release and press slide again to turn <br/>
 Ub exit
-### Double Wall Bounce
 
+### [Double Wall Bounce](https://youtu.be/6gSWHYXWYC4)
+Dash, turn right and dash jump <br/>
+Dive and hold slide <br/>
+Wall bounce <br/>
+Wall bounce again <br/>
+Dive <br/>
+Slam <br/>
+Ub exit <br/>
+The second wall bounce sometimes spawns the arena because of hitbox jank, making it faster, but less consistant
 ### Trigger Skip 
 
 ### Double Trigger Skip
