@@ -20,4 +20,4 @@ Slam into the hole <br/>
 Ce Boost Exit
 
 ### Rocket UB
-<!-- includes both with 2 rockets, and rocket + core>
+<!-- includes both with 2 rockets, and rocket + core -->
