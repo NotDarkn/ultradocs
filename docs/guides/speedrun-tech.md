@@ -63,7 +63,8 @@ Slamming during a whiplash will not give downward speed but does build slam mome
 Tap slide and fire a core eject down at the same time, gives high horisantal speed.
 
 ### UB (Ultraboost)
-Use the Malicious Railcannon on a core eject. This fastest method of movement in the game*.
+Use the Malicious Railcannon on a core eject. This is the fastest method of movement in the game*. 
+If the core is hit while it is very close to you it will deal 35 damage instead of 50, this requires firing malicious rail almost instantly after the core.
 
 ### Flick UB 
 A faster method of ultra boosting that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
