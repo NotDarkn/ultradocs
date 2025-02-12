@@ -23,13 +23,13 @@ Checkpoint
 ### Arch Clip
 
 ### [Instant Arch Clip](https://youtu.be/BA3vd7XK9wY)
-Dash jump and slam store off the left side of the red room hallway, wall jump off the right side, and land as far forward and left as possible
-Look up at a 45 degree angle and as much right as you can without bonking during the dive
-Dive, then place a frozen rocket right as you bonk on the ceiling
-Flick ub
-Slam
-Instant rocket ride or dash to reach the checkpoint depending on how far you are from it
-Checkpoint
+Dash jump and slam store off the left side of the red room hallway, wall jump off the right side, and land as far forward and left as possible <br/>
+Look up at a 45 degree angle and as much right as you can without bonking during the dive <br/>
+Dive, then place a frozen rocket right as you bonk on the ceiling <br/>
+Flick ub <br/>
+Slam <br/>
+Instant rocket ride or dash to reach the checkpoint depending on how far you are from it <br/>
+Checkpoint 
 
 ## Maze
 
