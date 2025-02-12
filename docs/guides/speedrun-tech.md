@@ -174,9 +174,10 @@ This can be done with a variation # bind
 When hittting a coin with the alternate Slab Piercer pistol.
 
 ### Railcoins 
-Throw a coin through an enemy, then fire the electric rail. This will cause the rail to hit the enemy, then
-chain off the coin to hit it again. Quickly swapping back to the Marksman allows you to add more coins
-after the rail is shot.
+Throw a coin through an enemy, then fire the electric rail. This will cause the rail to hit the enemy, then chain off the coin to hit it again. 
+
+### Coin Add
+Quickly swapping back to the Marksman allows you to add more coins after a railcoin.
 
 ### Ricostacks
 If multiple hitscans hit a coin at the same time while in hitstop, they will both ricochet off the coin, the
