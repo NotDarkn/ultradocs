@@ -1,7 +1,7 @@
 # 5-3 // SHIP OF FOOLS (Any%)
 
 
-## Tight Space Clip
+## [Tight Space Clip](https://youtu.be/yMunNEGBo20)
 Slam store in the red room hallway then slide <br/>
 Ce boost then shoot a rocket at the wall to get more height <br/>
 Dash forward slam, then dash extension down the stairs <br/>
@@ -14,7 +14,7 @@ Rocket Ride to the checkpoint <br/>
 
 ## Exit
 
-### Fup
+### [Fup](https://youtu.be/ExslsMlx7GI)
 Slide jump <br/>
 Fup <br/>
 Slide jump <br/>
@@ -26,7 +26,7 @@ Dive to the door<br/>
 Flick ub through the door <br/>
 Place oil to maintain speed <br/>
 
-### Slam Store
+### [Slam Store](https://youtu.be/8n6OD23X8qA)
 Slam store then dive, release slide before touching the water or you will bounce <br/>
 slide jump <br/>
 Dsj up the stairs  <br/>
