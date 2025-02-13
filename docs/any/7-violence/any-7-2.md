@@ -3,7 +3,7 @@
 
 ## Checkpoint
 
-### [Whip Clip](https://youtu.be/JMR3vHRWvhI)
+### [Miss Clip](https://youtu.be/JMR3vHRWvhI)
 Charge an over pump <br/>
 Slam store in the red room hallway and slide <br/>
 Slide jump <br/>
