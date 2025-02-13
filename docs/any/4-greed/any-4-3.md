@@ -2,11 +2,19 @@
 
 
 ## Filth Clip
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Freeze a rocket in front of the red door, and use jackhammer on it to light the fire pit <br/>
 Ce boost into the back right corner of the room and use a rocket or wall jump to boost up through the hole, then flick ub, slam and dash to reach the checkpoint <br/>
 
 
 ## Arena Clear
+<font size="2">
+    <b>Difficulty</b>: Slightly Hard (4/5)
+</font> <br/> 
+
 Dsj into the room and place the torch <br/>
 Place one magnet on the left with an overheat saw to kill the stalker and two magnets on the right with several blue saws for the other stalker <br/>
 Whiplash the soap <br/>

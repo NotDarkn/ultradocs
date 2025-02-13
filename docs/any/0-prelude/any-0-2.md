@@ -4,6 +4,10 @@
 ## Updoor
 
 ### CE Boost
+<font size="2">
+    <b>Difficulty</b>: Easy (1/5)
+</font> <br/> 
+
 [Slam store](/speedrun-tech.md#slam-store) in the red room hallway and slide diagonally around the cerberus statue, then to the end of the second room<br/>
 As soon as the door at the end of the hallway opens, [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) backwards and hold slide until you land on top of the door<br/>
 Let go of slide, jump, then [flick ub](/speedrun-tech.md#flick-ub) <br/>
@@ -13,6 +17,10 @@ Fire blue saws where the two strays spawn until they spawn and die<br/>
 [Slam store exit](/speedrun-tech.md#flick-ub)<br/>
 
 ### Oil
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 [Slam store](/speedrun-tech.md#slam-store) in the red room hallway and slide diagonally around the cerberus statue, then to the end of the second room, using oil to maintain speed<br/>
 As soon as the door at the end of the hallway opens, slide backwards and shoot a rocket at the oil on the ground continue holding slide until you land on top of the door<br/>
 Let go of slide, jump, then [flick ub](/speedrun-tech.md#flick-ub) <br/>

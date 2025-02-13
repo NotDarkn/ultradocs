@@ -4,6 +4,10 @@
 ## Arch Clip
 
 ### [Third Room Clip](https://youtu.be/yNfrjTKevMU)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Slam store in the starting room hallway and slide <br/>
 Slide jump, overheat saw, then slide <br/>
 Charge an over pump, stand close to swordsmachine to force the standing attack <br/>
@@ -19,6 +23,10 @@ Flick ub <br/>
 Rocket ride to the checkpoint <br/>
 
 ### [First Room Clip](https://youtu.be/hghUj1bhGSQ)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Dash jump and slam store in the red room hallway, dont do a second walljump <br/>
 Dive and hold slide, you want to be as centered as possible <br/>
 Look up at a 45 degree angle <br/>
@@ -31,6 +39,10 @@ Checkpoint
 ## Final Arena
 
 ### [Oil Clear](https://youtu.be/SM6GxEzTiTo)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Dash jump, slam and throw 3 coins, slabcoin them to kill the left hideous mass <br/>
 The angle you throw the coins at is important, you want the coins to be at about the same  height as the hideous mass's weakpoint or it might miss the weakpoint and not kill <br/>
 You can fire the piercer slightly before the hideous mass spawns due to hitscans taking time to pass between coins <br/>
@@ -45,4 +57,5 @@ Whiplash to the cerberus and srs combo the cerberus <br/>
 Split coin the remaining strays <br/>
 Rocket ride to reach the exit <br/>
 Ce boost exit
+
 ### Firestorm’s Swag Clear

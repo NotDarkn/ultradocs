@@ -4,6 +4,10 @@
 ## First Arena
 
 ### [Jumpstart](https://youtu.be/8oITzC_7xmg)
+<font size="2">
+    <b>Difficulty</b>: Easy (1/5)
+</font> <br/> 
+
 [Slam Store](/speedrun-tech.md#slam-store) slide to the arena <br/>
 [Slide jump](/speedrun-tech.md#slide-jump) through the door <br/>
 Place 3 magnets
@@ -13,6 +17,10 @@ Dash jump into maurice with jackhammer to instakill<br/>
 [Flick ub](/speedrun-tech.md#flick-ub) to checkpoint
 
 ### [Trigger skip](https://youtu.be/foBhu5TiZok)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Line up camera to spot shown in video without moving<br/>
 [Slam Store](/speedrun-tech.md#slam-store) slide to the arena <br/>
 [Slide jump](/speedrun-tech.md#slide-jump) through the door <br/>
@@ -21,6 +29,10 @@ Activate freezeframe and place a rocket <br/>
 Jump onto the rocket then [Flick ub](/speedrun-tech.md#flick-ub) to the checkpoint<br/>
 
 ### Hard Clear
+<font size="2">
+    <b>Difficulty</b>: Slightly Hard (4/5)
+</font> <br/> 
+
 Place oversaw on the rightmost stray <br/>
 [Split coin](/speedrun-tech.md#split-coins) the right 2 strays <br/>
 Split coin the top strays <br/>
@@ -36,6 +48,10 @@ Cxn you do this
 ## Rest of the level
 
 ### [Mal Rail Boost](https://youtu.be/z3r3dL_k9bs)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 [Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) or [ultraboost](/speedrun-tech.md#ub-ultraboost) through the long hallway <br/>
 Slam if neccessary and dash to checkpoint <br/>
 Checkpoint <br/>

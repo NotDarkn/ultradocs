@@ -4,20 +4,37 @@
 ## Main Exit
 
 ### Slide Clip 
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 
 ### Final Arena
+<font size="2">
+    <b>Difficulty</b>: Slightly Hard (4/5)
+</font> <br/> 
+
 
 
 ## Secret Exit
 
 ### Slide Clip
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Dash jump and slam store off the right wall of the red room hallway
 Dive
 Slam
 Spam slide while turning your camera back and forth
 Hold forward after are in the floor until you fall through
 Flick ub
+
 ### Exit
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Dash jump backwards, then flick ub
 Place oil to maintain speed
 Turn around and slide jump when the arena triggers

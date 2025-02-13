@@ -2,6 +2,10 @@
 
 
 ## [Blue Skull](https://youtu.be/II3uolCMr6A)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 [Slam store](/speedrun-tech.md#slam-store) in the start room, slide into the left wall of the red room, then [wall bounce](/speedrun-tech.html#wall-bounces) and hold slide<br/>
 After going through the door, slide then dash slide to go around the wall, then malicious rail boost up dash forward and slam into the blue skull room <br/>
 Aim diagonally down and whiplash the skull before landing, then checkpoint <br/>
@@ -10,6 +14,10 @@ Aim diagonally down and whiplash the skull before landing, then checkpoint <br/>
 ## Boss Kills
 
 ### [Soap Kill](https://youtu.be/P1LFHIxkhsY)
+<font size="2">
+    <b>Difficulty</b>: Easy (1/5)
+</font> <br/> 
+
 Dash backwards, turn around and place the skull with whiplash <br/>
 checkpoint <br/>
 Dash slide into the soap room <br/>
@@ -25,6 +33,10 @@ Whiplash the boss to kill it as soon as it is vulnerable <br/>
 [Ub](/speedrun-tech.md#ub-exit) exit
 
 ### [Soapless Kill](https://youtu.be/Qva-Uw_1ukk)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Dash slide backwards <br/>
 Turn around and place the blue skull with whiplash <br/>
 [Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>

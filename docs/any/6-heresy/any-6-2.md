@@ -4,6 +4,10 @@
 ## Checkpoint
 
 ### [Rocket Ride](https://youtu.be/bFLRgSnoQbo)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Dash jump and instant rocket ride through the red doors as they open <br/>
 Angle the rocket up <br/>
 Jump and whiplash the hookpoint <br/>
@@ -12,6 +16,10 @@ Hold slide  <br/>
 Turn around and ub as it opens <br/>
 
 ### [Slam Store](https://youtu.be/mMjFsTK1bfg)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Charge an over pump <br/>
 Dash jump and slam store on the left wall of the red room hallway <br/>
 Dive <br/>
@@ -21,6 +29,10 @@ Turn around and ub as it opens <br/>
 ## Boss Kill
 
 ### [Dead Coin](https://youtu.be/bFLRgSnoQbo)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Jump throw a coin below you and punch it 3 times <br/>
 Look up and dead coin 4 times <br/>
 Use whiplash to keep the coin in the air to wait for 2 more coins <br/>

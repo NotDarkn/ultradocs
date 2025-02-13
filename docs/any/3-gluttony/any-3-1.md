@@ -2,6 +2,10 @@
 
 
 ## [Tight Space Clip](https://youtu.be/WvOWvKw9jVM)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Slam store in the start room then slide <br/>
 Face into gap in the door frame <br/>
 Look down, place a frozen rocket, jump, and slam onto it <br/>
@@ -13,6 +17,10 @@ Collect the checkpoint from underneath, if you the door is open when you checkpo
 ## Arena Clear
 
 ### [Knuckleblast Clear](https://youtu.be/F92tVBHlow0)
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Dash jump, delay the jump input slighlty if you are getting caught on the door <br/>
 Use slab revolver to kill the center drone <br/>
 Knuckleblast the filth <br/>

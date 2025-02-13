@@ -4,12 +4,20 @@
 ## Slide Clip
 
 ### [Core Snipe Boost]()
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Core snipe boost through the red doors <br/>
 Dash slide left onto the stairs <br/>
 Spam slide into the dip in the doorway <br/>
 Once out of bounds, rocket ride to the checkpoint, it can be hit from underneath <br/>
 
 ### [Ultraboost](https://youtu.be/HlkWbGlP140)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Hold slide (or slam store slide) and ultraboost backwards as the red doors open <br/>
 Dash slide left onto the stairs <br/>
 Spam slide into the dip in the doorway <br/>
@@ -19,6 +27,10 @@ Once out of bounds, rocket ride to the checkpoint, it can be hit from underneath
 ## Final Arena
 
 ### [Slab Coin](https://youtu.be/0m0KVNSWgoE)
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Dash jump and place an overheat saw where the two strays spawn <br/>
 Slam and throw 2 coins straight up for a slab coin on the mindflayer <br/>
 Whiplash and srs combo to kill the mindflayer <br/>

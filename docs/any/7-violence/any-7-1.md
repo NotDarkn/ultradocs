@@ -4,6 +4,10 @@
 ## Arch Clip
 
 ### Tap Dive
+<font size="2">
+    <b>Difficulty</b>: Slightly Easy (2/5)
+</font> <br/> 
+
 Slam store in the red room hallway, then slide <br/>
 Slide jump until you reach the mannequin room <br/>
 Dive and hold slide <br/>
@@ -30,13 +34,25 @@ Slam <br/>
 Slide jump <br/>
 Jumpstart the tram as you checkpoint 
 ### Eanra Arch Clip
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 
 ### First Room Clip
+<font size="2">
+    <b>Difficulty</b>: Slightly Hard (4/5)
+</font> <br/> 
+
 
 
 ## Minotaur Phase 1
 
 ### Frozen Rockets
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Dash twice and press the button <br/>
 Fire rockets until the strays die <br/>
 Use a coin to interupt a soldier to kill them <br/>
@@ -49,10 +65,19 @@ Fire a magnet into minotaur <br/>
 Rail coin and coin add all your coins <br/>
 Srs combo <br/>
 Watch for when saw disappear, then checkpoint
+
 ### Harmless Strats
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 
 
 ## Minotaur Phase 2
+<font size="2">
+    <b>Difficulty</b>: Intermediate (3/5)
+</font> <br/> 
+
 Dash <br/>
 Press the button <br/>
 Dash <br/>
