@@ -11,7 +11,7 @@ Alright, it seems you want to run **Gluttony**! What level would you like to run
 Difficulty is based on how hard it may be to **learn** or **execute** strats in all of the levels combined.
 :::
 
-- ## [3-1](/guides/any/3-gluttony/any-3-1.md)
+- ## [3-1](/any/3-gluttony/any-3-1.md)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>

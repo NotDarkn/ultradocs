@@ -180,7 +180,7 @@ The height of the core when you shoot it is very lenient.
 :::
 
 ### Duck Boosting
-Shotgun primary fire pushes you forward slightly, can be used with [shotgun swapping](/guides/speedrun-tech.md#shotgun-swapping)
+Shotgun primary fire pushes you forward slightly, can be used with [shotgun swapping](/speedrun-tech.md#shotgun-swapping)
 
 ### Buffered Piercer
 Holding left click while charging a piercer shot will fire it the instant it full charges.
@@ -308,16 +308,16 @@ bro wtf is a skuggle???
 ## Level Exits:
 
 ### CE Boost exit
-[Ce boost](/guides/speedrun-tech.md#ce-boost-core-eject-boost) as the red door opens, place oil, [slide jump](/guides/speedrun-tech.md#slide-jump), and slam.
+[Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) as the red door opens, place oil, [slide jump](/speedrun-tech.md#slide-jump), and slam.
 
 ### Slam store exit
-[Slam store](/guides/speedrun-tech.md#slam-store) off of the exit door, place oil, slide and use [slideways](/guides/speedrun-tech.md#slideways) for extra speed.
+[Slam store](/speedrun-tech.md#slam-store) off of the exit door, place oil, slide and use [slideways](/speedrun-tech.md#slideways) for extra speed.
 
 ### Ub exit
-Put your back to the exit door and [ultraboost](/guides/speedrun-tech.md#ub-ultraboost) as it opens, then quickly turn around and place oil, then slam into the exit or stand slightly
-back from the door, as it opens [flick ub](/guides/speedrun-tech.md#flick-ub), then place oil, then slam into the exit.
+Put your back to the exit door and [ultraboost](/speedrun-tech.md#ub-ultraboost) as it opens, then quickly turn around and place oil, then slam into the exit or stand slightly
+back from the door, as it opens [flick ub](/speedrun-tech.md#flick-ub), then place oil, then slam into the exit.
 
 ### Dash Extension Exit
-[Dash Extension](/guides/speedrun-tech.md#dash-extension) as the end door opens, then [slide jump](/guides/speedrun-tech.md#slide-jump) and slam.
+[Dash Extension](/speedrun-tech.md#dash-extension) as the end door opens, then [slide jump](/speedrun-tech.md#slide-jump) and slam.
 
 ### Sandwich exit
