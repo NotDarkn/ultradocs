@@ -10,16 +10,16 @@ Currently this is **in development**, so changes are being made periodically.
 
 # What category would you like to run?
 
-I want to run [**Any%**](/guides/any/any-choosing.md)
+I want to run [**Any%**](/any/any-choosing.md)
 
 # IGNORE
 
 LINK REDIRECT EXAMPLE:
-[text](/guides/speedrun-tech.md#base-movement)
+[text](/speedrun-tech.md#base-movement)
 ```md
-[text](/guides/speedrun-tech.md#base-movement)
-[any%](/guides/any/any-choosing.md)
-[4-2](/guides/any/level/any-4-2.md)
+[text](/speedrun-tech.md#base-movement)
+[any%](/any/any-choosing.md)
+[4-2](/any/level/any-4-2.md)
 ```
 ::: important
 make FUCKING SURE you use `.md`
@@ -111,14 +111,14 @@ bruh
 (HTML) LIST EXAMPLE:
 <ul>
     <li><font size="4">
-        <a href="/guides/any/layer/any-lust.md"><b>Lust</b></a>
+        <a href="/any/layer/any-lust.md"><b>Lust</b></a>
     </font></li>
 </ul>
 
 ```html
 <ul>
     <li><font size="4">
-        <a href="/guides/any/layer/any-lust.md"><b>Lust</b></a>
+        <a href="/any/layer/any-lust.md"><b>Lust</b></a>
     </font></li>
 </ul>
 ```
