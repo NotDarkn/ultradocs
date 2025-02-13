@@ -14,6 +14,7 @@ Time a knuckleblaster punch to destroy the glass without bonking on it<br/>
 Dash and slam to the door then [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) up the stairs and slide jump to the checkpoint<br/>
 Before reaching the checkpoint fire a blue saw and equip alternate green saw<br/>
 
+### Jackhammer Boost
 
 ## Boss Kill:
 
