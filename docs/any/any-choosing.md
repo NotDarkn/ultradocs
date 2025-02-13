@@ -10,42 +10,42 @@ Any% is perhaps the most popular category in **any game *ever*** mostly because 
 Difficulty is based on how hard it may be to **learn** or **execute** strats in all of the levels combined.
 :::
 
-- ## [Prelude](/guides/any/0-prelude/)
+- ## [Prelude](/any/0-prelude/)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-- ## [Limbo](/guides/any/1-limbo/)
+- ## [Limbo](/any/1-limbo/)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font>
 
-- ## [Lust](/guides/any/2-lust/)
+- ## [Lust](/any/2-lust/)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-- ## [Gluttony](/guides/any/3-gluttony/)
+- ## [Gluttony](/any/3-gluttony/)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-- ## [Greed](/guides/any/4-greed/)
+- ## [Greed](/any/4-greed/)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-- ## [Wrath](/guides/any/5-wrath/)
+- ## [Wrath](/any/5-wrath/)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-- ## [Heresy](/guides/any/6-heresy/)
+- ## [Heresy](/any/6-heresy/)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-- ## [Violence](/guides/any/7-violence/)
+- ## [Violence](/any/7-violence/)
 <font size="2">
     <b>Difficulty</b>: Hard (5/5)
 </font>
