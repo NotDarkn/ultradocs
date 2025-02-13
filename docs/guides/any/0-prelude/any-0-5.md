@@ -12,7 +12,7 @@
 When you land [slide jump](/guides/speedrun-tech.md#slide-jump) and wait until the boss door starts to open before checkpointing so that the boss will do the fast spawn animation <br/>
 For the ub, stand in line with the red line in the image and look where shown, you also want to be on the half of the platform closer to the wall you are aiming at <br/>
 You can hold left or right to adjust slightly to make sure you land at the door <br/>
-![Lava Hall UB](</images/lava hall ub.png>)
+![Lava Hall UB](</../images/0-5-lava-hall-ub.png>)
 
 
 ## Boss Kill

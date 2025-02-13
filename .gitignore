@@ -6,6 +6,4 @@ bun.lock
 
 # vuepress
 vuepress-starter
-docs/.vuepress/.cache
-docs/.vuepress/.temp
-docs/.vuepress/dist
+docs/.vuepress

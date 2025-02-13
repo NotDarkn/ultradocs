@@ -38,7 +38,7 @@ Due to random sentry movement in this room, they won't allways die, if this happ
 
 ### [Virtue Rail](9https://youtu.be/WVyW1Khrsx4)
 Place a magnet and a couple saws where shown in the image the kill one of the strays <br/>
-![5-1 Wave 3 Saw Placement](<5-1 Wave 3 saw placement.jpg>)
+![5-1 Wave 3 Saw Placement](</../images/5-1-wave3-saw-placement.jpg>)
 Place a rocket trap where one of the center strays will spawn <br/>
 Dash jump <br/>
 Whiplash and srs combo the sentry <br/>

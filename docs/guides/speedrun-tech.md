@@ -22,7 +22,7 @@
     </td>
     <td width="200px"> <!-- video example (change link in src=) -->
         <video width="300" height="auto" loop autoplay muted>
-            <source src="/videos/quick-reference-2.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/sOYCOt8.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -47,7 +47,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop autoplay muted>
-            <source src="/videos/quick-reference-2.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/sOYCOt8.mp4" type="video/mp4">
         </video>
     </td>
   </tr>

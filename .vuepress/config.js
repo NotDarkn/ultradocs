@@ -4,7 +4,6 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'en-US',
-
   title: 'ULTRADOCS',
   description: 'Documentation for all speedrun-related tech in ULTRAKILL',
 
