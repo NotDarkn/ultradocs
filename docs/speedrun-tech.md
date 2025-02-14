@@ -181,7 +181,7 @@
   </tr>
   <tr>
     <td> 
-      Jumping on the frame you hit the ground to preserve all horizontal units. someone fact check that please lmao
+      Jumping soon after landing to preserve horizontal momentum. The sooner you jump, the more momentum you preserve (100% on a frame 1 jump).
     </td>
     <td width="100px"> 
       TBA (To Be Added)
