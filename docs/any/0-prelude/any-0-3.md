@@ -9,8 +9,8 @@
 </font> <br/> 
 
 [Slam store](/speedrun-tech.md#slam-store) in the start room then [dive](/speedrun-tech.md#dives) through the doors, fire a rocket up to break the glass then [ultraboost](/speedrun-tech.md#ub-ultraboost) up.<br/>
-Dash and slam to the door then [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) up the stairs and [slide jump]/speedrun-tech.md#slide-jump to the checkpoint.<br/> 
-Before reaching the checkpoint fire a blue saw and equip alternate green saw, then reset to checkpoint<br/>
+Dash and slam to the door then [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) up the stairs and [slide jump](/speedrun-tech.md#slide-jump) to the checkpoint.<br/> 
+Before reaching the checkpoint fire a blue saw and equip alternate green saw, then checkpoint<br/>
 
 ### [Glass Punch:](https://youtu.be/d2fQyOw1ij8)
 <font size="2">
@@ -19,7 +19,7 @@ Before reaching the checkpoint fire a blue saw and equip alternate green saw, th
 
 [Slam store](/speedrun-tech.md#slam-store) in start room then [dive](/speedrun-tech.md#dives) through the doors, [ultraboost](/speedrun-tech.md#ub-ultraboost) straight up when you land<br/>
 Time a knuckleblaster punch to destroy the glass without bonking on it<br/>
-Dash and slam to the door then [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) up the stairs and slide jump to the checkpoint<br/>
+Dash and slam to the door then [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) up the stairs and [slide jump](speedrun-tech.html#slide-jump) to the checkpoint<br/>
 Before reaching the checkpoint fire a blue saw and equip alternate green saw<br/>
 
 ### Jackhammer Boost
