@@ -387,7 +387,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop autoplay muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/ad8Lqr8.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
