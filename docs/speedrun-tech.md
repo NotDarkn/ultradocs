@@ -173,7 +173,7 @@ Activate freezeframe and shoot a rocket, jump, then slam. Works while grounded o
 ### Instant Rocket Ride
 Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air.
 
-### Core Snipe Boosts
+### CSB (Core Snipe Boosts)
 Fire a core eject in front of you, shoot it with the revolver then dash through it, you will get hit by the lasting hitbox and launched.<br/>
 ::: note
 The height of the core when you shoot it is very lenient.
