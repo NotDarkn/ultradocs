@@ -29,5 +29,6 @@ Slab Sharpshooter alt fire to kill all the strays <br/>
 [Flayer insta](/speedrun-tech.html#mindflayer-instas) with a nuke <br/>
 [Srs combo](/speedrun-tech.html#srs-combo) the Mindflayer to ensure it dies <br/>
 [Split coin](/speedrun-tech.html#split-coins) and ricoshot to kill the soldiers
+[Ce boost exit](/speedrun-tech.html#ce-boost-exit)
 
 ### Oil Clear
