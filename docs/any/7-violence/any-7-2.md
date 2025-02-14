@@ -25,7 +25,8 @@ Malicious rail your rocket <br/>
 Slam into final arena entrance and slide jump <br/> 
 Checkpoint
 
-### Arch Clip<font size="2">
+### Arch Clip
+<font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font> <br/> 
 
