@@ -383,8 +383,7 @@ TBA (To Be Added)
       Use the Malicious Railcannon on a core eject. This is the fastest method of movement in the game excluding combinations and bugs. 
     </td>
     <td width="100px"> 
-      1. Shoot Core <br />
-      2. Shoot core with malicious rail
+      TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop autoplay muted>
@@ -557,7 +556,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop autoplay muted>
-            <source src="https://i.imgur.com/8v8rwIz.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
