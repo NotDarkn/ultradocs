@@ -515,6 +515,29 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
 </tb>
 
+### Jamblast
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Dash and then quickly shoot a fully charged overpump (can be done with both default and alternate)
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
 ### (CSB) Core Snipe Boosts
 <br />
 <tb style="width:100%; vertical-align: top">
