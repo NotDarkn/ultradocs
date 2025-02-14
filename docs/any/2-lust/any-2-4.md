@@ -3,7 +3,7 @@
 
 ## Door Clip
 
-### [Walk + Slide](https://youtu.be/wS88pQJbhqc)
+### [Walk + Slide]()
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font> <br/> 
@@ -11,8 +11,11 @@
 Start walking till the starting door opens <br/>
 As soon as it opens, quickly flick to the right and dash into the corner <br/>
 Spam slide till you’re out of bounds <br/>
+Flick ub <br/>
+Instant rocket ride <br/>
+Checkpoint
 
-### [Dash Jump](https://youtu.be/wS88pQJbhqc&t=7s)
+### [Dash Jump]()
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font> <br/> 
@@ -20,8 +23,11 @@ Spam slide till you’re out of bounds <br/>
 Do a dash jump till you’re through the starting door <br/>
 Quickly slam, flick to the right, then dash through the corner <br/>
 Spam slide till you’re out of bounds <br/>
+Flick ub <br/>
+Instant rocket ride <br/>
+Checkpoint
 
-### [Slam Store](https://youtu.be/wS88pQJbhqc&t=13s)
+### [Slam Store]()
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font> <br/> 
@@ -29,14 +35,33 @@ Spam slide till you’re out of bounds <br/>
 Do a slam store then slide till you’re through the starting door <br/>
 Quickly slam, flick to the right, then dash through the corner <br/>
 Spam slide till you’re out of bounds <br/>
+Flick ub <br/>
+Instant rocket ride <br/>
+Checkpoint
 
 
 ## Red Skull
 
 ### Tram Jumpstart
+<font size="2">
+    <b>Difficulty</b>: Easy (1/5)
+</font> <br/> 
+
+Jumpstart the tram and move it forward
+When the tram stops dash and whiplash the skull
+Checkpoint
 
 ### Ub Bonk
+<font size="2">
+    <b>Difficulty</b>: Slightly Hard (4/5)
+</font> <br/> 
 
+Walk backwards slightly
+Ce boost
+Ub so that you bonk on the ceiling of the doorway
+Slide jump
+Dash and whiplash the skull
+Checkpoint
 
 ## Boss Kill
 
