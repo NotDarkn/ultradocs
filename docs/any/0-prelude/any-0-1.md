@@ -1,7 +1,7 @@
 # 0-1 // INTO THE FIRE (Any%)
 
 
-## Pipe Clip 
+## [Pipe Clip](https://youtu.be/zvPYd-ivxbQ)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
@@ -12,7 +12,7 @@ Slide when you land to maintain speed, then slide diagonally onto the pipe, and 
 [Flick UB](/speedrun-tech.md#flick-ub) to then slam and dash to reach the checkpoint <br/>
 
 
-## Maurice Kill 
+## [Maurice Kill](https://youtu.be/JhM5Y2wkzbI) 
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font> <br/> 
