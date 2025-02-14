@@ -4,30 +4,6 @@
 
 ## Base Movement
 
-### Slide and Slam Momentum Mechanics
-<br /> 
-<!-- break necessary to have a gap -->
-<tb style="width:100%; vertical-align: top">
-  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
-    <td>DESCRIPTION</td> <!-- these three are the row names -->
-    <td>INPUTS</td>
-    <td>EXAMPLE</td>
-  </tr>
-  <tr>
-    <td> <!-- description (edit below) -->
-        Sliding preserves any momentum you had prior to the slide, this momentum will be slowly lost while sliding on the ground. Jumping or sliding after a slam grants additional jump height or slide speed depending on how long you were slamming.
-    </td>
-    <td width="100px"> <!-- inputs -->
-      TBA (To Be Added)
-    </td>
-    <td width="200px"> <!-- video example (change link in src=) -->
-        <video width="300" height="auto" loop autoplay muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
-        </video>
-    </td>
-  </tr>
-</tb>
-
 ### Slide Jump
 <br />
 <tb style="width:100%; vertical-align: top">
@@ -46,7 +22,7 @@
       3. Press jump right after
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -70,7 +46,7 @@
       2. Jump right after
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -96,7 +72,7 @@
       4. Jump right after
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -119,7 +95,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -142,7 +118,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -165,7 +141,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -188,7 +164,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -211,7 +187,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -234,7 +210,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -257,7 +233,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -280,7 +256,7 @@
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -313,7 +289,7 @@ TBA (To Be Added)
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -336,7 +312,7 @@ TBA (To Be Added)
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -363,7 +339,7 @@ TBA (To Be Added)
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -386,7 +362,7 @@ TBA (To Be Added)
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/ad8Lqr8.mp4" type="video/mp4">
         </video>
     </td>
@@ -413,7 +389,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -436,7 +412,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -463,7 +439,7 @@ This is significantly easier to do capped on 120 FPS.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -486,7 +462,7 @@ This is significantly easier to do capped on 120 FPS.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -509,7 +485,7 @@ This is significantly easier to do capped on 120 FPS.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -532,7 +508,7 @@ This is significantly easier to do capped on 120 FPS.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -555,7 +531,7 @@ This is significantly easier to do capped on 120 FPS.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -582,7 +558,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -609,7 +585,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -632,7 +608,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -655,7 +631,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -678,7 +654,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -701,7 +677,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -724,7 +700,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -747,7 +723,7 @@ The height of the core when you shoot it is very lenient.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -774,7 +750,7 @@ This creates a large red explosion at the cost of 35 HP.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -801,7 +777,7 @@ Overpumps and nukes have a lasting explosion making the timing more lenient
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -829,7 +805,7 @@ You only need to charge srs cannon to 25% for full damage.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -853,7 +829,7 @@ You only need to charge srs cannon to 25% for full damage.
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -880,7 +856,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -903,7 +879,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -930,7 +906,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -953,7 +929,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -976,7 +952,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -999,7 +975,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1022,7 +998,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1049,7 +1025,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1072,7 +1048,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1095,7 +1071,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1118,7 +1094,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1148,7 +1124,7 @@ TBA (To Be Added)
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1175,7 +1151,7 @@ Untagged walls can be identified by whiplashing them; if the whiplash passes thr
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1202,7 +1178,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1225,7 +1201,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1249,7 +1225,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1282,7 +1258,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1305,7 +1281,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1328,7 +1304,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -1336,7 +1312,6 @@ bro wtf is a skuggle??? man i wish i knew ;-;
 </tb>
 
 ### Dash Extension Exit
-[Dash Extension](/speedrun-tech.md#dash-extension) as the end door opens, then [slide jump](/speedrun-tech.md#slide-jump) and slam.
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1352,7 +1327,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
       TBA (To Be Added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autoplay muted>
+        <video width="300" height="auto" loop controls muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
