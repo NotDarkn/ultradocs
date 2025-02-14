@@ -96,7 +96,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/EbQLzoL.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -165,7 +165,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/BnXlahK.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -188,7 +188,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/fptuzWQ.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -290,7 +290,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/dy0QK5O.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -340,7 +340,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/rqy7IKZ.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -390,7 +390,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/AiWD4VS.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -486,7 +486,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/0v6niFq.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -509,7 +509,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/jH8w3Kf.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
