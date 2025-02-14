@@ -846,7 +846,8 @@ You only need to charge srs cannon to 25% for full damage.
   </tr>
   <tr>
     <td> 
-      Placing a frozen rocket where an enemy will walk will let the rocket supercharge creating a red explosion.
+      Placing a frozen rocket where an enemy will walk <br />
+      Will create a red explosion if the rocket has time to supercharge
     </td>
     <td width="100px"> 
       TBA (To Be Added)
