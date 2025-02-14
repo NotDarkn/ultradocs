@@ -47,7 +47,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/OkufseO.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
