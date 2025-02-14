@@ -3,7 +3,7 @@
 
 ## Updoor
 
-### CE Boost
+### [CE Boost](https://youtu.be/cPsmlkaGRFw)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font> <br/> 
