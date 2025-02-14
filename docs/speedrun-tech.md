@@ -96,7 +96,7 @@
       4. Jump right after
     </td>
     <td width="200px">
-        <video width="300" height="auto" loop autopla muted>
+        <video width="300" height="auto" loop autoplay muted>
             <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
         </video>
     </td>
@@ -104,220 +104,1259 @@
 </tb>
 
 ### Slam Store
-Interrupting a slam with a wall jump stores the slam state without the downward speed.<br/>
-Using jump, slide, or dive after landing in the Slam Store state allows reaching max slam momentum quickly. 
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Interrupting a slam with a wall jump stores the slam state without the downward speed. Using jump, slide, or dive after landing in the Slam Store state allows reaching max slam momentum quickly. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Dives
-Jump and then slide almost at the same time, slide jump that gives more height, gains both horizontal and vertical speed from slam momentum.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Jump and then slide almost at the same time, slide jump that gives more height, gains both horizontal and vertical speed from slam momentum.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Slideways
-Holding either A or D (dependent on the diriction you are sliding) while sliding sideways increases your
-horizontal speed by 5 units.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Holding either A or D (dependent on the diriction you are sliding) while sliding sideways increases your horizontal speed by 5 units.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Wall Bounces
-Wall Jumping while in a slide reverses your direction and preserves your momentum.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Wall Jumping while in a slide reverses your direction and preserves your momentum.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Bhop
-Jumping on the frame you hit the ground to preserve all horizontal units. someone fact check that please lmao
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Jumping on the frame you hit the ground to preserve all horizontal units. someone fact check that please lmao
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Dash Extension
-Dash towards a ledge and slide as you go over it.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      Dash towards a ledge and slide as you go over it. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Dash Extension Jump
-Dash towards a ledge and slide as you go over it then jump.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Dash towards a ledge and slide as you go over it then jump.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### SSJ (Super Slide Jump)
-After letting go of slide there is a 3 frame window (on 120 fps) where pressing jump will do a 
-slide jump that adds either 24, 12 or 6 units to your speed depending on which frame you jump.<br/>
-Entering the command “prefs set bool ssjIndicator true” into console (opened by pressing tilda) will tell you when you successfully ssj.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      After letting go of slide there is a 3 frame window (on 120 fps) where pressing jump will do a  slide jump that adds either 24, 12 or 6 units to your speed depending on which frame you jump.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
+Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing tilda) will tell you when you successfully ssj.
+:::
 
 ### Dive SSJ
-	
+TBA (To Be Added)
+
 ### Wall SSJ
+TBA (To Be Added)
 	
 ### Whip cancel
-Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones or for quickly reaching max jackhammer damage.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones or for quickly reaching max jackhammer damage.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Whip slamming
-Slamming during a whiplash will not give downward speed but does build slam momentum.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Slamming during a whiplash will not give downward speed but does build slam momentum.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 <!---------------------------------------------->
 
 ## Weapon Movement Tech
 
 ### CE Boost (Core Eject Boost)
-Tap slide and fire a core eject down at the same time, gives high horisantal speed.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Tap slide and fire a core eject down at the same time, gives high horizontial speed.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### UB (Ultraboost)
-Use the Malicious Railcannon on a core eject. This is the fastest method of movement in the game*. 
-If the core is hit while it is very close to you it will deal 35 damage instead of 50, this requires firing malicious rail almost instantly after the core.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Use the Malicious Railcannon on a core eject. This is the fastest method of movement in the game excluding combinations and bugs. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### Flick UB 
-A faster method of ultra boosting that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
-
-### Chub (Checkpoint Ub)
-Ultraboost, then checkpoint as you take damage from it. This gives you the UB's momentum after respawning.<br>
 ::: note
-This is significantly easier to do on 120 FPS
+If the core is hit while it is very close to you it will deal 35 damage instead of 50, this requires firing malicious rail almost instantly after the core.
 :::
 
-### Fup (Frozen Unfriendly Pull-it)
-Fire a rocket then whiplash it, fast explosion boost that can be done midair
+### Flick UB 
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      A faster method of ultra boosting that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### Floor fup
-With freezeframe, active while looking down, fire a rocket then whiplash it, launches straight up if not holding directional keys, otherwise launches in the direction you are moving.
+### Chub (Checkpoint UB)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Ultraboost, then checkpoint as you take damage from it. This gives you the UB's momentum after respawning.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
+This is significantly easier to do capped on 120 FPS.
+:::
+
+### FUP (Frozen Unfriendly Pull-it)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Fire a rocket then whiplash it, fast explosion boost that can be done midair.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+### Floor FUP
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      With freezeframe, active while looking down, fire a rocket then whiplash it, launches straight up if not holding directional keys, otherwise launches in the direction you are moving.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Rocket Ride
-Activate freezeframe and shoot a rocket, jump, then slam. Works while grounded or to swap to a new rocket while already rocket riding.<br/>
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Activate freezeframe and shoot a rocket, jump, then slam. Works while grounded or to swap to a new rocket while already rocket riding.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Instant Rocket Ride
-Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### CSB (Core Snipe Boosts)
-Fire a core eject in front of you, shoot it with the revolver then dash through it, you will get hit by the lasting hitbox and launched.<br/>
+### (CSB) Core Snipe Boosts
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Fire a core eject in front of you, shoot it with the revolver then dash through it, you will get hit by the lasting hitbox and launched.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
 ::: note
 The height of the core when you shoot it is very lenient.
 :::
 
 ### Duck Boosting
-Shotgun primary fire pushes you forward slightly, can be used with [shotgun swapping](/speedrun-tech.md#shotgun-swapping)
-
-### Buffered Piercer
-Holding left click while charging a piercer shot will fire it the instant it full charges.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Shotgun primary fire pushes you forward slightly, can be used with <a href="#shotgun-swapping">shotgun swapping</a>.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 <!---------------------------------------------->
 
 ## Combat Tech List:
 
-### Shotgun Swapping 
-Swapping to another shotgun after firing resets the cooldown.
+### Buffered Piercer
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Holding left click while charging a piercer shot will fire it the instant it full charges.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+### Shotgun Swapping
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      Swapping to another shotgun after firing resets the cooldown.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Projectile Boost
-Punching with feedbacker as you fire the shotgun parries a bullet and causes it to explode on impact.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      Punching with feedbacker as you fire the shotgun parries a bullet and causes it to explode on impact.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Nukes
-Firing a malicious railcannon at a core eject creates a very large and high damage explosion.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      Firing a malicious railcannon at a core eject creates a very large and high damage explosion.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Core Snipes
-Firing a revolver at a core eject creates a large, red explosion.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      Firing a revolver at a core eject creates a large, red explosion.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Over Pump Dodge
-The blast from a fully charged green shotgun can be dodged by dashing.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      The blast from a fully charged green shotgun can be dodged by dashing.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### Fup (Frozen Unfriendly Pull-It)
-Whiplash a rocket then freeze it, you need to be in the air when the rocket reaches you.<br/> 
-This creates a large red explosion at the cost of 35 hp.
+### FUP (Frozen Unfriendly Pull-It) (Again)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      Whiplash a rocket then freeze it, you need to be in the air when the rocket reaches you.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### Flayer Instas
-Hitting a mindflayer with an explosion as it does the blue orbs attack, it will reflect the back projectiles at it, killing the mindflayer instantly.<br/>
+::: note
+This creates a large red explosion at the cost of 35 HP.
+:::
+
+### Mindflayer Instas
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Hitting a mindflayer with an explosion as it does the blue orbs attack, it will reflect the back projectiles at it, killing the mindflayer instantly.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
 Overpumps and nukes have a lasting explosion making the timing more lenient
+:::
 
 ### SRS Combo
-At point blank fire a cannonball then punch with feedbacker slightly after, quick high damage, one taps virtues, cerberi, and sentries. 
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      At point blank fire a cannonball then punch with feedbacker slightly after, quick high damage, one taps virtues, cerberi, and sentries. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
 If you get the +CANNONBOOST style bonus, you punched too soon. <br/>
 You only need to charge srs cannon to 25% for full damage.
+:::
 
-### Conduction in water
-Jumpstart and electric railcannon automatically cause conduction instantly while underwater, with far greater range and self damage if you are touching the water.
+### Conduction In Water
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Jumpstart and electric railcannon automatically cause conduction instantly while underwater, with far greater range and self damage if you are touching the water.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Rocket Traps
-Placing a frozen rocket where an enemy will walk will let the rocket supercharge creating a red explosion.<br/>
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Placing a frozen rocket where an enemy will walk will let the rocket supercharge creating a red explosion.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: tip
 If you instead place the rocket where an enemy spawns it will create a red explosion whether or not it supercharged due to enemies spawning slightly off the ground.
+:::
 
 ### Knuckleblast Cooldown Cancel
-Using swap arm or whiplash will cancel the cooldown from a knuckleblaster shockwave.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Using swap arm or whiplash will cancel the cooldown from a knuckleblaster shockwave.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Overheat Quick Charge
-Firing one blue saw fully charges the heat on the green sawblade.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Firing one blue saw fully charges the heat on the green sawblade.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 <!---------------------------------------------->
 
 ## Coin Tech
 
 ### Split coins
-Shooting a coin with the marksman revolver during the flash at the peak of its ark, or after it has started
-making a humming sound while falling, will cause it to turn into two hitscans.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Shooting a coin with the marksman revolver during the flash at the peak of its ark, or after it has started making a humming sound while falling, will cause it to turn into two hitscans.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Coin Punch
-Punching a coin with the feedbacker at any point after the flash will send the coin into the nearest
-enemy or wherever you are facing and make it bounce back into the air with a damage increase, its
-damage caps after punching it into a surface 3 times
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Punching a coin with the feedbacker at any point after the flash will send the coin into the nearest enemy or wherever you are facing and make it bounce back into the air with a damage increase, its damage caps after punching it into a surface 3 times.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Dead coins
-Shooting a coin and shortly after firing a new coin will transfer the damage to the new coin and
-compound it, allowing you to bypass the damage cap on coin punching.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Shooting a coin and shortly after firing a new coin will transfer the damage to the new coin and compound it, allowing you to bypass the damage cap on coin punching.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Multi Dead Coin
-Firing multiple coins then shooting and firing a new coin will transfer all the damage of the
-coins to the new one, this requires delaying firing the new coin slightly more than with only one coin
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Firing multiple coins then shooting and firing a new coin will transfer all the damage of the coins to the new one, this requires delaying firing the new coin slightly more than with only one coin.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### Fast Coin
-Redrawing marksman, causing the coin cooldown to be reset instantly. 
-::: note
-This can be done with a variation # bind
+### Fast Coin 
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Redrawing marksman, causing the coin cooldown to be reset instantly.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: tip
+This can be done with a variation # bind that corresponds with your Marksman Revolver.
 :::
 
 ### Slab Coins
-When hittting a coin with the alternate Slab Piercer pistol.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      When hittting a coin with the alternate Slab Piercer pistol.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### Railcoins 
-Throw a coin through an enemy, then fire the electric rail. This will cause the rail to hit the enemy, then chain off the coin to hit it again. 
+### Railcoins
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Throw a coin through an enemy, then fire the electric rail. This will cause the rail to hit the enemy, then chain off the coin to hit it again. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Coin Add
-Quickly swapping back to the Marksman allows you to add more coins after a railcoin.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Quickly swapping back to the Marksman allows you to add more coins after a railcoin.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Ricostacks
-If multiple hitscans hit a coin at the same time while in hitstop, they will both ricochet off the coin, the
-same applies to a hitscan and a feedbacker punch or whiplash, this will also allow reusing the coin.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      If multiple hitscans hit a coin at the same time while in hitstop, they will both ricochet off the coin, the same applies to a hitscan and a feedbacker punch or whiplash, this will also allow reusing the coin.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Sludge
+TBA (To Be Added)
 
 <!---------------------------------------------->
 
 ## Types of Oobs/Skips:
 
-### Untagged wall clip
-Certain walls are untagged and thus will not correct where the rocket launcher places you when
-mounting a rocket, allowing you to teleport through them. Untagged walls can be identified by
-whiplashing them; if the whiplash passes through, the wall is untagged.
+### Untagged Wall Clip
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Certain walls are untagged and thus will not correct where the rocket launcher places you when mounting a rocket, allowing you to teleport through them. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: tip
+Untagged walls can be identified by whiplashing them; if the whiplash passes through, the wall is untagged.
+:::
 
 ### Miss Clip
-Certain walls, primarily in the violence layer are thinner, and don’t destroy frozen rockets that are placed in them. 
-Getting on a rocket that is in this state will clip the camera out of bounds, from on the rocket
-looking down at about a 45 degree angle, then shooting a rocket, tapping whiplash and jump at the same time will clip you out.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Certain walls, primarily in the VIOLENCE layer are thinner and don’t destroy frozen rockets that are placed in them. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: details 🛈 **Miss Clip Instructions** 🛈
+Shoot a frozen rocket and get on it. Getting on a rocket that is in this state will clip the camera out of bounds. Whilst on the rocket, look down at about a 45 degree angle, then shoot a rocket, tapping whiplash and jump at the same time, which will land you on your second rocket and clip you out.
+:::
 
 ### Tight Space Clips
-Certain gaps in geometry that the player can’t normally fit through can be moved through by mounting
-a rocket.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Certain gaps in geometry that the player can’t normally fit through can be moved through by mounting a rocket.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Slide Clips
-Certain gaps in geometry that the player can’t normally fit through can be moved through by spamming
-slide, these clips are generally more consistent the higher your frame rate and the faster you mash slide.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Certain gaps in geometry that the player can’t normally fit through can be moved through by spamming slide, these clips are generally more consistent the higher your frame rate and the faster you mash slide.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
 
 ### Trigger Skip
-Some enemy spawn triggers are incredibly thin, and can be skipping by mounting a rocket that is placed
-precisely due to mounting a rocket teleporting you slightly.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Some enemy spawn triggers are incredibly thin, and can be skipping by mounting a rocket that is placed precisely due to mounting a rocket teleporting you slightly.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Arch Clips
+TBA (To Be Added)
 
 ### Skuggle
-bro wtf is a skuggle???
+bro wtf is a skuggle??? man i wish i knew ;-;
 
 <!---------------------------------------------->
 
 ## Level Exits:
 
 ### CE Boost exit
-[Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) as the red door opens, place oil, [slide jump](/speedrun-tech.md#slide-jump), and slam.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="#ce-boost-core-eject-boost">CE Boost</a> as the red door opens, place oil, <a href="#slide-jump">slide jump</a>, and slam.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Slam store exit
-[Slam store](/speedrun-tech.md#slam-store) off of the exit door, place oil, slide and use [slideways](/speedrun-tech.md#slideways) for extra speed.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="#slam-store">Slam Store</a> off of the exit door, place oil, slide and use <a href="#slideways">slideways</a>.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
-### Ub exit
-Put your back to the exit door and [ultraboost](/speedrun-tech.md#ub-ultraboost) as it opens, then quickly turn around and place oil, then slam into the exit or stand slightly
-back from the door, as it opens [flick ub](/speedrun-tech.md#flick-ub), then place oil, then slam into the exit.
+### UB exit
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Put your back to the exit door and <a href="#ub-ultraboost">UB</a> as it opens, then quickly turn around and place oil, then slam into the exit or stand slightly back from the door, as it opens <a href="#flick-ub">flick UB</a>, then place oil, then slam into the exit.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Dash Extension Exit
 [Dash Extension](/speedrun-tech.md#dash-extension) as the end door opens, then [slide jump](/speedrun-tech.md#slide-jump) and slam.
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="#dash-extension">Dash Extension</a> as the end door opens, then <a href="#slide-jump">slide jump</a> and slam.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop autoplay muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Sandwich exit
+TBA (To Be Added)
