@@ -532,7 +532,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/8v8rwIz.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
