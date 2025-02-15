@@ -4,7 +4,7 @@
 ## [First Room](https://youtu.be/aIgoM4be7I8)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the start room, slide into the right wall of the red room, then [Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
 Fire a rocket at the window of the building on the right to break the electrical panel inside it <br/>
@@ -20,7 +20,7 @@ Ce boost to the checkpoint, this will kill you, but you can hit checkpoints whil
 ### [Slower Method](https://youtu.be/1vAmRO13oW4)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Chub](/speedrun-tech.md#chub-checkpoint-ub) straight up <br/>
 Dash backward and land on the pipe <br/>
@@ -35,7 +35,7 @@ Use a [Nuke](/speedrun-tech.md#nukes) to break both panels by the exit <br/>
 ### [Faster Method](https://youtu.be/G6TvLtWIz0w)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Move your camera slightly upwards, [Chub](/speedrun-tech.md#chub-checkpoint-ub) <br/>
 Hold backwards, look up, and place a frozen rocket right before you bonk on the ceiling <br/>

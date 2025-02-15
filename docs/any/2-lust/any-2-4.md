@@ -6,7 +6,7 @@
 ### [Walk + Slide]()
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 Start walking till the starting door opens <br/>
 As soon as it opens, quickly flick to the right and dash into the corner <br/>
@@ -18,7 +18,7 @@ Checkpoint
 ### [Dash Jump]()
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 Do a dash jump till you’re through the starting door <br/>
 Quickly slam, flick to the right, then dash through the corner <br/>
@@ -30,7 +30,7 @@ Checkpoint
 ### [Slam Store]()
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 Do a slam store then slide till you’re through the starting door <br/>
 Quickly slam, flick to the right, then dash through the corner <br/>
@@ -45,7 +45,7 @@ Checkpoint
 ### Tram Jumpstart
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 Jumpstart the tram and move it forward
 When the tram stops dash and whiplash the skull
@@ -54,7 +54,7 @@ Checkpoint
 ### Ub Bonk
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 Walk backwards slightly
 Ce boost

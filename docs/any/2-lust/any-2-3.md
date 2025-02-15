@@ -6,7 +6,7 @@
 ### [Core Snipe Boost](https://youtu.be/Jv8iuz0zvoc)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Csb](/speedrun-tech.md#csb-core-snipe-boosts) through the red doors <br/>
 Dash slide left onto the stairs <br/>
@@ -16,7 +16,7 @@ Once out of bounds, [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride)
 ### [Ultraboost](https://youtu.be/HlkWbGlP140)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Hold slide (or slam store slide) and [UB](/speedrun-tech.md#ub-ultraboost) backwards as the red doors open <br/>
 Dash slide left onto the stairs <br/>
@@ -29,7 +29,7 @@ Once out of bounds, [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride)
 ### [Slab Coin](https://youtu.be/0m0KVNSWgoE)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) and place an overheat saw where the two strays spawn <br/>
 Slam and throw 2 coins straight up for a [Slab Coin](/speedrun-tech.md#slab-coins) on the mindflayer <br/>

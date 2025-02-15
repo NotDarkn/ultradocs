@@ -4,7 +4,7 @@
 ## Ultraboost
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the red room hallway <br/>
 [Dive](/speedrun-tech.md#dives), then slam <br/>
@@ -17,7 +17,7 @@ Checkpoint as you reach the surface
 ### Standard Kill Spit
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
 Place a saw trap with 10 blue saws and an overheat saw <br/>
@@ -30,7 +30,7 @@ If it does the spit attack use sharpshooter alt fire to destroy a projectile the
 ### Standard Kill Lunge
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
 Place a saw trap with 10 blue saws and an overheat saw <br/>
@@ -43,4 +43,4 @@ If it does the lunge attack, slam jump so you land on top of leviathan, jumpstar
 ### Len Kill
 <font size="2">
     <b>Difficulty</b>: Hard (5/5)
-</font> <br/> 
+</font>

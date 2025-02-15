@@ -6,7 +6,7 @@
 ### [Third Room Clip](https://youtu.be/yNfrjTKevMU)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the starting room hallway and slide <br/>
 [Slide Jump](/speedrun-tech.md#slide-jump), overheat saw, then slide <br/>
@@ -26,7 +26,7 @@ Checkpoint
 ### [First Room Clip](https://youtu.be/hghUj1bhGSQ)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) in the red room hallway, dont do a second walljump <br/>
 [Dive](/speedrun-tech.md#dives) and hold slide, you want to be as centered as possible <br/>
@@ -42,7 +42,7 @@ Checkpoint
 ### [Oil Clear](https://youtu.be/SM6GxEzTiTo)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump), slam and throw 3 coins, [Slab Coin](/speedrun-tech.md#slab-coins) them to kill the left hideous mass <br/>
 The angle you throw the coins at is important, you want the coins to be at about the same  height as the hideous mass's weakpoint or it might miss the weakpoint and not kill <br/>

@@ -6,7 +6,7 @@
 ### Slam Store Dive
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then [dive](/speedrun-tech.md#dives) <br/>
 [Flick UB](/speedrun-tech.md#flick-ub) <br/>
@@ -19,7 +19,7 @@ Slam into the hole <br/>
 ### SSJ/Sideways SSJ
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then [ssj](/speedrun-tech.md#ssj-super-slide-jump) <br/>
 [Flick UB](/speedrun-tech.md#flick-ub) <br/>

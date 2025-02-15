@@ -6,14 +6,14 @@
 ### [Double CE Boost](https://youtu.be/t32Djfbqi70)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) through red doors as they open, slam when you reach the door, dash slide through, then [Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) over the lava, when you land, [Slide Jump](/speedrun-tech.md#slide-jump) and wait until the boss door starts to open before checkpointing so that the boss will do the fast spawn animation
 
 ### [Lava Hall UB](https://youtu.be/7KOZgVpFU9k)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the red room hallway and slide, using [Slideways](/speedrun-tech.md#slideways) for extra speed <br/>
 [UB](/speedrun-tech.md#ub-ultraboost) to bonk onto the ceiling and then perfectly go straight into the door <br/>
@@ -28,7 +28,7 @@ You can hold left or right to adjust slightly to make sure you land at the door 
 ### [Simple Variation](https://www.youtube.com/watch?v=oB-7rGVHKnU)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the room, place a saw trap with 8 blue saws and an overheat saw, using multiple magnets so it hits where both Cerberi will spawn. <br/>
 First Cerberus: <br/>
@@ -41,7 +41,7 @@ Exit: During hitstop from the second Cerberus dying start charging the green sho
 ### [Intermediate Variation](https://youtu.be/KGV218RLHEo)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the room, place a saw trap with 8 blue saws and an overheat saw that can hit where the first Cerberus spawns <br/>
 First Cerberus: <br/>
@@ -53,6 +53,6 @@ Note: If your rockets are exploding while you are trying to parry, stop placing 
 ### [Harder Intermediate Variation](https://youtu.be/KGV218RLHEo&t=13s)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 Similar to the Intermediate variation, however, once you’ve placed all your saws, freeze and place a rocket where the second cerberus would spawn, then quickly swap to jackhammer and proceed with the intermediate kill, except with 4 rockets instead of 3. Once you’ve placed your 4 rockets, dismount them and then [S.R.S Combo](/speedrun-tech.md#srs-combo) the first cerb so it dies, then once the second cerb dies it should be instantly killed because of the 4 rockets.

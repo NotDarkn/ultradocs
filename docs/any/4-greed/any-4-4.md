@@ -6,7 +6,7 @@
 ### Core Snipe Boost
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [CSB](/speedrun-tech.md#core-snipe-boosts) through the red doors as the open, and slam on to  the blue bounce pad<br/>
 Bounce pads give you 160 vu/s (Vertical Units / Second) and diminishes to ~45 vu/s when you reach the top. Ground slamming on the pads give you 200 vu/s and only diminish to ~120 vu/s when you reach the top. This saves ~1 second<br/>
@@ -17,7 +17,7 @@ Slam down and place the skull, dash slide through the doors, then [CE boost](/sp
 ### Rocket Ultraboost 
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 While aligned with the initial spawn, walk towards the door before the ramp, aim in-between the side grey line and the center dark red line as pictured below: <br/>
 Once aligned, shoot the rocket and freeze it when it’s halfway between you and the door.<br/>
@@ -47,7 +47,7 @@ Once in the main hallway, either [CE boost](/speedrun-tech.md#ce-boost-core-ejec
 ### 3 Coin Punch + 2 Deadcoin
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Checkpoint, then [Dash Jump](/speedrun-tech.md#dash-jump) to V2 <br/>
 Jump throw a coin down then [punch it](/speedrun-tech.md#coin-punch) three times <br/>
@@ -57,7 +57,7 @@ Punch it 3 more times to end first phase <br/>
 ### 3 Coin Punch + 5 Deadcoin
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the arena and throw a coin below you <br/>
 Once you’re near V2 (or when you’re able to skip cutscene), [punch the coin](/speedrun-tech.md#coin-punch) then slam down, then punch the coin 2 more times <br/>
@@ -72,7 +72,7 @@ To get P-Rank, charge up a blue piercer when punching the coin, and it at the co
 ### Alternate Sawed-On
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Equip your Alternate Sawed-On. Once at the exit, [Dash Jump](/speedrun-tech.md#dash-jump) so you have momentum and height <br/>
 Whiplash to V2 then [Whipcancel](/speedrun-tech.md#whip-cancel) once you’re near V2, then hit V2 with your Sawed-On. This should kill it after ~5 frames <br/>
@@ -80,7 +80,7 @@ Whiplash to V2 then [Whipcancel](/speedrun-tech.md#whip-cancel) once you’re ne
 ### Alternative Pump Charge
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Charge an overpump with green jackhammer. Once at the exit, [Dash Jump](/speedrun-tech.md#dash-jump) so you have momentum and height <br/>
 Whiplash to V2 then [Whipcancel](/speedrun-tech.md#whip-cancel) once you’re near V2, then hit V2 with your Pump Charge. This should kill V2 after  ~3 frames <br/>
@@ -88,7 +88,7 @@ Whiplash to V2 then [Whipcancel](/speedrun-tech.md#whip-cancel) once you’re ne
 ### Knuckleblaster + Pump Charge
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Charge an over pump. Once at the exit, [Dash Jump](/speedrun-tech.md#dash-jump) so you have momentum and height <br/>
 Whiplash to V2, knuckleblast, then overpump; if timed properly, it will kill V2 instantly <br/>
@@ -101,7 +101,7 @@ Whiplash to V2, knuckleblast, then overpump; if timed properly, it will kill V2 
 ### Core Ub
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Open and close the pause menu then turn around <br/>
 [Ultraboost](/speedrun-tech.md#ub-ultraboost) when you land <br/>
@@ -116,7 +116,7 @@ Add oil to keep speed and slide <br/>
 ### Rocket Ub
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Open and close the pause menu and then swap to freezeframe <br/>
 Shoot a rocket down right behind where you land <br/>
@@ -133,7 +133,7 @@ Add oil to keep speed and slide <br/>
 ### Insta-Exit
 <font size="2">
     <b>Difficulty</b>: Hard (5/5)
-</font> <br/> 
+</font>
 
 Open and Close the pause menu and then swap to the freezeframe<br/>
 While facing backwards, shoot a rocket slightly diagonal right to where you land<br/>

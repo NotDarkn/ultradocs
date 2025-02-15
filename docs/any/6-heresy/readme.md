@@ -1,5 +1,7 @@
 ---
-sidebar: false
+
+toc: false
+
 ---
 
 # Heresy

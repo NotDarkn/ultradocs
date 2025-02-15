@@ -1,6 +1,7 @@
 ---
-sidebar: false
+
 toc: false
+
 ---
 
 # Getting Started
@@ -11,7 +12,7 @@ Currently this is **in development**, so changes are being made periodically.
 
 # What category would you like to run?
 
-I want to run [**Any%**](/any/any-choosing.md)
+I want to run [**Any%**](/any/)
 
 # IGNORE
 

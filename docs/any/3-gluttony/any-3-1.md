@@ -4,7 +4,7 @@
 ## [Tight Space Clip](https://youtu.be/WvOWvKw9jVM)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the start room then slide <br/>
 Face into gap in the door frame <br/>
@@ -19,7 +19,7 @@ Collect the checkpoint from underneath, if the door is open when you checkpoint 
 ### [Knuckleblast Clear](https://youtu.be/F92tVBHlow0)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump), delay the jump input slighlty if you are getting caught on the door <br/>
 Use slab revolver to kill the center drone <br/>
