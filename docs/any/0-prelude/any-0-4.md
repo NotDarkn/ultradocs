@@ -9,12 +9,12 @@
 </font> <br/> 
 
 [Slam Store](/speedrun-tech.md#slam-store) slide to the arena <br/>
-[Slide jump](/speedrun-tech.md#slide-jump) through the door <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) through the door <br/>
 Place 3 magnets
 Whiplsh and jumpstart one of the strays, fire nails at it, then knuckleblast it <br/>
 Thow additional coins to ensure jumpstart kills <br/>
 Dash jump into maurice with jackhammer to instakill<br/>
-[Flick ub](/speedrun-tech.md#flick-ub) to checkpoint
+[Flick UB](/speedrun-tech.md#flick-ub) to checkpoint
 
 ### [Trigger skip](https://youtu.be/foBhu5TiZok)
 <font size="2">
@@ -23,10 +23,10 @@ Dash jump into maurice with jackhammer to instakill<br/>
 
 Line up camera to spot shown in video without moving<br/>
 [Slam Store](/speedrun-tech.md#slam-store) slide to the arena <br/>
-[Slide jump](/speedrun-tech.md#slide-jump) through the door <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) through the door <br/>
 Without moving camera align crosshair to the spot shown (weapon wheel can be used for more precise adjustments) <br/>
 Activate freezeframe and place a rocket <br/>
-Jump onto the rocket then [Flick ub](/speedrun-tech.md#flick-ub) to the checkpoint<br/>
+Jump onto the rocket then [Flick UB](/speedrun-tech.md#flick-ub) to the checkpoint<br/>
 
 ### Hard Clear
 <font size="2">
@@ -34,12 +34,12 @@ Jump onto the rocket then [Flick ub](/speedrun-tech.md#flick-ub) to the checkpoi
 </font> <br/> 
 
 Place oversaw on the rightmost stray <br/>
-[Split coin](/speedrun-tech.md#split-coins) the right 2 strays <br/>
+[Split Coin](/speedrun-tech.md#split-coins) the right 2 strays <br/>
 Split coin the top strays <br/>
 Place magnets to kill filth (optional, for consistency) <br/>
 Knuckle blast remaining filth <br/>
 Dash jump and jackhammer maurice <br/>
-[Flick ub](/speedrun-tech.md#flick-ub) to the checkpoint
+[Flick UB](/speedrun-tech.md#flick-ub) to the checkpoint
 
 ### Insta Trigger Skip
 Cxn you do this
@@ -52,13 +52,13 @@ Cxn you do this
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-[Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) or [ultraboost](/speedrun-tech.md#ub-ultraboost) through the long hallway <br/>
+[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) or [Ultraboost](/speedrun-tech.md#ub-ultraboost) through the long hallway <br/>
 Slam if neccessary and dash to checkpoint <br/>
 Checkpoint <br/>
 Dash, then use malicious rail to boost up <br/>
-[Rocket ride](/speedrun-tech.md#instant-rocket-ride) over the spawn trigger <br/>
+[Rocket Ride](/speedrun-tech.md#instant-rocket-ride) over the spawn trigger <br/>
 Slam, then slide <br/>
-[Ce boost exit](/speedrun-tech.md#ce-boost-exit) <br/>
+[CE Boost Exit](/speedrun-tech.md#ce-boost-exit) <br/>
 
 ### 2nd Trigger Skip
 Cxn also do this

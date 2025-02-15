@@ -7,8 +7,8 @@ actions:
     link: /get-started
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: General Info
+    link: /general-info
     type: secondary
 
 features:
@@ -25,7 +25,7 @@ features:
   - title: Bundlers
     details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: Made with 💚 by ULTRAKILL Speedrunners
 ---
 
 This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.

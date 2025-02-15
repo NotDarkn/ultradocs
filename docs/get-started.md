@@ -1,5 +1,6 @@
 ---
 sidebar: false
+toc: false
 ---
 
 # Getting Started

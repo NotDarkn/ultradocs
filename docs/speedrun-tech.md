@@ -1,3 +1,9 @@
+---
+
+sidebar: false
+
+---
+
 # Speedrun Tech
 
 <!---------------------------------------------->
@@ -23,7 +29,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/0mSZzsm.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -47,7 +53,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/OkufseO.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -73,7 +79,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/ZIp3Bsh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -96,7 +102,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/EbQLzoL.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -119,7 +125,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/PDuF9Tm.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -165,7 +171,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/BnXlahK.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -188,7 +194,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/fptuzWQ.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -273,7 +279,7 @@ TBA (To Be Added)
 ### Wall SSJ
 TBA (To Be Added)
 	
-### Whip cancel
+### Whip Cancel
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -290,13 +296,13 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/dy0QK5O.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Whip slamming
+### Whip Slamming
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -340,7 +346,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/rqy7IKZ.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -390,7 +396,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/AiWD4VS.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -413,7 +419,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/my7MMZ4.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -486,7 +492,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/0v6niFq.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -509,7 +515,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/jH8w3Kf.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -555,7 +561,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/8v8rwIz.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -590,7 +596,7 @@ The height of the core when you shoot it is very lenient.
 
 <!---------------------------------------------->
 
-## Combat Tech List:
+## Combat Tech List
 
 ### Buffered Piercer
 <br />
@@ -913,7 +919,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
 
 ## Coin Tech
 
-### Split coins
+### Split Coins
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -930,7 +936,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/qwZnFx5.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -953,13 +959,13 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/phnxqkN.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Dead coins
+### Deadcoins
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -976,13 +982,13 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/9L6cLPX.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Multi Dead Coin
+### Multi-Deadcoin
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -999,7 +1005,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/mbbFrjh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1049,7 +1055,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/WtDG24Z.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1129,7 +1135,7 @@ TBA (To Be Added)
 
 <!---------------------------------------------->
 
-## Types of Oobs/Skips:
+## Types of Oobs/Skips
 
 ### Untagged Wall Clip
 <br />
@@ -1263,9 +1269,9 @@ bro wtf is a skuggle??? man i wish i knew ;-;
 
 <!---------------------------------------------->
 
-## Level Exits:
+## Level Exits
 
-### CE Boost exit
+### CE Boost Exit
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1288,7 +1294,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
   </tr>
 </tb>
 
-### Slam store exit
+### Slam Store Exit
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1311,7 +1317,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
   </tr>
 </tb>
 
-### UB exit
+### UB Exit
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1357,5 +1363,5 @@ bro wtf is a skuggle??? man i wish i knew ;-;
   </tr>
 </tb>
 
-### Sandwich exit
+### Sandwich Exit
 TBA (To Be Added)
