@@ -3,6 +3,6 @@
 
 ***
 
-<p align="center">
-    <h2>Documentation for all speedrun-related tech in ULTRAKILL</h2>
-</p>
+<h2 align="center">
+    Documentation for all speedrun-related tech in ULTRAKILL
+</h2>
