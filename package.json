@@ -5,17 +5,16 @@
   "license": "AGPL-3.0",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress build docs --config .vuepress/config.js",
-    "docs:clean-dev": "vuepress dev docs --clean-cache --config .vuepress/config.js",
-    "docs:dev": "vuepress dev docs --config .vuepress/config.js",
+    "docs:build": "vuepress-vite build docs",
+    "docs:clean-dev": "vuepress-vite dev docs --clean-cache",
+    "docs:dev": "vuepress-vite dev docs",
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.19",
-    "@vuepress/theme-default": "2.0.0-rc.76",
-    "sass": "^1.84.0",
-    "sass-embedded": "^1.83.4",
+    "sass-embedded": "^1.83.0",
     "vue": "^3.5.13",
-    "vuepress": "2.0.0-rc.19"
+    "vuepress": "2.0.0-rc.19",
+    "vuepress-theme-hope": "2.0.0-rc.71"
   }
 }
