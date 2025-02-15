@@ -3,7 +3,7 @@
 
 ## No Jump Pad
 
-### [Flick Ub]()
+### [Flick Ub](https://youtu.be/-eq9mjIppO0)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
@@ -14,7 +14,7 @@ Slam down to the hole, [dash extension](/speedrun-tech.md#dash-extension) out di
 Around when you reach the second building [instant rocket ride](/speedrun-tech.md#instant-rocket-ride) to go up to the exit <br/>
 [Ce boost exit](/speedrun-tech.md#ce-boost-exit) <br/>
 
-### [Rocket Ub]()
+### Rocket Ub
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
@@ -27,7 +27,7 @@ Around when you’re next to the second building, [instant rocket ride](/speedru
 [Ce boost exit](/speedrun-tech.md#ce-boost-exit)
 
 
-## [Jump Pad]()
+## Jump Pad
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (4/5)
 </font> <br/> 
