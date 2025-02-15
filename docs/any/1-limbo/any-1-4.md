@@ -47,8 +47,8 @@ Turn around and [Ultraboost](/speedrun-tech.md#ub-ultraboost) <br/>
 God UB is simulair to the UB + Oil / [Ultraboost](/speedrun-tech.md#ub-ultraboost) but with the difference of speed. <br/>
 Align yourself with the alignment shown in the video, then go down the stairs till you’re at the same spot as the one in either video. <br/>
 God UB will only accur when you allign yourself perfectly and time the [Ultraboost](/speedrun-tech.md#ub-ultraboost) perfectly aswell and follow that up by a [Bhop](/speedrun-tech.md#bhop). <br/>
-::: details
-Regular [Ultraboost](/speedrun-tech.md#ub-ultraboost) ranging from <=120 hU/s And a God UB ranging from 135 to 142.x hU/s 
+::: details **Regarding UB Speed**
+Regular [Ultraboost](/speedrun-tech.md#ub-ultraboost) ranging from <=130 HU/s, and a God UB ranges from 130 to 142.x hU/s 
 :::
 
 

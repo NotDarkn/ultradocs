@@ -1,4 +1,4 @@
-# Other Info
+# General Info
 
 ## Please read the src rules before submitting runs
 The moderators would really apreciate it

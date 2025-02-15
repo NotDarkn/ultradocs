@@ -10,7 +10,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
-    navbar: ['/', '/get-started', '/speedrun-tech'],
+    navbar: ['/', '/get-started', '/speedrun-tech', '/general-info'],
     
   }),
   bundler: viteBundler(),
