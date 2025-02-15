@@ -22,7 +22,7 @@ Slide when you land to maintain speed, then slide diagonally onto the pipe, and 
 </font>
 
 [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) while charging both primary and secondary fire on the red jackhammer, then hit the malicious face with both, during the hitstop use electric rail and [Slam Store Exit](/speedrun-tech.md#slam-store-exit) <br/>
-If timed correctly, you can insta-kill the malicious face without need to use the electric rail cannon, allowing you to [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)<>
+If timed correctly, you can insta-kill the malicious face without need to use the electric rail cannon, allowing you to [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 
 
 ## False Exit 
