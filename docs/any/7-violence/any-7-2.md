@@ -9,13 +9,13 @@
 </font> <br/> 
 
 Charge an over pump <br/>
-[Slam store](/speedrun-tech.md#slam-store) in the red room hallway and slide <br/>
-[Slide jump](/speedrun-tech.md#slide-jump) <br/>
+[Slam Store](/speedrun-tech.md#slam-store) in the red room hallway and slide <br/>
+[Slide Sump](/speedrun-tech.md#slide-jump) <br/>
 Turn around and over pump <br/>
 Whiplash the blue hook point <br/>
-[Whip cancel](/speedrun-tech.md#whip-cancel) so dont go too high <br/>
+[Whip Cancel](/speedrun-tech.md#whip-cancel) so dont go too high <br/>
 Whiplash the yellow hook point and hold whiplash until you are on the ground <br/>
-[Slide jump](/speedrun-tech.md#slide-jump) <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
 Slam jump <br/>
 Dash into the corner, then slam for consistent positioning <br/>
 Angle camera as shown <br/>
@@ -23,7 +23,7 @@ Place a frozen rocket, jump and slam <br />
 Angle camera as shown <br/>
 Fire a rocket, whiplash, and jump at the same time <br/>
 Malicious rail your rocket <br/>
-Slam into final arena entrance and [slide jump](/speedrun-tech.md#slide-jump) <br/> 
+Slam into final arena entrance and [Slide Jump](/speedrun-tech.md#slide-jump) <br/> 
 Checkpoint
 
 ### Arch Clip
@@ -37,12 +37,12 @@ Checkpoint
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font> <br/> 
 
-[Dash jump](/speedrun-tech.md#dash-jump) and [slam store](/speedrun-tech.md#slam-store) off the left side of the red room hallway, wall jump off the right side, and land as far forward and left as possible <br/>
+[Dash Jump](/speedrun-tech.md#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) off the left side of the red room hallway, wall jump off the right side, and land as far forward and left as possible <br/>
 Look up at a 45 degree angle and as much right as you can without bonking during the dive <br/>
 [Dive](/speedrun-tech.md#dives), then place a frozen rocket right as you bonk on the ceiling <br/>
-[Flick ub](/speedrun-tech.md#flick-ub) <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) <br/>
 Slam <br/>
-[Instant rocket ride](/speedrun-tech.md#instant-rocket-ride) to reach the checkpoint <br/>
+[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to reach the checkpoint <br/>
 If you angle your ub perfectly you wont need to rocket ride and can instead dash <br/>
 Checkpoint 
 
@@ -53,26 +53,26 @@ Checkpoint
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-Dash, turn right and [dash jump](/speedrun-tech.md#dash-jump) <br/>
+Dash, turn right and [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
 [Dive](/speedrun-tech.md#dives) and hold slide <br/>
-[Wall bounce](/speedrun-tech.md#wall-bounces) <br/>
+[Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
 Slam <br/>
 Dash slide and place oil under you to maintain speed <br/>
 Release and press slide again to turn <br/>
-[Ub exit](/speedrun-tech.md#ub-exit)
+[UB Exit](/speedrun-tech.md#ub-exit)
 
 ### [Double Wall Bounce](https://youtu.be/6gSWHYXWYC4)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-Dash, turn right and [dash jump](/speedrun-tech.md#dash-jump) <br/>
+Dash, turn right and [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
 [Dive](/speedrun-tech.md#dives) and hold slide <br/>
-[Wall bounce](/speedrun-tech.md#wall-bounces) <br/>
+[Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
 Wall bounce again <br/>
 [Dive](/speedrun-tech.md#dives) <br/>
 Slam <br/>
-[Ub exit](/speedrun-tech.md#ub-exit) <br/>
+[UB Exit](/speedrun-tech.md#ub-exit) <br/>
 The second wall bounce sometimes spawns the arena because of hitbox jank, making it faster, but less consistant
 
 ### Trigger Skip 

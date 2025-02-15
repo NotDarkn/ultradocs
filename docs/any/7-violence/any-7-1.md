@@ -27,7 +27,7 @@ Rocket ride into the block on the bottom of the pillar <br/>
 Slam <br/>
 [Slide jump](/speedrun-tech.md#slide-jump) <br/>
 Dash slide <br/>
-[Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+[CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
 Slide <br/>
 [Dash extension](/speedrun-tech.md#dash-extension) <br/>
 Slam <br/>
@@ -63,7 +63,7 @@ Walk off the tram and go slightly under minotaur <br/>
 Jumpstart <br/>
 Fire a magnet into minotaur <br/>
 [Rail coin](/speedrun-tech.md#railcoins) and [coin add](/speedrun-tech.md#coin-add) all your coins <br/>
-[Srs combo](/speedrun-tech.md#srs-combo) <br/>
+[S.R.S combo](/speedrun-tech.md#srs-combo) <br/>
 Watch for when saw disappear, then checkpoint
 
 ### Harmless Strats
@@ -82,9 +82,9 @@ Dash <br/>
 Press the button <br/>
 Dash <br/>
 [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) <br/>
-[Dsj](/speedrun-tech.md#dsj-dash-slide-jump) into the arena <br/>
+[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena <br/>
 Place a saw trap on the pillar with an overheat saw <br/>
 Jumpstart minotaur <br/>
 Place a magnet on it <br/>
-[Rail coin](/speedrun-tech.md#railcoins) and [coin add](/speedrun-tech.md#coin-add) all your coins <br/>
-[Srs combo](/speedrun-tech.md#srs-combo)
+[Rail Coin](/speedrun-tech.md#railcoins) and [Coin Add](/speedrun-tech.md#coin-add) all your coins <br/>
+[S.R.S Combo](/speedrun-tech.md#srs-combo)

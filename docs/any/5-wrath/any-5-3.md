@@ -7,12 +7,12 @@
 </font> <br/> 
 
 [Slam store](/speedrun-tech.md#slam-store) in the red room hallway then slide <br/>
-[Ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) then shoot a rocket at the wall to get more height <br/>
-Dash forward slam, then [dash extension](/speedrun-tech.md#dash-extension) down the stairs <br/>
+[CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) then shoot a rocket at the wall to get more height <br/>
+Dash forward slam, then [Dash Extension](/speedrun-tech.md#dash-extension) down the stairs <br/>
 Face down and into the gap in the broken door <br/>
 Place a frozen rocket, jump and hold forward and left <br/>
 Dash twice to the falling wall, and hold against it <br/>
-[Ub](/speedrun-tech.md#ub-ultraboost) up <br/>
+[UB](/speedrun-tech.md#ub-ultraboost) up <br/>
 [Instant rocket ride](/speedrun-tech.md#instant-rocket-ride) to the checkpoint <br/>
 
 
@@ -23,15 +23,15 @@ Dash twice to the falling wall, and hold against it <br/>
     <b>Difficulty</b>: Intermediate (3/5)
 </font> <br/> 
 
-[Slide jump](/speedrun-tech.md#slide-jump) <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
 [Fup](/speedrun-tech.md#fup-frozen-unfriendly-pull-it) <br/>
-[Slide jump](/speedrun-tech.md#slide-jump) <br/>
-[Dsj](/speedrun-tech.md#dsj-dash-slide-jump) up the stairs <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
+[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) up the stairs <br/>
 Dash to the door  <br/>
 Dash again as it opens to cancel the knockback <br/>
 Slam <br/>
 [Dive](/speedrun-tech.md#dives) to the door<br/>
-[Flick ub](/speedrun-tech.md#flick-ub) through the door <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
 Place oil to maintain speed <br/>
 
 ### [Slam Store](https://youtu.be/8n6OD23X8qA)
@@ -39,14 +39,14 @@ Place oil to maintain speed <br/>
     <b>Difficulty</b>: Intermediate (3/5)
 </font> <br/> 
 
-[Slam store](/speedrun-tech.md#slam-store) then [Dive](/speedrun-tech.md#dives), release slide before touching the water or you will bounce <br/>
+[Slam Store](/speedrun-tech.md#slam-store) then [Dive](/speedrun-tech.md#dives), release slide before touching the water or you will bounce <br/>
 [Slide jump](/speedrun-tech.md#slide-jump) <br/>
-[Dsj](/speedrun-tech.md#dsj-dash-slide-jump) up the stairs  <br/>
+[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) up the stairs  <br/>
 Dash to the door <br/>
 Dash again as it opens to cancel the knockback <br/>
 Slam <br/>
 [Dive](/speedrun-tech.md#dives) to the door<br/>
-[Flick ub](/speedrun-tech.md#flick-ub) through the door <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
 Place oil to maintain speed
 
 ### Stupid Hell Strats

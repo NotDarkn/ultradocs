@@ -6,10 +6,10 @@
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-[Dash jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, [slam store](/speedrun-tech.md#slam-store), then wall jump off the other side of the hallway, then dive and hold slide <br/>
-Dash forward, slam, and [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+[Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, [Slam Store](/speedrun-tech.md#slam-store), then wall jump off the other side of the hallway, then dive and hold slide <br/>
+Dash forward, slam, and [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
 Slam at the next door and slide diagonally into the doorframe to clip through it <br/>
-[Flick ub](/speedrun-tech.md#flick-ub) to reach the checkpoint<br/>
+[Flick UB](/speedrun-tech.md#flick-ub) to reach the checkpoint<br/>
 
 
 ## Boss Kill
@@ -19,13 +19,13 @@ Slam at the next door and slide diagonally into the doorframe to clip through it
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-[Dash jump](/speedrun-tech.md#dash-jump), look down and throw a coin, then [punch it](/speedrun-tech.md#coin-punch) 3 times <br/>
-Look up and [dead coin](/speedrun-tech.md#dead-coins) 4 times <br/>
+[Dash Jump](/speedrun-tech.md#dash-jump), look down and throw a coin, then [punch it](/speedrun-tech.md#coin-punch) 3 times <br/>
+Look up and [Dead Coin](/speedrun-tech.md#dead-coins) 4 times <br/>
 Jump and punch the coin as Gabriel spawns <br/>
 Start charging a slab piercer charge shot <br/>
 Slam jump and punch the coin again <br/>
 Dash to the coin and punch it a 3rd time <br/>
 Slam then jump and punch the coin a final time <br/>
-Fire the [charge shot and electric rail](/speedrun-tech.md#ricostacks) up through Gabriel into the coin <br/>
+Fire the [charge shot and electric railcannon](/speedrun-tech.md#ricostacks) up through Gabriel into the coin <br/>
 
 ### Ricostack or something idk

@@ -61,7 +61,7 @@ Punch it 3 more times to end first phase <br/>
 
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the arena and throw a coin below you <br/>
 Once you’re near V2 (or when you’re able to skip cutscene), [punch the coin](/speedrun-tech.md#coin-punch) then slam down, then punch the coin 2 more times <br/>
-Look up and [dead coin](/speedrun-tech.md#dead-coins) 5 times <br/>
+Look up and [Dead Coin](/speedrun-tech.md#dead-coins) 5 times <br/>
 Jump up and punch the coin; the cutscene will end by the last deadcoin. <br/>
 Punch the coin 2 more times to end the phase <br/>
 ::: note

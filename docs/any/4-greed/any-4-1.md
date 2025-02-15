@@ -8,11 +8,11 @@
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-[Dash jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then [dive](/speedrun-tech.md#dives) <br/>
-[Flick Ub](/speedrun-tech.md#flick-ub) <br/>
+[Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then [dive](/speedrun-tech.md#dives) <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) <br/>
 Shoot the breakable ceiling with the slab revolver <br/>
 Slam into the hole <br/>
-[Ce Boost Exit](/speedrun-tech.md#ce-boost-exit) 
+[CE Boost Exit](/speedrun-tech.md#ce-boost-exit) 
 
 ## Exit
 
@@ -21,11 +21,11 @@ Slam into the hole <br/>
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font> <br/> 
 
-[Dash jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then [ssj](/speedrun-tech.md#ssj-super-slide-jump) <br/>
-[Flick Ub](/speedrun-tech.md#flick-ub) <br/>
+[Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, slam store, then wall jump off the other side of the hallway, then [ssj](/speedrun-tech.md#ssj-super-slide-jump) <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) <br/>
 Shoot the breakable ceiling with the slab revolver <br/>
 Slam into the hole <br/>
-[Ce Boost Exit](/speedrun-tech.md#ce-boost-exit)
+[CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 
 ### Rocket UB
 <!-- includes both with 2 rockets, and rocket + core -->
