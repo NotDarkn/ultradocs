@@ -12,13 +12,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Bun.sh
-        uses: oven-sh/setup-bun@v1
+      - name: Setup Node.JS
+        uses: actions/setup-node@v4
 
       - name: Update dependencies
         run: |
-          bunx taze -w
-          bun install
+          npx taze -w
+          npm install
 
       - name: Commit updates
         run: |
