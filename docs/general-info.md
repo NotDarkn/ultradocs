@@ -28,4 +28,5 @@ RTA: Real Time Attack, timing speedruns based on real time <br/>
 IGT: In Game Time, timing speedruns based on the in game timer meaning pauses, load times, and hitstops are removed <br/>
 OOB: Out of bounds <br/>
 Slarp: slab sharpshooter <br/>
+Maurice: Malicious Face<br/>
 
