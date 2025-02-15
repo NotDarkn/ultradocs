@@ -1,5 +1,9 @@
-# 7-4 // .. LIKE ANTENNAS TO HEAVEN (Any%)
+---
+prev: ./any-7-S
+next: ../
+---
 
+# 7-4 // .. LIKE ANTENNAS TO HEAVEN (Any%)
 
 ## Checkpoint
 

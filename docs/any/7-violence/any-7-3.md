@@ -1,5 +1,9 @@
-# 7-3 // NO SOUND, NO MEMORY (Any%)
+---
+prev: ./any-7-2
+next: ./any-7-S
+---
 
+# 7-3 // NO SOUND, NO MEMORY (Any%)
 
 ## Main Exit
 

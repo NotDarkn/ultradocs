@@ -1,5 +1,9 @@
-# 5-4 // LEVIATHAN (Any%)
+---
+prev: ./any-5-3
+next: ./6-heresy/
+---
 
+# 5-4 // LEVIATHAN (Any%)
 
 ## Ultraboost
 <font size="2">
@@ -10,7 +14,6 @@
 [Dive](/speedrun-tech.md#dives), then slam <br/>
 [UB](/speedrun-tech.md#ub-ultraboost) up <br/>
 Checkpoint as you reach the surface 
-
 
 ## Boss Kill
 

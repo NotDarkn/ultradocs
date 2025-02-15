@@ -1,5 +1,9 @@
-# 4-3 // A SHOT IN THE DARK (Any%)
+---
+prev: ./any-4-2
+next: ./any-4-4
+---
 
+# 4-3 // A SHOT IN THE DARK (Any%)
 
 ## Filth Clip
 <font size="2">

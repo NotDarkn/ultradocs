@@ -1,5 +1,9 @@
-# 2-3 SHEER HEART ATTACK (Any%)
+---
+prev: ./any-2-2
+next: ./any-2-4
+---
 
+# 2-3 SHEER HEART ATTACK (Any%)
 
 ## Slide Clip
 
@@ -23,7 +27,6 @@ Dash slide left onto the stairs <br/>
 Spam slide into the dip in the doorway <br/>
 Once out of bounds, [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to the checkpoint, it can be hit from underneath <br/>
 
-
 ## Final Arena
 
 ### [Slab Coin](https://youtu.be/0m0KVNSWgoE)
@@ -40,7 +43,6 @@ Use [split coins](/speedrun-tech.md#split-coins) to kill whatever is left <br/>
 
 ### Whatever the world record does
 Yeah whatever that shit is <br/>
-
 
 ## Alternate Exits
 CE boost exit <br/>

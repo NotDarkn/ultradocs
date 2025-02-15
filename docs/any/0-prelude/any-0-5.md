@@ -1,5 +1,9 @@
-# 0-5 // CERBERUS (Any%)
+---
+prev: ./any-0-4
+next: ../1-limbo/
+---
 
+# 0-5 // CERBERUS (Any%)
 
 ## Checkpoint
 

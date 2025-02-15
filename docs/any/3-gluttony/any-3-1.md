@@ -1,5 +1,9 @@
-# 3-1 // BELLY OF THE BEAST (Any%)
+---
+prev: ./
+next: ./any-3-2
+---
 
+# 3-1 // BELLY OF THE BEAST (Any%)
 
 ## [Tight Space Clip](https://youtu.be/WvOWvKw9jVM)
 <font size="2">
@@ -12,7 +16,6 @@ Look down, place a frozen rocket, jump, and slam onto it <br/>
 Slam off the rocket <br/>
 [Flick UB](/speedrun-tech.md#flick-ub) slightly left of the checkpoint to avoid geometry <br/>
 Collect the checkpoint from underneath, if the door is open when you checkpoint it will be closed until you move away from it, and back to it <br/>
-
 
 ## Arena Clear
 

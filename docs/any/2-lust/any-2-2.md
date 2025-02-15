@@ -1,5 +1,9 @@
-# 2-2 // DEATH AT 20,000 VOLTS (Any%)
+---
+prev: ./any-2-1
+next: ./any-2-3
+---
 
+# 2-2 // DEATH AT 20,000 VOLTS (Any%)
 
 ## [First Room](https://youtu.be/aIgoM4be7I8)
 <font size="2">
@@ -13,7 +17,6 @@ Break the final panel with a projectile boost or revolver shot <br/>
 Slam, then ce boost under the door as it opens <br/>
 [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) up the second set of stairs <br/>
 Ce boost to the checkpoint, this will kill you, but you can hit checkpoints while dead
-
 
 ## Untagged Wall Clip: 
 

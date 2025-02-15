@@ -1,5 +1,9 @@
-# 1-3 // HALLS OF SACRED REMAINS (Any%)
+---
+prev: ./any-1-2
+next: ./any-1-4
+---
 
+# 1-3 // HALLS OF SACRED REMAINS (Any%)
 
 ## [Blue Skull](https://youtu.be/II3uolCMr6A)
 <font size="2">

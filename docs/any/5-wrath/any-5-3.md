@@ -1,5 +1,9 @@
-# 5-3 // SHIP OF FOOLS (Any%)
+---
+prev: ./any-5-2
+next: ./any-5-4
+---
 
+# 5-3 // SHIP OF FOOLS (Any%)
 
 ## [Tight Space Clip](https://youtu.be/yMunNEGBo20)
 <font size="2">

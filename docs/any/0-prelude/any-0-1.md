@@ -1,5 +1,9 @@
-# 0-1 // INTO THE FIRE (Any%)
+---
+prev: ./
+next: ./any-0-2
+---
 
+# 0-1 // INTO THE FIRE (Any%)
 
 ## [Pipe Clip](https://youtu.be/zvPYd-ivxbQ)
 <font size="2">

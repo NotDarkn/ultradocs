@@ -1,12 +1,16 @@
-# 6-2 // AESTHETICS OF HATE (Any%)
+---
+prev: ./
+next: ./7-violence
+---
 
+# 6-2 // AESTHETICS OF HATE (Any%)
 
 ## Checkpoint
 
 ### [Rocket Ride](https://youtu.be/bFLRgSnoQbo)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) and [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) through the red doors as they open <br/>
 Angle the rocket up <br/>
@@ -18,7 +22,7 @@ Turn around and [UB](/speedrun-tech.md#ub-ultraboost) as it opens <br/>
 ### [Slam Store](https://youtu.be/mMjFsTK1bfg)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Charge an over pump <br/>
 [Dash Jump](/speedrun-tech.md#dash-jump) and slam store on the left wall of the red room hallway <br/>
@@ -32,7 +36,7 @@ Turn around and [UB](/speedrun-tech.md#ub-ultraboost) as it opens <br/>
 ### [Dead Coin](https://youtu.be/bFLRgSnoQbo)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Jump throw a coin below you and [punch it](/speedrun-tech.md#coin-punch) 3 times <br/>
 Look up and [Dead Coin](/speedrun-tech.md#dead-coins) 4 times <br/>

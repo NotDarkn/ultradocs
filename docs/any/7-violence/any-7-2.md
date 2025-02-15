@@ -1,3 +1,8 @@
+---
+prev: ./any-7-1
+next: ./any-7-3
+---
+
 # 7-2 // LIGHT UP THE NIGHT (Any%)
 
 

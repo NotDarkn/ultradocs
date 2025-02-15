@@ -1,5 +1,9 @@
-# 4-4 // CLAIR DE SOLEIL (Any%)
+---
+prev: ./any-4-3
+next: ./5-wrath/
+---
 
+# 4-4 // CLAIR DE SOLEIL (Any%)
 
 ## Entrance
 
@@ -98,7 +102,7 @@ Whiplash to V2, knuckleblast, then overpump; if timed properly, it will kill V2 
 
 ## Exit
 
-### Core Ub
+### Core UB
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
@@ -113,7 +117,7 @@ Whip cancel jackhammer to kill the malicious face <br/>
 Whiplash the end hook point and whip cancel to keep momentum into the exit <br/>
 Add oil to keep speed and slide <br/>
 
-### Rocket Ub
+### Rocket UB
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>

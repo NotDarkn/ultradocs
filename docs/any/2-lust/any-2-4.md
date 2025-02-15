@@ -1,5 +1,9 @@
-# 2-4 // Court of the Corpse King (Any%)
+---
+prev: ./any-2-3
+next: ../3-gluttony/
+---
 
+# 2-4 // Court of the Corpse King (Any%)
 
 ## Door Clip
 

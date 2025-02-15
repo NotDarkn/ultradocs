@@ -1,5 +1,9 @@
-# 7-S // HELL BATH NO FURY (Any%)
+---
+prev: ./any-7-3
+next: ./any-7-4
+---
 
+# 7-S // HELL BATH NO FURY (Any%)
 
 ## First Miss Clip
 <font size="2">

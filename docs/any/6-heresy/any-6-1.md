@@ -1,5 +1,9 @@
-# 6-1 // CRY FOR THE WEEPER (Any%)
+---
+prev: ./
+next: ./any-6-2
+---
 
+# 6-1 // CRY FOR THE WEEPER (Any%)
 
 ## Arch Clip
 

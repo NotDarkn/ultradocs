@@ -1,5 +1,9 @@
-# 0-3 // DOUBLE DOWN (Any%)
+---
+prev: ./any-0-2
+next: ./any-0-4
+---
 
+# 0-3 // DOUBLE DOWN (Any%)
 
 ## First Checkpoint
 

@@ -1,5 +1,9 @@
-# 1-2 // THE BURNING WORLD (Any%)
+---
+prev: ./any-1-1
+next: ./any-1-3
+---
 
+# 1-2 // THE BURNING WORLD (Any%)
 
 ## 1st Checkpoint
 

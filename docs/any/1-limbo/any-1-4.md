@@ -1,5 +1,9 @@
-# 1-4 // CLAR DE LUNE (Any%)
+---
+prev: ./any-1-3
+next: ../2-lust/
+---
 
+# 1-4 // CLAR DE LUNE (Any%)
 
 ## Enter Arena
 

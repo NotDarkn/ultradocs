@@ -1,5 +1,9 @@
-# 5-2 // WAVES OF THE STARLESS SEA (Any%)
+---
+prev: ./any-5-1
+next: ./any-5-3
+---
 
+# 5-2 // WAVES OF THE STARLESS SEA (Any%)
 
 ## [First Checkpoint](https://youtu.be/CLuZN7JOyDA)
 <font size="2">

@@ -1,5 +1,9 @@
-# 4-1 // SLAVES TO POWER (Any%)
+---
+prev: ./
+next: ./any-4-2
+---
 
+# 4-1 // SLAVES TO POWER (Any%)
 
 ## Movement
 

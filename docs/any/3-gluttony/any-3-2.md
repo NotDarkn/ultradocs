@@ -1,3 +1,8 @@
+---
+prev: ./any-3-1
+next: ../4-greed/
+---
+
 # 3-2 // IN THE FLESH (Any%)
 
 

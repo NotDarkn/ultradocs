@@ -1,6 +1,5 @@
 # 1-1 // HEART OF THE SUNRISE (Any%)
 
-
 ## [Untagged Wall Clip](https://youtu.be/ddrVnvt-kRI)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)

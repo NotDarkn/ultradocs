@@ -1,5 +1,9 @@
-# 0-2 // THE MEATGRINDER (Any%)
+---
+prev: ./any-0-1
+next: ./any-0-3
+---
 
+# 0-2 // THE MEATGRINDER (Any%)
 
 ## Updoor
 

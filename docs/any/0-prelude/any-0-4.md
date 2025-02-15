@@ -1,5 +1,9 @@
-# 0-4 // A ONE-MACHINE ARMY (Any%)
+---
+prev: ./any-0-3
+next: ./any-0-5
+---
 
+# 0-4 // A ONE-MACHINE ARMY (Any%)
 
 ## First Arena
 

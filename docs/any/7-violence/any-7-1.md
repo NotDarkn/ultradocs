@@ -1,5 +1,9 @@
-# 7-1 // GARDEN OF FORKING PATHS (Any%)
+---
+prev: ./
+next: ./any-7-2
+---
 
+# 7-1 // GARDEN OF FORKING PATHS (Any%)
 
 ## Arch Clip
 

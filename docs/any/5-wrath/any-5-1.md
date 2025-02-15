@@ -1,5 +1,9 @@
-# 5-1 // IN THE WAKE OF POSEIDON (Any%)
+---
+prev: ./
+next: ./any-5-2
+---
 
+# 5-1 // IN THE WAKE OF POSEIDON (Any%)
 
 ## [Slide Clip](https://youtu.be/hqWRdRuyvAs)
 <font size="2">

@@ -1,5 +1,9 @@
-# 2-1 // BRIDGEBURNER (Any%)
+---
+prev: ./
+next: ./any-2-2
+---
 
+# 2-1 // BRIDGEBURNER (Any%)
 
 ## No Jump Pad
 
