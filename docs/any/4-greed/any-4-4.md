@@ -10,8 +10,8 @@
 
 [CSB](/speedrun-tech.md#core-snipe-boosts) through the red doors as the open, and slam on to  the blue bounce pad<br/>
 Bounce pads give you 160 vu/s (Vertical Units / Second) and diminishes to ~45 vu/s when you reach the top. Ground slamming on the pads give you 200 vu/s and only diminish to ~120 vu/s when you reach the top. This saves ~1 second<br/>
-Slam and dash slide to the door and whiplash the skull [Dash jump](/speedrun-tech.html#dash-jump) around the skull pedestal <br/>
-[CE boost](/speedrun-tech.html#ce-boost-core-eject-boost) up to the bounce pad and slam on it for extra speed <br/>
+Slam and dash slide to the door and whiplash the skull [Dash jump](/speedrun-tech.md#dash-jump) around the skull pedestal <br/>
+[CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) up to the bounce pad and slam on it for extra speed <br/>
 Slam down and place the skull, dash slide through the doors, then [CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) to the checkpoint <br/>
 
 ### Rocket Ultraboost 
@@ -50,8 +50,8 @@ Once in the main hallway, either [CE boost](/speedrun-tech.md#ce-boost-core-ejec
 </font> <br/> 
 
 Checkpoint, then [Dash Jump](/speedrun-tech.md#dash-jump) to V2 <br/>
-Jump throw a coin down then [punch it](/speedrun-tech.html#coin-punch) three times <br/>
-Look up and [dead coin](/speedrun-tech.html#dead-coins) twice <br/>
+Jump throw a coin down then [punch it](/speedrun-tech.md#coin-punch) three times <br/>
+Look up and [dead coin](/speedrun-tech.md#dead-coins) twice <br/>
 As the coin falls to you, skip cutscene and punch it <br/>
 Punch it 3 more times to end first phase <br/>
 ### 3 Coin Punch + 5 Deadcoin
@@ -60,8 +60,8 @@ Punch it 3 more times to end first phase <br/>
 </font> <br/> 
 
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the arena and throw a coin below you <br/>
-Once you’re near V2 (or when you’re able to skip cutscene), [punch the coin](/speedrun-tech.html#coin-punch) then slam down, then punch the coin 2 more times <br/>
-Look up and [dead coin](/speedrun-tech.html#dead-coins) 5 times <br/>
+Once you’re near V2 (or when you’re able to skip cutscene), [punch the coin](/speedrun-tech.md#coin-punch) then slam down, then punch the coin 2 more times <br/>
+Look up and [dead coin](/speedrun-tech.md#dead-coins) 5 times <br/>
 Jump up and punch the coin; the cutscene will end by the last deadcoin. <br/>
 Punch the coin 2 more times to end the phase <br/>
 ::: note
@@ -74,23 +74,23 @@ To get P-Rank, charge up a blue piercer when punching the coin, and it at the co
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-Equip your Alternate Sawed-On. Once at the exit, [Dash Jump](/speedrun-tech.html#dash-jump) so you have momentum and height <br/>
-Whiplash to V2 then [Whipcancel](/speedrun-tech.html#whip-cancel) once you’re near V2, then hit V2 with your Sawed-On. This should kill it after ~5 frames <br/>
+Equip your Alternate Sawed-On. Once at the exit, [Dash Jump](/speedrun-tech.md#dash-jump) so you have momentum and height <br/>
+Whiplash to V2 then [Whipcancel](/speedrun-tech.md#whip-cancel) once you’re near V2, then hit V2 with your Sawed-On. This should kill it after ~5 frames <br/>
 
 ### Alternative Pump Charge
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-Charge an overpump with green jackhammer. Once at the exit, [Dash Jump](/speedrun-tech.html#dash-jump) so you have momentum and height <br/>
-Whiplash to V2 then [Whipcancel](/speedrun-tech.html#whip-cancel) once you’re near V2, then hit V2 with your Pump Charge. This should kill V2 after  ~3 frames <br/>
+Charge an overpump with green jackhammer. Once at the exit, [Dash Jump](/speedrun-tech.md#dash-jump) so you have momentum and height <br/>
+Whiplash to V2 then [Whipcancel](/speedrun-tech.md#whip-cancel) once you’re near V2, then hit V2 with your Pump Charge. This should kill V2 after  ~3 frames <br/>
 
 ### Knuckleblaster + Pump Charge
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-Charge an over pump. Once at the exit, [Dash Jump](/speedrun-tech.html#dash-jump) so you have momentum and height <br/>
+Charge an over pump. Once at the exit, [Dash Jump](/speedrun-tech.md#dash-jump) so you have momentum and height <br/>
 Whiplash to V2, knuckleblast, then overpump; if timed properly, it will kill V2 instantly <br/>
 ::: note
  Difficulties past LENIENT require another whiplash to grapple to V2
@@ -104,10 +104,10 @@ Whiplash to V2, knuckleblast, then overpump; if timed properly, it will kill V2 
 </font> <br/> 
 
 Open and close the pause menu then turn around <br/>
-[Ultraboost](/speedrun-tech.html#ub-ultraboost) when you land <br/>
+[Ultraboost](/speedrun-tech.md#ub-ultraboost) when you land <br/>
 Throw 2 coins up <br/>
 Whiplash the last hookpoint, hold the whiplash input <br/>
-[Whipcancel](/speedrun-tech.html#whip-cancel) with a fist while still holding whiplash so you don’t lose ub momentum <br/>
+[Whipcancel](/speedrun-tech.md#whip-cancel) with a fist while still holding whiplash so you don’t lose ub momentum <br/>
 Throw and shoot a new coin <br/>
 Whip cancel jackhammer to kill the malicious face <br/>
 Whiplash the end hook point and whip cancel to keep momentum into the exit <br/>
@@ -124,7 +124,7 @@ If the rocket is going way past you, freeze it near where you land <br/>
 As soon as you land malicious rail the rocket <br/>
 Throw 2 coins up <br/>
 Whiplash the last hookpoint, hold the whiplash input <br/>
-[Whipcancel](/speedrun-tech.html#whip-cancel) with a fist while still holding whiplash so you don’t lose ub momentum <br/>
+[Whipcancel](/speedrun-tech.md#whip-cancel) with a fist while still holding whiplash so you don’t lose ub momentum <br/>
 Throw and shoot a new coin <br/>
 Whip cancel jackhammer to kill the malicious face <br/>
 Whiplash the end hook point and whip cancel to keep momentum into the exit <br/>

@@ -8,7 +8,7 @@
     <b>Difficulty</b>: Easy (1/5)
 </font> <br/> 
 
-[Slam store](/speedrun-tech.md#slam-store) in the red room hallway and slide diagonally around the cerberus statue, then [slide jump](speedrun-tech.html#slide-jump) to the end of the second room<br/>
+[Slam store](/speedrun-tech.md#slam-store) in the red room hallway and slide diagonally around the cerberus statue, then [slide jump](/speedrun-tech.md#slide-jump) to the end of the second room<br/>
 As soon as the door at the end of the hallway opens, [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) backwards and hold slide until you land on top of the door<br/>
 Let go of slide, jump, then [flick ub](/speedrun-tech.md#flick-ub) <br/>
 Slam down to final arena and slide diagonally through the door <br/>
