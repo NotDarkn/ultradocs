@@ -92,7 +92,10 @@
       Interrupting a slam with a wall jump stores the slam state without the downward speed. Using jump, slide, or dive after landing in the Slam Store state allows reaching max slam momentum quickly. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. go towards a wall <br />
+      2. jump againt the wall <br />
+      3. press slam whilst holding the movement key <br />
+      4. do a slidejump, jump or dive
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -115,7 +118,8 @@
       Jump and then slide almost at the same time, slide jump that gives more height, gains both horizontal and vertical speed from slam momentum.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Jump <br />
+      2. hold slide shortly after
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -138,7 +142,8 @@
       Holding either A or D (dependent on the diriction you are sliding) while sliding sideways increases your horizontal speed by 5 units.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Look 90° to left or right <br />
+      2. hold A or D according to the direction
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -161,7 +166,8 @@
       Wall Jumping while in a slide reverses your direction and preserves your momentum.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. be in sliding state <br />
+      2. jump
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -184,7 +190,8 @@
       Jumping soon after landing to preserve horizontal momentum. The sooner you jump, the more momentum you preserve (100% on a frame 1 jump).
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. have momentum <br />
+      2. jump as soon as you hit the ground
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -207,7 +214,8 @@
       Dash towards a ledge and slide as you go over it. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Dash <br />
+      2. slide shortly after
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -286,7 +294,8 @@ TBA (To Be Added)
       Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones or for quickly reaching max jackhammer damage.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. whiplash <br />
+      2. press punch or whiplash again
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -309,7 +318,8 @@ TBA (To Be Added)
       Slamming during a whiplash will not give downward speed but does build slam momentum.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. whiplash <br />
+      2. slam whilst you are getting dragged
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -336,7 +346,8 @@ TBA (To Be Added)
       Tap slide and fire a core eject down at the same time, gives high horizontial speed.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. tap/hold slide <br />
+      2. use a core eject
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -359,7 +370,8 @@ TBA (To Be Added)
       Use the Malicious Railcannon on a core eject. This is the fastest method of movement in the game excluding combinations and bugs. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. shoot out core eject in the opposite direction you want to go <br />
+      2. shoot the core with malicois railcannon
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -386,7 +398,9 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       A faster method of ultra boosting that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. dash and shoot core eject <br />
+      2. turn 180°
+      3. shoot the core with malicious railcannon 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -436,7 +450,8 @@ This is significantly easier to do capped on 120 FPS.
       Fire a rocket then whiplash it, fast explosion boost that can be done midair.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. shoot out rocket <br />
+      2. whiplash rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -459,7 +474,10 @@ This is significantly easier to do capped on 120 FPS.
       With freezeframe, active while looking down, fire a rocket then whiplash it, launches straight up if not holding directional keys, otherwise launches in the direction you are moving.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Freeze rockets <br />
+      2. look down <br />
+      3. shoot out rocket <br />
+      4. whiplash rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -482,7 +500,10 @@ This is significantly easier to do capped on 120 FPS.
       Activate freezeframe and shoot a rocket, jump, then slam. Works while grounded or to swap to a new rocket while already rocket riding.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Freeze rockets <br />
+      2. shoot out rocket <br />
+      3. jump <br />
+      4. slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
