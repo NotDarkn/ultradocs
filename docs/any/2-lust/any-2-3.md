@@ -3,7 +3,7 @@
 
 ## Slide Clip
 
-### [Core Snipe Boost]()
+### [Core Snipe Boost](https://youtu.be/Jv8iuz0zvoc)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
