@@ -5,9 +5,9 @@
   "license": "AGPL-3.0",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress-vite build docs",
-    "docs:clean-dev": "vuepress-vite dev docs --clean-cache",
-    "docs:dev": "vuepress-vite dev docs",
+    "docs:build": "vuepress-vite build docs --config .vuepress/config.ts",
+    "docs:clean-dev": "vuepress-vite dev docs --clean-cache --config .vuepress/config.ts",
+    "docs:dev": "vuepress-vite dev docs --config .vuepress/config.ts",
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
