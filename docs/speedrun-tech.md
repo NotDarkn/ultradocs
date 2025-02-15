@@ -419,7 +419,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/my7MMZ4.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
