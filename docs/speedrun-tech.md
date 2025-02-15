@@ -913,7 +913,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/qwZnFx5.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -936,7 +936,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/phnxqkN.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -959,7 +959,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/9L6cLPX.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -982,7 +982,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/mbbFrjh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1032,7 +1032,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/WtDG24Z.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
