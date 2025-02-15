@@ -6,9 +6,9 @@
     <b>Difficulty</b>: Easy (1/5)
 </font> <br/> 
 
-Slam store in the red room hallway <br/>
-Dive, then slam <br/>
-Ub up <br/>
+[Slam store](/speedrun-tech.html#slam-store) in the red room hallway <br/>
+[Dive](/speedrun-tech.html#dives), then slam <br/>
+[Ub](/speedrun-tech.html#ub-ultraboost) up <br/>
 Checkpoint as you reach the surface 
 
 
@@ -19,11 +19,11 @@ Checkpoint as you reach the surface
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font> <br/> 
 
-Dash jump <br/>
+[Dash jump](/speedrun-tech.html#dash-jump) <br/>
 Place a saw trap with 10 blue saws and an overheat saw <br/>
 Right before Leviathan spawns, slam to break your magnet and fire a new one right before landing <br/> 
-Projectile boost Leviathan 3 times, shotgun swapping each time <br/>
-Slam jump and throw 4 coins up then slab coin <br/>
+[Projectile boost](/speedrun-tech.html#projectile-boost) Leviathan 3 times, [shotgun swapping](/speedrun-tech.html#shotgun-swapping) each time <br/>
+Slam jump and throw 4 coins up then [slab coin](/speedrun-tech.html#slab-coins) <br/>
 Continue firing projectile boosts until it attacks <br/>
 If it does the spit attack use sharpshooter alt fire to destroy a projectile then malicious rail its mouth <br/>
 
@@ -32,11 +32,11 @@ If it does the spit attack use sharpshooter alt fire to destroy a projectile the
     <b>Difficulty</b>: Intermediate (3/5)
 </font> <br/> 
 
-Dash jump <br/>
+[Dash jump](/speedrun-tech.html#dash-jump) <br/>
 Place a saw trap with 10 blue saws and an overheat saw <br/>
-Right before Leviathan spawns, slam to break your magnet and fire a new one right before landing  <br/>
-Projectile boost Leviathan 3 times, shotgun swapping each time <br/>
-Slam jump and throw 4 coins up then slab coin <br/>
+Right before Leviathan spawns, slam to break your magnet and fire a new one right before landing <br/> 
+[Projectile boost](/speedrun-tech.html#projectile-boost) Leviathan 3 times, [shotgun swapping](/speedrun-tech.html#shotgun-swapping) each time <br/>
+Slam jump and throw 4 coins up then [slab coin](/speedrun-tech.html#slab-coins) <br/>
 Continue firing projectile boosts until it attacks <br/>
 If it does the lunge attack, slam jump so you land on top of leviathan, jumpstart it, fire a magnet and saws until jumpstart procs, then electric rail its weakpoint <br/>
 
