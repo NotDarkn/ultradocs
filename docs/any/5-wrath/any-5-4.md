@@ -1,6 +1,6 @@
 ---
 prev: ./any-5-3
-next: ./6-heresy/
+next: ../6-heresy/
 ---
 
 # 5-4 // LEVIATHAN (Any%)

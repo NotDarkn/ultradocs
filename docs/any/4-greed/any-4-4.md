@@ -1,6 +1,6 @@
 ---
 prev: ./any-4-3
-next: ./5-wrath/
+next: ../5-wrath/
 ---
 
 # 4-4 // CLAIR DE SOLEIL (Any%)
