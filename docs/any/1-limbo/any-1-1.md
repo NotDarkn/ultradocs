@@ -1,3 +1,8 @@
+---
+prev: ./
+next: ./any-1-2
+---
+
 # 1-1 // HEART OF THE SUNRISE (Any%)
 
 ## [Untagged Wall Clip](https://youtu.be/ddrVnvt-kRI)
