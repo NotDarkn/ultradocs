@@ -3,10 +3,10 @@
 
 ## Checkpoint
 
-### [Mis Clip](https://youtu.be/JMR3vHRWvhI)
+### [Miss Clip](https://youtu.be/JMR3vHRWvhI)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Charge an over pump <br/>
 [Slam Store](/speedrun-tech.md#slam-store) in the red room hallway and slide <br/>
@@ -29,13 +29,13 @@ Checkpoint
 ### Arch Clip
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 
 ### [Instant Arch Clip](https://youtu.be/BA3vd7XK9wY)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) off the left side of the red room hallway, wall jump off the right side, and land as far forward and left as possible <br/>
 Look up at a 45 degree angle and as much right as you can without bonking during the dive <br/>
@@ -51,7 +51,7 @@ Checkpoint
 ### [Wall Bounce + Oil](https://youtu.be/nIPqwxC9qGk)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Dash, turn right and [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
 [Dive](/speedrun-tech.md#dives) and hold slide <br/>
@@ -64,7 +64,7 @@ Release and press slide again to turn <br/>
 ### [Double Wall Bounce](https://youtu.be/6gSWHYXWYC4)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Dash, turn right and [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
 [Dive](/speedrun-tech.md#dives) and hold slide <br/>
@@ -78,10 +78,10 @@ The second wall bounce sometimes spawns the arena because of hitbox jank, making
 ### Trigger Skip 
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 
 ### Double Trigger Skip
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>

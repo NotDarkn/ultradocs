@@ -4,7 +4,7 @@
 ## [Slide Clip](https://youtu.be/34pancli8jU)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, [Slam Store](/speedrun-tech.md#slam-store), then wall jump off the other side of the hallway, then dive and hold slide <br/>
 Dash forward, slam, and [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
@@ -17,7 +17,7 @@ Slam at the next door and slide diagonally into the doorframe to clip through it
 ### [Deadcoin](https://youtu.be/MSDlRIudFZ8)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump), look down and throw a coin, then [punch it](/speedrun-tech.md#coin-punch) 3 times <br/>
 Look up and [Dead Coin](/speedrun-tech.md#dead-coins) 4 times <br/>

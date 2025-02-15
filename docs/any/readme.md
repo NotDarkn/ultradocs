@@ -1,8 +1,10 @@
 ---
-sidebar: false
+
+toc: false
+
 ---
 
-# Any% (Choosing Layer)
+# Any%
 Any% is perhaps the most popular category in **any game *ever*** mostly because of how easy it is to get into. That same rule applies to ULTRAKILL as well! The majority of the strats in this game aren't too hard to do, and after some practice you'll be able to do that with ease as well.
 
 ## Layers
@@ -50,7 +52,7 @@ Difficulty is based on how hard it may be to **learn** or **execute** strats in 
     <b>Difficulty</b>: Hard (5/5)
 </font>
 
-- ## [Prime Sanctum](/any/10-prime-sanctums/)
+- ## [Prime Sanctums](/any/10-prime-sanctums/)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>

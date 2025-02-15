@@ -4,7 +4,7 @@
 ## [First Checkpoint](https://youtu.be/CLuZN7JOyDA)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash jump](/speedrun-tech.md#dash-jump) and [flick ub](/speedrun-tech.md#flick-ub) through the red doors as they open <br/>
 Slide into the cabin <br/>
@@ -18,7 +18,7 @@ Dash slide through the door as it opens and checkpoint <br/>
 ### [CE Boost](https://youtu.be/BQ0KtO4ysBU)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Dash slide, turn, and [ce boost](/speedrun-tech.md#ce-boost-core-eject-boost) to the end of the room and slam down <br/>
 Use knuckleblaster to launch the street cleaner into the door and checkpoint while it is touching the door <br/>
@@ -29,7 +29,7 @@ Checkpoint
 ### Ultraboost
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Dash jump](/speedrun-tech.md#dash-jump), turn, and [flick ub](/speedrun-tech.md#flick-ub) to the end of the room and slam down <br/>
 Use knuckleblaster to launch the street cleaner into the door and checkpoint while it is touching the door <br/>
@@ -40,7 +40,7 @@ Checkpoint <br/>
 ## [Exit](https://youtu.be/5sLF7zRg-Q8)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Dash backwards then [Dash jump](/speedrun-tech.md#dash-jump) <br/>
 Look up and [ub](/speedrun-tech.md#ub-ultraboost) <br/>

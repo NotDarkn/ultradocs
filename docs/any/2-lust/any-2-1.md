@@ -6,7 +6,7 @@
 ### [Flick Ub](https://youtu.be/-eq9mjIppO0)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) and slide diagonally to the right <br/>
 Knuckleblast shockwave to break the wall <br/>
@@ -17,7 +17,7 @@ Around when you reach the second building [Instant Rocket Ride](/speedrun-tech.m
 ### Rocket Ub
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) then slide diagonally to the right <br/>
 Knuckle blast shockwave to break the wall <br/>
@@ -30,7 +30,7 @@ Around when you’re next to the second building, [Instant Rocket Ride](/speedru
 ## Jump Pad
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (4/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) then slide diagonally to the right <br/>
 Knuckle blast shockwave to break the wall <br/>

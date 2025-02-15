@@ -6,22 +6,20 @@
 ### Slide Clip 
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 
 ### Final Arena
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
-
-
+</font>
 
 ## Secret Exit
 
 ### Slide Clip
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Dash jump](/speedrun-tech.md#dash-jump) and slam store off the right wall of the red room hallway
 [Dive](/speedrun-tech.md#dives)
@@ -33,7 +31,7 @@ Hold forward after are in the floor until you fall through
 ### Exit
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump) backwards, then [Flick UB](/speedrun-tech.md#flick-ub)
 Place oil to maintain speed

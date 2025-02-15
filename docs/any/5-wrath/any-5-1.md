@@ -4,7 +4,7 @@
 ## [Slide Clip](https://youtu.be/hqWRdRuyvAs)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the start room and slide into the right wall then [Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
 Slide <br/>
@@ -20,7 +20,7 @@ You can download the spawn trigger visualizer mod to see the trigger <br/>
 ### [Slarp Dunk](https://youtu.be/P95VJgnMeFI)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#slide-jump) then [Slide Jump](/speedrun-tech.md#slide-jump) <br/>
 Sharpshooter alt fire through both sentries <br/>
@@ -29,7 +29,7 @@ Sharpshooter alt fire through both sentries <br/>
 ### Dead Coin
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 Cxn you do this
 
@@ -39,7 +39,7 @@ Cxn you do this
 ### [Soldier Jumpstart](https://youtu.be/tN0hyc77KF4)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) under the door as it opens <br/>
 Place a magnet on the center of the door with an overheat saw <br/>
@@ -55,7 +55,7 @@ Due to random sentry movement in this room, they won't allways die, if this happ
 ### [Virtue Rail](9https://youtu.be/WVyW1Khrsx4)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Place a magnet and a couple saws where shown in the image the kill one of the strays <br/>
 ![5-1 Wave 3 Saw Placement](</../images/5-1-wave3-saw-placement.jpg>)

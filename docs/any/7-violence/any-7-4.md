@@ -3,10 +3,10 @@
 
 ## Checkpoint
 
-### Left Mis Clip
+### Left Miss Clip
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the red room hallway and slide <br/>
 Place oil to maintain speed and use [Slideways](/speedrun-tech.md#slideways) for extra speed <br/>
@@ -19,22 +19,22 @@ Unfreeze <br/>
 Land and [Rocket Ride](/speedrun-tech.md#rocket-ride) to the checkpoint <br/>
 Checkpoint
 
-### Front Mis Clip
+### Front Miss Clip
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 
 ### Arch Clip
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 
 ## Lobotomy
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Dash Jump](/speedrun-tech.md#dash-jump), then dash to the ledge <br/>
 Place a frozen rocket against the wall and jump on it <br/>

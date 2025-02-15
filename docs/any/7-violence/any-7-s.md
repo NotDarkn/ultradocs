@@ -1,10 +1,10 @@
 # 7-S // HELL BATH NO FURY (Any%)
 
 
-## First Mis Clip
+## First Miss Clip
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the hallway of the starting room, [Dive](/speedrun-tech.md#dives) into the right wall, then [Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
 Place a frozen rocket against the wall and jump on it <br/>
@@ -12,12 +12,12 @@ Look down at a 45 degree angle <br/>
 Jump, whiplash, and fire a rocket at the same time <br/>
 Jump and dash to the checkpoint 
 
-## Second Mis Clip
+## Second Miss Clip
 
 ### Ultraboost Exit
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 Dash forward <br/>
 Punch the bottom of the glass to grab the skull <br/>
@@ -35,11 +35,11 @@ Grab one of the weapons <br/>
 ### Double Ub
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 
 ### Third Mis Clip
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 

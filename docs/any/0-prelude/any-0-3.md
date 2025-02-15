@@ -6,7 +6,7 @@
 ### [No Glass Punch](https://youtu.be/YXRGVLAIi8g) 
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) in the start room then [Dive](/speedrun-tech.md#dives) through the doors, fire a rocket up to break the glass then [Ultraboost](/speedrun-tech.md#ub-ultraboost) up.<br/>
 Dash and slam to the door then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) up the stairs and [Slide Jump](/speedrun-tech.md#slide-jump) to the checkpoint.<br/> 
@@ -15,7 +15,7 @@ Before reaching the checkpoint fire a blue saw and equip alternate green saw, th
 ### [Glass Punch:](https://youtu.be/d2fQyOw1ij8)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam store](/speedrun-tech.md#slam-store) in start room then [Dive](/speedrun-tech.md#dives) through the doors, [Ultraboost](/speedrun-tech.md#ub-ultraboost) straight up when you land<br/>
 Time a knuckleblaster punch to destroy the glass without bonking on it<br/>
@@ -25,7 +25,7 @@ Before reaching the checkpoint fire a blue saw and equip alternate green saw<br/
 ### Jackhammer Boost
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 
 ## Boss Kill:
@@ -33,7 +33,7 @@ Before reaching the checkpoint fire a blue saw and equip alternate green saw<br/
 ### [Beginner Kill](https://youtu.be/NuyWS2TPZNc)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 From checkpoint dash, fire the overheat saw, then dash jump and pump green shotgun twice <br/>
 Which attack swordsmachine does is based on your distance from the boss and you want the standing swing, so stand close to where it spawns<br/>
@@ -49,7 +49,7 @@ Fire both the [piercer charge shot and electric rail](/speedrun-tech.md#ricostac
 ### [Dram Kill](https://youtu.be/qv7w8ds2ejs)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (4/5)
-</font> <br/> 
+</font>
 
 From checkpoint dash, fire the overheat saw, then dash jump and fire a coin down, pump green shotgun twice then [punch](/speedrun-tech.md#coin-punch) the coin right before it hits the ground <br/>
 Which attack swordsmachine does is based on your distance from the boss and you want the standing swing, so stand close to where it spawns<br/>
@@ -67,4 +67,4 @@ Ven Kill (might be so niche that we shouldn’t even include btw)<br/>
 Halak Kill<br/>
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (5/5)
-</font> <br/> 
+</font>

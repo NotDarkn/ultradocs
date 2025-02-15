@@ -4,7 +4,7 @@
 ## [Tight Space Clip](https://youtu.be/yMunNEGBo20)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam store](/speedrun-tech.md#slam-store) in the red room hallway then slide <br/>
 [CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) then shoot a rocket at the wall to get more height <br/>
@@ -21,7 +21,7 @@ Dash twice to the falling wall, and hold against it <br/>
 ### [Fup](https://youtu.be/ExslsMlx7GI)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Slide Jump](/speedrun-tech.md#slide-jump) <br/>
 [Fup](/speedrun-tech.md#fup-frozen-unfriendly-pull-it) <br/>
@@ -37,7 +37,7 @@ Place oil to maintain speed <br/>
 ### [Slam Store](https://youtu.be/8n6OD23X8qA)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 [Slam Store](/speedrun-tech.md#slam-store) then [Dive](/speedrun-tech.md#dives), release slide before touching the water or you will bounce <br/>
 [Slide jump](/speedrun-tech.md#slide-jump) <br/>
@@ -52,7 +52,7 @@ Place oil to maintain speed
 ### Stupid Hell Strats
 <font size="2">
     <b>Difficulty</b>: Hard (5/5)
-</font> <br/> 
+</font>
 
 Flick Chub<br/>
 Jackhammer boost off the cerberus <br/>

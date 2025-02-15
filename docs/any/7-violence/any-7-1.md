@@ -6,7 +6,7 @@
 ### Tap Dive
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
-</font> <br/> 
+</font>
 
 [Slam store](/speedrun-tech.md#slam-store) in the red room hallway, then slide <br/>
 [Slide jump](/speedrun-tech.md#slide-jump) until you reach the mannequin room <br/>
@@ -36,13 +36,13 @@ Jumpstart the tram as you checkpoint
 ### Eanra Arch Clip
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 
 ### First Room Clip
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
-</font> <br/> 
+</font>
 
 
 
@@ -51,7 +51,7 @@ Jumpstart the tram as you checkpoint
 ### Frozen Rockets
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Dash twice and press the button <br/>
 Fire rockets until the strays die <br/>
@@ -69,14 +69,14 @@ Watch for when saw disappear, then checkpoint
 ### Harmless Strats
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 
 
 ## Minotaur Phase 2
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
-</font> <br/> 
+</font>
 
 Dash <br/>
 Press the button <br/>
