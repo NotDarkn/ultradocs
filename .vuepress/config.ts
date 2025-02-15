@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "en-US",
-  title: "Docs Demo",
-  description: "A docs demo for vuepress-theme-hope",
+  title: "ULTRADOCS",
+  description: "Documentation for all speedrun-related tech in ULTRAKILL",
 
   theme,
 

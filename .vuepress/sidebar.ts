@@ -1,6 +1,9 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
+/**
+Sidebar is removed because I don't like it, nor' is there a use for it.
+
   "/": [
     "",
     "portfolio",
@@ -23,4 +26,5 @@ export default sidebar({
       link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
     },
   ],
+ **/
 });

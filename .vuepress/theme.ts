@@ -4,11 +4,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://ultradocs.pages.dev",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "NotDarkn/ULTRADOCS",
 
   docsDir: "docs",
 
@@ -18,12 +18,12 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "Made with 💚 by ULTRAKILL Speedrunners",
 
   displayFooter: true,
 
   metaLocales: {
-    editLink: "Edit this page on GitHub",
+    editLink: "Wanna help us? Click me then!",
   },
 
   // These features are enabled for demo, only preserve features you need here
