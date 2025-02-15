@@ -142,7 +142,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/CXkP5eh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -211,7 +211,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/8oJP5k4.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -234,7 +234,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/ud6gIad.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -257,7 +257,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/fkce1p5.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -313,7 +313,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/YyXneVQ.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
