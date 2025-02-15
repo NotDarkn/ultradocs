@@ -1,3 +1,8 @@
+---
+prev: ./
+next: ./any-p-2
+---
+
 # P-1 // SOUL SURVIVOR (Any%)
 
 ## CHECKPOINT
