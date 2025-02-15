@@ -279,7 +279,7 @@ TBA (To Be Added)
 ### Wall SSJ
 TBA (To Be Added)
 	
-### Whip cancel
+### Whip Cancel
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -302,7 +302,7 @@ TBA (To Be Added)
   </tr>
 </tb>
 
-### Whip slamming
+### Whip Slamming
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -573,7 +573,7 @@ The height of the core when you shoot it is very lenient.
 
 <!---------------------------------------------->
 
-## Combat Tech List:
+## Combat Tech List
 
 ### Buffered Piercer
 <br />
@@ -896,7 +896,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
 
 ## Coin Tech
 
-### Split coins
+### Split Coins
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -942,7 +942,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
 </tb>
 
-### Dead coins
+### Deadcoins
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -965,7 +965,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
 </tb>
 
-### Multi Dead Coin
+### Multi-Deadcoin
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1112,7 +1112,7 @@ TBA (To Be Added)
 
 <!---------------------------------------------->
 
-## Types of Oobs/Skips:
+## Types of Oobs/Skips
 
 ### Untagged Wall Clip
 <br />
@@ -1246,9 +1246,9 @@ bro wtf is a skuggle??? man i wish i knew ;-;
 
 <!---------------------------------------------->
 
-## Level Exits:
+## Level Exits
 
-### CE Boost exit
+### CE Boost Exit
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1271,7 +1271,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
   </tr>
 </tb>
 
-### Slam store exit
+### Slam Store Exit
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1294,7 +1294,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
   </tr>
 </tb>
 
-### UB exit
+### UB Exit
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1340,5 +1340,5 @@ bro wtf is a skuggle??? man i wish i knew ;-;
   </tr>
 </tb>
 
-### Sandwich exit
+### Sandwich Exit
 TBA (To Be Added)

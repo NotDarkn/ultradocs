@@ -4,5 +4,5 @@
 ***
 
 <p align="center">
-    Documentation for all speedrun-related tech in ULTRAKILL
+    <h2>Documentation for all speedrun-related tech in ULTRAKILL</h2>
 </p>

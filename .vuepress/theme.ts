@@ -32,6 +32,7 @@ export default hopeTheme({
     attrs: true,
     codeTabs: true,
     component: true,
+    contributors: false,
     demo: true,
     figure: true,
     gfm: true,
