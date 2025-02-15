@@ -1,6 +1,6 @@
 ---
 prev: ./any-7-2
-next: ./any-7-S
+next: ./any-7-s
 ---
 
 # 7-3 // NO SOUND, NO MEMORY (Any%)

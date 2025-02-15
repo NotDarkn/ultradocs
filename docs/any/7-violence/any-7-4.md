@@ -1,5 +1,5 @@
 ---
-prev: ./any-7-S
+prev: ./any-7-s
 next: ../
 ---
 
