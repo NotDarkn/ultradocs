@@ -238,7 +238,9 @@
       Dash towards a ledge and slide as you go over it then jump.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Dash <br />
+      2. slide shortly after <br />
+      3. stop sliding then jump
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -261,7 +263,8 @@
       After letting go of slide there is a 3 frame window (on 120 fps) where pressing jump will do a  slide jump that adds either 24, 12 or 6 units to your speed depending on which frame you jump.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Slide <br />
+      2. jump within 3 frames when done sliding
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
