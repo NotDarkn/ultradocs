@@ -426,7 +426,9 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       Ultraboost, then checkpoint as you take damage from it. This gives you the UB's momentum after respawning.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. UB <br />
+      2. pause the game when you take damage <br />
+      3. hit the checkpoint button
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -529,7 +531,10 @@ This is significantly easier to do capped on 120 FPS.
       Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. freeze rocket <br />
+      2. dash and shoot <br />
+      3. wait <br />
+      4. unfreeze rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -575,7 +580,9 @@ This is significantly easier to do capped on 120 FPS.
       Fire a core eject in front of you, shoot it with the revolver then dash through it, you will get hit by the lasting hitbox and launched.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. shoot core eject <br />
+      2. shoot core with revolver <br /> 
+      3. dash
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
