@@ -7,6 +7,9 @@ The moderators would really apreciate it! (they will kill you with hammers if yo
 
 :::
 
+## Submitting Runs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_thljcHvekk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Difficulty
 Leaderboards for ultrakill are not sorted by difficulty <br/>
 The majority of runs are done on VIOLENT difficulty. This is to make enemies move and attack faster leading to things like filth grouping up faster and cause mindflayer's instas and parry-able attacks happen faster. Some boss death animations are also faster on Violent such as V2 and The Corpse of King Minos. <br/>
