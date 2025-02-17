@@ -760,7 +760,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/UayrtBU.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -837,7 +837,7 @@ Overpumps and nukes have a lasting explosion making the timing more lenient
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/xiTCEuf.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -916,7 +916,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/HjPu05c.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
