@@ -90,8 +90,8 @@
       Interrupting a slam with a wall jump stores the slam state without the downward speed. Using jump, slide, or dive after landing in the Slam Store state allows reaching max slam momentum quickly. 
     </td>
     <td width="100px"> 
-      1. Hug the wall <br />
-      2. Slam & walljump at the same time
+      1. Hug a wall <br />
+      2. Slam then walljump.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -100,6 +100,10 @@
     </td>
   </tr>
 </tb>
+
+::: note
+You can walljump off a wall 2 more times (total of 3) to gain more vertical height and momentum.
+:::
 
 ### Dives
 <br />
