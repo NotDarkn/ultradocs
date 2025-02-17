@@ -399,7 +399,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="100px"> 
       1. dash and shoot core eject <br />
-      2. turn 180°
+      2. turn 180° <br />
       3. shoot the core with malicious railcannon 
     </td>
     <td width="200px">
