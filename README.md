@@ -25,7 +25,7 @@
 </td>
   <td id='kiacxn'>
   <a href='https://github.com/kiacxn'>
-  <img src='https://www.speedrun.com/static/user/jn63rn2x/image.jpg?v=bffe10d' width='140px;'>
+  <img src='https://i.imgur.com/7J2Sa1p.jpeg' width='140px;'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/kiacxn'>cxn</a></h4>
 </td>
@@ -46,7 +46,7 @@
 <tr>
   <td id='FishyBandit'>
   <a href='https://github.com/FishyBandit'>
-  <img src='https://www.speedrun.com/static/user/8v531rnj/image.png?v=177d749' width='140px;'>
+  <img src='https://i.imgur.com/3qm9q4h.png' width='140px;'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/FishyBandit'>Fishy</a></h4>
 </td>
