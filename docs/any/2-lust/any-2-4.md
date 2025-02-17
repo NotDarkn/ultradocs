@@ -72,5 +72,17 @@ Checkpoint
 ### RCP
 
 ### Slab Rail Coin Punch
+Jump, dash and place the skull with whiplash <br/>
+Place a sawtrap with 8 blue saws and an overheat saw on the ceiling <br/>
+Fire a core straight up, then shoot it with a revolver <br/>
+Throw 3 coins <br/>
+Charge a slab piercer charge shot <br/>
+Slam jump <br/>
+Then fire the piercer shot and electric rail straight up <br/>
+Throw a coin down, and punch it as the rail chains to it <br/>
+Projectile boost <br/>
+Shoot a rocket and activate freeze frame <br/>
+Alternate projectile boosts and rockets until you fire a fourth rocket, then unfreeze <br/>
+Ce boost exit <br/>
 
 ### Ice Beam
