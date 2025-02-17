@@ -1516,11 +1516,15 @@ TBA (To Be Added)
       A universal exit that utilizes a Dash <a href="#dive-ssj">Dive SSJ</a> through an exit, ideally done with <a href="#slideways">slideways</a>.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Dash <br />
+      2. Wait a moment <br />
+      3. Tap slide <br />
+      4. Jump <br />
+      5. Hold slide
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/g4N4gKR.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
