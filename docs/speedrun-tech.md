@@ -275,7 +275,7 @@
 </tb>
 
 ::: note
-Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing tilda) will tell you when you successfully ssj.
+Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing tilda) will tell you when you successfully ssj and what frame it was.
 :::
 
 ### Dive SSJ
@@ -1295,7 +1295,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
 TBA (To Be Added)
 
 ### Skuggle
-bro wtf is a skuggle??? man i wish i knew ;-;
+bro wtf is a skuggle??? man i wish i knew ;-; oh, you know
 
 <!---------------------------------------------->
 
