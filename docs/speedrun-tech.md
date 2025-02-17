@@ -821,7 +821,7 @@ This creates a large red explosion at the cost of 35 HP.
 Overpumps and nukes have a lasting explosion making the timing more lenient
 :::
 
-### SRS Combo
+### S.R.S. Combo
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
