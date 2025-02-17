@@ -23,7 +23,7 @@ Unfreeze <br/>
 Land and [Rocket Ride](/speedrun-tech.md#rocket-ride) to the checkpoint <br/>
 Checkpoint
 
-### Front Miss Clip
+### Front Misclip
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>

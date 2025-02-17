@@ -5,7 +5,7 @@ next: ./any-7-4
 
 # 7-S // HELL BATH NO FURY (Any%)
 
-## First Miss Clip
+## First Misclip
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
@@ -16,7 +16,7 @@ Look down at a 45 degree angle <br/>
 Jump, whiplash, and fire a rocket at the same time <br/>
 Jump and dash to the checkpoint 
 
-## Second Miss Clip
+## Second Misclip
 
 ### Ultraboost Exit
 <font size="2">
@@ -42,7 +42,7 @@ Grab one of the weapons <br/>
 </font>
 
 
-### Third Mis Clip
+### Third Misclip
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>

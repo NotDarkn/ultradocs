@@ -1164,7 +1164,35 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
 </tb>
 
 ### Sludge
-TBA (To Be Added)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Coinshots creates a coin chain cache, but due to an oversight it gets deleted after 5 seconds. Since coinshots have a slight delay before dealing damage, shooting the coin before the 5 second deletion targets the same enemy multiple times. 
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: details **🛈 More Detailed Description 🛈**
+When you shoot a coin, it creates a list of enemies called a coin chain cache (CCC) to keep track of what enemies have been hit already, but due to an oversight it gets deleted after 5 seconds.
+
+Usually it doesn't matter because you create a new CCC when you shoot it again, but coins have a slight delay before they deal damage (0.1s) so if you shoot the coin right before 5 seconds the CCC gets deleted, causing the coin (and any coin it chains to) to target the same enemy multiple times.
+
+tl;dr Shoot the coin after 4.85~ seconds to do 5x damage and instakill most bosses in the game.
+:::
 
 <!---------------------------------------------->
 
@@ -1197,7 +1225,7 @@ TBA (To Be Added)
 Untagged walls can be identified by whiplashing them; if the whiplash passes through, the wall is untagged.
 :::
 
-### Miss Clip
+### Misclip
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1214,13 +1242,13 @@ Untagged walls can be identified by whiplashing them; if the whiplash passes thr
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/MPtGA5w.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-::: details 🛈 **Miss Clip Instructions** 🛈
+::: details 🛈 **Misclip Instructions** 🛈
 Shoot a frozen rocket and get on it. Getting on a rocket that is in this state will clip the camera out of bounds. Whilst on the rocket, look down at about a 45 degree angle, then shoot a rocket, tapping whiplash and jump at the same time, which will land you on your second rocket and clip you out.
 :::
 
@@ -1241,7 +1269,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/uNDXLeK.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1264,11 +1292,15 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/SVFPuTC.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+::: important
+For levels like 5-1, it's best to come into the hole with lots of speed, then spam slide. This will make the clip much more consistent. Additionally, this type of clip **can easily get you stuck.**
+:::
 
 ### Trigger Skip
 <br />
