@@ -275,7 +275,7 @@
 </tb>
 
 ::: note
-Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing tilda) will tell you when you successfully ssj.
+Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing tilda) will tell you when you successfully ssj and what frame it was.
 :::
 
 ### Dive SSJ
