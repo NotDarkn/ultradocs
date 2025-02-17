@@ -15,7 +15,7 @@ next: ./any-7-3
 
 Charge an over pump <br/>
 [Slam Store](/speedrun-tech.md#slam-store) in the red room hallway and slide <br/>
-[Slide Sump](/speedrun-tech.md#slide-jump) <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
 Turn around and over pump <br/>
 Whiplash the blue hook point <br/>
 [Whip Cancel](/speedrun-tech.md#whip-cancel) so dont go too high <br/>

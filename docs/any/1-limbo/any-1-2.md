@@ -21,7 +21,7 @@ Dash to the checkpoint
 </font>
 
 Dash jump and [Slam Store](/speedrun-tech.md#slam-store) off of the red doors as they open, hold forward until you land, then [Dive](/speedrun-tech.md#dives) <br/>
-Slam onto the ledge then [dsj](/speedrun-tech.md#dsj-dash-slide-jump) to the checkpoint
+Slam onto the ledge then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) to the checkpoint
 
 ### [Climbstep](https://youtu.be/45_CONkKkZg)
 <font size="2">

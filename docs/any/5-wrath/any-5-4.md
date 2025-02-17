@@ -25,7 +25,7 @@ Checkpoint as you reach the surface
 [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
 Place a saw trap with 10 blue saws and an overheat saw <br/>
 Right before Leviathan spawns, slam to break your magnet and fire a new one right before landing <br/> 
-[Projectile Boost](/speedrun-tech.md#projectile-boost) Leviathan 3 times, [shotgun swapping](/speedrun-tech.md#shotgun-swapping) each time <br/>
+[Projectile Boost](/speedrun-tech.md#projectile-boost) Leviathan 3 times, [Shotgun Swapping](/speedrun-tech.md#shotgun-swapping) each time <br/>
 Slam jump and throw 4 coins up then [Slab Coin](/speedrun-tech.md#slab-coins) <br/>
 Continue firing projectile boosts until it attacks <br/>
 If it does the spit attack use sharpshooter alt fire to destroy a projectile then malicious rail its mouth <br/>

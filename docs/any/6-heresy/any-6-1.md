@@ -58,7 +58,7 @@ Place and then ignite oil to kill soldiers <br/>
 Place a saw trap with remaining blue saws and overheat saw <br/>
 [Nuke](/speedrun-tech.md#nukes) far enough out to kill the 2 closer strays <br/>
 Dash right to avoid the nuke, then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) to hit the swordsmachine <br/>
-Whiplash to the cerberus and [S.R.S Combo](/speedrun-tech.md#srs-combo) it <br/>
+Whiplash to the cerberus and [S.R.S. Combo](/speedrun-tech.md#srs-combo) it <br/>
 [Split Coin](/speedrun-tech.md#split-coins) the remaining strays <br/>
 Rocket ride to reach the exit <br/>
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)

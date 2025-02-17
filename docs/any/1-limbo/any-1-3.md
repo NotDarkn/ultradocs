@@ -54,5 +54,5 @@ Jump, look down, and throw a coin <br/>
 Slam
 Walk forward and throw a coin <br/>
 [Railcoin](/speedrun-tech.md#railcoins) <br/>
-[S.R.S Combo](/speedrun-tech.md#srs-combo) <br/>
+[S.R.S. Combo](/speedrun-tech.md#srs-combo) <br/>
 [Slam Store Exit](/speedrun-tech.md#slam-store-exit)

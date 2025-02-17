@@ -30,7 +30,7 @@ Knuckleblast the filth <br/>
 [Split Coin](/speedrun-tech.md#split-coins) twice to kill the drones <br/>
 Slab Sharpshooter alt fire to kill all the strays <br/>
 [Mindflayer Insta](/speedrun-tech.md#mindflayer-instas) with a nuke <br/>
-[S.R.S Combo](/speedrun-tech.md#srs-combo) the Mindflayer to ensure it dies <br/>
+[S.R.S. Combo](/speedrun-tech.md#srs-combo) the Mindflayer to ensure it dies <br/>
 [Split Coin](/speedrun-tech.md#split-coins) and ricoshot to kill the soldiers
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 

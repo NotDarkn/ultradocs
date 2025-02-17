@@ -28,7 +28,7 @@ You can download the spawn trigger visualizer mod to see the trigger <br/>
 
 [Dash Jump](/speedrun-tech.md#slide-jump) then [Slide Jump](/speedrun-tech.md#slide-jump) <br/>
 Sharpshooter alt fire through both sentries <br/>
-[S.R.S Combo](/speedrun-tech.md#srs-combo) so that it hits both sentries <br/>
+[S.R.S. Combo](/speedrun-tech.md#srs-combo) so that it hits both sentries <br/>
 
 ### Dead Coin
 <font size="2">
@@ -63,9 +63,9 @@ Due to random sentry movement in this room, they won't allways die, if this happ
 
 Place a magnet and a couple saws where shown in the image the kill one of the strays <br/>
 ![5-1 Wave 3 Saw Placement](</../images/5-1-wave3-saw-placement.jpg>)
-Place a [rocket trap](/speedrun-tech.md#rocket-traps) where one of the center strays will spawn <br/>
+Place a [Rocket Trap](/speedrun-tech.md#rocket-traps) where one of the center strays will spawn <br/>
 [Dash Jump](/speedrun-tech.md#dash-jump) <br/>
-Whiplash and [S.R.S Combo](/speedrun-tech.md#srs-combo) the sentry <br/>
+Whiplash and [S.R.S. Combo](/speedrun-tech.md#srs-combo) the sentry <br/>
 Dash and electric rail the virtue <br/>
 Knuckleblast some of the filth then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) to kill the rest <br/>
 Kill the stray with a coin <br/>

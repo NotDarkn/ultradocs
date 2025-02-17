@@ -56,11 +56,11 @@ Cxn you do this
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) or [Ultraboost](/speedrun-tech.md#ub-ultraboost) through the long hallway <br/>
+[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) or [UB](/speedrun-tech.md#ub-ultraboost) through the long hallway <br/>
 Slam if neccessary and dash to checkpoint <br/>
 Checkpoint <br/>
 Dash, then use malicious rail to boost up <br/>
-[Rocket Ride](/speedrun-tech.md#instant-rocket-ride) over the spawn trigger <br/>
+[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) over the spawn trigger <br/>
 Slam, then slide <br/>
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit) <br/>
 

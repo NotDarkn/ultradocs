@@ -25,7 +25,7 @@ next: ./any-7-s
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Dash jump](/speedrun-tech.md#dash-jump) and slam store off the right wall of the red room hallway
+[Dash Jump](/speedrun-tech.md#dash-jump) and slam store off the right wall of the red room hallway
 [Dive](/speedrun-tech.md#dives)
 Slam
 Spam slide while turning your camera back and forth

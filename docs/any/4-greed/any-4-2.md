@@ -11,7 +11,7 @@ next: ./any-4-3
 
 ### Entrance
 
-Slide, turn 180, [Ultraboost](/speedrun-tech.md#ub-ultraboost) then [Duck Boost](/speedrun-tech.md#duck-boosting) to first checkpoint
+Slide, turn 180, [UB](/speedrun-tech.md#ub-ultraboost) then [Duck Boost](/speedrun-tech.md#duck-boosting) to first checkpoint
 
 ### First Checkpoint 
 
@@ -23,11 +23,11 @@ Checkpoint reset
 
 ### Second Checkpoint
 
-Diagonal [Dash jump](/speedrun-tech.md#dash-jump) holding W and D <br/>
-Whiplash to grab torch then [Checkpoint UB](/speedrun-tech.md#chub-checkpoint-ub)
+Diagonal [Dash Jump](/speedrun-tech.md#dash-jump) holding W and D <br/>
+Whiplash to grab torch then [Chub](/speedrun-tech.md#chub-checkpoint-ub)
 
 ### Third Checkpoint 
 
-Use momentum from [Checkpoint UB](/speedrun-tech.md#chub-checkpoint-ub) to place the torch <br/>
-As soon as you place the torch, [Ultraboost](/speedrun-tech.md#ub-ultraboost)<br/>
+Use momentum from [Chub](/speedrun-tech.md#chub-checkpoint-ub) to place the torch <br/>
+As soon as you place the torch, [UB](/speedrun-tech.md#ub-ultraboost)<br/>
 [Duck Boost](/speedrun-tech.md#duck-boosting)

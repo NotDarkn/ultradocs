@@ -12,7 +12,7 @@ next: ./any-2-4
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Csb](/speedrun-tech.md#csb-core-snipe-boosts) through the red doors <br/>
+[CSB](/speedrun-tech.md#csb-core-snipe-boosts) through the red doors <br/>
 Dash slide left onto the stairs <br/>
 Spam slide into the dip in the doorway <br/>
 Once out of bounds, [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to the checkpoint, it can be hit from underneath <br/>

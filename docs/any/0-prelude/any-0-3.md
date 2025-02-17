@@ -21,7 +21,7 @@ Before reaching the checkpoint fire a blue saw and equip alternate green saw, th
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Slam store](/speedrun-tech.md#slam-store) in start room then [Dive](/speedrun-tech.md#dives) through the doors, [Ultraboost](/speedrun-tech.md#ub-ultraboost) straight up when you land<br/>
+[Slam Store](/speedrun-tech.md#slam-store) in start room then [Dive](/speedrun-tech.md#dives) through the doors, [UB](/speedrun-tech.md#ub-ultraboost) straight up when you land<br/>
 Time a knuckleblaster punch to destroy the glass without bonking on it<br/>
 Dash and slam to the door then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) up the stairs and [Slide Jump](/speedrun-tech.md#slide-jump) to the checkpoint<br/>
 Before reaching the checkpoint fire a blue saw and equip alternate green saw<br/>
@@ -47,7 +47,7 @@ Punch it 2 more times while pumping green shotgun twice<br/>
 Shoot swordsmachine with the shotgun<br/>
 Punch once more while charging slab piercer<br/>
 Fire both the [piercer charge shot and electric rail](/speedrun-tech.md#ricostacks) up through swordsmachine into the coin<br/>
-[S.R.S Combo](/speedrun-tech.md#srs-combo)<br/>
+[S.R.S. Combo](/speedrun-tech.md#srs-combo)<br/>
 [Slam Store Exit](/speedrun-tech.md#slam-store-exit)<br/>
 
 ### [Dram Kill](https://youtu.be/qv7w8ds2ejs)

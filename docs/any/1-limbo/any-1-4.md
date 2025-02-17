@@ -24,7 +24,7 @@ Over pump to boost through the window <br/>
 </font>
 
 Align yourself with the alignment shown in the video, then go down the stairs till you’re at the same spot as the one in the video <br/>
-[Ultraboost](/speedrun-tech.md#ub-ultraboost) <br/> 
+[UB](/speedrun-tech.md#ub-ultraboost) <br/> 
 Start charging an overpump <br/>
 Jump as soon as you land <br/>
 [Slide Jump](/speedrun-tech.md#slide-jump) <br/>
@@ -37,20 +37,20 @@ Over pump to boost through the window <br/>
 </font>
 
 Align yourself with the alignment shown in the video, then go down the stairs till you’re at the same spot as the one in the video. <br/>
-[Ultraboost](/speedrun-tech.md#ub-ultraboost) <br/>
+[UB](/speedrun-tech.md#ub-ultraboost) <br/>
 Place oil under you to maintain speed, then pause once you hit the checkpoint. <br/>
 Instantly press the slide button after checkpointing so you have some momentum <br/>
 Whiplash the window <br/>
-Turn around and [Ultraboost](/speedrun-tech.md#ub-ultraboost) <br/>
+Turn around and [UB](/speedrun-tech.md#ub-ultraboost) <br/>
 
 ### God UB
 <font size="2">
     <b>Difficulty</b>: Very Hard (6/5)
 </font>
 
-God UB is simulair to the UB + Oil / [Ultraboost](/speedrun-tech.md#ub-ultraboost) but with the difference of speed. <br/>
+God UB is simulair to the UB + Oil / [UB](/speedrun-tech.md#ub-ultraboost) but with the difference of speed. <br/>
 Align yourself with the alignment shown in the video, then go down the stairs till you’re at the same spot as the one in either video. <br/>
-God UB will only accur when you allign yourself perfectly and time the [Ultraboost](/speedrun-tech.md#ub-ultraboost) perfectly aswell and follow that up by a [Bhop](/speedrun-tech.md#bhop). <br/>
+God UB will only accur when you allign yourself perfectly and time the [UB](/speedrun-tech.md#ub-ultraboost) perfectly aswell and follow that up by a [Bhop](/speedrun-tech.md#bhop). <br/>
 ::: details **Regarding UB Speed**
 Regular [Ultraboost](/speedrun-tech.md#ub-ultraboost) ranging from <=130 HU/s, and a God UB ranges from 130 to 142.x hU/s 
 :::
@@ -85,7 +85,7 @@ Overpump, grab V2’s arm, dash twice, slam and slide into the exit, using [Slid
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>
 
-As you’re entering the window, [double dead coin](/speedrun-tech.md#double-dead-coin) <br/>
+As you’re entering the window, [Double Dead Coin](/speedrun-tech.html#multi-deadcoin) <br/>
 [Punch your coin](/speedrun-tech.md#coin-punch) as soon as possible <br/>
 Slam <br/>
 Aim at where the coin ended up after punching (usually in the air where V2 leaps out of), then [Dead Coin](/speedrun-tech.md#dead-coins) it <br/>
