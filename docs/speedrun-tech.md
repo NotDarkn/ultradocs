@@ -609,11 +609,11 @@ The height of the core when you shoot it is very lenient.
       Shotgun primary fire pushes you forward slightly, can be used with <a href="#shotgun-swapping">shotgun swapping</a>.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. primary fire with shotgun
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/xQE91Cy.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -659,15 +659,20 @@ The height of the core when you shoot it is very lenient.
       Swapping to another shotgun after firing resets the cooldown.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Hold primary fire <br/>
+      2. Switch shotgun's after shooting
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/xQE91Cy.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+::: note
+If you have an alt shotgun equipped, you have to use a variation number keybind.
+:::
 
 ### Projectile Boost
 <br />
