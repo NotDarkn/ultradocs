@@ -7,11 +7,8 @@ actions:
     link: /get-started
     type: primary
 
-  - text: General Info
-    link: /general-info
-    type: secondary
-
 features:
+  
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
   - title: Vue-Powered
