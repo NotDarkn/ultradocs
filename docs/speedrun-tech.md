@@ -1525,3 +1525,28 @@ TBA (To Be Added)
     </td>
   </tr>
 </tb>
+
+### Hybrid Exit
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      A mixture of <a href="#slam-store-exit">Slam Store Exit</a> and <a href="#ub-exit">UB Exit</a> that utilizes a better UB bonk angle to achieve a faster exit.
+    </td>
+    <td width="100px"> 
+      1. <a href="#slam-store">Slam Store</a> <br />
+      2. Slide backwards <br />
+      3. <a href="#ub-ultraboost">Ultraboost</a>
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/uJr4teX.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
