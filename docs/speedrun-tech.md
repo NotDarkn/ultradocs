@@ -140,7 +140,7 @@
     <td width="100px"> 
       1. Slide <br />
       2. Look 90° to left or right <br />
-      3. hold A or D according to the direction
+      3. Hold A or D according to the direction
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -257,7 +257,7 @@
   </tr>
   <tr>
     <td> 
-      After letting go of slide there is a 3 frame window (on 120 fps) where pressing jump will do a  slide jump that adds either 24, 12 or 6 units to your speed depending on which frame you jump.
+      After letting go of slide there is a 3 frame window (125 tickrate) where pressing jump will do a  slide jump that adds either 24, 12 or 6 units to your speed depending on which frame you jump.
     </td>
     <td width="100px"> 
       1. Slide <br />
@@ -338,8 +338,8 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
       Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones or for quickly reaching max jackhammer damage.
     </td>
     <td width="100px"> 
-      1. whiplash <br />
-      2. press punch or whiplash again
+      1. Whiplash <br />
+      2. Whiplash again or punch
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -362,8 +362,8 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
       Slamming during a whiplash will not give downward speed but does build slam momentum.
     </td>
     <td width="100px"> 
-      1. whiplash <br />
-      2. slam whilst you are getting dragged
+      1. Whiplash <br />
+      2. Slam while you are getting dragged
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -390,8 +390,8 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
       Tap slide and fire a core eject down at the same time, gives high horizontial speed.
     </td>
     <td width="100px"> 
-      1. tap/hold slide <br />
-      2. use a core eject
+      1. Slide <br />
+      2. Shoot a core at the ground
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -414,8 +414,8 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
       Use the Malicious Railcannon on a core eject. This is the fastest method of movement in the game excluding combinations and bugs. 
     </td>
     <td width="100px"> 
-      1. shoot out core eject in the opposite direction you want to go <br />
-      2. shoot the core with malicois railcannon
+      1. Toss a core <br />
+      2. Shoot the core with the malrail
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -442,9 +442,9 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       A faster method of ultra boosting that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
     </td>
     <td width="100px"> 
-      1. dash and shoot core eject <br />
-      2. turn 180° <br />
-      3. shoot the core with malicious railcannon 
+      1. Dash and shoot a core eject <br />
+      2. Turn 180° <br />
+      3. Shoot the core with malrail
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -464,12 +464,12 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
   </tr>
   <tr>
     <td> 
-      Ultraboost, then checkpoint as you take damage from it. This gives you the UB's momentum after respawning.
+      Checkpoint immidiately after <a href="#ultraboost">ultraboosting</a>, giving you the momentum after respawning. This can be made easier by capping your fps to 120.
     </td>
     <td width="100px"> 
-      1. UB <br />
-      2. pause the game when you take damage <br />
-      3. hit the checkpoint button
+      1. Ultraboost <br />
+      2. Pause <br />
+      3. Checkpoint
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -496,8 +496,9 @@ This is significantly easier to do capped on 120 FPS.
       Fire a rocket then whiplash it, fast explosion boost that can be done midair.
     </td>
     <td width="100px"> 
-      1. shoot out rocket <br />
-      2. whiplash rocket
+      1. Shoot a rocket <br />
+      2. Whiplash the rocket <br />
+      3. Freeze the rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -521,9 +522,9 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="100px"> 
       1. Freeze rockets <br />
-      2. look down <br />
-      3. shoot out rocket <br />
-      4. whiplash rocket
+      2. Look down <br />
+      3. Walk <br />
+      4. Shoot and whiplash a rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -547,9 +548,9 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="100px"> 
       1. Freeze rockets <br />
-      2. shoot out rocket <br />
-      3. jump <br />
-      4. slam
+      2. Shoot a rocket <br />
+      3. Jump <br />
+      4. Slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -572,10 +573,10 @@ This is significantly easier to do capped on 120 FPS.
       Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air.
     </td>
     <td width="100px"> 
-      1. freeze rocket <br />
-      2. dash and shoot <br />
-      3. wait <br />
-      4. unfreeze rocket
+      1. Freeze <br />
+      2. Dash <br />
+      3. Shoot and freeze <br />
+      4. Unfreeze
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -595,10 +596,12 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
   <tr>
     <td> 
-      Dash and then quickly shoot a fully charged overpump (can be done with both default and alternate)
+      Dash and then quickly shoot a fully charged overpump (can be done with both default and alternate).
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Dash <br />
+      2. Wait a moment <br />
+      3. Shoot overpump
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -625,9 +628,9 @@ Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you 
       Fire a core eject in front of you, shoot it with the revolver then dash through it, you will get hit by the lasting hitbox and launched.
     </td>
     <td width="100px"> 
-      1. shoot core eject <br />
-      2. shoot core with revolver <br /> 
-      3. dash
+      1. Shoot core eject <br />
+      2. Shoot core with revolver <br /> 
+      3. Dash into the explosion
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -654,7 +657,7 @@ The height of the core when you shoot it is very lenient.
       Shotgun primary fire pushes you forward slightly, can be used with <a href="#shotgun-swapping">shotgun swapping</a>.
     </td>
     <td width="100px"> 
-      1. primary fire with shotgun
+      1. Primary fire with shotgun
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -681,7 +684,8 @@ The height of the core when you shoot it is very lenient.
       Holding left click while charging a piercer shot will fire it the instant it full charges.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Start charging piercer <br />
+      2. Hold left and right click simultaneously
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -732,7 +736,8 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       Punching with feedbacker as you fire the shotgun parries a bullet and causes it to explode on impact.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shotgun primary fire <br />
+      2. Feedbacker punch
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
