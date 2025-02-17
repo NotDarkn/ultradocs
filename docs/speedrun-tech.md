@@ -18,8 +18,7 @@
     </td>
     <td width="100px">
       1. Slide <br />
-      2. Stop sliding <br />
-      3. Press jump right after
+      2. Jump while sliding
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -43,7 +42,7 @@
     </td>
     <td width="100px"> 
       1. Dash <br />
-      2. Jump right after
+      2. Jump during the dash
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -68,8 +67,7 @@
     <td width="100px"> 
       1. Dash <br />
       2. Slide <br />
-      3. Stop sliding <br />
-      4. Jump right after
+      3. Jump during the slide
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -92,10 +90,8 @@
       Interrupting a slam with a wall jump stores the slam state without the downward speed. Using jump, slide, or dive after landing in the Slam Store state allows reaching max slam momentum quickly. 
     </td>
     <td width="100px"> 
-      1. go towards a wall <br />
-      2. jump againt the wall <br />
-      3. press slam whilst holding the movement key <br />
-      4. do a slidejump, jump or dive
+      1. Slam <br />
+      2. Wall jump
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -119,7 +115,7 @@
     </td>
     <td width="100px"> 
       1. Jump <br />
-      2. hold slide shortly after
+      2. Slide immediately after
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
