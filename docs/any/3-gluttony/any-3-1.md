@@ -34,4 +34,4 @@ Slab Sharpshooter alt fire to kill all the strays <br/>
 [Split Coin](/speedrun-tech.md#split-coins) and ricoshot to kill the soldiers
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 
-### Oil Clear
+### [Oil Clear](https://youtu.be/6wgY5I3khZM)

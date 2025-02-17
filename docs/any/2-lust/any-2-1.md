@@ -18,7 +18,7 @@ Slam down to the hole, [Dash Extension](/speedrun-tech.md#dash-extension) out di
 Around when you reach the second building [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to go up to the exit <br/>
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit) <br/>
 
-### Rocket Ub
+### [Rocket Ub](https://youtu.be/pX1UGK8bMAo)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
@@ -31,7 +31,7 @@ Around when you’re next to the second building, [Instant Rocket Ride](/speedru
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 
 
-## Jump Pad
+## [Jump Pad](https://youtu.be/3koB90MFD9c)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>

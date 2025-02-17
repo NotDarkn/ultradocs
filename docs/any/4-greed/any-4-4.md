@@ -134,7 +134,7 @@ Whip cancel jackhammer to kill the malicious face <br/>
 Whiplash the end hook point and whip cancel to keep momentum into the exit <br/>
 Add oil to keep speed and slide <br/>
 
-### Insta-Exit
+### [Insta-Exit](https://youtu.be/ajnKfHSJq5g)
 <font size="2">
     <b>Difficulty</b>: Hard (5/5)
 </font>

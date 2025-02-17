@@ -31,7 +31,7 @@ Malicious rail your rocket <br/>
 Slam into final arena entrance and [Slide Jump](/speedrun-tech.md#slide-jump) <br/> 
 Checkpoint
 
-### Arch Clip
+### [Arch Clip](https://youtu.be/Qg2vY-5FREU)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
@@ -86,7 +86,7 @@ The second wall bounce sometimes spawns the arena because of hitbox jank, making
 </font>
 
 
-### Double Trigger Skip
+### [Double Trigger Skip](https://youtu.be/9IimNZkiw3Q)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>

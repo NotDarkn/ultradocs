@@ -43,7 +43,7 @@ Jumpstart the tram as you checkpoint
 </font>
 
 
-### First Room Clip
+### [First Room Clip](https://youtu.be/Qg2vY-5FREU)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>

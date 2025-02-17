@@ -5,7 +5,7 @@ next: ./any-4-4
 
 # 4-3 // A SHOT IN THE DARK (Any%)
 
-## Filth Clip
+## [Filth Clip](https://youtu.be/cvTkN7axEpQ)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
@@ -16,7 +16,7 @@ Freeze a rocket in front of the red door, and use jackhammer on it to light the 
 Slam and dash to reach the checkpoint <br/>
 
 
-## Arena Clear
+## [Arena Clear](https://youtu.be/J0xMhIKooqk)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>
