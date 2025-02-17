@@ -22,9 +22,10 @@ export default hopeTheme({
 
   metaLocales: {
     editLink: "Wanna help us? Click me then!",
-    contributors: "false",
   },
 
+  contributors: false,
+  
   plugins: {
 
     components: {
