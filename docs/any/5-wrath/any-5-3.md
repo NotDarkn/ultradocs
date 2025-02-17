@@ -22,7 +22,7 @@ Dash twice to the falling wall, and hold against it <br/>
 
 ## Exit
 
-### [Fup](https://youtu.be/ExslsMlx7GI)
+### [FUP](https://youtu.be/ExslsMlx7GI)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
@@ -37,7 +37,7 @@ Slam <br/>
 [Dive](/speedrun-tech.md#dives) to the door<br/>
 [Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
 Place oil to maintain speed <br/>
-
+***
 ### [Slam Store](https://youtu.be/8n6OD23X8qA)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)

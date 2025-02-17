@@ -561,11 +561,15 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/yHqrl1b.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+::: note
+Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you did it right, 50 HP means you did it a bit late.
+:::
 
 ### (CSB) Core Snipe Boosts
 <br />
@@ -640,7 +644,7 @@ The height of the core when you shoot it is very lenient.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/gbIRCQC.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -691,7 +695,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/PXXfIeb.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -714,7 +718,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/dkC4EfS.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -737,7 +741,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/IgUK2Lt.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -881,15 +885,14 @@ You only need to charge srs cannon to 25% for full damage.
   </tr>
   <tr>
     <td> 
-      Placing a frozen rocket where an enemy will walk <br />
-      Will create a red explosion if the rocket has time to supercharge
+      Placing a frozen rocket where an enemy will walk will create a red explosion if the rocket has time to supercharge
     </td>
     <td width="100px"> 
       TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/ltuBIPp.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -939,7 +942,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/G8m2RSM.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1058,7 +1061,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/NYmiv68.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1184,7 +1187,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/1tsZnFB.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1267,7 +1270,6 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
   </tr>
 </tb>
 
-
 ### Trigger Skip
 <br />
 <tb style="width:100%; vertical-align: top">
@@ -1285,17 +1287,73 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/XVQVRBD.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
+::: details 🛈 **Alternate Trigger Skip Variations** 🛈
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>VARIATION DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="#miss-clip">Miss Clip</a> variation. Through using the whiplash, you'll be able to instantly get put onto your rocket and if placed correctly, skips the trigger.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+      <video width="300" height="auto" loop controls muted>
+          <source src="https://i.imgur.com/a79wAiY.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+  <tr>
+  <td> 
+    Prefire variation. While more difficult, you can shoot a rocket before you're near the trigger and if frozen at the right time, can skip the trigger once you land on the rocket.
+  </td>
+  <td width="100px"> 
+    TBA (To Be Added)
+  </td>
+  <td width="200px">
+    <video width="300" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+    </video>
+  </td>
+  </tr>
+</tb>
+:::
+
 ### Arch Clips
 TBA (To Be Added)
 
 ### Skuggle
-bro wtf is a skuggle??? man i wish i knew ;-;
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Skull doors with a "BLOCKING DOOR WOULD CLOSE" message are skippable through certain rocket placement and correct rocket and skull timing.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/vglHoZm.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 <!---------------------------------------------->
 
@@ -1318,7 +1376,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/bjFqXqA.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1341,7 +1399,7 @@ bro wtf is a skuggle??? man i wish i knew ;-;
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/tccVthc.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1357,14 +1415,37 @@ bro wtf is a skuggle??? man i wish i knew ;-;
   </tr>
   <tr>
     <td> 
-      Put your back to the exit door and <a href="#ub-ultraboost">UB</a> as it opens, then quickly turn around and place oil, then slam into the exit or stand slightly back from the door, as it opens <a href="#flick-ub">flick UB</a>, then place oil, then slam into the exit.
+      Put your back to the exit door and <a href="#ub-ultraboost">UB</a> as it opens, then quickly turn around and place oil, then slam into the exit.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/zELkZhr.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+### Flick UB Exit
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Stand slightly back from the door, as it opens <a href="#flick-ub">Flick UB</a>, then place oil and slam into the exit.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/jfV5NRR.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1387,11 +1468,31 @@ bro wtf is a skuggle??? man i wish i knew ;-;
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/r9jBCe9.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ### Sandwich Exit
-TBA (To Be Added)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      A universal exit that utilizes a Dash <a href="#dive-ssj">Dive SSJ</a> through an exit, ideally done with <a href="#slideways">slideways</a>.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>

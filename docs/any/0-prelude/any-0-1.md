@@ -25,7 +25,10 @@ Slide when you land to maintain speed, then slide diagonally onto the pipe, and 
 If timed correctly, you can insta-kill the malicious face without need to use the electric rail cannon, allowing you to [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 
 
-## False Exit 
-Rocket Ride Into Exit <br/>
-Pump Charge Into Exit <br/>
-Bonk Head With Pump Charge Into Exit <br/>
+## [False Exit](https://youtu.be/Oz8Vu3mY2ko)
+### Rocket Ride Into Exit
+
+
+### Pump Charge Into Exit
+
+### Bonk Head With Pump Charge Into Exit
