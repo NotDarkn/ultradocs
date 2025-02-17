@@ -354,7 +354,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/rqy7IKZ.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/FR7CIDJ.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -460,7 +460,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/JOA1RNB.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -486,7 +486,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/T0AdOvR.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -783,7 +783,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/JOA1RNB.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -810,7 +810,7 @@ This creates a large red explosion at the cost of 35 HP.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/mGIIUPj.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
