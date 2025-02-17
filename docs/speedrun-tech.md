@@ -1111,7 +1111,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/fNPSO0S.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1134,7 +1134,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/nzi5lYp.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1157,7 +1157,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/Az8dgW2.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
