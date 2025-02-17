@@ -33,7 +33,7 @@ Around when you’re next to the second building, [Instant Rocket Ride](/speedru
 
 ## Jump Pad
 <font size="2">
-    <b>Difficulty</b>: Slightly Easy (4/5)
+    <b>Difficulty</b>: Slightly Hard (4/5)
 </font>
 
 [Slam Store](/speedrun-tech.md#slam-store) then slide diagonally to the right <br/>
