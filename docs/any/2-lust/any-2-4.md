@@ -61,9 +61,9 @@ Checkpoint
 </font>
 
 Walk backwards slightly
-Ce boost
-Ub so that you bonk on the ceiling of the doorway
-Slide jump
+Ce Boost
+Flick Ub so that you bonk on the ceiling of the doorway
+Slide Sump
 Dash and whiplash the skull
 Checkpoint
 
@@ -82,6 +82,6 @@ Then fire the [piercer shot and electric rail](/speedrun-tech.html#ricostacks) s
 Throw a coin down, and [punch it](/speedrun-tech.html#coin-punch) as the rail chains to it <br/>
 Shoot a rocket and activate freeze frame <br/>
 Alternate projectile boosts and rockets until you fire a fourth rocket, then unfreeze <br/>
-[Ce boost exit](/speedrun-tech.html#ce-boost-exit) <br/>
+[Ce Boost Exit](/speedrun-tech.html#ce-boost-exit) <br/>
 
 ### Ice Beam
