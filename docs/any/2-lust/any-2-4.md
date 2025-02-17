@@ -71,18 +71,17 @@ Checkpoint
 
 ### RCP
 
-### Slab Rail Coin Punch
+### [Slab Rail Coin Punch](https://youtu.be/tIjRrshyjfE)
 Jump, dash and place the skull with whiplash <br/>
 Place a sawtrap with 8 blue saws and an overheat saw on the ceiling <br/>
 Fire a core straight up, then shoot it with a revolver <br/>
 Throw 3 coins <br/>
 Charge a slab piercer charge shot <br/>
 Slam jump <br/>
-Then fire the piercer shot and electric rail straight up <br/>
-Throw a coin down, and punch it as the rail chains to it <br/>
-Projectile boost <br/>
+Then fire the [piercer shot and electric rail](/speedrun-tech.html#ricostacks) straight up <br/>
+Throw a coin down, and [punch it](/speedrun-tech.html#coin-punch) as the rail chains to it <br/>
 Shoot a rocket and activate freeze frame <br/>
 Alternate projectile boosts and rockets until you fire a fourth rocket, then unfreeze <br/>
-Ce boost exit <br/>
+[Ce boost exit](/speedrun-tech.html#ce-boost-exit) <br/>
 
 ### Ice Beam
