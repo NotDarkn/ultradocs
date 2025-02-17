@@ -261,7 +261,7 @@
     </td>
     <td width="100px"> 
       1. Slide <br />
-      2. jump within 3 frames when done sliding
+      2. Jump within 3 frames of releasing slide
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -276,10 +276,54 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
 :::
 
 ### Dive SSJ
-TBA (To Be Added)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      After doing an <a href="#ssj-super-slide-jump"> SSJ</a>, press space within 10 frames to do a <a href="#dives">dive</a>. This gives a speed boost and a different arc, but at the cost of the slide speedcap (72hu/s).
+    </td>
+    <td width="100px"> 
+      1. Slide <br />
+      2. Jump within 3 frames of releasing slide <br />
+      3. Hold slide
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/siWPqad.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Wall SSJ
-TBA (To Be Added)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      While wallsliding, release slide then press space within 3 frames. Wall SSJs give a larger speed boost compared to an <a href="#ssj-super-slide-jump">SSJ</a> and can give unique angles for movement. A wallslide state can be achieved in many ways such as sliding, <a href="#dives">diving</a>, <a href="#ce-boost-core-eject-boost">ce boosting</a> etc.
+    </td>
+    <td width="100px"> 
+      1. Slide onto a wall <br />
+      2. Release slide <br />
+      3. Press space
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/khHsiOu.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 	
 ### Whip Cancel
 <br />
