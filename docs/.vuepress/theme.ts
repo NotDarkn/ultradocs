@@ -18,12 +18,13 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Made with 💜 by ULTRAKILL Speedrunners",
-
   displayFooter: true,
+  
+  footer: "Made with 💜 by ULTRAKILL Speedrunners",
 
   metaLocales: {
     editLink: "Wanna help us? Click me then!",
+    contributors: "false",
   },
 
   // These features are enabled for demo, only preserve features you need here
