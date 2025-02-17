@@ -6,7 +6,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://ultradocs.pages.dev",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://i.imgur.com/3aKZ4Ro.png",
 
   repo: "NotDarkn/ULTRADOCS",
 
@@ -18,7 +18,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Made with 💚 by ULTRAKILL Speedrunners",
+  footer: "Made with 💜 by ULTRAKILL Speedrunners",
 
   displayFooter: true,
 
