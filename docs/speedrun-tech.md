@@ -869,7 +869,7 @@ You only need to charge srs cannon to 25% for full damage.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/tZLFRAk.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
