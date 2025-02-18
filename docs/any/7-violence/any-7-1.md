@@ -16,7 +16,7 @@ next: ./any-7-2
 [Slide jump](/speedrun-tech.md#slide-jump) until you reach the mannequin room <br/>
 [Dive](/speedrun-tech.md#dives) and hold slide <br/>
 [Wall bounce](/speedrun-tech.md#wall-bounces) <br/>
-[Slide jump](/speedrun-tech.md#slide-jump) <br/>
+Turn around and [Slide jump](/speedrun-tech.md#slide-jump) <br/>
 Dash to the wall and [Slam Store](/speedrun-tech.md#slam-store) <br/>
 Land past the door as it opens, then jump <br/>
 Dash to the ledge <br/>
@@ -29,14 +29,18 @@ Slam <br/>
 [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) <br/>
 Rocket ride into the block on the bottom of the pillar <br/>
 Slam <br/>
-[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
-Dash slide <br/>
-[CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
-Slide <br/>
-[Dash extension](/speedrun-tech.md#dash-extension) <br/>
-Slam <br/>
-[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
-Jumpstart the tram as you checkpoint 
+[Slide Jump] towards the doorway(/speedrun-tech.md#slide-jump) <br/>
+Slam and dash slide though the doorway <br/>
+Turn right and [CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) down the stairs<br/>
+Turn right and slide to keep speed from the ce boost <br/>
+[Dash extension](/speedrun-tech.md#dash-extension) down the stairs  <br/>
+Slam into the hole <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) to the checkpoint and jumpstart the tram <br/>
+Checkpoint 
+
+::: note
+If you jumpstart the tram before checkpointing it stays jumpstarted, this isn't actually faster but is easier
+:::
 ### Eanra Arch Clip
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
@@ -68,7 +72,7 @@ Jumpstart <br/>
 Fire a magnet into minotaur <br/>
 [Rail coin](/speedrun-tech.md#railcoins) and [Coin Add](/speedrun-tech.md#coin-add) all your coins <br/>
 [S.R.S. combo](/speedrun-tech.md#srs-combo) <br/>
-Watch for when saw disappear, then checkpoint
+watch for when the saws disappear, then checkpoint
 
 ### Harmless Strats
 <font size="2">
@@ -85,8 +89,8 @@ Watch for when saw disappear, then checkpoint
 Dash <br/>
 Press the button <br/>
 Dash <br/>
-[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) <br/>
-[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena <br/>
+[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) and angle your rocket the right and then up <br/>
+Jump and dash over the railing, slam to the ground, then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena <br/>
 Place a saw trap on the pillar with an overheat saw <br/>
 Jumpstart minotaur <br/>
 Place a magnet on it <br/>

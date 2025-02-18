@@ -14,7 +14,7 @@ next: ./any-2-4
 
 [CSB](/speedrun-tech.md#csb-core-snipe-boosts) through the red doors <br/>
 Dash slide left onto the stairs <br/>
-Spam slide into the dip in the doorway <br/>
+Spam slide into the dip in the doorway until you clip out <br/>
 Once out of bounds, [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to the checkpoint, it can be hit from underneath <br/>
 
 ### [Ultraboost](https://youtu.be/HlkWbGlP140)
