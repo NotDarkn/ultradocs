@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td> 
-      A DSJ is when you do a slide jump right after dashing. While a simple mechanic, has many use cases such as in 0-1.
+      A DSJ is when you do a <a href="#slide-jump">slide jump</a> right after dashing. While a simple mechanic, has many use cases such as in 0-1.
     </td>
     <td width="100px"> 
       1. Dash <br />
@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td> 
-      Interrupting a slam with a wall jump stores the slam state without the downward speed. Using jump, slide, or dive after landing in the Slam Store state allows reaching max slam momentum quickly. 
+      Interrupting a slam with a wall jump stores the slam state without the downward speed. Using jump, slide, or <a href="#dives">dive</a> after landing in the Slam Store state allows reaching max slam momentum quickly. 
     </td>
     <td width="100px"> 
       1. Slam <br />
@@ -232,7 +232,7 @@
   </tr>
   <tr>
     <td> 
-      Dash towards a ledge and slide as you go over it then jump.
+      Dash towards a ledge and slide as you go over it, then jump.
     </td>
     <td width="100px"> 
       1. Dash <br />
@@ -439,7 +439,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
   </tr>
   <tr>
     <td> 
-      A faster method of ultra boosting that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
+      A faster method of <a href="#ub-ultraboost">ultraboosting</a> that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
     </td>
     <td width="100px"> 
       1. Dash and shoot a core eject <br />
@@ -467,7 +467,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       Checkpoint immidiately after <a href="#ultraboost">ultraboosting</a>, giving you the momentum after respawning. This can be made easier by capping your fps to 120.
     </td>
     <td width="100px"> 
-      1. Ultraboost <br />
+      1. <a href="#ub-ultraboost">Ultraboost</a> <br />
       2. Pause <br />
       3. Checkpoint
     </td>
@@ -570,7 +570,7 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
   <tr>
     <td> 
-      Activate freezeframe, look very slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows rocket riding quickly while mid air.
+      Activate freezeframe, look slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows <a href="#rocket-ride">rocket riding</a> quickly while mid air.
     </td>
     <td width="100px"> 
       1. Freeze <br />
@@ -803,7 +803,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
   </tr>
   <tr>
     <td>
-      The blast from a fully charged green shotgun can be dodged by dashing.
+      The blast from a fully charged overpump can be dodged by dashing.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
@@ -826,7 +826,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
   </tr>
   <tr>
     <td>
-      Whiplash a rocket then freeze it, you need to be in the air when the rocket reaches you.
+      Whiplash a rocket then freeze it, you need to be in the air when the rocket reaches you. This creates a large red explosion. (Freezing the rocket causes the explosion to be 50% larger)
     </td>
     <td width="100px"> 
       TBA (To Be Added)
@@ -981,7 +981,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
   <tr>
     <td> 
-      Firing one blue saw fully charges the heat on the green sawblade.
+      Firing one blue saw fully charges the heat on the green sawblade. This causes the overheat sawblade to deal more damage.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
@@ -1031,7 +1031,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
   <tr>
     <td> 
-      Punching a coin with the feedbacker at any point after the flash will send the coin into the nearest enemy or wherever you are facing and make it bounce back into the air with a damage increase, its damage caps after punching it into a surface 3 times.
+      Punching a coin using the feedbacker will cause it to target an enemy weakpoint, or the direction you are facing if none are available, then bounce up. Each punch causes the coin's power to increase by 1. 
     </td>
     <td width="100px"> 
       TBA (To Be Added)
@@ -1044,6 +1044,10 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
 </tb>
 
+::: note
+The power increase caused by punches is limited to 3 punches against a surface, but unlimited against enemies.
+:::
+
 ### Deadcoins
 <br />
 <tb style="width:100%; vertical-align: top">
@@ -1054,7 +1058,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
   <tr>
     <td> 
-      Shooting a coin and shortly after firing a new coin will transfer the damage to the new coin and compound it, allowing you to bypass the damage cap on coin punching.
+      Shooting a coin and, shortly after, throwing a new coin will transfer the damage to the new coin and compound it, allowing you to bypass the damage cap on coin punching.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
@@ -1077,7 +1081,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
   <tr>
     <td> 
-      Firing multiple coins then shooting and firing a new coin will transfer all the damage of the coins to the new one, this requires delaying firing the new coin slightly more than with only one coin.
+      Shooting a coin when there are multiple in the air, and then <a href="#deadcoins"> deadcoining </a> will transfer all the damage of the coins to the new coin.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
@@ -1089,6 +1093,10 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
   </tr>
 </tb>
+
+::: note
+For each coin thats in the air, you should wait roughly 100ms before throwing the coin, otherwise it will get used up.
+:::
 
 ### Fast Coin 
 <br />
@@ -1127,7 +1135,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
   </tr>
   <tr>
     <td> 
-      When hittting a coin with the alternate Slab Piercer pistol.
+      Shooting a coin with the alternate Piercer.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
@@ -1173,7 +1181,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
   </tr>
   <tr>
     <td> 
-      Quickly swapping back to the Marksman allows you to add more coins after a railcoin.
+      Quickly swapping back to the Marksman allows you to add more coins after a <a href="#railcoins">railcoin</a>.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
