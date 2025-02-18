@@ -1603,3 +1603,49 @@ TBA (To Be Added)
     </td>
   </tr>
 </tb>
+
+### Jackhammer Exit
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Through utilizing the jackhammer and a rocket (or two), you're able to go the same speed as a <a href="#ub-ultraboost">UB</a>.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/AT0ulH8.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: details 🛈 **Alternate Jackhammer Exit Variations** 🛈
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>VARIATION DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      If you use the alternate core eject and then boost the core into the rocket using the jackhammer at the right time and placement, you're able to go at the same speed as a <a href="#ub-ultraboost">UB</a>.
+    </td>
+    <td width="100px"> 
+      TBA (To Be Added)
+    </td>
+    <td width="200px">
+      <video width="300" height="auto" loop controls muted>
+          <source src="https://i.imgur.com/dfZLgcs.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</tb>
+:::
