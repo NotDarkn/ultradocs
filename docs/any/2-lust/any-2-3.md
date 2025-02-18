@@ -47,3 +47,19 @@ Yeah whatever that shit is <br/>
 ## Alternate Exits
 CE boost exit <br/>
 [Cerb Slide Clip](https://youtu.be/G8J0pXr85_0) 
+
+## Secret Exit 
+
+### Entrance 
+
+Slide and look around here and [Ultraboost](/speedrun-tech.md#ub-ultraboost) while sliding. UB at ~100 milliseconds. <br/> 
+![2-3 entrance ub line up](</../images/2-3-entrance-ub-line-up.png>)
+Use oil, land on the stairs, [Dive](/speedrun-tech.md#dives)<br/>
+Dive through the door straight ahead and checkpoint reset
+
+### 1st Checkpoint
+
+[Dash Jump](/speedrun-tech.md#dash-jump) to the door then [Slide clip](/speedrun-tech.md#slide-clips) where the door should be <br/>
+Slam and rocket ride here to touch the trigger to open the door for the exit <br/>
+![2-3 end trigger](</../images/2-3-SE-end-trigger.png>) 
+Once you touch the trigger, Slam and [Flick UB](/speedrun-tech.md#flick-ub) to the exit tube and slam to guarantee the finish
