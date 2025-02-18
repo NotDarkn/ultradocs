@@ -67,6 +67,34 @@ When it comes to the game itself, there are also terms when it comes to the weap
 
 ::: details **Click Me To View!**
 
-cat you lazy bum go put your stuff here ty <3
+### Slab
+This refers to the alternate variation of the **Piercer**, the blue variation of the revolver.
+
+### Slarp
+This refers to the alternate variation of the **sharpshooter**, the red variation of the revolver.
+
+### CE
+This refers to using the **Core Eject** ability (RMB) of the **Core Eject**, the blue variation of the shotgun.
+
+### Overpump
+This refers to using the **Pump** ability 4 times (0.25 sec per pump) of the **Pump Charge**, the green variation of the shotgun.
+
+### Jackhammer(s)
+These are the alternate variations of the **shotguns**.
+
+### Saw(s)/Sawgun(s)
+These are the alternate variations of the **miniguns**.
+
+### E-Rail
+This refers to the **Electric railcannon**.
+
+### Malrail
+This refers to the **Malicious railcannon**.
+
+### Freeze
+This refers to Using the **freeze** ability (RMB) of the **freezeframe**, the blue variation of the rocket launcher.
+
+### S.R.S. / SRS
+This refers To the **S.R.S. cannon**
 
 :::
