@@ -27,6 +27,12 @@ Having 2 slide buttons can be helpful for slide clips, allowing you to mash fast
 The timer program used in multi-level runs is LiveSplit. Which you can get [here](https://livesplit.org/). Note that due to LiveSplit not timing to the thousanths place it can't be used for submission times, you instead have to manually add up the times from the level end screen. There is a excell spreadsheet in the resources tab on speedrun.com to help with this. 
 
 ## Terms
+
+### Regular Terms
+Within the ULTRAKILL community, there are a lot of *abbreviations* for things such as Full Game being FG. Below is a list of abbreviations for all Regular Terms within the community.
+
+::: details **Click Me To View!**
+
 ### SRC
 This refers to the site, [**speedrun.com**](https://speedrun.com)
 
@@ -53,3 +59,14 @@ This refers to the **slab sharpshooter**, the red variation of the revolver.
 
 ### Maurice
 This refers to the **Malicious Face**, the first boss you see in the game.
+
+:::
+
+### Weapon Terms
+When it comes to the game itself, there are also terms when it comes to the weapons. While not as large or vast as the [Regular Terms](#regular-terms), there are still quite a few.
+
+::: details **Click Me To View!**
+
+cat you lazy bum go put your stuff here ty <3
+
+:::
