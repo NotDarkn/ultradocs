@@ -28,8 +28,8 @@ Dash twice to the falling wall, and hold against it <br/>
 </font>
 
 [Slide Jump](/speedrun-tech.md#slide-jump) <br/>
-[FUP](/speedrun-tech.md#fup-frozen-unfriendly-pull-it) <br/>
-[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
+[FUP](/speedrun-tech.md#fup-frozen-unfriendly-pull-it) as you go through door <br/>
+Turn right and [Slide Jump](/speedrun-tech.md#slide-jump) <br/>
 [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) up the stairs <br/>
 Dash to the door  <br/>
 Dash again as it opens to cancel the knockback <br/>
