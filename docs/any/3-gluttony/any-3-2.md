@@ -13,8 +13,8 @@ next: ../4-greed/
 
 [Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, [Slam Store](/speedrun-tech.md#slam-store), then wall jump off the other side of the hallway, then dive and hold slide <br/>
 Dash forward, slam, and [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
-Slam at the next door and slide diagonally into the doorframe to clip through it <br/>
-[Flick UB](/speedrun-tech.md#flick-ub) to reach the checkpoint<br/>
+Slam at the next door and spam slide diagonally into the doorframe to clip through it <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) to reach the checkpoint <br/>
 
 
 ## Boss Kill
