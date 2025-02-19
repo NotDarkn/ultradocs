@@ -25,7 +25,7 @@ Ce boost to the checkpoint, this will kill you, but you can hit checkpoints whil
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Chub](/speedrun-tech.md#chub-checkpoint-ub) straight up <br/>
+[Checkpoint ub](/speedrun-tech.md#chub-checkpoint-ub) straight up <br/>
 Dash backward and land on the pipe <br/>
 Put your back to the wall, look up, and shoot a frozen rocket, then jump on it <br/>
 [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to the final room while charging an over pump <br/>
@@ -40,7 +40,7 @@ Use a [Nuke](/speedrun-tech.md#nukes) to break both panels by the exit <br/>
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-Move your camera slightly upwards, [Chub](/speedrun-tech.md#chub-checkpoint-ub) <br/>
+Move your camera slightly upwards, [Checkpoint ub](/speedrun-tech.md#chub-checkpoint-ub) <br/>
 Hold backwards, look up, and place a frozen rocket right before you bonk on the ceiling <br/>
 [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to the final room while charging an over pump <br/>
 Open the door to load final room, then over pump <br/>

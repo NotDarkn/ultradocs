@@ -24,10 +24,10 @@ Checkpoint reset
 ### Second Checkpoint
 
 Diagonal [Dash Jump](/speedrun-tech.md#dash-jump) holding W and D <br/>
-Whiplash to grab torch then [Chub](/speedrun-tech.md#chub-checkpoint-ub)
+Whiplash to grab torch then [Checkpoint ub](/speedrun-tech.md#checkpoint-ub)
 
 ### Third Checkpoint 
 
-Use momentum from [Chub](/speedrun-tech.md#chub-checkpoint-ub) to place the torch <br/>
+Use momentum from [Checkpoint ub](/speedrun-tech.md#checkpoint-ub) to place the torch <br/>
 As soon as you place the torch, [UB](/speedrun-tech.md#ub-ultraboost)<br/>
 [Duck Boost](/speedrun-tech.md#duck-boosting)

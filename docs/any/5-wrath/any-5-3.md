@@ -58,7 +58,7 @@ Place oil to maintain speed
     <b>Difficulty</b>: Hard (5/5)
 </font>
 
-Flick Chub<br/>
+Flick Checkpoint ub <br/>
 Jackhammer boost off the cerberus <br/>
 Charge an over pump <br/>
 Dsj up the stairs <br/>

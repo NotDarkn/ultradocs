@@ -454,7 +454,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
   </tr>
 </tb>
 
-### Chub (Checkpoint UB)
+### Checkpoint UB
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
