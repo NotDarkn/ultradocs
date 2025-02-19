@@ -17,7 +17,7 @@ Angle the rocket up <br/>
 Jump and whiplash the hookpoint <br/>
 [Whip Cancel](/speedrun-tech.md#whip-cancel) <br/>
 Hold slide  <br/>
-Turn around and [UB](/speedrun-tech.md#ub-ultraboost) as it opens <br/>
+Turn around and [UB](/speedrun-tech.md#ub-ultraboost) as the doors open, continue holding slide until you reach the boss <br/>
 
 ### [Slam Store](https://youtu.be/mMjFsTK1bfg)
 <font size="2">
@@ -29,7 +29,7 @@ Charge an over pump <br/>
 Dive <br/>
 Turn around and over pump <br/>
 Hold slide  <br/>
-Turn around and [UB](/speedrun-tech.md#ub-ultraboost) as it opens <br/>
+Turn around and [UB](/speedrun-tech.md#ub-ultraboost) as the doors open, continue holding slide until you reach the boss <br/>
 
 ## Boss Kill
 
@@ -47,7 +47,7 @@ Start charging a slab piercer charge shot <br/>
 Slam jump, punch the coin <br/>
 Dash and punch the coin <br/>
 Slam <br/>
-Wait until the coin falls under Gabriel then jump and punch it <br/>
+Wait until the coin falls under Gabriel, then jump and punch it <br/>
 Fire the [charge shot and electric railcannon](/speedrun-tech.md#ricostacks) up through Gabriel into the coin
 
 ### Stuon Kill 
