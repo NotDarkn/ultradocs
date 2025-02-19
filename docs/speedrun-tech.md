@@ -757,7 +757,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
   </tr>
   <tr>
     <td>
-      Firing a malicious railcannon at a core eject creates a very large and high damage explosion.
+      Firing a malicious railcannon at a core eject creates a very large and high damage explosion. You can avoid the damage and knockback by dashing immediately after firing the malicious rail.
     </td>
     <td width="100px"> 
       TBA (To Be Added)
