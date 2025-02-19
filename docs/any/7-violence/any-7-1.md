@@ -23,8 +23,7 @@ Dash to the ledge <br/>
 Place a frozen rocket in the curved ceiling <br/>
 [Dive](/speedrun-tech.md#dives) into the rocket immediately letting go of both jump and slide <br/>
 [Flick UB](/speedrun-tech.md#flick-ub) <br/>
-Slam so the door opens <br/>
-Dash under the door <br/>
+Slam next to the door to open it, then dash underneath it to load the next section of the level <br/>
 Slam <br/>
 [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) <br/>
 Rocket ride into the block on the bottom of the pillar <br/>
@@ -72,7 +71,7 @@ Jumpstart <br/>
 Fire a magnet into minotaur <br/>
 [Rail coin](/speedrun-tech.md#railcoins) and [Coin Add](/speedrun-tech.md#coin-add) all your coins <br/>
 [S.R.S. combo](/speedrun-tech.md#srs-combo) <br/>
-watch for when the saws disappear, then checkpoint
+Place magnets and some saws on the tram, watch for the instant they disappear, then checkpoint
 
 ### Harmless Strats
 <font size="2">
@@ -87,12 +86,11 @@ watch for when the saws disappear, then checkpoint
 </font>
 
 Dash <br/>
-Press the button <br/>
-Dash <br/>
-[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) and angle your rocket the right and then up <br/>
+Press the button on the tram <br/>
+Dash over the tram, then [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) and angle your rocket to the right and then up <br/>
 Jump and dash over the railing, slam to the ground, then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena <br/>
 Place a saw trap on the pillar with an overheat saw <br/>
 Jumpstart minotaur <br/>
 Place a magnet on it <br/>
-[Rail Coin](/speedrun-tech.md#railcoins) and [Coin Add](/speedrun-tech.md#coin-add) all your coins <br/>
+Throw one coin through minotaur to [Rail Coin](/speedrun-tech.md#railcoins), then [Coin Add](/speedrun-tech.md#coin-add) all your coins <br/>
 [S.R.S Combo](/speedrun-tech.md#srs-combo)
