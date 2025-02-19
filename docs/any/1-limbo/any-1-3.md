@@ -12,7 +12,8 @@ next: ./any-1-4
 
 [Slam Store](/speedrun-tech.md#slam-store) in the start room, slide into the left wall of the red room, then [Wall Bounce](/speedrun-tech.md#wall-bounces) and hold slide<br/>
 After going through the door, slide then dash slide to go around the wall, then malicious rail boost up dash forward and slam into the blue skull room <br/>
-Aim diagonally down and whiplash the skull before landing, then checkpoint <br/>
+Aim diagonally down and whiplash the skull before landing
+Checkpoint <br/>
 
 
 ## Boss Kills
@@ -23,16 +24,16 @@ Aim diagonally down and whiplash the skull before landing, then checkpoint <br/>
 </font>
 
 Dash backwards, turn around and place the skull with whiplash <br/>
-checkpoint <br/>
+Checkpoint <br/>
 Dash slide into the soap room <br/>
 Break the ceiling with a rocket <br/>
 Use malicious rail to boost up and whiplash to grab the soap <br/>
 Checkpoint <br/>
-Dash jump backwards, slam then ce boost <br/>
-Slam down before the checkpoint 
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) 
-As soon as the boss’s arms move checkpoint to get the faster spawn animation
-Dash jump <br/>
+[Dash jump](/speedrun-tech.html#dash-jump) backwards, slam then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+Slam down before the checkpoint <br/>
+[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+As soon as the boss’s arms move checkpoint so it does the faster spawn animation <br/>
+Dash jump into the arena <br/>
 Whiplash the boss to kill it as soon as it is vulnerable <br/>
 [UB](/speedrun-tech.md#ub-exit) exit
 
@@ -44,7 +45,7 @@ Whiplash the boss to kill it as soon as it is vulnerable <br/>
 Dash slide backwards <br/>
 Turn around and place the blue skull with whiplash <br/>
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
-slam down before the checkpoint <br/>
+Slam down before the checkpoint <br/>
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
 As soon as the boss’s arms move checkpoint to get the faster spawn animation <br/>
 [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena while firing blue saws, place a magnet behind the arms, then fire an overheat saw <br/>
@@ -56,3 +57,6 @@ Walk forward and throw a coin <br/>
 [Railcoin](/speedrun-tech.md#railcoins) <br/>
 [S.R.S. Combo](/speedrun-tech.md#srs-combo) <br/>
 [Slam Store Exit](/speedrun-tech.md#slam-store-exit)
+::: note
+This kill is somewhat inconsistent due to hideous mass weakpoints, if you are doing everthing and it isn't killing, you are probably not hitting weakpoint with either your sawtrap or railcoin
+:::

@@ -12,7 +12,7 @@ next: ./any-1-3
     <b>Difficulty</b>: Easy (1/5)
 </font>
 
-[Slam Store](/speedrun-tech.md#slam-store) slide until out from under the central structure then boost up with malicious rail cannon <br/>
+[Slam Store](/speedrun-tech.md#slam-store) in the entrance hallway, then slide until you are out from under the central structure, then boost up with malicious rail cannon <br/>
 Dash to the checkpoint 
 
 ### [Dive](https://youtu.be/6B99s3ZIFF0)
@@ -20,7 +20,7 @@ Dash to the checkpoint
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-Dash jump and [Slam Store](/speedrun-tech.md#slam-store) off of the red doors as they open, hold forward until you land, then [Dive](/speedrun-tech.md#dives) <br/>
+[Dash jump](/speedrun-tech.html#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) off of the red doors as they open, hold forward until you land, then [Dive](/speedrun-tech.md#dives) <br/>
 Slam onto the ledge then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) to the checkpoint
 
 ### [Climbstep](https://youtu.be/45_CONkKkZg)
@@ -28,7 +28,8 @@ Slam onto the ledge then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) to the che
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Slam Store](/speedrun-tech.md#slam-store) in the entrance hallway then [Dive](/speedrun-tech.md#dives), when you land [Dive](/speedrun-tech.md#dives) again and hold slide. Getting this to work correctly is basicly rng
+[Slam Store](/speedrun-tech.md#slam-store) in the entrance hallway then [Dive](/speedrun-tech.md#dives), when you land [Dive](/speedrun-tech.md#dives) again and hold slide. <br/>
+Getting this to work correctly is very inconsistent and essentially random
 
 
 ## First Arena
@@ -38,10 +39,11 @@ Slam onto the ledge then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) to the che
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-Fire an overheat saw at the middle of the skull on the locked door for the second wave drones <br/>
+Dash fire an overheat saw at the middle of the skull on the locked door for the second wave drones <br/>
 Charge an over pump and use a knuckleblaster shockwave followed by a [Over Pump Dodge](/speedrun-tech.md#over-pump-dodge) to clear the filth <br/>
 Place a [Rocket Trap](/speedrun-tech.md#rocket-traps) for one set of schisms <br/>
-malicious rail the other <br/>
+Malicious rail the other <br/>
+You don't need to hit the schisms directly, just shoot the wall at the back of the tunnel and it should kill <br/>
 Use dash slides to reach the shortcut and open it with jumpstart <br/>
 Slam down then dash to the checkpoint
 
