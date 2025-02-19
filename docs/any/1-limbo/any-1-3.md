@@ -48,11 +48,7 @@ Turn around and place the blue skull with whiplash <br/>
 Slam down before the checkpoint <br/>
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the boss room <br/>
 As soon as the boss’s arms move checkpoint to get the faster spawn animation <br/>
-<<<<<<< Updated upstream
-[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena while firing blue saws, place a magnet behind the arms, then fire an overheat saw once 8 blue saws have shot. <br/>
-=======
 [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena while firing blue saws, place a magnet behind the arms, then fire an overheat saw just before the boss spawns. <br/>
->>>>>>> Stashed changes
 As soon as the boss spawns, attatch the jumpstart cable to its weakpoint <br/>
 While looking down, jump, throw a coin and [coin punch](/speedrun-tech.md#coin-punch) it <br/>
 Slam, then throw another coin into the bosses weakpoint <br/>
