@@ -28,10 +28,10 @@ Collect the checkpoint from underneath, if the door is open when you checkpoint 
 Use slab revolver to kill the center drone <br/>
 Knuckleblast the filth <br/>
 [Split Coin](/speedrun-tech.md#split-coins) twice to kill the drones <br/>
-Slab Sharpshooter alt fire to kill all the strays <br/>
-[Mindflayer Insta](/speedrun-tech.md#mindflayer-instas) with a nuke <br/>
+Slab Sharpshooter alt through the two back strays as you walk off the ledge, the auto aim on the bounce shots will kill the other two <br/>
+[Mindflayer Insta](/speedrun-tech.md#mindflayer-instas) with a nuke, this will also kill the schisms <br/>
 [S.R.S. Combo](/speedrun-tech.md#srs-combo) the Mindflayer to ensure it dies <br/>
-[Split Coin](/speedrun-tech.md#split-coins) and ricoshot to kill the soldiers
+[Split Coin](/speedrun-tech.md#split-coins) and ricoshot to kill the soldiers <br/>
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 
 ### [Oil Clear](https://youtu.be/6wgY5I3khZM)
