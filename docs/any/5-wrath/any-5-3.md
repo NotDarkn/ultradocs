@@ -27,15 +27,14 @@ Dash twice to the falling wall, and hold against it <br/>
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
+[Slide Jump](/speedrun-tech.md#slide-jump) towards the door as soon as you checkpoint<br/>
 [FUP](/speedrun-tech.md#fup-frozen-unfriendly-pull-it) as you go through door <br/>
-Turn right and [Slide Jump](/speedrun-tech.md#slide-jump) <br/>
-[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) up the stairs <br/>
+Turn right and [slide jump](/speedrun-tech.md#slide-jump) <br/>
+[Slide jump](/speedrun-tech.md#slide-jump) up the slope <br/>
 Dash to the door  <br/>
-Dash again as it opens to cancel the knockback <br/>
-Slam <br/>
-[Dive](/speedrun-tech.md#dives) to the door<br/>
-[Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
+Dash again as it opens to cancel the knockback of the water<br/>
+Slam and [dive](/speedrun-tech.md#dives) to the door <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) towards the exit <br/>
 Place oil to maintain speed <br/>
 ***
 ### [Slam Store](https://youtu.be/8n6OD23X8qA)
@@ -44,12 +43,11 @@ Place oil to maintain speed <br/>
 </font>
 
 [Slam Store](/speedrun-tech.md#slam-store) then [Dive](/speedrun-tech.md#dives), release slide before touching the water or you will bounce <br/>
-[Slide jump](/speedrun-tech.md#slide-jump) <br/>
-[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) up the stairs  <br/>
+Turn right and [slide jump](/speedrun-tech.md#slide-jump) <br/>
+[Slide jump](/speedrun-tech.md#slide-jump) up the slope  <br/>
 Dash to the door <br/>
-Dash again as it opens to cancel the knockback <br/>
-Slam <br/>
-[Dive](/speedrun-tech.md#dives) to the door<br/>
+Dash again as it opens to cancel the knockback of the water <br/>
+Slam and [dive](/speedrun-tech.md#dives) to the door <br/>
 [Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
 Place oil to maintain speed
 
