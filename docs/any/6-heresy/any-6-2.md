@@ -1,6 +1,6 @@
 ---
 prev: ./
-next: ../7-violence
+next: ../7-violence/
 ---
 
 # 6-2 // AESTHETICS OF HATE (Any%)
