@@ -16,21 +16,23 @@ next: ./any-0-5
 [Slide Jump](/speedrun-tech.md#slide-jump) through the door <br/>
 Place 3 magnets
 Whiplsh and jumpstart one of the strays, fire nails at it, then knuckleblast it <br/>
-Thow additional coins to ensure jumpstart kills <br/>
-Dash jump into maurice with jackhammer to instakill<br/>
-[Flick UB](/speedrun-tech.md#flick-ub) to checkpoint
+Thow a few coins for extra conduction <br/>
+Dash jump into maurice with jackhammer to instakill <br/>
+[Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
+Checkpoint
 
 ### [Trigger skip](https://youtu.be/foBhu5TiZok)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
 
-Line up camera to spot shown in video without moving<br/>
+Line up camera to spot shown in video without moving <br/>
 [Slam Store](/speedrun-tech.md#slam-store) slide to the arena <br/>
 [Slide Jump](/speedrun-tech.md#slide-jump) through the door <br/>
 Without moving camera align crosshair to the spot shown (weapon wheel can be used for more precise adjustments) <br/>
 Activate freezeframe and place a rocket <br/>
-Jump onto the rocket then [Flick UB](/speedrun-tech.md#flick-ub) to the checkpoint<br/>
+Jump onto the rocket, then unfreeze, dash forward, and [Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
+Checkpoint <br/>
 
 ### Hard Clear
 <font size="2">
@@ -43,7 +45,8 @@ Split coin the top strays <br/>
 Place magnets to kill filth (optional, for consistency) <br/>
 Knuckle blast remaining filth <br/>
 Dash jump and jackhammer maurice <br/>
-[Flick UB](/speedrun-tech.md#flick-ub) to the checkpoint
+[Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
+Checkpoint
 
 ### Insta Trigger Skip
 Cxn you do this
@@ -57,7 +60,7 @@ Cxn you do this
 </font>
 
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) or [UB](/speedrun-tech.md#ub-ultraboost) through the long hallway <br/>
-Slam if neccessary and dash to checkpoint <br/>
+Slam if neccessary and dash to the checkpoint <br/>
 Checkpoint <br/>
 Dash, then use malicious rail to boost up <br/>
 [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) over the spawn trigger <br/>
