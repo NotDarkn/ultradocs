@@ -29,9 +29,9 @@ Dash slide into the soap room <br/>
 Break the ceiling with a rocket <br/>
 Use malicious rail to boost up and whiplash to grab the soap <br/>
 Checkpoint <br/>
-[Dash jump](/speedrun-tech.html#dash-jump) backwards, slam then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+[Dash jump](/speedrun-tech.html#dash-jump) backwards, slam then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) down the corridor <br/>
 Slam down before the checkpoint <br/>
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the boss room <br/>
 As soon as the boss’s arms move checkpoint so it does the faster spawn animation <br/>
 Dash jump into the arena <br/>
 Whiplash the boss to kill it as soon as it is vulnerable <br/>
@@ -44,19 +44,18 @@ Whiplash the boss to kill it as soon as it is vulnerable <br/>
 
 Dash slide backwards <br/>
 Turn around and place the blue skull with whiplash <br/>
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) down the corridor<br/>
 Slam down before the checkpoint <br/>
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
+[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the boss room <br/>
 As soon as the boss’s arms move checkpoint to get the faster spawn animation <br/>
-[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena while firing blue saws, place a magnet behind the arms, then fire an overheat saw <br/>
-As soon as the boss is vulnerable jumpstart it <br/>
-Jump, look down, and throw a coin <br/>
-[Coin punch](/speedrun-tech.md#coin-punch) <br/>
-Slam
-Walk forward and throw a coin <br/>
-[Railcoin](/speedrun-tech.md#railcoins) <br/>
-[S.R.S. Combo](/speedrun-tech.md#srs-combo) <br/>
-[Slam Store Exit](/speedrun-tech.md#slam-store-exit)
+[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) into the arena while firing blue saws, place a magnet behind the arms, then fire an overheat saw once all 10 blue saws have shot. <br/>
+As soon as the boss spawns, attatch the jumpstart cable to its weakpoint <br/>
+While looking down, jump, throw a coin and [coin punch](/speedrun-tech.md#coin-punch) it <br/>
+Slam, then throw another coin into the bosses weakpoint <br/>
+Shoot your erail towards the coin to [railcoin](/speedrun-tech.md#railcoins) <br/>
+Finish off with an [S.R.S. Combo](/speedrun-tech.md#srs-combo) <br/>
+Move towards the exit to time a [slam store exit](/speedrun-tech.md#slam-store-exit) <br/>
+You want to start your [slam store](/speedrun-tech.html#slam-store) right before the boss gibs. This may require some practice to get used to
 ::: note
 This kill is somewhat inconsistent due to hideous mass weakpoints, if you are doing everthing and it isn't killing, you are probably not hitting weakpoint with either your sawtrap or railcoin
 :::
