@@ -7,19 +7,19 @@ next: ../3-gluttony/
 
 ## Door Clip
 
-### [Walk + Slide]()
+### [Slide + Dash](https://youtu.be/1Eu5UfgGCkw)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font>
 
-Start walking till the starting door opens <br/>
-As soon as it opens, quickly flick to the right and dash into the corner <br/>
+Start sliding until you are past the starting room door <br/>
+Turn right, and dash into the corner <br/>
 Spam slide till you’re out of bounds <br/>
 Flick ub <br/>
 Instant rocket ride <br/>
 Checkpoint
 
-### [Dash Jump]()
+### [Dash Jump](https://youtu.be/FPo-AaR_yu8)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font>
@@ -31,7 +31,7 @@ Flick ub <br/>
 Instant rocket ride <br/>
 Checkpoint
 
-### [Slam Store]()
+### [Slam Store](https://youtu.be/s9-s--KsGq0)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font>
@@ -46,7 +46,7 @@ Checkpoint
 
 ## Red Skull
 
-### Tram Jumpstart
+### [Tram Jumpstart](https://youtu.be/9b46ZNWydsY)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font>
@@ -55,7 +55,7 @@ Jumpstart the tram and move it forward
 When the tram stops dash and whiplash the skull
 Checkpoint
 
-### Ub Bonk
+### [Ub Bonk](https://youtu.be/tGdgJMjRPQ4)
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>
@@ -63,7 +63,7 @@ Checkpoint
 Walk backwards slightly
 Ce Boost
 Flick Ub so that you bonk on the ceiling of the doorway
-Slide Sump
+Turn left and Slide Sump
 Dash and whiplash the skull
 Checkpoint
 
