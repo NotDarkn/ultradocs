@@ -14,7 +14,7 @@ next: ./any-1-2
 Slide under the tree branch. <br/>
 Place a frozen rocket against the wall between the fallen pillar and the door, facing straight down <br/>
 Jump and slam to mount the rocket <br/>
-Slam off the rocket and [Flick UB](/speedrun-tech.md#flick-ub) to the checkpoint <br/>
+Slam off the rocket, let yourself fall for a moment, then [Flick UB](/speedrun-tech.md#flick-ub) to the checkpoint <br/>
 
 
 ## [Arena Clear](https://www.youtube.com/watch?v=bu3sgrrz6Ic)
@@ -22,10 +22,10 @@ Slam off the rocket and [Flick UB](/speedrun-tech.md#flick-ub) to the checkpoint
     <b>Difficulty</b>: Easy (1/5)
 </font>
 
-Dash jump then [Slide Jump](/speedrun-tech.md#slide-jump) to reach the arena<br/>
+[Dash jump](/speedrun-tech.html#dash-jump) then [Slide Jump](/speedrun-tech.md#slide-jump) to reach the arena<br/>
 Place 3 magnets on the red door <br/>
 Whiplash and jumpstart one of the strays, fire some nails into it, then knuckleblast it <br/>
-To make sure jumpstart kills everything, throw some extra coins <br/>
+Throw a few coins for additional conduction<br/>
 Stand in the center of the room facing straight up, and [Nuke](/speedrun-tech.md#nukes) when the drones spawn <br/>
 For reasons I can’t explain, delaying the nuke slightly makes the nuke kill all the drones more consistently <br/>
 [Slam Store Exit](/speedrun-tech.md#slam-store-exit)
