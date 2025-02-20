@@ -174,6 +174,31 @@
   </tr>
 </tb>
 
+### Enemy Boosting (eBoosting)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Slamming then <a href="#slide-jump">slidejumping </a> off an enemy that will not die from the slam damage will give a speed boost compared to a normal slide jump.
+    </td>
+    <td width="100px">
+      1. Slam on an enemy <br />
+      2. Slide <br />
+      3. Jump
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/tqjhQnY.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
 ### Bhop
 <br />
 <tb style="width:100%; vertical-align: top">
