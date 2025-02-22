@@ -1269,7 +1269,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
 The sludge set ups can vary between bosses
 :::
 
-::: 
+::: details
 Alternate sludge variations
 :::
 
