@@ -1259,11 +1259,19 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/JV20y6R.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+::: note 
+The sludge set ups can vary between bosses
+:::
+
+::: 
+Alternate sludge variations
+:::
 
 ::: details **🛈 More Detailed Description 🛈**
 When you shoot a coin, it creates a list of enemies called a coin chain cache (CCC) to keep track of what enemies have been hit already, but due to an oversight it gets deleted after 5 seconds.
