@@ -54,12 +54,6 @@ This refers to **Out of Bounds**, which means when you're outside of the intende
 ### POOB
 This refers to **P% Out of Bounds** which means any out of bounds used in a p% run
 
-### Slarp
-This refers to the **slab sharpshooter**, the red variation of the revolver.
-
-### Maurice
-This refers to the **Malicious Face**, the first boss you see in the game.
-
 :::
 
 ### Weapon Terms
@@ -71,10 +65,10 @@ When it comes to the game itself, there are also terms when it comes to the weap
 This refers to the alternate variation of the **Piercer**, the blue variation of the revolver.
 
 ### Slarp
-This refers to the alternate variation of the **sharpshooter**, the red variation of the revolver.
+This refers to the alternate variation of the **Sharpshooter**, the red variation of the revolver.
 
 ### CE
-This refers to using the **Core Eject** ability (RMB) of the **Core Eject**, the blue variation of the shotgun.
+This refers to using the alternative ability (RMB) of the **Core Eject**, the blue variation of the shotgun.
 
 ### Overpump
 This refers to using the **Pump** ability 4 times (0.25 sec per pump) of the **Pump Charge**, the green variation of the shotgun.
@@ -86,15 +80,37 @@ These are the alternate variations of the **shotguns**.
 These are the alternate variations of the **miniguns**.
 
 ### E-Rail
-This refers to the **Electric railcannon**.
+This refers to the **Electric Railcannon**.
 
 ### Malrail
-This refers to the **Malicious railcannon**.
+This refers to the **Malicious Railcannon**.
 
 ### Freeze
-This refers to Using the **freeze** ability (RMB) of the **freezeframe**, the blue variation of the rocket launcher.
+This refers to Using the **freeze** ability (RMB) of the **Freezeframe**, the blue variation of the rocket launcher.
 
 ### S.R.S. / SRS
-This refers To the **S.R.S. cannon**
+This refers To the **S.R.S Cannon**
+
+:::
+
+### Enemy Terms
+While not as acknowledged, shortened names or alternative names for enemies in the games are used quite often. You may take a look, but they aren't crucial to learn nor' very important.
+
+::: details **Click Me To View!**
+
+### Maurice
+This refers to the first boss of the game, **Malicious Face**.
+
+### Cerb // Cerberi // Andre
+This refers to the boss, **Cerberus**.
+
+### HiM
+This refers to the boss, **Hidemous Mass**.
+
+### Gabe
+This refers to the boss, **Gabriel**.
+
+### Benjamin
+This refers to the boss, **1000-THR "Earthmover"**.
 
 :::
