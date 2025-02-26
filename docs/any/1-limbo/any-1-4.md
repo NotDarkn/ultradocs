@@ -3,13 +3,13 @@ prev: ./any-1-3
 next: ../2-lust/
 ---
 
-# 1-4 // CLAR DE LUNE (Any%)
+# 1-4 // CLAIR DE LUNE (Any%)
 
 ## Enter Arena
 
-### [Slam Store + Over Pump](https://youtu.be/4uwNYTG6wPM)
+### [Slam Store + Over Pump](https://youtu.be/0QvuTo5wvBc=0s)
 <font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
+    <b>Difficulty</b>: Easy (1/5)
 </font>
 
 Charge an overpump
@@ -18,7 +18,7 @@ Charge an overpump
 Whiplash the window <br/>
 Over pump to boost through the window <br/>
 
-### [Regular UB](https://youtu.be/4uwNYTG6wPM&t=11s)
+### [Regular UB](https://youtu.be/0QvuTo5wvBc&t=13s)
 <font size="2">
     <b>Difficulty</b>: Intermediate (2/5)
 </font>
@@ -31,7 +31,7 @@ Jump as soon as you land <br/>
 Whiplash the window <br/>
 Over pump to boost through the window <br/>
 
-### [UB + Oil](https://youtu.be/4uwNYTG6wPM&t=24s)
+### [UB + Oil](https://youtu.be/0QvuTo5wvBc&t=29s)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
@@ -43,9 +43,13 @@ Instantly press the slide button after checkpointing so you have some momentum <
 Whiplash the window <br/>
 Turn around and [UB](/speedrun-tech.md#ub-ultraboost) <br/>
 
+::: note
+Using oil is only possible in patch 15a or above
+:::
+
 ### God UB
 <font size="2">
-    <b>Difficulty</b>: Very Hard (6/5)
+    <b>Difficulty</b>: Very Hard (4/5)
 </font>
 
 God UB is simulair to the UB + Oil / [UB](/speedrun-tech.md#ub-ultraboost) but with the difference of speed. <br/>
@@ -55,6 +59,11 @@ God UB will only accur when you allign yourself perfectly and time the [UB](/spe
 Regular [Ultraboost](/speedrun-tech.md#ub-ultraboost) ranging from <=130 HU/s, and a God UB ranges from 130 to 142.x hU/s 
 :::
 
+::: details **patch 15d or under**
+[Slam Store + Over Pump](https://youtu.be/4uwNYTG6wPM)
+[Regular UB](https://youtu.be/4uwNYTG6wPM&t=11s)
+[UB + Oil](https://youtu.be/4uwNYTG6wPM&t=24s)
+:::
 
 ## Boss Kill
 
