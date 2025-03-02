@@ -121,5 +121,5 @@ https://github.com/user-attachments/assets/e5adb9e3-0fd0-4aca-b852-246e4da24c09
 
 <div align="center">
   <img src="https://github.com/NotDarkn/website-filehost/blob/main/public/footer.png?raw=true"/>
-  <em>❤️ this wouldn't have been made without the support of the ULTRAKILL community, so thank you ❤️</a></em>
+  <em>❤️ made by the <a href="https://www.speedrun.com/ultrakill">ULTRAKILL speedrunning community</a> ❤️</a></em>
 </div>
