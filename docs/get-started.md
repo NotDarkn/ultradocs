@@ -10,9 +10,12 @@ as a place for you to easily find resources, guides, and a variety of other thin
 
 Currently this is **in development**, so changes are being made periodically.
 
-# What category would you like to run?
+# Categories
+What do you plan on running?
 
-I want to run [**Any%**](/any/)
+- ### [Any%](/any/)
+
+- ### [P Rank](/p-rank/)
 
 # IGNORE
 
