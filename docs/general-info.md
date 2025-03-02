@@ -107,6 +107,9 @@ This refers to the boss, **Cerberus**.
 ### HiM
 This refers to the boss, **Hidemous Mass**.
 
+### SM
+This refers to the boss, **Swordsmachine**.
+
 ### Gabe
 This refers to the boss, **Gabriel**.
 
