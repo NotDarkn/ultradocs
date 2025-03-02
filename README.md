@@ -88,19 +88,19 @@ https://github.com/user-attachments/assets/e5adb9e3-0fd0-4aca-b852-246e4da24c09
 <tr>
   <td id='FishyBandit'>
   <a href='https://github.com/FishyBandit'>
-  <img src='https://i.imgur.com/3qm9q4h.png' width='140px;'>
+  <img src='https://i.imgur.com/3qm9q4h.png' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/FishyBandit'>Fishy</a></h4>
 </td>
   <td id='nsethiz'>
   <a href='https://github.com/nsethiz'>
-  <img src='https://cdn.discordapp.com/avatars/1136820300634390598/5db23dab689848bd618d4c2ec03e03c4.png' width='140px;'>
+  <img src='https://cdn.discordapp.com/avatars/1136820300634390598/5db23dab689848bd618d4c2ec03e03c4.png' width='140px;' height='140px';>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/nsethiz'>nsethiz</a></h4>
 </td>
   <td id='angelica'>
   <a href='https://github.com/eternal664'>
-  <img src='https://www.speedrun.com/static/user/jonom7n8/image.jpg?v=df124f5' width='140px;'>
+  <img src='https://www.speedrun.com/static/user/jonom7n8/image.jpg?v=df124f5' width='140px; height='140px'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/The_Black_Silence'>Angelica</a></h4>
 </td>
