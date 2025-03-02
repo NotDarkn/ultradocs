@@ -15,7 +15,7 @@
 **ULTRADOCS** is an **open-source speedrun guide** meant to document and guide all of the available speedrun strats for every level in the game, [**ULTRAKILL**](https://store.steampowered.com/app/1229490/ULTRAKILL/). The idea first came from [@Kano127](https://github.com/Kano127) where I (Darkn) made a speedrun.com thread about ["_When Are We Getting Proper Speedrun Guides?_](https://www.speedrun.com/ultrakill/forums/2jgrb)". He came up to me about it, and after a bit of convincing, we now have ULTRADOCS.
 
 ## 📖 Contributing 📖
-As a perk of **ULTRADOCS** being an **open-source guide**, anybody is able to copy this repository and make any changes that they may want to make. May that be correcting something, adding a missing strat, and much more. Simply follow the instructions below to get started.
+As a perk of **ULTRADOCS** being an **open-source guide**, anybody is able to copy this repository and make any changes that they may want to make. May that be correcting something, adding a missing strat, and much more, you can simply follow the instructions below to get started.
 
 ### 📚 Build Instructions 📚
 > [!IMPORTANT]
