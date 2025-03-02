@@ -19,7 +19,7 @@ As a perk of **ULTRADOCS** being an **open-source guide**, anybody is able to co
 
 ### 📚 Build Instructions 📚
 > [!IMPORTANT]
-> The instructions below uses [Node.js](https://nodejs.org) in order to install the required necessities for the website. However, you may use alternate package managers such as [Bun](https://bun.sh) or [pnpm](https://pnpm.io)
+> The instructions below uses [Node.js](https://nodejs.org) in order to install the required necessities for the website. However, you may use alternative package managers such as [Bun](https://bun.sh) or [pnpm](https://pnpm.io).
 
 1. Fork this repository, then clone your forked repository.
 2. Open your cloned repository, then open a terminal.
