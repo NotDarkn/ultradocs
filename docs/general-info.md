@@ -8,7 +8,7 @@ The moderators would really apreciate it! (they will kill you with hammers if yo
 :::
 
 ## Submitting Runs
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_thljcHvekk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="592" height="333" src="https://www.youtube.com/embed/_thljcHvekk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Difficulty
 Leaderboards for ultrakill are not sorted by difficulty <br/>
