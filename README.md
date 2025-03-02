@@ -58,21 +58,21 @@
 </td>
   <td id='angelica'>
   <a href='https://github.com/eternal664'>
-  <img src='https://cdn.discordapp.com/avatars/701260885645328444/840d13069db2876346824f7478399012.png' width='140px;'>
+  <img src='https://www.speedrun.com/static/user/jonom7n8/image.jpg?v=df124f5' width='140px;'>
 </a>
-  <h4 align='center'><a href='https://bypassi.me'>Angelica</a></h4>
+  <h4 align='center'><a href='https://speedrun.com/users/The_Black_Silence'>Angelica</a></h4>
 </td>
   <td id='N/A'>
-  <a href='https://google.com'>
-  <img src='https://cdn.discordapp.com/channel-icons/1338601375847682108/28665b053b4fa2408f202032b09a8fa1.png' width='140px;'>
+  <a href='https://github.com/vivyaann'>
+  <img src='https://github.com/vivyaann.png' width='140px;'>
 </a>
-  <h4 align='center'><a href='https://google.com'>N/A</a></h4>
+  <h4 align='center'><a href='https://speedrun.com/users/vivyaann'>vivyaann</a></h4>
 </td>
   <td id='N/A'>
-  <a href='https://google.com'>
-  <img src='https://cdn.discordapp.com/channel-icons/1338601375847682108/28665b053b4fa2408f202032b09a8fa1.png' width='140px;'>
+  <a href='https://github.com/humpsterv2'>
+  <img src='https://www.speedrun.com/static/user/x76e2e0j/image.png?v=c069633' width='140px;' height='140px;'>
 </a>
-  <h4 align='center'><a href='https://google.com'>N/A</a></h4>
+  <h4 align='center'><a href='https://speedun.com/users/humpster'>humpster</a></h4>
 </td>
 </tr>
 </table>
