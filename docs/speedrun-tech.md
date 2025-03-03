@@ -1512,7 +1512,10 @@ TBA (To Be Added)
       <a href="#ce-boost-core-eject-boost">CE Boost</a> as the red door opens, place oil, <a href="#slide-jump">slide jump</a>, and slam.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. <a href="#ce-boost-core-eject-boost">CE boost</a> (RMB) <br />
+      2. Place oil (RMB) <br />
+      3. Slide jump <br />
+      4. Slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1535,7 +1538,9 @@ TBA (To Be Added)
       <a href="#slam-store">Slam Store</a> off of the exit door, place oil, slide and use <a href="#slideways">slideways</a>.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Get <a href="#slam-store">slam Storage</a> <br />
+      2. Place oil <br />
+      3. <a href="#slideways">Slideways</a>
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1558,7 +1563,10 @@ TBA (To Be Added)
       Put your back to the exit door and <a href="#ub-ultraboost">UB</a> as it opens, then quickly turn around and place oil, then slam into the exit.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Stand by exit <br />
+      2. Turn 180° backward <br />
+      3. Perform a <a href="#ub-ultraboost">UB</a> <br />
+      4. Place oil
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1581,7 +1589,9 @@ TBA (To Be Added)
       Stand slightly back from the door, as it opens <a href="#flick-ub">Flick UB</a>, then place oil and slam into the exit.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Stand slightly back from exit <br />
+      2. Perform a <a href="#flick-ub">Flick UB</a> <br />
+      3. Place oil
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1604,7 +1614,9 @@ TBA (To Be Added)
       <a href="#dash-extension">Dash Extension</a> as the end door opens, then <a href="#slide-jump">slide jump</a> and slam.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Perform a <a href="#dash-extension">Dash Extension</a> <br />
+      2. Perform a <a href="#slide-jump">slide jump</a> <br />
+      3. slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1679,7 +1691,8 @@ TBA (To Be Added)
       Through utilizing the jackhammer and a rocket (or two), you're able to go the same speed as a <a href="#ub-ultraboost">UB</a>.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Place 2 Frozen rockets <br />
+      2. Hit rocket with jackhammer
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
