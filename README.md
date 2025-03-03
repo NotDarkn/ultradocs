@@ -42,6 +42,13 @@ https://github.com/user-attachments/assets/e5adb9e3-0fd0-4aca-b852-246e4da24c09
 3. Save your changes and verify the changes have been made.
 4. Commit, then push your changes to your forked repository.
 
+<details>
+<summary><b>Video Guide</b></summary>
+
+https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
+
+</details>
+
 ### ✨ Submitting Changes ✨
 1. Click on `Pull Requests`, then `New Pull Request`
 2. State the changes of the PR in the Title.
