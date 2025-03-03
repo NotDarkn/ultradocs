@@ -111,15 +111,15 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/The_Black_Silence'>Angelica</a></h4>
 </td>
-  <td id='N/A'>
+  <td id='vivyaann'>'>
   <a href='https://github.com/vivyaann'>
   <img src='https://github.com/vivyaann.png' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/vivyaann'>vivyaann</a></h4>
 </td>
   <td id='N/A'>
-  <a href='https://github.com/humpsterv2'>
-  <img src='https://www.speedrun.com/static/user/x76e2e0j/image.png?v=c069633' width='140px;' height='140px;'>
+  <a href='https://github.com/humpster2'>
+  <img src='https://github.com/humpster2.png' width='140px;' height='140px;'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/humpster'>humpster</a></h4>
 </td>
