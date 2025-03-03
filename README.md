@@ -62,25 +62,25 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 <tr>
   <td id='Darkn'>
   <a href='https://github.com/NotDarkn'>
-  <img src='https://github.com/NotDarkn.png' width='140px;'>
+  <img src='https://github.com/NotDarkn.png' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://darkn.bio'>Darkn</a></h4>
 </td>
   <td id='Kano127'>
   <a href='https://github.com/Kano127'>
-  <img src='https://github.com/Kano127.png' width='140px;'>
+  <img src='https://github.com/Kano127.png' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/Kano127'>Kano127</a></h4>
 </td>
   <td id='kiacxn'>
   <a href='https://github.com/kiacxn'>
-  <img src='https://i.imgur.com/7J2Sa1p.jpeg' width='140px;'>
+  <img src='https://i.imgur.com/7J2Sa1p.jpeg' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/kiacxn'>cxn</a></h4>
 </td>
   <td id='CATPERFECT'>
   <a href='https://github.com/AshleyPerfect'>
-  <img src='https://github.com/AshleyPerfect.png' width='140px;'>
+  <img src='https://github.com/AshleyPerfect.png' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/CATPERFECT'>CATPERFECT</a></h4>
 </td>
@@ -113,7 +113,7 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </td>
   <td id='N/A'>
   <a href='https://github.com/vivyaann'>
-  <img src='https://github.com/vivyaann.png' width='140px;'>
+  <img src='https://github.com/vivyaann.png' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/vivyaann'>vivyaann</a></h4>
 </td>
