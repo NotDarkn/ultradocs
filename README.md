@@ -8,7 +8,7 @@
     </i></p>
     
    <img alt="Steam ULTRAKILL"  src="https://img.shields.io/badge/steam-ultrakill-darkred?style=for-the-badge&logo=steam&label=%20&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F" />
-   <img alt="Static Badge" src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F">
+   <img alt="Cloudflare Badge" src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F">
 </div>
 
 ## ❓ About ULTRADOCS ❓
