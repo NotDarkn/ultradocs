@@ -7,7 +7,7 @@ next: ../2-lust/
 
 ## Enter Arena
 
-### [Slam Store + Over Pump](https://youtu.be/0QvuTo5wvBc=0s)
+### [Slam Store + Over Pump](https:youtu.be//ytG8nZaw5Pk&t=0s)
 <font size="2">
     <b>Difficulty</b>: Easy (1/5)
 </font>
@@ -18,7 +18,7 @@ Charge an overpump
 Whiplash the window <br/>
 Over pump to boost through the window <br/>
 
-### [Regular UB](https://youtu.be/0QvuTo5wvBc&t=13s)
+### [Regular UB](https://youtu.be/ytG8nZaw5Pk&t=13s)
 <font size="2">
     <b>Difficulty</b>: Intermediate (2/5)
 </font>
@@ -31,7 +31,7 @@ Jump as soon as you land <br/>
 Whiplash the window <br/>
 Over pump to boost through the window <br/>
 
-### [UB + Oil](https://youtu.be/0QvuTo5wvBc&t=29s)
+### [UB + Oil](https://youtu.be/ytG8nZaw5Pk&t=29s)
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
