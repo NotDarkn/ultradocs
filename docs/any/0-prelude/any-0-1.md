@@ -26,9 +26,4 @@ If timed correctly, you can insta-kill the malicious face without need to use th
 
 
 ## [False Exit](https://youtu.be/Oz8Vu3mY2ko)
-### Rocket Ride Into Exit
-
-
-### Pump Charge Into Exit
-
-### Bonk Head With Pump Charge Into Exit
+Not optimal anymore.
