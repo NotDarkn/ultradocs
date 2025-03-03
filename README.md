@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/The_Black_Silence'>Angelica</a></h4>
 </td>
-  <td id='vivyaann'>'>
+  <td id='vivyaann'>
   <a href='https://github.com/vivyaann'>
   <img src='https://github.com/vivyaann.png' width='140px;' height='140px'>
 </a>
