@@ -785,7 +785,8 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       Firing a malicious railcannon at a core eject creates a very large and high damage explosion. You can avoid the damage and knockback by dashing immediately after firing the malicious rail.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot core eject
+      2. Shoot the core with malrail
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -808,7 +809,8 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       Firing a revolver at a core eject creates a large, red explosion.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot core eject
+      2. Shoot core with revolver
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -831,7 +833,8 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       The blast from a fully charged overpump can be dodged by dashing.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Dash
+      2. Shoot overpump
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -854,7 +857,9 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       Whiplash a rocket then freeze it, you need to be in the air when the rocket reaches you. This creates a large red explosion. (Freezing the rocket causes the explosion to be 50% larger)
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a rocket
+      2. Whiplash the rocket
+      3. Freeze the rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -908,7 +913,8 @@ Overpumps and nukes have a lasting explosion making the timing more lenient
       At point blank fire a cannonball then punch with feedbacker slightly after, quick high damage, one taps virtues, cerberi, and sentries. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a cannonball
+      2. Punch the cannonball
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -986,7 +992,8 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       Using swap arm or whiplash will cancel the cooldown from a knuckleblaster shockwave.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Punch
+      2. Whiplash/Swap arm
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1009,7 +1016,8 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       Firing one blue saw fully charges the heat on the green sawblade. This causes the overheat sawblade to deal more damage.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a blue saw
+      2. Swap to overheat
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1036,7 +1044,8 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       Shooting a coin with the marksman revolver during the flash at the peak of its ark, or after it has started making a humming sound while falling, will cause it to turn into two hitscans.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss a coin
+      2. Shoot the coin
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1059,7 +1068,8 @@ If you instead place the rocket where an enemy spawns it will create a red explo
       Punching a coin using the feedbacker will cause it to target an enemy weakpoint, or the direction you are facing if none are available, then bounce up. Each punch causes the coin's power to increase by 1. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss a coin
+      2. Punch the coin
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1086,7 +1096,8 @@ The power increase caused by punches is limited to 3 punches against a surface, 
       Shooting a coin and, shortly after, throwing a new coin will transfer the damage to the new coin and compound it, allowing you to bypass the damage cap on coin punching.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss a coin
+      2. Shoot the coin and toss a new one
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1109,7 +1120,10 @@ The power increase caused by punches is limited to 3 punches against a surface, 
       Shooting a coin when there are multiple in the air, and then <a href="#deadcoins"> deadcoining </a> will transfer all the damage of the coins to the new coin.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss multiple coins
+      2. Shoot a coin
+      3. Wait
+      4. Toss a new coin
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1136,7 +1150,9 @@ For each coin thats in the air, you should wait roughly 100ms before throwing th
       Redrawing marksman, causing the coin cooldown to be reset instantly.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss a coin
+      2. Redraw marksman
+      3. Toss another coin
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1163,7 +1179,9 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       Shooting a coin with the alternate Piercer.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss a coin
+      2. Swap to the Slab Piercer
+      3. Shoot the coin
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1186,7 +1204,8 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       Throw a coin through an enemy, then fire the electric rail. This will cause the rail to hit the enemy, then chain off the coin to hit it again. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss a coin
+      2. Fire the electric rail
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1209,7 +1228,9 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       Quickly swapping back to the Marksman allows you to add more coins after a <a href="#railcoins">railcoin</a>.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Toss a coin
+      2. Fire the electric rail
+      3. Toss more coins
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
