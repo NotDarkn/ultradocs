@@ -1319,7 +1319,9 @@ tl;dr Shoot the coin after 4.85~ seconds to do 5x damage and instakill most boss
       Certain walls are untagged and thus will not correct where the rocket launcher places you when mounting a rocket, allowing you to teleport through them. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a frozen rocket <br />
+      2. Mount <br />
+      3. Dismount
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1346,7 +1348,9 @@ Untagged walls can be identified by whiplashing them; if the whiplash passes thr
       Certain walls, primarily in the VIOLENCE layer are thinner and don’t destroy frozen rockets that are placed in them. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a frozen rocket <br />
+      2. Shoot a frozen rocket, whiplash and jump <br />
+      3. Unfreeze
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1373,7 +1377,8 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       Certain gaps in geometry that the player can’t normally fit through can be moved through by mounting a rocket.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a frozen rocket <br />
+      2. Mount
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1396,7 +1401,14 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       Certain gaps in geometry that the player can’t normally fit through can be moved through by spamming slide, these clips are generally more consistent the higher your frame rate and the faster you mash slide.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Slide <br />
+      2. Slide <br />
+      3. Slide <br />
+      4. Slide <br />
+      5. Slide <br />
+      6. Slide <br />
+      7. Slide <br />
+      8. Slide 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1423,7 +1435,10 @@ For levels like 5-1, it's best to come into the hole with lots of speed, then sp
       Some enemy spawn triggers are incredibly thin, and can be skipping by mounting a rocket that is placed precisely due to mounting a rocket teleporting you slightly.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a rocket <br />
+      2. Freeze <br />
+      3. Mount <br />
+      4. Dismount
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1442,10 +1457,12 @@ For levels like 5-1, it's best to come into the hole with lots of speed, then sp
   </tr>
   <tr>
     <td> 
-      <a href="#miss-clip">Miss Clip</a> variation. Through using the whiplash, you'll be able to instantly get put onto your rocket and if placed correctly, skips the trigger.
+      <a href="#misclip">Misclip</a> variation. Through using the whiplash, you'll be able to instantly get put onto your rocket and if placed correctly, skips the trigger.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Jump <br />
+      2. Shoot a frozen rocket, whiplash <br />
+      3. Dismount
     </td>
     <td width="200px">
       <video width="300" height="auto" loop controls muted>
@@ -1458,7 +1475,10 @@ For levels like 5-1, it's best to come into the hole with lots of speed, then sp
     Prefire variation. While more difficult, you can shoot a rocket before you're near the trigger and if frozen at the right time, can skip the trigger once you land on the rocket.
   </td>
   <td width="100px"> 
-    TBA (To Be Added)
+    1. Shoot a rocket <br />
+    2. Freeze <br />
+    3. Mount <br />
+    4. Dismount
   </td>
   <td width="200px">
     <video width="300" height="auto" loop controls muted>
@@ -1485,7 +1505,10 @@ TBA (To Be Added)
       Skull doors with a "BLOCKING DOOR WOULD CLOSE" message are skippable through certain rocket placement and correct rocket and skull timing.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Jump <br />
+      2. Shoot a frozen rocket <br />
+      3. Mount <br />
+      4. Whiplash and unfreeze
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
