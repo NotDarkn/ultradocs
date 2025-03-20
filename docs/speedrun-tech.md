@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td> 
-      Jumping during a slide carries the slide momentum into the jump and amplifies it.
+      Jumping during a slide carries the slide's momentum into the jump and amplifies it.
     </td>
     <td width="100px">
       1. Slide <br />
@@ -22,7 +22,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/0mSZzsm.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/681yYZz.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td> 
-      Dashing and then imputing a jump during the dash give a boost of horizantal, and vertical, momentum, at the cost of 2 stamina bars.
+      Dashing then inputing a jump during the dash gives a boost of horizantal and vertical momentum at the cost of 2 stamina bars.
     </td>
     <td width="100px"> 
       1. Dash <br />
@@ -46,7 +46,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/OkufseO.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/GFZ36NN.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td> 
-      A DSJ is when you do a <a href="#slide-jump">slide jump</a> right after dashing. While a simple mechanic, has many use cases such as in 0-1.
+      <a href="#slide-jump">Slide jumping</a> right after dashing results in the same momentum and speed as a <a href="#dash-jump">dash jump</a> at the cost of only 1 stamina bar.
     </td>
     <td width="100px"> 
       1. Dash <br />
@@ -71,7 +71,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/ZIp3Bsh.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/UPxfYY9.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -87,15 +87,15 @@
   </tr>
   <tr>
     <td> 
-      Interrupting a slam with a wall jump stores the slam state without the downward speed. Using jump, slide, or <a href="#dives">dive</a> after landing in the Slam Store state allows reaching max slam momentum quickly. 
+      Interrupting a slam with a wall jump stores the slam state, but does not send you downward. Using jump, slide, or a <a href="#dives">dive</a> after landing from the Slam Store state converts it into momentum, allowing you to instantly reach the maximum speed. 
     </td>
     <td width="100px"> 
       1. Slam <br />
-      2. Wall jump
+      2. Wall jump at the same time
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/EbQLzoL.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/Tgh2YzL.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td> 
-      Jump and then slide almost at the same time, slide jump that gives more height, gains both horizontal and vertical speed from slam momentum.
+      Jumping and then sliding immediately afterward gives you both horizontal and vertical momentum, while also putting you in a sliding state.
     </td>
     <td width="100px"> 
       1. Jump <br />
@@ -119,7 +119,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/PDuF9Tm.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/tao4ZSX.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -135,20 +135,24 @@
   </tr>
   <tr>
     <td> 
-      Holding either A or D (dependent on the diriction you are sliding) while sliding sideways increases your horizontal speed by 5 units.
+      Holding either A or D (dependent on the direction you're looking) while sliding and looking sideways increases your horizontal speed by 5 units.
     </td>
     <td width="100px"> 
       1. Slide <br />
       2. Look 90° to left or right <br />
-      3. Hold A or D according to the direction
+      3. Hold either A or D according to the direction you're looking
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/CXkP5eh.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/9fFwdcx.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+::: tip
+This can be done during <a href="#dives">dives</a> as well, as they put you in a sliding state.
+:::
 
 ### Wall Bounces
 <br />
@@ -160,7 +164,7 @@
   </tr>
   <tr>
     <td> 
-      Wall Jumping while in a slide reverses your direction and preserves your momentum.
+      Wall Jumping while in a slide changes your direction while preserving your momentum.
     </td>
     <td width="100px"> 
       1. Slide <br />
@@ -168,36 +172,12 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/BnXlahK.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/DLs1vFU.mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Enemy Boosting (eBoosting)
-<br />
-<tb style="width:100%; vertical-align: top">
-  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
-    <td>DESCRIPTION</td>
-    <td>INPUTS</td>
-    <td>EXAMPLE</td>
-  </tr>
-  <tr>
-    <td> 
-      Slamming then <a href="#slide-jump">slidejumping </a> off an enemy that will not die from the slam damage will give a speed boost compared to a normal slide jump.
-    </td>
-    <td width="100px">
-      1. Slam on an enemy <br />
-      2. Slide <br />
-      3. Jump
-    </td>
-    <td width="200px">
-        <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/tqjhQnY.mp4" type="video/mp4">
-        </video>
-    </td>
-  </tr>
-</tb>
 
 ### Bhop
 <br />
@@ -209,7 +189,7 @@
   </tr>
   <tr>
     <td> 
-      Jump soon after landing to preserve horizontal momentum. The sooner you jump, the more momentum you preserve (100% on a frame 1 jump).
+      Jumping soon after landing preserves your horizontal momentum. The sooner you jump, the more momentum you preserve (100% on a frame 1 jump).
     </td>
     <td width="100px"> 
       1. Have momentum <br />
@@ -217,13 +197,17 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/fptuzWQ.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/rNzxNC1.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Dash Extension
+::: tip
+Placing oil on the ground makes Bhops significantly more lenient, since oil naturally preserves your momentum.
+:::
+
+### DE (Dash Extension)
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -233,21 +217,21 @@
   </tr>
   <tr>
     <td>
-      Dash towards a ledge and slide as you go over it. 
+      Dashing off a ledge and pressing slide as you go over it extends your dash. 
     </td>
     <td width="100px"> 
       1. Dash <br />
-      2. slide shortly after
+      2. Slide shortly after
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/8oJP5k4.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/jkMKtTi.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Dash Extension Jump
+### DEJ (Dash Extension Jump)
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -257,16 +241,16 @@
   </tr>
   <tr>
     <td> 
-      Dash towards a ledge and slide as you go over it, then jump.
+      Dashing off a ledge and pressing slide as you go over it extends your dash, and jumping immediately afterward gives you height.
     </td>
     <td width="100px"> 
       1. Dash <br />
-      2. slide shortly after <br />
-      3. stop sliding then jump
+      2. Slide shortly after <br />
+      3. Jump immediately after
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/ud6gIad.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/SeBT91e.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -282,7 +266,7 @@
   </tr>
   <tr>
     <td> 
-      After letting go of slide there is a 3 frame window (125 tickrate) where pressing jump will do a  slide jump that adds either 24, 12 or 6 units to your speed depending on which frame you jump.
+      After letting go of slide, there is a 3 frame window (based off of the game's 125 fps tickrate) where pressing jump will do a "super slide jump," which adds either 24, 12 or 6 units to your speed, depending on whether you jumped 1, 2, or 3 frames after releasing slide.
     </td>
     <td width="100px"> 
       1. Slide <br />
@@ -290,17 +274,21 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/fkce1p5.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/nYxJx4f.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: note
-Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing tilda) will tell you when you successfully ssj and what frame it was.
+Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing F8) will tell you when you successfully ssj and what frame it was. <br />
+**As this is a console command, you may <ins>not</ins> submit runs with the ssjIndicator on.**
+:::
+::: tip
+If you perform an SSJ while looking sideways and holding either A or D (corresponding to the direction you're looking), you will add 5 units to your SSJ.
 :::
 
-### Dive SSJ
+### SSJ Dive
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -310,16 +298,16 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
   </tr>
   <tr>
     <td> 
-      After doing an <a href="#ssj-super-slide-jump"> SSJ</a>, press space within 10 frames to do a <a href="#dives">dive</a>. This gives a speed boost and a different arc, but at the cost of the slide speedcap (72hu/s).
+      After doing an <a href="#ssj-super-slide-jump"> SSJ</a>, if you press slide again within 10 frames you perform a <a href="#dives">dive</a>. This combines the additive speed of both an <a href="#ssj-super-slide-jump"> SSJ</a> and a <a href="#dives">dive</a>. This gives you a unique arc, however puts you in the sliding state, meaning your speed is capped at 72 hu/s.
     </td>
     <td width="100px"> 
       1. Slide <br />
       2. Jump within 3 frames of releasing slide <br />
-      3. Hold slide
+      3. Press and hold slide immediately after
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/siWPqad.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/bHX625Q.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -335,20 +323,53 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
   </tr>
   <tr>
     <td> 
-      While wallsliding, release slide then press space within 3 frames. Wall SSJs give a larger speed boost compared to an <a href="#ssj-super-slide-jump">SSJ</a> and can give unique angles for movement. A wallslide state can be achieved in many ways such as sliding, <a href="#dives">diving</a>, <a href="#ce-boost-core-eject-boost">ce boosting</a> etc.
+      While wallsliding, releasing slide then pressing space within 3 frames will perform a Wall SSJ. Wall SSJs give a larger speed boost compared to an <a href="#ssj-super-slide-jump">SSJ</a> and can give unique angles for movement.
     </td>
     <td width="100px"> 
       1. Slide onto a wall <br />
       2. Release slide <br />
-      3. Press space
+      3. Press space within 3 frames
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/khHsiOu.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/SzxYXFR.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+### DSSJ (Dash Super Slide Jump)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Performing a dash, then an <a href="#ssj-super-slide-jump">SSJ </a> shortly after, will combine the speed of the dash and the SSJ.
+    </td>
+    <td width="100px"> 
+      1. Dash <br />
+      2. Slide <br />
+      3. Release slide <br />
+      4. Press jump within 3 frames
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/v3iXdlo.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
+You must delay the SSJ, as if you attempt to SSJ too soon after the dash you'll perform an "FDJ," which is the same speed as a regular dash jump.
+:::
+::: tip
+You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach the slide cap (72 hu/s) from standstill.
+:::
 	
 ### Whip Cancel
 <br />
@@ -360,7 +381,7 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
   </tr>
   <tr>
     <td> 
-      Punching or whiplashing during whiplash will cancel it, this can be used to make green hook points function as blue ones or for quickly reaching max jackhammer damage.
+      Punching or whiplashing during a whiplash will cancel it. This can be used to make green hook points function as blue ones or for quickly reaching max jackhammer damage.
     </td>
     <td width="100px"> 
       1. Whiplash <br />
@@ -368,7 +389,7 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/dy0QK5O.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/WSvxWLB.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -384,15 +405,15 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
   </tr>
   <tr>
     <td> 
-      Slamming during a whiplash will not give downward speed but does build slam momentum.
+      Slamming during a whiplash will build up slam momentum-- similar to a <a href="#slam-store">Slam Storage</a>-- and will slam immediately after the whiplash has finished.
     </td>
     <td width="100px"> 
       1. Whiplash <br />
-      2. Slam while you are getting dragged
+      2. Slam while you are being dragged
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/YyXneVQ.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/iRLiKs6.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -412,15 +433,15 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
   </tr>
   <tr>
     <td> 
-      Tap slide and fire a core eject down at the same time, gives high horizontial speed.
+      If you shoot a Core Eject at your feet whilst in a sliding state, you will be sent horizontally at a high speed (~70 hu/s).
     </td>
     <td width="100px"> 
       1. Slide <br />
-      2. Shoot a core at the ground
+      2. Shoot a core at your feet
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/FR7CIDJ.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/LXi9awh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -436,22 +457,22 @@ Entering the command `prefs set bool ssjIndicator true` into console (opened by 
   </tr>
   <tr>
     <td> 
-      Use the Malicious Railcannon on a core eject. This is the fastest method of movement in the game excluding combinations and bugs. 
+      Shooting the Malicious Railcanon at a Core Eject grenade will combine the explosions, launching you at ~140 hu/s. This is the fastest base movement tech in the game, excluding tech combinations and bugs.
     </td>
     <td width="100px"> 
       1. Toss a core <br />
-      2. Shoot the core with the malrail
+      2. Shoot the core with the Malicious Railcanon.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/ad8Lqr8.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/N3lWuh8.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: note
-If the core is hit while it is very close to you it will deal 35 damage instead of 50, this requires firing malicious rail almost instantly after the core.
+If the core is hit while it is very close to you it will deal 35 damage instead of 50. This requires firing malicious rail nearly instantly after the core.
 :::
 
 ### Flick UB 
@@ -464,16 +485,16 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
   </tr>
   <tr>
     <td> 
-      A faster method of <a href="#ub-ultraboost">ultraboosting</a> that can be done in the air. Fire a core and dash at the same time, turn the camera 180 degrees, then fire the malicious railcannon.
+      A faster method of <a href="#ub-ultraboost">ultraboosting</a> that can be done in the air. Can be done as fast as you like.
     </td>
     <td width="100px"> 
-      1. Dash and shoot a core eject <br />
+      1. Dash and shoot a Core Eject <br />
       2. Turn 180° <br />
-      3. Shoot the core with malrail
+      3. Shoot the core with Malicious Railcanon
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/IKfC14G.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/xkWApby.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -489,7 +510,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
   </tr>
   <tr>
     <td> 
-      Checkpoint immidiately after <a href="#ultraboost">ultraboosting</a>, giving you the momentum after respawning. This can be made easier by capping your fps to 120.
+      Checkpoint immidiately after <a href="#ultraboost">ultraboosting</a> will giving you the momentum after respawning, while also refreshing your railcanon charge.
     </td>
     <td width="100px"> 
       1. <a href="#ub-ultraboost">Ultraboost</a> <br />
@@ -498,17 +519,17 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/my7MMZ4.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/0U3JWu0.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: note
-This is significantly easier to do capped on 120 FPS.
+This tech becomes 100% consistent if you cap your fps at 120.
 :::
 
-### FUP (Frozen Unfriendly Pull-it)
+### FUP (Frozen Unfriendly Pull-it) 
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -518,7 +539,7 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
   <tr>
     <td> 
-      Fire a rocket then whiplash it, fast explosion boost that can be done midair.
+      Whiplashing a frozen rocket will give launch you in the direction of the rocket, at the cost of 35 HP.
     </td>
     <td width="100px"> 
       1. Shoot a rocket <br />
@@ -527,7 +548,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/JOA1RNB.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/KLWZ1x3.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -543,17 +564,45 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
   <tr>
     <td> 
-      With freezeframe, active while looking down, fire a rocket then whiplash it, launches straight up if not holding directional keys, otherwise launches in the direction you are moving.
+      Whiplashing a frozen rocket at your feet will launch you up without costing you any HP. If no directional keys are being pressed, you'll move straight up, otherwise you will be launched in the direction you're moving.
     </td>
     <td width="100px"> 
       1. Freeze rockets <br />
       2. Look down <br />
-      3. Walk <br />
-      4. Shoot and whiplash a rocket
+      3. Shoot and whiplash a rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/T0AdOvR.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/RBE2wuE.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
+Sometimes on wonky geometry, Floor FUPs will cause you to take damage. Be weary of this in low health situations.
+:::
+
+### Rocket Jump
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Shooting a rocket at your feet while either <a href="#dash-jump"> dash jumping</a> or <a href="#slide-jump">slide jumping</a> will give you a lot of speed and momentum at the cost of no health.
+    </td>
+    <td width="100px"> 
+      1. <a href="#dash-jump">Dash jump</a> <br />
+      2. Look slightly down <br />
+      3. Shoot a rocket
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/vpNlXqB.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -569,7 +618,7 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
   <tr>
     <td> 
-      Activate freezeframe and shoot a rocket, jump, then slam. Works while grounded or to swap to a new rocket while already rocket riding.
+      Placing yourself on top of a rocket allows you to ride it and control it with movement keys.
     </td>
     <td width="100px"> 
       1. Freeze rockets <br />
@@ -579,7 +628,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/0v6niFq.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/Y1439QE.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -595,7 +644,7 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
   <tr>
     <td> 
-      Activate freezeframe, look slightly down, then shoot and dash at the same time wait slightly then unfreeze, allows <a href="#rocket-ride">rocket riding</a> quickly while mid air.
+      Activate freezeframe, look slightly down, then shoot and dash at the same time, wait slightly then unfreeze. Allows <a href="#rocket-ride">rocket riding</a> quickly while mid air.
     </td>
     <td width="100px"> 
       1. Freeze <br />
@@ -605,7 +654,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/jH8w3Kf.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/98snRE2.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -621,7 +670,7 @@ This is significantly easier to do capped on 120 FPS.
   </tr>
   <tr>
     <td> 
-      Dash and then quickly shoot a fully charged overpump (can be done with both default and alternate).
+      By dash and then quickly shooting a fully charged overpump, you will gain a moderate speed boost midair at the cost of only 33 HP.
     </td>
     <td width="100px"> 
       1. Dash <br />
@@ -630,7 +679,7 @@ This is significantly easier to do capped on 120 FPS.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/yHqrl1b.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/ZP1yjMz.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -640,7 +689,7 @@ This is significantly easier to do capped on 120 FPS.
 Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you did it right, 50 HP means you did it a bit late.
 :::
 
-### (CSB) Core Snipe Boosts
+### Deblast
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -650,7 +699,7 @@ Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you 
   </tr>
   <tr>
     <td> 
-      Fire a core eject in front of you, shoot it with the revolver then dash through it, you will get hit by the lasting hitbox and launched.
+      By firing a core eject in front of you, shooting it with the revolver, then dashing through it, you will get hit by the lasting hitbox and launched.
     </td>
     <td width="100px"> 
       1. Shoot core eject <br />
@@ -659,7 +708,7 @@ Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/8v8rwIz.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/xujptA9.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -679,14 +728,14 @@ The height of the core when you shoot it is very lenient.
   </tr>
   <tr>
     <td> 
-      Shotgun primary fire pushes you forward slightly, can be used with <a href="#shotgun-swapping">shotgun swapping</a>.
+      The projectiles of shotgun's primary fire pushes you forward slightly. Can be used with <a href="#shotgun-swapping">shotgun swapping</a>. Typically used mid-air to gain a very small amount of speed.
     </td>
     <td width="100px"> 
       1. Primary fire with shotgun
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/xQE91Cy.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/DJ1e15x.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -706,7 +755,7 @@ The height of the core when you shoot it is very lenient.
   </tr>
   <tr>
     <td> 
-      Holding left click while charging a piercer shot will fire it the instant it full charges.
+      Holding left click while charging a piercer shot will fire it the instant it fully charges.
     </td>
     <td width="100px"> 
       1. Start charging piercer <br />
@@ -714,7 +763,7 @@ The height of the core when you shoot it is very lenient.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/gbIRCQC.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/gHOimZH.mp4 4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -738,7 +787,7 @@ The height of the core when you shoot it is very lenient.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/xQE91Cy.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/vPBZ7Dn.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -748,7 +797,7 @@ The height of the core when you shoot it is very lenient.
 If you have an alt shotgun equipped, you have to use a variation number keybind.
 :::
 
-### Projectile Boost
+### Pboost (Projectile Boost)
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -758,7 +807,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
   </tr>
   <tr>
     <td>
-      Punching with feedbacker as you fire the shotgun parries a bullet and causes it to explode on impact.
+      Punching with feedbacker as you fire the shotgun parries one of the bullets and causes it to explode on impact.
     </td>
     <td width="100px"> 
       1. Shotgun primary fire <br />
@@ -766,7 +815,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/PXXfIeb.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/3YBnxaw.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -782,15 +831,15 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
   </tr>
   <tr>
     <td>
-      Firing a malicious railcannon at a core eject creates a very large and high damage explosion. You can avoid the damage and knockback by dashing immediately after firing the malicious rail.
+      Firing a Malicious Railcannon at a Core Eject creates a very large and high damage explosion. You can avoid the damage and knockback by dashing immediately after firing the Malicious Rail.
     </td>
     <td width="100px"> 
-      1. Shoot core eject <br />
-      2. Shoot the core with malrail
+      1. Shoot Core Eject <br />
+      2. Shoot the core with Malicious Rail
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/dkC4EfS.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/07DX3U1.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -809,18 +858,18 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       Firing a revolver at a core eject creates a large, red explosion.
     </td>
     <td width="100px"> 
-      1. Shoot core eject <br />
-      2. Shoot core with revolver
+      1. Shoot Core Eject <br />
+      2. Shoot core with Revolver
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/IgUK2Lt.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/e7HpacY.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Over Pump Dodge
+### Overpump Dodge
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -838,7 +887,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/UayrtBU.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/jDa0VDN.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -854,7 +903,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
   </tr>
   <tr>
     <td>
-      Whiplash a rocket then freeze it, you need to be in the air when the rocket reaches you. This creates a large red explosion. (Freezing the rocket causes the explosion to be 50% larger)
+      Whiplashing a frozen rocket will launch you in the direction of the rocket, creating a red explosion where you were at the cost of 35 HP.
     </td>
     <td width="100px"> 
       1. Shoot a rocket <br />
@@ -863,14 +912,14 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/JOA1RNB.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/flVGt45.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: note
-This creates a large red explosion at the cost of 35 HP.
+Freezing the rocket creates an explosion significantly larger than an unfrozen rocket.
 :::
 
 ### Mindflayer Instas
@@ -883,22 +932,45 @@ This creates a large red explosion at the cost of 35 HP.
   </tr>
   <tr>
     <td> 
-      Hitting a mindflayer with an explosion as it does the blue orbs attack, it will reflect the back projectiles at it, killing the mindflayer instantly.
+      Hitting a mindflayer with an explosion as attacks with blue orbs will reflect the projectiles back at it, killing the mindflayer instantly.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/mGIIUPj.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/7WNaQrP.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: note
-Overpumps and nukes have a lasting explosion making the timing more lenient
+This can be done with any explosion.
 :::
+
+### Malicious Face Instas
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Creating an explosion at the right time during a Malicious Face's red orb attack will reflect the projectiles into the Malicious Face, killing it instantly. You can do this with multiple Malfaces, but it's usually very hard to do it with more than 2 at a time.
+    </td>
+    <td width="100px"> 
+      1. Shoot
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/1UN7D9c.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### S.R.S. Combo
 <br />
@@ -910,7 +982,7 @@ Overpumps and nukes have a lasting explosion making the timing more lenient
   </tr>
   <tr>
     <td> 
-      At point blank fire a cannonball then punch with feedbacker slightly after, quick high damage, one taps virtues, cerberi, and sentries. 
+      If you shoot a cannonball at an enemy, then punch the same cannonball after it has hit the enemy, it will deal very high damage. This damage is enough to instakill Cerberi, Virtues, and Sentries.
     </td>
     <td width="100px"> 
       1. Shoot a cannonball <br />
@@ -918,7 +990,7 @@ Overpumps and nukes have a lasting explosion making the timing more lenient
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/xiTCEuf.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/ofuAJdI.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -939,14 +1011,14 @@ You only need to charge srs cannon to 25% for full damage.
   </tr>
   <tr>
     <td> 
-      Jumpstart and electric railcannon automatically cause conduction instantly while underwater, with far greater range and self damage if you are touching the water.
+      Jumpstart and electric railcannon instantly cause conduction while underwater, with far greater range and damage. This causes significant self damage if you are touching the water.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/tZLFRAk.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/taWzptc.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -962,24 +1034,25 @@ You only need to charge srs cannon to 25% for full damage.
   </tr>
   <tr>
     <td> 
-      Placing a frozen rocket where an enemy will walk will create a red explosion if the rocket has time to supercharge
+      Placing a frozen rocket where an enemy will walk in order to plan damage. If the rocket is frozen for a long enough time, it will become supercharged, creating a red explosion.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Freeze Rocket <br />
+      2. Shoot rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/ltuBIPp.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/LJp6WTF.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: tip
-If you instead place the rocket where an enemy spawns it will create a red explosion whether or not it supercharged due to enemies spawning slightly off the ground.
+Placing a rocket where an enemy will spawn will create a red explosion regardless of how long it's been placed. This is due to the fact enemies spawn slightly midair.
 :::
 
-### Knuckleblast Cooldown Cancel
+### Arm Cancel
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -989,7 +1062,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
   <tr>
     <td> 
-      Using swap arm or whiplash will cancel the cooldown from a knuckleblaster shockwave.
+      Using swap arm or whiplash will cancel the arm animation, allowing you to punch again much faster. This can be done with both arms, but is most useful with the Knuckleblaster.
     </td>
     <td width="100px"> 
       1. Punch <br />
@@ -997,7 +1070,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/HjPu05c.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/V1k5u1X.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1017,11 +1090,70 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="100px"> 
       1. Shoot a blue saw <br />
-      2. Swap to overheat
+      2. Swap to overheat <br />
+      3. Shoot
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/G8m2RSM.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/gn18NAX.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+### Double Projectile Boost
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      By using <a href="#arm-cancel">Arm Cancelling</a> you can <a href="#pboost-projectile-boost">projectile boost</a> twice with one shotgun shot. You must have 0 arm exhaustion before you do this.
+    </td>
+    <td width="100px"> 
+      1. Shoot shotgun <br />
+      2. Punch with feedbacker <br />
+      3. Whiplash or Arm Swap <br />
+      4. Punch with feedbacker
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/T5Zdg9E.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
+This becomes significantly easier if you have a specific "feedbacker punch" keybind. <br />
+You must be moving in the direction you're aiming in order to do this, otherwise it's practically impossible. The faster you're moving, the better.
+:::
+
+### Chainsaw Pboost Combo
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Detatching the chainsaw of the red shotgun, <a href="#arm-cancel">arm cancelling </a>, then quickly <a href="#pboost-projectile-boost">projectile boosting</a> allows you to deal high burst damage very quickly.
+    </td>
+    <td width="100px"> 
+      1. Shoot chainsaw <br />
+      2. Punch with knuckleblaster <br />
+      3. Whiplash or Arm Swap <br />
+      4. Shoot shotgun <br />
+      5. Punch with feedbacker
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/rgii1vA.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1049,7 +1181,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/qwZnFx5.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/XFpaRzP.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1065,7 +1197,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
   </tr>
   <tr>
     <td> 
-      Punching a coin using the feedbacker will cause it to target an enemy weakpoint, or the direction you are facing if none are available, then bounce up. Each punch causes the coin's power to increase by 1. 
+      Punching a coin using the feedbacker will cause it to target an enemy weakpoint, or the direction you are facing if none are available, then bounce up. Each punch increases the coin's power by 1. 
     </td>
     <td width="100px"> 
       1. Toss a coin <br />
@@ -1073,7 +1205,7 @@ If you instead place the rocket where an enemy spawns it will create a red explo
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/phnxqkN.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/4RCy1hi.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1101,7 +1233,7 @@ The power increase caused by punches is limited to 3 punches against a surface, 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/9L6cLPX.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/J3qT3BX.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1127,14 +1259,14 @@ The power increase caused by punches is limited to 3 punches against a surface, 
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/mbbFrjh.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/rL9gB56.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: note
-For each coin thats in the air, you should wait roughly 100ms before throwing the coin, otherwise it will get used up.
+For each additional coin you're deadcoining off of, you should wait roughly 100ms before throwing the last coin, otherwise it will get used up.
 :::
 
 ### Fast Coin 
@@ -1147,24 +1279,25 @@ For each coin thats in the air, you should wait roughly 100ms before throwing th
   </tr>
   <tr>
     <td> 
-      Redrawing marksman, causing the coin cooldown to be reset instantly.
+      By redrawing the marksman-- typically by swapping to another weapon then swapping back-- it resets the coin cooldown, allowing you to throw another coin instantly. This can be done significantly easier with a variation # bind that corresponds with your Marksman Revolver.
     </td>
     <td width="100px"> 
       1. Toss a coin <br />
-      2. Redraw marksman <br />
+      2. Swap to another weapon <br />
+      3. Swap back to marksman <br />
+      4. Toss another coin <br />
+      OR <br />
+      1. Toss a coin <br />
+      2. Variation bind <br />
       3. Toss another coin
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/NYmiv68.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/yqFX3AC.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
-
-::: tip
-This can be done with a variation # bind that corresponds with your Marksman Revolver.
-:::
 
 ### Slab Coins
 <br />
@@ -1185,7 +1318,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/WtDG24Z.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/fmeJZZH.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1201,7 +1334,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
   </tr>
   <tr>
     <td> 
-      Throw a coin through an enemy, then fire the electric rail. This will cause the rail to hit the enemy, then chain off the coin to hit it again. 
+      Throwing a coin through an enemy, then firing the electric railcanon, will cause the rail to hit the enemy, then chain off the coin to hit it again with an Ultraricoshot.
     </td>
     <td width="100px"> 
       1. Toss a coin <br />
@@ -1209,7 +1342,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/fNPSO0S.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/2FSrwEm.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1225,7 +1358,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
   </tr>
   <tr>
     <td> 
-      Quickly swapping back to the Marksman allows you to add more coins after a <a href="#railcoins">railcoin</a>.
+      Quickly swapping back to the Marksman after a <a href="#railcoins">railcoin</a> allows you to add more coins to it.
     </td>
     <td width="100px"> 
       1. Toss a coin <br />
@@ -1234,7 +1367,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/nzi5lYp.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/KspbosQ.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1250,18 +1383,50 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
   </tr>
   <tr>
     <td> 
-      If multiple hitscans hit a coin at the same time while in hitstop, they will both ricochet off the coin, the same applies to a hitscan and a feedbacker punch or whiplash, this will also allow reusing the coin.
+      If multiple hitscans hit a coin at the same time while in hitstop, they will both ricochet off the coin. The same applies to a hitscan and a feedbacker punch or whiplash, which will also allow reusing the coin.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot a coin with first hitscan <br />
+      2. Swap to second weapon <br />
+      3. Shoot coin with second hitscan
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/Az8dgW2.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/tgUlu1B.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+### Double Coin Punch
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Similarly to <a href="#double-projectile-boost">Double Pboost </a>, by utilizing <a href="#arm-cancel">Arm Cancelling</a>, you can punch two coins in quick succession, much faster than you would usually be able to. This can be combined with <a href="#fast-coin">fastcoining</a> to punch even faster.
+    </td>
+    <td width="100px"> 
+      1. Throw two coins <br />
+      2. Punch first coin <br />
+      3. Swap arm <br />
+      4. Punch second coin
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/Yf12mzZ.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: note
+This becomes significantly easier with a specific "feedbacker punch" keybind, as otherwise you would need to press the "swap arm" key twice.
+:::
 
 ### Sludge
 <br />
@@ -1276,7 +1441,7 @@ This can be done with a variation # bind that corresponds with your Marksman Rev
       Coinshots creates a coin chain cache, but due to an oversight it gets deleted after 5 seconds. Since coinshots have a slight delay before dealing damage, shooting the coin before the 5 second deletion targets the same enemy multiple times. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      TBA (To be added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1319,11 +1484,15 @@ tl;dr Shoot the coin after 4.85~ seconds to do 5x damage and instakill most boss
       Certain walls are untagged and thus will not correct where the rocket launcher places you when mounting a rocket, allowing you to teleport through them. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Walk up to wall <br />
+      2. Freeze rockets <br />
+      3. Shoot rocket straight down <br />
+      4. Jump onto rocket <br />
+      5. Unfreeze rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/1tsZnFB.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/r9bhKIY.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1343,22 +1512,52 @@ Untagged walls can be identified by whiplashing them; if the whiplash passes thr
   </tr>
   <tr>
     <td> 
-      Certain walls, primarily in the VIOLENCE layer are thinner and don’t destroy frozen rockets that are placed in them. 
+      Certain walls, primarily in the VIOLENCE layer, are thinner and don’t destroy frozen rockets that are placed in them. 
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Walk up to wall <br />
+      2. Freeze rockets and shoot <br />
+      3. Shoot another rocket <br />
+      4. Whiplash <br />
+      5. Jump
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/MPtGA5w.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/YEIhvQS.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
+
 ::: details 🛈 **Misclip Instructions** 🛈
 Shoot a frozen rocket and get on it. Getting on a rocket that is in this state will clip the camera out of bounds. Whilst on the rocket, look down at about a 45 degree angle, then shoot a rocket, tapping whiplash and jump at the same time, which will land you on your second rocket and clip you out.
 :::
+::: details 🛈 **Alternate Misclip Variations** 🛈
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>VARIATION DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Single rocket variation. Instead of firing a new rocket, you can clip out using the same rocket you already shot.
+    </td>
+    <td width="100px"> 
+      1. Walk up to wall <br />
+      2. Freeze and shoot a rocket <br />
+      3. Jump and whip the rocket at the same time
+    </td>
+    <td width="200px">
+      <video width="300" height="auto" loop controls muted>
+          <source src="https://i.imgur.com/zV3d8Wk.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</tb>
+:::
+
 
 ### Tight Space Clips
 <br />
@@ -1373,15 +1572,21 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       Certain gaps in geometry that the player can’t normally fit through can be moved through by mounting a rocket.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Walk up to gap <br />
+      2. Freeze and shoot rocket <br />
+      3. Mount the rocket.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/uNDXLeK.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/nMNL2AA.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+::: note
+The execution varies depending on the tight space you're attempting to clip through.
+:::
 
 ### Slide Clips
 <br />
@@ -1393,21 +1598,26 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
   </tr>
   <tr>
     <td> 
-      Certain gaps in geometry that the player can’t normally fit through can be moved through by spamming slide, these clips are generally more consistent the higher your frame rate and the faster you mash slide.
+      Certain gaps in geometry that the player can’t normally fit through can be moved through by spamming slide, these clips are typically more consistent the higher your frame rate and the faster you mash slide. The execution varies depending on the level.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Slide <br />
+      2. Slide <br />
+      3. Slide <br />
+      4. Slide <br />
+      5. Slide <br />
+      etc.
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/SVFPuTC.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/anfcDlY.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
 ::: important
-For levels like 5-1, it's best to come into the hole with lots of speed, then spam slide. This will make the clip much more consistent. Additionally, this type of clip **can easily get you stuck.**
+For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed, then spam slide. This will make the clip much more consistent. Additionally, this type of clip **can easily get you stuck.**
 :::
 
 ### Trigger Skip
@@ -1420,14 +1630,17 @@ For levels like 5-1, it's best to come into the hole with lots of speed, then sp
   </tr>
   <tr>
     <td> 
-      Some enemy spawn triggers are incredibly thin, and can be skipping by mounting a rocket that is placed precisely due to mounting a rocket teleporting you slightly.
+      Some enemy spawn triggers are incredibly thin, and can be skipping by mounting a rocket that is placed precisely, due to rockets snapping you to the rocket, teleporting you.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot rocket <br />
+      2. Freeze rocket very soon after <br />
+      3. Mount rocket <br />
+      4. Unfreeze rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/XVQVRBD.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/yg5GOJh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1442,14 +1655,17 @@ For levels like 5-1, it's best to come into the hole with lots of speed, then sp
   </tr>
   <tr>
     <td> 
-      <a href="#miss-clip">Miss Clip</a> variation. Through using the whiplash, you'll be able to instantly get put onto your rocket and if placed correctly, skips the trigger.
+      <a href="#misclip">Misclip</a> variation. By using the whiplash, you'll be able to instantly mount your rocket and, if placed correctly, skip the trigger.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Shoot rocket <br />
+      2. Freeze rocket very soon after <br />
+      3. Whip rocket <br />
+      4. Unfreeze rocket
     </td>
     <td width="200px">
       <video width="300" height="auto" loop controls muted>
-          <source src="https://i.imgur.com/a79wAiY.mp4" type="video/mp4">
+          <source src="https://i.imgur.com/uc35pEG.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
@@ -1470,7 +1686,56 @@ For levels like 5-1, it's best to come into the hole with lots of speed, then sp
 :::
 
 ### Arch Clips
-TBA (To Be Added)
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Similarly to <a href="#misclip">misclips</a>, some curved ceilings-- primarily in VIOLENCE-- are very thin, allowing you to clip out with rockets. These clips require you to be in the sliding state. 
+    </td>
+    <td width="100px"> 
+      1. Freeze rockets <br />
+      2. <a href="#dives">Dive</a> into ceiling <br />
+      3. Place rocket at the peak of the dive <br />
+      4. <a href="#wall-bounces">Wall Bounce</a>
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/NVM1okg.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+
+::: details 🛈 **Alternate Arch Clip Variations** 🛈
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>VARIATION DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Instaclip. By placing the rocket in just the right place and diving at the right angle, you can clip out instantly without the need for a wall bounce.
+    </td>
+    <td width="100px"> 
+      1. Freeze rocket <br />
+      2. <a href="#dives">Dive</a> into ceiling <br />
+      3. Shoot rocket at the peak of the dive
+    </td>
+    <td width="200px">
+      <video width="300" height="auto" loop controls muted>
+          <source src="https://i.imgur.com/DRyrWHK.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</tb>
+:::
 
 ### Skuggle
 <br />
@@ -1482,18 +1747,46 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      Skull doors with a "BLOCKING DOOR WOULD CLOSE" message are skippable through certain rocket placement and correct rocket and skull timing.
+      Skull doors with a "BLOCKING DOOR WOULD CLOSE" message are skippable through certain rocket placement and correctly timing the rocket ride and the skull grab.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Freeze rocket <br />
+      2. Shoot and mount rocket <br />
+      3. Whiplash skull <br />
+      4. Unfreeze rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/vglHoZm.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/64IHG1F.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
+
+::: details 🛈 **Alternate Skuggle Variations** 🛈
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>VARIATION DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Weaponless variation, by grabbing the skull and dashing backward through the door. Extremely tight timing to the point of being essentially random.
+    </td>
+    <td width="100px"> 
+      1. Hold S <br />
+      2. Punch <br />
+      3. Dash
+    </td>
+    <td width="200px">
+      <video width="300" height="auto" loop controls muted>
+          <source src="https://i.imgur.com/8akfRQE.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</tb>
+:::
 
 <!---------------------------------------------->
 
@@ -1509,23 +1802,22 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      <a href="#ce-boost-core-eject-boost">CE Boost</a> as the red door opens, place oil, <a href="#slide-jump">slide jump</a>, and slam.
+      <a href="#ce-boost-core-eject-boost">CE Boosting</a> as the red door opens then <a href="#slide-jump">slide jumping</a> and slamming.
     </td>
     <td width="100px"> 
-      1. <a href="#ce-boost-core-eject-boost">CE boost</a> (RMB) <br />
-      2. Place oil (RMB) <br />
-      3. Slide jump <br />
-      4. Slam
+      1. <a href="#ce-boost-core-eject-boost">CE boost</a> <br />
+      2. Slide jump <br />
+      3. Slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/bjFqXqA.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/O25XQfw.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
 </tb>
 
-### Slam Store Exit
+### Slideways Exit
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -1535,16 +1827,16 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      <a href="#slam-store">Slam Store</a> off of the exit door, place oil, slide and use <a href="#slideways">slideways</a>.
+      <a href="#slam-store">Slam Storing</a> off of the exit door, placing oil to ensure maximum speed, and performing a <a href="#slideways">slideways</a>.
     </td>
     <td width="100px"> 
-      1. Get <a href="#slam-store">slam Storage</a> <br />
+      1. <a href="#slam-store">Slam Storage</a> <br />
       2. Place oil <br />
       3. <a href="#slideways">Slideways</a>
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/tccVthc.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/otXguVe.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1560,17 +1852,18 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      Put your back to the exit door and <a href="#ub-ultraboost">UB</a> as it opens, then quickly turn around and place oil, then slam into the exit.
+      By putting your back to the exit door and <a href="#ub-ultraboost">ultraboosting</a> as it opens-- ideally turning around and placing oil after the UB-- you will be shot right into the exit pipe.
     </td>
     <td width="100px"> 
-      1. Stand by exit <br />
-      2. Turn 180° backward <br />
-      3. Perform a <a href="#ub-ultraboost">UB</a> <br />
-      4. Place oil
+      1. Stand against exit<br />
+      2. <a href="#ub-ultraboost">Ultraboost</a> <br />
+      3. Turn 180° <br />
+      4. Place oil <br />
+      5. Slam into exit pipe
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/zELkZhr.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/y9LEYAr.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1586,16 +1879,17 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      Stand slightly back from the door, as it opens <a href="#flick-ub">Flick UB</a>, then place oil and slam into the exit.
+      Stand slightly back from the door, <a href="#flick-ub">Flick UB</a> as it opens, then place oil and slam into the exit.
     </td>
     <td width="100px"> 
       1. Stand slightly back from exit <br />
-      2. Perform a <a href="#flick-ub">Flick UB</a> <br />
-      3. Place oil
+      2. <a href="#flick-ub">Flick UB</a> <br />
+      3. Place oil <br />
+      4. Slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/jfV5NRR.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/z1skjh7.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1611,16 +1905,16 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      <a href="#dash-extension">Dash Extension</a> as the end door opens, then <a href="#slide-jump">slide jump</a> and slam.
+      <a href="#dash-extension">Dash Extension</a> as the end door opens, then <a href="#slide-jump">slide jump</a> and slam into the exit pipe.
     </td>
     <td width="100px"> 
-      1. Perform a <a href="#dash-extension">Dash Extension</a> <br />
-      2. Perform a <a href="#slide-jump">slide jump</a> <br />
-      3. slam
+      1. <a href="#dash-extension">Dash Extension</a> <br />
+      2. <a href="#slide-jump">Slide Jump</a> <br />
+      3. Slam into exit pipe
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/r9jBCe9.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/bPYepT0.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1636,18 +1930,20 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      A universal exit that utilizes a Dash <a href="#dive-ssj">Dive SSJ</a> through an exit, ideally done with <a href="#slideways">slideways</a>.
+      A universal exit that utilizes a Dash SSJ Dive-- which combines a <a href="#dssj-dash-super-slide-jump">DSSJ</a> with an <a href="#ssj-dive">SSJ dive</a>-- to exit, ideally done with <a href="#slideways">slideways</a>.
     </td>
     <td width="100px"> 
       1. Dash <br />
       2. Wait a moment <br />
       3. Tap slide <br />
-      4. Jump <br />
-      5. Hold slide
+      4. Jump 1-3 frames after <br />
+      5. Immediately hold slide <br />
+      6. Turn 90° and hold A or D (depending on the direction you're looking) <br />
+      7. Slam into exit pipe
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/g4N4gKR.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/PSshF6l.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1663,7 +1959,7 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      A mixture of <a href="#slam-store-exit">Slam Store Exit</a> and <a href="#ub-exit">UB Exit</a> that utilizes a better UB bonk angle to achieve a faster exit.
+      A mixture of a <a href="#slideways-exit">Slam Store Exit</a> and a <a href="#ub-exit">UB Exit</a> that utilizes a proper UB bonk to instantly dunk into the exit pipe.
     </td>
     <td width="100px"> 
       1. <a href="#slam-store">Slam Store</a> <br />
@@ -1672,7 +1968,7 @@ TBA (To Be Added)
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/uJr4teX.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/gKuQVwa.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1688,15 +1984,15 @@ TBA (To Be Added)
   </tr>
   <tr>
     <td> 
-      Through utilizing the jackhammer and a rocket (or two), you're able to go the same speed as a <a href="#ub-ultraboost">UB</a>.
+      Through utilizing the jackhammer and a rocket (or two), you're able to be launched at the same speed as an <a href="#ub-ultraboost">Ultraboost</a>.
     </td>
     <td width="100px"> 
       1. Place 2 Frozen rockets <br />
-      2. Hit rocket with jackhammer
+      2. Hit the first rocket with jackhammer into the other rocket
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
-            <source src="https://i.imgur.com/AT0ulH8.mp4" type="video/mp4">
+            <source src="https://i.imgur.com/8EkRHML.mp4" type="video/mp4">
         </video>
     </td>
   </tr>

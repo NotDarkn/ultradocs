@@ -7,6 +7,7 @@ next: ./any-7-s
 
 ## Main Exit
 
+
 ### Slide Clip 
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
