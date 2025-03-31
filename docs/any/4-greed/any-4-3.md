@@ -11,8 +11,9 @@ next: ./any-4-4
 </font>
 
 Freeze a rocket in front of the red door, and use jackhammer on it to light the fire pit once the door starts to open <br/>
-[Dash Jump](/speedrun-tech.html#dash-jump) slam, then slide diagonally to the right<br/>
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the back right corner of the room and use a rocket or wall jump to boost up through the hole <br/>
+[Dash Jump](/speedrun-tech.html#dash-jump) slam, then slide to the second path on the right<br/>
+Slide to the right and then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) towards the back right corner<br/>
+Wall jump or rocket as needed to get out of the hole<br/>
 [Flick UB](/speedrun-tech.md#flick-ub) <br/>
 Slam and dash to reach the checkpoint <br/>
 

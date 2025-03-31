@@ -40,12 +40,9 @@ Will update this video for more clarity later -Fishy
 Once up after the first bounce pad, go to the right door and grab the blue skull with your whiplash and dashjump over to the next bounce pad.
 You can either use a combination of slide jumps to get up to the ramp and ground slam on the bounce pad (Easy), or you can use a [Floor FUP](/speedrun-tech.md#floor-fup) while holding forward (Intermediate) to get to the bounce pad. Once at the top, you can either dash when parallel with the floor or you can ride the cuved ceiling to the blue pedestal, and place the skull.
 
-::: note
-Riding the ramped ceiling is luck dependent, as sometimes you lose all your speed and don't move forward
-:::
 
-Once in the main hallway, either [CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) or [Floor FUP](/speedrun-tech.md#floor-fup) forward and slide to the checkpoint.
-
+Once in the main hallway, either [CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) or backwards [Floor FUP](/speedrun-tech.md#floor-fup) and use oil to slide through the door, exampled here
+<!-- adding video later-->
 ## V2 Phase 1
 
 ### 3 Coin Punch + 2 Deadcoin
@@ -100,6 +97,17 @@ Whiplash to V2, knuckleblast, then overpump; if timed properly, it will kill V2 
  Difficulties past LENIENT require another whiplash to grapple to V2
 :::
 
+### Rocket + Sawed on
+<font size="2">
+    <b>Difficulty</b>: Slightly Hard (4/5)
+</font>
+
+::: note
+ This kill is only reccomended for Violent and Standard, other difficulties are reccomended to to the other kills
+:::
+[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) and angle towards V2<br/>
+Charge up sawed-on's primary and secondary<br/>
+When close enough and before V2 dashes, Kunckleblaster and release both primary and secondary<br/>
 ## Exit
 
 ### Core UB
@@ -143,7 +151,7 @@ Open and Close the pause menu and then swap to the freezeframe<br/>
 While facing backwards, shoot a rocket slightly diagonal right to where you land<br/>
 Shoot the rocket the moment before you land without freezing it<br/>
 ::: note
-This Instant rocket UB is seemingly easier when you end the 2nd V2 phase in the air. It's unknown why<br/>
+This Instant rocket UB **IS** easier when you end the 2nd V2 phase in the air. It's unknown why<br/>
 :::
 Immediately 180 and grapple to the last green hook point and throw out 2 coins at the same time<br/>
 Time throwing a 3rd coin where it enters its [Split Coin](/speedrun-tech.md#split-coins) right as your grapple hits the grapple point and shoot it<br/>
