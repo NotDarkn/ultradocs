@@ -28,11 +28,8 @@ Once aligned, shoot the rocket and freeze it when it’s halfway between you and
 Slide down the ramp and once past the rocket, shoot it with the malicious railcannon.<br/>
 Make sure to hold slide until you make it to the blue bounce pad, then slam down onto it.<br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ND75yFkc-gI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0bQkhVH-DxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-::: note
-Will update this video for more clarity later -Fishy
-:::
 
 ## Blue Skull + Checkpoint
 
@@ -41,7 +38,7 @@ Once up after the first bounce pad, go to the right door and grab the blue skull
 You can either use a combination of slide jumps to get up to the ramp and ground slam on the bounce pad (Easy), or you can use a [Floor FUP](/speedrun-tech.md#floor-fup) while holding forward (Intermediate) to get to the bounce pad. Once at the top, you can either dash when parallel with the floor or you can ride the cuved ceiling to the blue pedestal, and place the skull.
 
 
-Once in the main hallway, either [CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) or backwards [Floor FUP](/speedrun-tech.md#floor-fup) and use oil to slide through the door, exampled here
+Once in the main hallway, either [CE boost](/speedrun-tech.md#ce-boost-core-eject-boost) or backwards [Floor FUP](/speedrun-tech.md#floor-fup) and use oil to slide through the door, exampled [here](https://www.youtube.com/watch?v=FL9yqzN7K0A)
 <!-- adding video later-->
 ## V2 Phase 1
 
