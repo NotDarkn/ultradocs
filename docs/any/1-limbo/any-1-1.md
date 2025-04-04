@@ -22,7 +22,7 @@ Slam off the rocket, let yourself fall for a moment, then [Flick UB](/speedrun-t
     <b>Difficulty</b>: Easy (1/5)
 </font>
 
-[Dash jump](/speedrun-tech.html#dash-jump) then [Slide Jump](/speedrun-tech.md#slide-jump) to reach the arena<br/>
+[Dash jump](/speedrun-tech.md#dash-jump) then [Slide Jump](/speedrun-tech.md#slide-jump) to reach the arena<br/>
 Place 3 magnets on the red door <br/>
 Whiplash and jumpstart one of the strays, fire some nails into it, then knuckleblast it <br/>
 Throw a few coins for additional conduction<br/>

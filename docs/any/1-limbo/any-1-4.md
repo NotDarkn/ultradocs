@@ -94,7 +94,7 @@ Overpump, grab V2’s arm, dash twice, slam and slide into the exit, using [Slid
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>
 
-As you’re entering the window, [Double Dead Coin](/speedrun-tech.html#multi-deadcoin) <br/>
+As you’re entering the window, [Double Dead Coin](/speedrun-tech.md#multi-deadcoin) <br/>
 [Punch your coin](/speedrun-tech.md#coin-punch) as soon as possible <br/>
 Slam <br/>
 Aim at where the coin ended up after punching (usually in the air where V2 leaps out of), then [Dead Coin](/speedrun-tech.md#dead-coins) it <br/>
@@ -104,7 +104,7 @@ Overpump, grab V2’s arm, dash twice, slam and slide into the exit, using [Slid
 
 ::: details 🛈 **Alternative Giorgi Kill** 🛈
 ## Split-Giorgi Kill
-As you’re entering the window, [Double Dead Coin](/speedrun-tech.html#multi-deadcoin) <br/>
+As you’re entering the window, [Double Dead Coin](/speedrun-tech.md#multi-deadcoin) <br/>
 Deadcoin **EARLY** so you deadcoin on the splitframe. <br />
 with the timing of a double deadcoin. <br />
 This will both split the coin and deadcoin your coin. <br />

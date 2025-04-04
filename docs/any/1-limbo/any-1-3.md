@@ -29,7 +29,7 @@ Dash slide into the soap room <br/>
 Break the ceiling with a rocket <br/>
 Use malicious rail to boost up and whiplash to grab the soap <br/>
 Checkpoint <br/>
-[Dash jump](/speedrun-tech.html#dash-jump) backwards, slam then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) down the corridor <br/>
+[Dash jump](/speedrun-tech.md#dash-jump) backwards, slam then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) down the corridor <br/>
 Slam down before the checkpoint <br/>
 [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the boss room <br/>
 As soon as the boss’s arms move checkpoint so it does the faster spawn animation <br/>
@@ -55,7 +55,7 @@ Slam, then throw another coin into the bosses weakpoint <br/>
 Shoot your erail towards the coin to [railcoin](/speedrun-tech.md#railcoins) <br/>
 Finish off with an [S.R.S. Combo](/speedrun-tech.md#srs-combo) <br/>
 Move towards the exit to time a [slam store exit](/speedrun-tech.md#slam-store-exit) <br/>
-You want to start your [slam store](/speedrun-tech.html#slam-store) right before the boss gibs. This may require some practice to get used to
+You want to start your [slam store](/speedrun-tech.md#slam-store) right before the boss gibs. This may require some practice to get used to
 ::: note
 This kill is somewhat inconsistent due to hideous mass weakpoints, if you are doing everthing and it isn't killing, you are probably not hitting weakpoint with either your sawtrap or railcoin
 :::

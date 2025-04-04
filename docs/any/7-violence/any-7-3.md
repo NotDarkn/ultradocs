@@ -13,11 +13,20 @@ next: ./any-7-s
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
+[Dash Jump](/speedrun-tech.md#dash-jump) and slam store off the right wall of the red room hallway<br/>
+[Dive](/speedrun-tech.md#dives) towards the area highlighted in red<br/>
+![7-3 OOB](</../images/7-3_clip_demonstration.jpg>)
+Slam onto the boarder and move up against the invisible wall<br/>
+Spam slide while turning your camera back and forth<br/>
+Hold forward after are in the floor until you fall through<br/>
+[Flick UB](/speedrun-tech.md#flick-ub)
 
 ### Final Arena
 <font size="2">
     <b>Difficulty</b>: Slightly Hard (4/5)
 </font>
+
+
 
 ## Secret Exit
 
@@ -26,11 +35,12 @@ next: ./any-7-s
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Dash Jump](/speedrun-tech.md#dash-jump) and slam store off the right wall of the red room hallway
-[Dive](/speedrun-tech.md#dives)
-Slam
-Spam slide while turning your camera back and forth
-Hold forward after are in the floor until you fall through
+[Dash Jump](/speedrun-tech.md#dash-jump) and slam store off the right wall of the red room hallway<br/>
+[Dive](/speedrun-tech.md#dives) towards the area highlighted in red<br/>
+![7-3 OOB](</../images/7-3_clip_demonstration.jpg>)
+Slam onto the boarder and move up against the invisible wall<br/>
+Spam slide while turning your camera back and forth<br/>
+Hold forward after are in the floor until you fall through<br/>
 [Flick UB](/speedrun-tech.md#flick-ub)
 
 ### Exit

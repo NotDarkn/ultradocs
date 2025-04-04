@@ -20,7 +20,7 @@ Dash to the checkpoint
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Dash jump](/speedrun-tech.html#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) off of the red doors as they open, hold forward until you land, then [Dive](/speedrun-tech.md#dives) <br/>
+[Dash jump](/speedrun-tech.md#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) off of the red doors as they open, hold forward until you land, then [Dive](/speedrun-tech.md#dives) <br/>
 Slam onto the ledge then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) to the checkpoint
 
 ### [Climbstep](https://youtu.be/45_CONkKkZg)
