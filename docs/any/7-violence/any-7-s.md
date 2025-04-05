@@ -5,7 +5,7 @@ next: ./any-7-4
 
 # 7-S // HELL BATH NO FURY (Any%)
 
-## First Misclip
+## First Oob
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
@@ -13,7 +13,7 @@ next: ./any-7-4
 [Slam Store](/speedrun-tech.md#slam-store) in the hallway of the starting room, [Dive](/speedrun-tech.md#dives) into the right wall, then [Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
 [Misclip](/speedrun-tech.md#misclip)
 
-## Second Misclip
+## Second Oob
 <font size="2">
     <b>Difficulty</b>: Intermediate (3/5)
 </font>
@@ -47,7 +47,7 @@ When you have grabbed a weapon, slide jump backwards and checkpoint <br/>
 Make your way over to the exit door <br/>
 [UB Exit](/speedrun-tech.md#ub-exit) 
 
-### Third Misclip
+### Exit Oob
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
