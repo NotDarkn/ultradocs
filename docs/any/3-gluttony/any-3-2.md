@@ -6,15 +6,25 @@ next: ../4-greed/
 # 3-2 // IN THE FLESH (Any%)
 
 
-## [Slide Clip](https://youtu.be/34pancli8jU)
+## Entrance
 <font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
+    <b>Difficulty</b>: Easy (1/5)
 </font>
 
-[Dash Jump](/speedrun-tech.md#dash-jump) into the side wall of the red room hallway, [Slam Store](/speedrun-tech.md#slam-store), then wall jump off the other side of the hallway, then dive and hold slide <br/>
-Dash forward, slam, and [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
-Slam at the next door and spam slide diagonally into the doorframe to clip through it <br/>
-[Flick UB](/speedrun-tech.md#flick-ub) to reach the checkpoint <br/>
+[Dash Jump](/speedrun-tech.md#dash-jump) from where you land in the red room, then look straight up with blue sawgun (alternate attractor)
+
+
+## Eye Shortcut
+<font size="2">
+    <b>Difficulty</b>: Easy (1/5)
+</font>
+
+Aim around here<br/>
+![3-2-eye-shortcut-line-up](</../images/3-2-eye-shortcut-line-up.png>)
+Shoot your saws until you see the eye falling, equip alternate overpump, dash to where the hole is, then slam into the hole and start charging the overpump. <br/>
+Continue charging it while slamming down into the hole the eye creates.<br/>
+When through the hole wait ~0.5 seconds then release the overpump and shoot a coin.<br/>
+Continue with the kill.
 
 
 ## Boss Kill

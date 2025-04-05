@@ -78,10 +78,10 @@ Fire a core straight up, then shoot it with a revolver <br/>
 Throw 3 coins <br/>
 Charge a slab piercer charge shot <br/>
 Slam jump <br/>
-Then fire the [piercer shot and electric rail](/speedrun-tech.html#ricostacks) straight up <br/>
-Throw a coin down, and [punch it](/speedrun-tech.html#coin-punch) as the rail chains to it <br/>
+Then fire the [piercer shot and electric rail](/speedrun-tech.md#ricostacks) straight up <br/>
+Throw a coin down, and [punch it](/speedrun-tech.md#coin-punch) as the rail chains to it <br/>
 Shoot a rocket and activate freeze frame <br/>
 Alternate projectile boosts and rockets until you fire a fourth rocket, then unfreeze <br/>
-[Ce Boost Exit](/speedrun-tech.html#ce-boost-exit) <br/>
+[Ce Boost Exit](/speedrun-tech.md#ce-boost-exit) <br/>
 
 ### Ice Beam
