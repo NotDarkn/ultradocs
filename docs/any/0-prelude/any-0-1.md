@@ -25,6 +25,12 @@ Slide when you land to maintain speed, then slide diagonally onto the pipe, and 
 If timed correctly, you can insta-kill the malicious face without need to use the electric rail cannon, allowing you to [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 
 ## False Exits
+
+<div class="hidden-header-top">
+
+### Rocket Ride False Exit
+
+</div>
 <details class="easy">
     <summary>
         <b>Rocket Ride False Exit</b> // <b>DIFFICULTY</b>: 2/5
@@ -46,6 +52,12 @@ If timed correctly, you can insta-kill the malicious face without need to use th
 </details>
 
 <br />
+
+<div class="hidden-header">
+
+### Dash Under False Exit
+
+</div>
 
 <details class="medium">
     <summary>

@@ -114,3 +114,16 @@ video {
     border: 3px solid #ffffff50;
     border-radius: 10px;
 }
+
+// experimenting with hidden headers, so they HTML headers can show up in the table of contents
+.hidden-header-top {
+    margin-bottom: -25px;
+    margin-top: -25px;
+    color: rgba(255, 255, 255, 0)
+}
+
+.hidden-header {
+    margin-bottom: -25px;
+    margin-top: -45px;
+    color: rgba(255, 255, 255, 0)
+}
