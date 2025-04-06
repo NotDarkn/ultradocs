@@ -113,6 +113,59 @@ bruh
 :::
 ```
 
+(HTML) GFM ALERTS IN HTML
+::: details GFM Alerts
+
+<div class="warning">
+    <div class="warning-header">
+        <i class="fa-solid fa-triangle-exclamation"></i>
+        Warning
+    </div>
+    This is a warning box.
+</div>
+
+<br />
+
+<div class="note">
+    <div class="note-header">
+        <i class="fa-solid fa-circle-exclamation"></i>
+        Note
+    </div>
+    This is a note box.
+</div>
+
+<br />
+
+<div class="caution">
+    <div class="caution-header">
+        <i class="fa-solid fa-skull"></i>
+        Caution
+    </div>
+    This is a caution box.
+</div>
+
+<br />
+
+<div class="tips">
+    <div class="tips-header">
+        <i class="fa-solid fa-lightbulb"></i>
+        Tips
+    </div>
+    This is a tips box.
+</div>
+
+<br />
+
+<div class="important">
+    <div class="important-header">
+        <i class="fa-solid fa-bell"></i>
+        Important
+    </div>
+    This is a important box.
+</div>
+
+:::
+
 (HTML) LIST EXAMPLE:
 <ul>
     <li><font size="4">

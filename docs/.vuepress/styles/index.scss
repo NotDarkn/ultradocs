@@ -1,1 +1,116 @@
 // place your custom styles here
+
+// warning
+.warning-header {
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    color: #F5B14D;
+}
+
+.warning {
+    font-size: 15px;
+    padding: 20px;
+    background-color: #3D341B;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+// note
+.note-header {
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    color: #939499;
+}
+
+.note {
+    font-size: 15px;
+    padding: 20px;
+    background-color: #272A2F;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+// tip
+.tips-header {
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    color: #3DD68C;
+}
+
+.tips {
+    font-size: 15px;
+    padding: 20px;
+    background-color: #1A352F;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+// caution
+.caution-header {
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    color: #EF6C7E;
+}
+
+.caution {
+    font-size: 15px;
+    padding: 20px;
+    background-color: #3E2129;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+// important
+.important-header {
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    color: #C8ABFA;
+}
+
+.important {
+    font-size: 15px;
+    padding: 20px;
+    background-color: #312B40;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+// detail colors
+.easy {
+    font-size: 16px;
+    padding: 20px;
+    background-color: #162A26;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+.medium {
+    font-size: 16px;
+    padding: 20px;
+    background-color: #2E2817;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+.hard {
+    font-size: 16px;
+    padding: 20px;
+    background-color: #2B191E;
+    color: #D3CFD8;
+    border-radius: 10px;
+}
+
+// i hate universally changing <summary>, but it's whatever for now lol
+summary {
+    font-size: 17.5px;
+}
+
+video {
+    border: 3px solid #ffffff50;
+    border-radius: 10px;
+}

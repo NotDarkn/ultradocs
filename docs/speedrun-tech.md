@@ -1862,7 +1862,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       2. <a href="#ub-ultraboost">Ultraboost</a> <br />
       3. Turn 180° <br />
       4. Place oil <br />
-      5. Slam into exit pipe
+      5. Slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1913,7 +1913,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     <td width="100px"> 
       1. <a href="#dash-extension">Dash Extension</a> <br />
       2. <a href="#slide-jump">Slide Jump</a> <br />
-      3. Slam into exit pipe
+      3. Slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -1938,11 +1938,10 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     <td width="100px"> 
       1. Dash <br />
       2. Wait a moment <br />
-      3. Tap slide <br />
-      4. Jump 1-3 frames after <br />
-      5. Immediately hold slide <br />
-      6. Turn 90° and hold A or D (depending on the direction you're looking) <br />
-      7. Slam into exit pipe
+      3. <a href="#ssj-super-slide-jump">SSJ</a> <br/>
+      4. Hold slide immediately <br />
+      5. <a href="#slideways">Slideways</a>
+      6. Slam
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -2013,7 +2012,11 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       If you use the alternate core eject and then boost the core into the rocket using the jackhammer at the right time and placement, you're able to go at the same speed as a <a href="#ub-ultraboost">UB</a>.
     </td>
     <td width="100px"> 
-      TBA (To Be Added)
+      1. Place 1 Frozen rocket <br />
+      2. Equip Alt CE, hold left click <br />
+      3. Aim slightly up, throw core <br />
+      4. Release left click when core & rocket are aligned <br />
+      5. Slam <br />
     </td>
     <td width="200px">
       <video width="300" height="auto" loop controls muted>
