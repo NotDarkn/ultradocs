@@ -113,7 +113,4 @@ This refers to the boss, **Swordsmachine**.
 ### Gabe
 This refers to the boss, **Gabriel**.
 
-### Benjamin
-This refers to the boss, **1000-THR "Earthmover"**.
-
 :::
