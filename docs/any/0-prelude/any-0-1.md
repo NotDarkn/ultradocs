@@ -45,7 +45,7 @@ next: ./any-0-2
 
 <details class="easy">
     <summary>
-        <a href="/speedrun-tech.md#dives"><b>Diving</b></a> // <b>DIFFICULTY</b>: 1.5/5
+        <a href="/speedrun-tech#dives"><b>Diving</b></a> // <b>DIFFICULTY</b>: 1.5/5
     </summary>
     <p>
         After landing, pick up the Revolver in the middle of the room, switch to the <a href="/general-info.html#ce">CE Shotgun</a> and hold right click to charge up the core, then Knuckleblast both the window & the vent.
