@@ -5,33 +5,186 @@ next: ./any-0-2
 
 # 0-1 // INTO THE FIRE (Any%)
 
-## Entrances
-### [Pipe Clip](https://youtu.be/zvPYd-ivxbQ)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+## Pipe Clip
 
-Grab revolver and knuckleblast the glass <br/>
-Knuckleblast the vent, slam, dash slide, then [CE Boost](/speedrun-tech#ce-boost-core-eject-boost) <br/>
-Slide when you land to maintain speed, then slide diagonally onto the pipe, and hold forward until you clip out <br/>
-[Flick UB](/speedrun-tech#flick-ub) to then slam and dash to reach the checkpoint <br/>
+<div class="hidden-header">
+
+### Dashing
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Dashing</b> // <b>DIFFICULTY</b>: 1/5 // <b>FASTEST</b>
+    </summary>
+    <p>
+        After landing, pick up the Revolver in the middle of the room, switch to the <a href="/general-info.html#ce">CE Shotgun</a> and hold right click to charge up the core, then Knuckleblast both the window & the vent.
+    </p>
+    <p>
+        Slam down the vent and slide slightly forwards, then dash to the right and do a <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> to get to the end of the hallway, then once you land, turn left and either dash or slide towards the pipe.
+    </p>
+    <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/wbrBi6P.mp4" type="video/mp4">
+    </video>
+    <p>
+        While aiming towards the right of the pipe, dash then jump up. Once you've made it up, do an <a href="/speedrun-tech#ub-ultraboost">Ultraboost</a> (<i>or a <a href="/speedrun-tech#flick-ub">Flick UB</a></i>) to the boss checkpoint.
+    </p>
+        <video style="float: right" width="350" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/M9D1whs.mp4" type="video/mp4">
+        </video>
+        <video width="350" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/bbr1ZwM.mp4" type="video/mp4">
+        </video>
+</details>
+
+<div class="hidden-header">
+
+### Diving
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Diving</b> // <b>DIFFICULTY</b>: 1.5/5
+    </summary>
+    <p>
+        After landing, pick up the Revolver in the middle of the room, switch to the <a href="/general-info.html#ce">CE Shotgun</a> and hold right click to charge up the core, then Knuckleblast both the window & the vent.
+    </p>
+    <p>
+        Slam down the vent and slide slightly forwards, then dash to the right and do a <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> to get to the end of the hallway, then once you land, turn left and either dash or slide towards the pipe.
+    </p>
+    <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/wbrBi6P.mp4" type="video/mp4">
+    </video>
+    <p>
+        While aiming towards the right of the pipe, do a <a href="/speedrun-tech#dives">Dive</a> towards the pipe, then jump up. Once you've made it up, do an <a href="/speedrun-tech#ub-ultraboost">Ultraboost</a> (<i>or a <a href="/speedrun-tech#flick-ub">Flick UB</a></i>) to the boss checkpoint.
+    </p>
+    <video style="float: right" width="350" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/QNb74Fs.mp4" type="video/mp4">
+    </video>
+    <video width="350" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/7wPsQZt.mp4" type="video/mp4">
+    </video>
+</details>
+
 ## Maurice Kills
-### [Maurice Kill](https://youtu.be/JhM5Y2wkzbI) 
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
 
-[DSJ](/speedrun-tech#dsj-dash-slide-jump) while charging both primary and secondary fire on the red jackhammer, then hit the malicious face with both, during the hitstop use electric rail and [Slam Store Exit](/speedrun-tech#slam-store-exit) <br/>
-If timed correctly, you can insta-kill the malicious face without need to use the electric rail cannon, allowing you to [CE Boost Exit](/speedrun-tech#ce-boost-exit)
+<div class="hidden-header">
+
+### Sharpshooter Kill
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Sharpshooter</b> // <b>DIFFICULTY</b>: 1/5
+    </summary>
+    <br />
+    <div class="tips">
+        <div class="tips-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        This is most optimal on VIOLENT. If you play on other STANDARD or below, try the other two kills!
+    </div>
+    <p>
+        After checkpointing, start off by equipping the <b>Sharpshooter</b>, then while holding right click (to charge it up), do a dash slide into the arena.
+    </p>
+    <p>
+        Land almost exactly below <a href="/general-info#enemy-terms">Maurice</a>, then release right click after Maurice shoots at least one of its bullets.
+    </p>
+    <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/aWLHeBP.mp4" type="video/mp4">
+    </video>
+    <p>
+        After killing, either do a <a href="/speedrun-tech#ub-exit">UB Exit</a> or a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>, whichever one is easier to you.
+        <br />
+        (<i>However, if you wish to try out other exits, check out the <a href="/speedrun-tech.html#level-exits">Level Exits in Speedrun Tech</a>!</i>)
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Jackhammer DSJ + Knuckleblaster
+
+</div>
+
+<details class="medium">
+    <summary>
+        <b>Jachammer <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a> + Knuckleblaster</b> // <b>DIFFICULTY</b>: 2.5/5
+    </summary>
+    <br />
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        This requires timing your Knuckleblast punch. If you have issues with timing, try the other two kills.
+    </div>
+    <p>
+        After checkpointing, start off by equipping the <b>Alternate Sawed-On Jackhammer</b>, then while holding left and right click, do a <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a>.
+    </p>
+    <p>
+        Before hitting the <a href="/general-info#enemy-terms">Maurice</a> with Jackhammer, punch using the Knuckleblaster a few frames beforehand.
+    </p>
+    <p>
+        Aim the Jackhammer at the Maurice once it spawns in, then release both your left and right click.
+    </p>
+    <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/MiHWdIU.mp4" type="video/mp4">
+    </video>
+    <p>
+        After killing, either do a <a href="/speedrun-tech#ub-exit">UB Exit</a> or a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>, whichever one is easier to you.
+        <br />
+        (<i>However, if you wish to try out other exits, check out the <a href="/speedrun-tech.html#level-exits">Level Exits in Speedrun Tech</a>!</i>)
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Jackhammer DSJ + Electric Rail
+
+</div>
+
+<details class="medium">
+    <summary>
+        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a> + Electric Rail</b> // <b>DIFFICULTY</b>: 3/5 // <b>FASTEST</b>
+    </summary>
+    <br />
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        This requires quickly swapping to the Electric Railcannon within about ~0.5s of hitstop. If that's too fast for you, try the two previous kill methods.
+    </div>
+    <p>
+        After checkpointing, start off by equipping the <b>Alternate Sawed-On Jackhammer</b>, then while holding left and right click, do a <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a>.
+    </p>
+    <p>
+        Aim the Jackhammer at the <a href="/general-info#enemy-terms">Maurice</a> once it spawns in, then release both your left and right click.
+    </p>
+    <p>
+        Then, quickly swap to Electric Railcannon <b>DURING THE HITSTOP</b> and shoot the Maurice with it.
+    </p>
+    <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/ZVWFPu5.mp4" type="video/mp4">
+    </video>
+    <p>
+        After killing, do a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>. 
+        <br />
+        (<i>However, if you wish to try out other exits, check out the <a href="/speedrun-tech.html#level-exits">Level Exits in Speedrun Tech</a>!</i>)
+    </p>
+</details>
 
 ## False Exits
 
-<div class="hidden-header-top">
+<div class="hidden-header">
 
 ### Rocket Ride False Exit
 
 </div>
-<details class="easy">
+<details class="medium">
     <summary>
         <b>Rocket Ride False Exit</b> // <b>DIFFICULTY</b>: 2/5
     </summary>
@@ -51,21 +204,19 @@ If timed correctly, you can insta-kill the malicious face without need to use th
         </video>
 </details>
 
-<br />
-
 <div class="hidden-header">
 
 ### Dash Under False Exit
 
 </div>
 
-<details class="medium">
+<details class="hard">
     <summary>
         <b>Dash Under False Exit</b> // <b>DIFFICULTY</b>: 4/5 // <b>FASTEST</b>
     </summary>
     <br />
-    <div class="warning">
-        <div class="warning-header">
+    <div class="caution">
+        <div class="caution-header">
             <i class="fa-solid fa-triangle-exclamation"></i>
             Warning
         </div>
