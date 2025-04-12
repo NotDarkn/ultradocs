@@ -45,7 +45,7 @@ next: ./any-0-2
 
 <details class="easy">
     <summary>
-        <b>Diving</b> // <b>DIFFICULTY</b>: 1.5/5
+        <a href="/speedrun-tech.md#dives"><b>Diving</b></a> // <b>DIFFICULTY</b>: 1.5/5
     </summary>
     <p>
         After landing, pick up the Revolver in the middle of the room, switch to the <a href="/general-info.html#ce">CE Shotgun</a> and hold right click to charge up the core, then Knuckleblast both the window & the vent.
@@ -111,7 +111,7 @@ next: ./any-0-2
 
 <details class="medium">
     <summary>
-        <b>Jachammer <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a> + Knuckleblaster</b> // <b>DIFFICULTY</b>: 2.5/5
+        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a> + Knuckleblaster</b> // <b>DIFFICULTY</b>: 2.5/5
     </summary>
     <br />
     <div class="warning">
