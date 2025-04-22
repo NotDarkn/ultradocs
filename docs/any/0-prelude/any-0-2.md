@@ -7,33 +7,201 @@ next: ./any-0-3
 
 ## Updoor
 
-### [CE Boost](https://youtu.be/cPsmlkaGRFw)
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+<div class="hidden-header">
 
-[Slam Store](/speedrun-tech.md#slam-store) in the red room hallway and slide diagonally around the cerberus statue, then [Slide Jump](/speedrun-tech.md#slide-jump) to the end of the second room<br/>
-As soon as the door at the end of the hallway opens, [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) backwards and hold slide until you land on top of the door<br/>
-Let go of slide, jump, then [Flick UB](/speedrun-tech.md#flick-ub) <br/>
-Slam down to final arena and slide diagonally through the door <br/>
-Place the overheat saw aiming for the bottom third of the wall<br/>
-Fire blue saws where the two strays spawn until they spawn and die<br/>
-[Slam Store Exit](/speedrun-tech.md#flick-ub)<br/>
+### Diving
 
-### Oil
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+</div>
 
-[Slam store](/speedrun-tech.md#slam-store) in the red room hallway and slide diagonally around the cerberus statue, then to the end of the second room, using oil to maintain speed<br/>
-As soon as the door at the end of the hallway opens, slide backwards and shoot a rocket at the oil on the ground continue holding slide until you land on top of the door<br/>
-Let go of slide, jump, then [Flick UB](/speedrun-tech.md#flick-ub) <br/>
-Slam down to final arena and slide diagonally through the door <br/>
-Place the overheat saw aiming for the bottom third of the wall<br/>
-Fire blue saws where the two strays spawn until they spawn and die<br/>
-[Slam Store Exit](/speedrun-tech.md#flick-ub)
+<details class="easy">
+    <summary>
+        <a href="/speedrun-tech#dives"><b>Diving</b></a> // <b>DIFFICULTY</b>: 2/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+        Choose to either <a href="/speedrun-tech#slam-store">Slam Store</a> on either the <b>left or right side</b> of the wall, then place oil down with the Firestarter Rocket Launcher on the opposite side you chose.
+    </p>
+    <div class="tips">
+        <div class="tips-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        The left side is <b>more optimal</b>, however use whatever you feel is more comfortable, as unless you're attempting to go as fast as possible, it shouldn't matter all that much.
+    </div>
+    <p>
+        Do a slam store on the side you chose, then slide <b>directionally</b> out of the entrance (<i>so you get around the cerb statue</i>). Once in contact with the floor, slide into the arena then go straight towards the glass on the right side,  align yourself with the following spots below, then do a <a href="/speedrun-tech#dives">Dive</a>.
+    </p>
+    <img
+        src="https://i.imgur.com/zJo15ri.png"
+        width="350"
+    ></img>
+    <img
+        src="https://i.imgur.com/4vB4DLx.png"
+        width="350"
+        style="float:right"
+    ></img>
+    <br />
+    <br />
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/MANUcXe.mp4" type="video/mp4">
+    </video>
+</details>
 
+<div class="hidden-header">
 
-## False Exit
-Rocket Ride Into Exit<br/>
-Pump Charge Into Exit
+### CE Boost + Rocket
+
+</div>
+
+<details class="easy">
+    <summary>
+        <a href="/speedrun-tech#ce-boost-core-eject-boost"><b>CE Boost</b></a><b> + Rocket</b> // <b>DIFFICULTY</b>: 3/10
+    </summary>
+    <p>
+        Choose to either <a href="/speedrun-tech#slam-store">Slam Store</a> on either the <b>left or right side</b> of the wall, then place oil down with the Firestarter Rocket Launcher on the opposite side you chose.
+    </p>
+    <div class="tips">
+        <div class="tips-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        The left side is <b>more optimal</b>, however use whatever you feel is more comfortable, as unless you're attempting to go as fast as possible, it shouldn't matter all that much.
+    </div>
+    <p>
+        Do a slam store on the side you chose, then slide <b>directionally</b> out of the entrance (<i>so you get around the cerb statue</i>). Once in contact with the floor, slide into the arena till you're at the second door, then do a <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> (<i>ideally backwards</i>) and rocket up once you've reached the top of the first door.
+    </p>
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/9BbvidI.mp4" type="video/mp4">
+    </video>
+</details>
+
+## Arena Clears
+
+<div class="hidden-header">
+
+### Standstill
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Standstill</b> // <b>DIFFICULTY</b>: 2/10
+    </summary>
+    <p>
+        Once you're out-of-bound, do an <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> towards the arena. While you're flying over, switch to your Overheat Sawblade and start shooting the primary fire to charge up the alternate fire.
+    </p>
+    <p>
+        After you've made it to the arena, slam down and open the arena door. Enter in, then look to the left or right side and place your overheat in either of the following spots below.
+    </p>
+    <img
+        src="https://i.imgur.com/mTcJCnp.png"
+        width="350"
+    ></img>
+    <img
+        src="https://i.imgur.com/xqTAXb0.png"
+        width="350"
+        style="float:right"
+    ></img>
+    <p>
+        Once your overheat is placed, do a <a href="/speedrun-tech#de-dash-extension">Dash Extension</a> to get to the end of the arena, then start spamming Attractor Sawblades with its primary fire until you kill the 2 Strays that spawn at the end of the arena.
+    </p>
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/LdVoi9a.mp4" type="video/mp4">
+    </video>
+</details>
+
+<div class="hidden-header">
+
+### Sliding In
+
+</div>
+
+<details class="medium">
+    <summary>
+        <b>Sliding In</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+        Once you're out-of-bound, do an <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> towards the arena. While you're flying over, switch to your Overheat Sawblade and start shooting the primary fire to charge up the alternate fire.
+    </p>
+    <p>
+        After you've made it near the arena spot, slam down near the arena door, then slide <b>DIRECTIONALLY</b> to one of the sides to avoid dying to one of the crushers in the middle of the room.
+    </p>
+    <img
+        src="https://i.imgur.com/dlQ44lD.png"
+        width="735"
+    ></img>
+    <p>
+        Then, once you're at the end of the arena, throw an oversaw at one of the following spots below (<i>depending on which side you're facing</i>). Once thrown, start throwing Attractor Sawblades in front of you (<i>where the two Strays would spawn</i>), then stop once they've died.
+    </p>
+    <img
+        src="https://i.imgur.com/vcGdj1q.png"
+        width="350"
+    ></img>
+    <img
+        src="https://i.imgur.com/vBD3Fld.png"
+        width="350"
+        style="float:right"
+    ></img>
+    <br />
+    <br />
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/tU3zTyX.mp4" type="video/mp4">
+    </video>
+</details>
+
+## False Exits
+
+<div class="hidden-header">
+
+### Bottom False Exit
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Bottom False Exit</b> // <b>DIFFICULTY</b>: 3/10
+    </summary>
+    <p>
+        Start off by doing a <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> after clipping out updoor, making <b>sure</b> your direction is going near / towards the arena..
+    </p>
+    <p>
+        Once you're <b>near</b> (too close and it loads in with you in it) the door, slam down into the tiny area shown below, as this is required to load the exit from out-of-bound.
+    </p>
+        <img
+            src="https://i.imgur.com/fib3cZK.png"
+            width="735"
+        ></img>
+    <p>
+        Dash over <b>DIAGONALLY</b> to the corner then slam down. As you're falling, do a <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> and then go towards the bottom of the exit in order to false exit.
+    </p>
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/qI08NQS.mp4" type="video/mp4">
+    </video>
+</details>
+
+<div class="hidden-header">
+
+### Side False Exit
+
+</div>
+
+<details class="medium">
+    <summary>
+        <b>Side False Exit</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+        Start off by doing a <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> after clipping out updoor, making <b>sure</b> your direction is going near / towards the arena..
+    </p>
+    <p>
+        Once you're <b>near</b> (too close and it loads in with you in it) the door, slam down into the tiny area shown below, as this is required to load the exit from out-of-bound.
+    </p>
+        <img
+            src="https://i.imgur.com/fib3cZK.png"
+            width="735"
+        ></img>
+    <p>
+        Dash over <b>DIAGONALLY</b> to the corner then slam down. As you're falling, do a <a href="/speedrun-tech#rocket-ride">Rocket Ride</a>, then go towards the corner of the exit and dash as soon as you're at it.
+    </p>
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/fN9XN6c.mp4" type="video/mp4">
+    </video>
+</details>

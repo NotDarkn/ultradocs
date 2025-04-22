@@ -15,7 +15,7 @@ next: ./any-0-2
 
 <details class="easy">
     <summary>
-        <b>Dashing</b> // <b>DIFFICULTY</b>: 1/5 // <b>FASTEST</b>
+        <b>Dashing</b> // <b>DIFFICULTY</b>: 1/10 // <b>FASTEST</b>
     </summary>
     <p>
         After landing, pick up the Revolver in the middle of the room, switch to the <a href="/general-info.html#ce">CE Shotgun</a> and hold right click to charge up the core, then Knuckleblast both the window & the vent.
@@ -45,7 +45,7 @@ next: ./any-0-2
 
 <details class="easy">
     <summary>
-        <a href="/speedrun-tech#dives"><b>Diving</b></a> // <b>DIFFICULTY</b>: 1.5/5
+        <a href="/speedrun-tech#dives"><b>Diving</b></a> // <b>DIFFICULTY</b>: 2/10
     </summary>
     <p>
         After landing, pick up the Revolver in the middle of the room, switch to the <a href="/general-info.html#ce">CE Shotgun</a> and hold right click to charge up the core, then Knuckleblast both the window & the vent.
@@ -77,7 +77,7 @@ next: ./any-0-2
 
 <details class="easy">
     <summary>
-        <b>Sharpshooter</b> // <b>DIFFICULTY</b>: 1/5
+        <b>Sharpshooter</b> // <b>DIFFICULTY</b>: 2/10
     </summary>
     <br />
     <div class="tips">
@@ -111,7 +111,7 @@ next: ./any-0-2
 
 <details class="medium">
     <summary>
-        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a> + Knuckleblaster</b> // <b>DIFFICULTY</b>: 2.5/5
+        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump"><b>DSJ</b></a> + Knuckleblaster</b> // <b>DIFFICULTY</b>: 4/10
     </summary>
     <br />
     <div class="warning">
@@ -148,7 +148,7 @@ next: ./any-0-2
 
 <details class="medium">
     <summary>
-        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a> + Electric Rail</b> // <b>DIFFICULTY</b>: 3/5 // <b>FASTEST</b>
+        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump"><b>DSJ</b></a> + Electric Rail</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
     </summary>
     <br />
     <div class="warning">
@@ -186,7 +186,7 @@ next: ./any-0-2
 </div>
 <details class="medium">
     <summary>
-        <b>Rocket Ride False Exit</b> // <b>DIFFICULTY</b>: 2/5
+        <b>Rocket Ride False Exit</b> // <b>DIFFICULTY</b>: 4/10
     </summary>
     <p>
         Start off by doing a <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> after clipping out from pipe clip.
@@ -210,13 +210,13 @@ next: ./any-0-2
 
 </div>
 
-<details class="hard">
+<details class="medium">
     <summary>
-        <b>Dash Under False Exit</b> // <b>DIFFICULTY</b>: 4/5 // <b>FASTEST</b>
+        <b>Dash Under False Exit</b> // <b>DIFFICULTY</b>: 6/10 // <b>FASTEST</b>
     </summary>
     <br />
-    <div class="caution">
-        <div class="caution-header">
+    <div class="warning">
+        <div class="warning-header">
             <i class="fa-solid fa-triangle-exclamation"></i>
             Warning
         </div>
