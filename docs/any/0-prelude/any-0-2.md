@@ -61,13 +61,6 @@ next: ./any-0-3
     <p>
         Choose to either <a href="/speedrun-tech#slam-store">Slam Store</a> on either the <b>left or right side</b> of the wall, then place oil down with the Firestarter Rocket Launcher on the opposite side you chose.
     </p>
-    <div class="tips">
-        <div class="tips-header">
-            <i class="fa-solid fa-circle-exclamation"></i>
-            Note
-        </div>
-        The left side is <b>more optimal</b>, however use whatever you feel is more comfortable, as unless you're attempting to go as fast as possible, it shouldn't matter all that much.
-    </div>
     <p>
         Do a slam store on the side you chose, then slide <b>directionally</b> out of the entrance (<i>so you get around the cerb statue</i>). Once in contact with the floor, slide into the arena till you're at the second door, then do a <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> (<i>ideally backwards</i>) and rocket up once you've reached the top of the first door.
     </p>
