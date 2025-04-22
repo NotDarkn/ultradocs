@@ -31,10 +31,12 @@ next: ./any-0-3
         Do a slam store on the side you chose, then slide <b>directionally</b> out of the entrance (<i>so you get around the cerb statue</i>). Once in contact with the floor, slide into the arena then go straight towards the glass on the right side,  align yourself with the following spots below, then do a <a href="/speedrun-tech#dives">Dive</a>.
     </p>
     <img
+        class="image"
         src="https://i.imgur.com/zJo15ri.png"
         width="350"
     ></img>
     <img
+        class="image"
         src="https://i.imgur.com/4vB4DLx.png"
         width="350"
         style="float:right"
@@ -93,10 +95,12 @@ next: ./any-0-3
         After you've made it to the arena, slam down and open the arena door. Enter in, then look to the left or right side and place your overheat in either of the following spots below.
     </p>
     <img
+        class="image"
         src="https://i.imgur.com/mTcJCnp.png"
         width="350"
     ></img>
     <img
+        class="image"
         src="https://i.imgur.com/xqTAXb0.png"
         width="350"
         style="float:right"
@@ -126,6 +130,7 @@ next: ./any-0-3
         After you've made it near the arena spot, slam down near the arena door, then slide <b>DIRECTIONALLY</b> to one of the sides to avoid dying to one of the crushers in the middle of the room.
     </p>
     <img
+        class="image"
         src="https://i.imgur.com/dlQ44lD.png"
         width="735"
     ></img>
@@ -133,10 +138,12 @@ next: ./any-0-3
         Then, once you're at the end of the arena, throw an oversaw at one of the following spots below (<i>depending on which side you're facing</i>). Once thrown, start throwing Attractor Sawblades in front of you (<i>where the two Strays would spawn</i>), then stop once they've died.
     </p>
     <img
+        class="image"
         src="https://i.imgur.com/vcGdj1q.png"
         width="350"
     ></img>
     <img
+        class="image"
         src="https://i.imgur.com/vBD3Fld.png"
         width="350"
         style="float:right"
@@ -166,10 +173,11 @@ next: ./any-0-3
     <p>
         Once you're <b>near</b> (too close and it loads in with you in it) the door, slam down into the tiny area shown below, as this is required to load the exit from out-of-bound.
     </p>
-        <img
-            src="https://i.imgur.com/fib3cZK.png"
-            width="735"
-        ></img>
+    <img
+        class="image"
+        src="https://i.imgur.com/fib3cZK.png"
+        width="735"
+    ></img>
     <p>
         Dash over <b>DIAGONALLY</b> to the corner then slam down. As you're falling, do a <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> and then go towards the bottom of the exit in order to false exit.
     </p>
@@ -194,10 +202,11 @@ next: ./any-0-3
     <p>
         Once you're <b>near</b> (too close and it loads in with you in it) the door, slam down into the tiny area shown below, as this is required to load the exit from out-of-bound.
     </p>
-        <img
-            src="https://i.imgur.com/fib3cZK.png"
-            width="735"
-        ></img>
+    <img
+        class="image"
+        src="https://i.imgur.com/fib3cZK.png"
+        width="735"
+    ></img>
     <p>
         Dash over <b>DIAGONALLY</b> to the corner then slam down. As you're falling, do a <a href="/speedrun-tech#rocket-ride">Rocket Ride</a>, then go towards the corner of the exit and dash as soon as you're at it.
     </p>
