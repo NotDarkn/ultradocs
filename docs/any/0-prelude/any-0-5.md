@@ -60,3 +60,7 @@ Note: If your rockets are exploding while you are trying to parry, stop placing 
 </font>
 
 Similar to the Intermediate variation, however, once you’ve placed all your saws, freeze and place a rocket where the second cerberus would spawn, then quickly swap to jackhammer and proceed with the intermediate kill, except with 4 rockets instead of 3. Once you’ve placed your 4 rockets, dismount them and then [S.R.S. Combo](/speedrun-tech.md#srs-combo) the first cerb so it dies, then once the second cerb dies it should be instantly killed because of the 4 rockets.
+
+## Video Guides
+<b>ULTRAKILL || 0-5 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>Ghastly_gengar</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NgdBuRpolg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

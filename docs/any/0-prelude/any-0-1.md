@@ -239,3 +239,7 @@ next: ./any-0-2
             <source src="https://i.imgur.com/qubblJg.mp4" type="video/mp4">
         </video>
 </details>
+
+## Video Guides
+<b>ULTRAKILL || 0-1 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>Ghastly_gengar</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFefgAGQAeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
