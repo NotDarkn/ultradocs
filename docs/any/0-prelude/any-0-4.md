@@ -224,13 +224,13 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Nuke Slide
+### UB Slide
 
 </div>
 
 <details class="medium">
     <summary>
-        <a href="/speedrun-tech#nukes"><b>Nuke</b></a> <b>Slide</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
+        <a href="/speedrun-tech#ub-ultraboost"><b>UB</b></a> <b>Slide</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
     </summary>
     <br />
     <div class="warning">
@@ -241,7 +241,7 @@ next: ./any-0-5
         In order to do this, you must have used a nuke to get up to the checkpoint.
     </div>
     <p>
-        Once you did your <a href="/speedrun-tech#nukes"><b>Nuke</b></a>, <b>quickly swap</b> to your Firestarter Rocket Launcher & Knuckleblaster Arm, then <b>PAUSE</b> as <b><i>SOON</i></b> you hit the checkpoint. After pausing, click "<i>Checkpoint</i>" then instantly hold slide and start throwing out oil below you.
+        Once you did your <a href="/speedrun-tech#ub-ultraboost"><b>Ultraboost</b></a>, <b>quickly swap</b> to your Firestarter Rocket Launcher & Knuckleblaster Arm, then <b>PAUSE</b> as <b><i>SOON</i></b> you hit the checkpoint. After pausing, click "<i>Checkpoint</i>" then instantly hold slide and start throwing out oil below you.
     </p>
     <p>
         <b>Keep sliding UNTIL</b> you're near the area as seen in the screenshot below, at this area you want to <b>Knuckleblast somewhere around there</b> <u>depending</u> on the speed you're going at.
