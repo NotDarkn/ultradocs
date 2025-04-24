@@ -187,7 +187,7 @@ next: ./any-0-3
 
 <details class="medium">
     <summary>
-        <b>Side False Exit</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
+        <b>Side False Exit</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
     </summary>
     <p>
         Start off by doing a <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> after clipping out updoor, making <b>sure</b> your direction is going near / towards the arena..

@@ -5,19 +5,41 @@ toc: false
 ---
 
 # Getting Started
-Hey! It seems you wanna get into ULTRAKILL speedrunning. Fear not, this serves
-as a place for you to easily find resources, guides, and a variety of other things relating to tech and strats to this game.
+::: caution
+This is in **EXTREME DEVELOPMENT.** Some instructions may not be clear, or may require **significant changes.**
+:::
 
-Currently this is **in development**, so changes are being made periodically.
-
-# Categories
-What do you plan on running?
-
-- ### [Any%](/any/)
-
-- ### [P Rank](/p-rank/)
-
-# IGNORE
+::: note
+Changes are being made periodically / semi-regularly, so expect things to be different as time passes on.
+:::
+<div class="gs-table">
+    <tb>
+        <tr>
+            <th colspan="3" bgcolor="2A2B2E">
+                <font size="10">Categories</font>
+            </th>
+        </tr>
+        <tr class="gs-table-tr">
+            <td colspan="3">Pick a category to run!</td>
+        </tr>
+        <tr style="width: 50%; text-align: center; font-size: 30px">
+            <td>
+                <a href="/any/">Any%</a>
+            </td>
+            <td>
+                <a href="/p-rank/">P%</a>
+            </td>
+            <td>
+                <a href="/nomo/">NoMo%</a>
+            </td>
+        </tr>
+    </tb>
+</div>
+<br />
+<details class="easy">
+    <summary>
+        <b>Ignore This Thanks</b>
+    </summary>
 
 LINK REDIRECT EXAMPLE:
 [text](/speedrun-tech.md#base-movement)
@@ -213,3 +235,5 @@ bruh
 ## hewwo
 # hewwo
 ```
+
+</details>
