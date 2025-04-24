@@ -315,7 +315,7 @@ next: ./any-0-5
         width="735"
     ></img>
     <p>
-        Once you've lined up, do a <a href="/speedrun.tech#trigger-skip"><b>Trigger Skip</b></a> in any way you prefer, then <b>with the momentum from the rocket</b>, let it send you close to the door. Once you're near it, <b>slam down</b>, then either do a <a href="/speedrun-tech#dsj-dash-slide-jump"><b>DSJ</b></a><b> or a dash slide</b> into the exit.
+        Once you've lined up, do a <a href="/speedrun-tech#trigger-skip"><b>Trigger Skip</b></a> in any way you prefer, then <b>with the momentum from the rocket</b>, let it send you close to the door. Once you're near it, <b>slam down</b>, then either do a <a href="/speedrun-tech#dsj-dash-slide-jump"><b>DSJ</b></a><b> or a dash slide</b> into the exit.
     </p>
     <video width="735" height="auto" loop controls muted>
         <source src="https://i.imgur.com/LZOei9u.mp4" type="video/mp4">
