@@ -189,6 +189,7 @@ next: ./any-0-3
     <summary>
         <b>Side False Exit</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
     </summary>
+    <br />
     <div class="warning">
         <div class="warning-header">
             <i class="fa-solid fa-circle-exclamation"></i>
