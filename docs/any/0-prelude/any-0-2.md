@@ -189,6 +189,13 @@ next: ./any-0-3
     <summary>
         <b>Side False Exit</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
     </summary>
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        Hitting the side of the false exit is, unfortunately, RNG-dependent. Do not expect to hit it consistently, however it does not play into the difficulty of this strat.
+    </div>
     <p>
         Start off by doing a <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> after clipping out updoor, making <b>sure</b> your direction is going near / towards the arena..
     </p>
