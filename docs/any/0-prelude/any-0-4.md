@@ -283,7 +283,7 @@ next: ./any-0-5
         After checkpointing, <b>break the cooling chamber glass</b> in front of you with either your Whiplash or one of your arms. Then, go into the final arena and <b>use your Malicious Railcannon</b> below you.
     </p>
     <p>
-        This will give you a significant amount of height. Once you're <b>above the line</b> shown in the screenshot below, either <b>dash over</b> or <b>Rocket Ride</b> till above the stairs that lead to the exit. Once above this, <b>slam down and slide</b> into the exit.
+        This will give you a significant amount of height. Once you're <b>above the line</b> shown in the screenshot below, either <b>dash over</b> or <a href="/speedrun-tech#rocket-ride"><b>Rocket Ride</b></a> till above the stairs that lead to the exit. Once above this, <b>slam down and slide</b> into the exit.
     </p>
     <img
         class="image"
