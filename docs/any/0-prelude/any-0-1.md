@@ -184,9 +184,9 @@ next: ./any-0-2
 ### Rocket Ride False Exit
 
 </div>
-<details class="medium">
+<details class="easy">
     <summary>
-        <b>Rocket Ride False Exit</b> // <b>DIFFICULTY</b>: 4/10
+        <b>Rocket Ride False Exit</b> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
         Start off by doing a <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> after clipping out from pipe clip.
@@ -212,16 +212,15 @@ next: ./any-0-2
 
 <details class="medium">
     <summary>
-        <b>Dash Under False Exit</b> // <b>DIFFICULTY</b>: 6/10 // <b>FASTEST</b>
+        <b>Dash Under False Exit</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
     </summary>
     <br />
     <div class="warning">
         <div class="warning-header">
             <i class="fa-solid fa-triangle-exclamation"></i>
-            Warning
+            Note
         </div>
-        Doing this is extremely difficult, primarily due to the door's hitbox. If it sucks to hit,
-        then I'd try using the method above.
+        The door hitbox has been very weird to hit under with a dash ever since Post-Revamp. Expect to not hit it first try.
     </div>
     <p>
         Start off by doing a <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a> after clipping out from pipe clip, making <b>sure</b> your direction is going near / towards the door.
