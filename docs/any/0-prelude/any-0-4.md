@@ -328,9 +328,9 @@ next: ./any-0-5
 
 </div>
 
-<details class="medium">
+<details class="easy">
     <summary>
-        <b>Fan Teleport</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
+        <b>Fan Teleport</b> // <b>DIFFICULTY</b>: 3/10 // <b>FASTEST</b>
     </summary>
     <p>
         After checkpointing, <b>break the cooling chamber glass</b> in front of you with either your Whiplash or one of your arms. Then, go into the final arena and break the first glass right below you.
