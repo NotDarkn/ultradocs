@@ -148,7 +148,7 @@ next: ./any-0-2
 
 <details class="medium">
     <summary>
-        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump"><b>DSJ</b></a> + Electric Rail</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
+        <b>Jackhammer <a href="/speedrun-tech#dsj-dash-slide-jump"><b>DSJ</b></a> + Electric Rail</b> // <b>DIFFICULTY</b>: 4/10 // <b>FASTEST</b>
     </summary>
     <br />
     <div class="warning">
