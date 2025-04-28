@@ -127,7 +127,7 @@ next: ./any-0-5
 
 <details class="medium">
     <summary>
-        <a href="/speedrun-tech#split-coins"><b>Splitcoin</b></a> <b>Clear</b> // <b>DIFFICULTY</b>: 6/10 // <b>FASTEST</b> (<i>if you don't like T-Skip</i>)
+        <a href="/speedrun-tech#split-coins"><b>Splitcoin</b></a> <b>Clear</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b> (<i>if you don't like T-Skip</i>)
     </summary>
     <p>
         Start off by <b>placing oil in the middle</b> using the Firestart Rocket Launcher. Then, equip the overpump and start pumping it until it's at max. Once it's at max, do a <a href="/speedrun-tech#slam-store"><b>Slam Store</b></a> (<i>or two</i>) and slide until you reach the first door.
