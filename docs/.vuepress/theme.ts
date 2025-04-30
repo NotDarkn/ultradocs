@@ -21,7 +21,7 @@ export default hopeTheme({
   footer: "Made with 💜 by ULTRAKILL Speedrunners",
 
   metaLocales: {
-    editLink: "Wanna help us? Click me then!",
+    editLink: "Wanna help us? Click here!",
   },
 
   contributors: false,

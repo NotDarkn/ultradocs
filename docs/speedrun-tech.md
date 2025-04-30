@@ -77,7 +77,7 @@
   </tr>
 </tb>
 
-### Slam Store
+### Slam Storage
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -241,7 +241,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
   </tr>
   <tr>
     <td> 
-      Dashing off a ledge and pressing slide as you go over it extends your dash, and jumping immediately afterward gives you height.
+      Dashing off a ledge and pressing slide as you go over it extends your dash, and jumping immediately afterward gives you height. 
     </td>
     <td width="100px"> 
       1. Dash <br />
@@ -405,7 +405,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
   </tr>
   <tr>
     <td> 
-      Slamming during a whiplash will build up slam momentum-- similar to a <a href="#slam-store">Slam Storage</a>-- and will slam immediately after the whiplash has finished.
+      Slamming during a whiplash will build up slam momentum-- similar to a <a href="#slam-storage">Slam Storage</a>-- and will slam immediately after the whiplash has finished.
     </td>
     <td width="100px"> 
       1. Whiplash <br />
@@ -525,8 +525,8 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
   </tr>
 </tb>
 
-::: note
-This tech becomes 100% consistent if you cap your fps at 120.
+::: caution
+AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS NOT PRACTICALLY APPLICABLE IN RUNS.
 :::
 
 ### FUP (Frozen Unfriendly Pull-it) 
@@ -670,7 +670,7 @@ Sometimes on wonky geometry, Floor FUPs will cause you to take damage. Be weary 
   </tr>
   <tr>
     <td> 
-      By dash and then quickly shooting a fully charged overpump, you will gain a moderate speed boost midair at the cost of only 33 HP.
+      By dashing then quickly shooting a fully charged overpump, you will gain a moderate speed boost midair at the cost of only 33 HP.
     </td>
     <td width="100px"> 
       1. Dash <br />
@@ -715,7 +715,7 @@ Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you 
 </tb>
 
 ::: note
-The height of the core when you shoot it is very lenient.
+The height the core needs to be when you shoot it is very lenient.
 :::
 
 ### Duck Boosting
@@ -783,7 +783,7 @@ The height of the core when you shoot it is very lenient.
     </td>
     <td width="100px"> 
       1. Hold primary fire <br/>
-      2. Switch shotgun's after shooting
+      2. Swap shotgun after shooting
     </td>
     <td width="200px">
         <video width="300" height="auto" loop controls muted>
@@ -796,6 +796,29 @@ The height of the core when you shoot it is very lenient.
 ::: note
 If you have an alt shotgun equipped, you have to use a variation number keybind.
 :::
+
+### Shotgun Parry
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td>
+      Using certain weapons, such as the stock and alternate shotguns, you can parry attacks the same way you could with the Feedbacker.
+    </td>
+    <td width="100px"> 
+      1. Shoot the primary fire during the parry window.
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/v60PNII.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
 
 ### Pboost (Projectile Boost)
 <br />
@@ -1830,10 +1853,10 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
   </tr>
   <tr>
     <td> 
-      <a href="#slam-store">Slam Storing</a> off of the exit door, placing oil to ensure maximum speed, and performing a <a href="#slideways">slideways</a>.
+      <a href="#slam-storage">Slam Storing</a> off of the exit door, placing oil to ensure maximum speed, and performing a <a href="#slideways">slideways</a>.
     </td>
     <td width="100px"> 
-      1. <a href="#slam-store">Slam Storage</a> <br />
+      1. <a href="#slam-storage">Slam Storage</a> <br />
       2. Place oil <br />
       3. <a href="#slideways">Slideways</a>
     </td>
@@ -1964,7 +1987,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       A mixture of a <a href="#slideways-exit">Slam Store Exit</a> and a <a href="#ub-exit">UB Exit</a> that utilizes a proper UB bonk to instantly dunk into the exit pipe.
     </td>
     <td width="100px"> 
-      1. <a href="#slam-store">Slam Store</a> <br />
+      1. <a href="#slam-storage">Slam Store</a> <br />
       2. Slide backwards <br />
       3. <a href="#ub-ultraboost">Ultraboost</a>
     </td>
