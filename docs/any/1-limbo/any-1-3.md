@@ -10,9 +10,10 @@ next: ./any-1-4
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
 
-[Slam Store](/speedrun-tech.md#slam-store) in the start room, slide into the left wall of the red room, then [Wall Bounce](/speedrun-tech.md#wall-bounces) and hold slide<br/>
-After going through the door, slide then dash slide to go around the wall, then malicious rail boost up dash forward and slam into the blue skull room <br/>
-Aim diagonally down and whiplash the skull before landing
+[Slam Store](/speedrun-tech.md#slam-store) in the start room, slide forward, turn slighlty left and [slide jump](/speedrun-tech.html#slide-jump) towards the door <br/>
+Slam at the door, then [dsj](/speedrun-tech.html#dsj-dash-slide-jump), slam and malicious rail down to boost up <br/>
+Dash forward and slam into the blue skull room <br/>
+Aim diagonally down and whiplash the skull <br/>
 Checkpoint <br/>
 
 
@@ -26,7 +27,7 @@ Checkpoint <br/>
 Dash backwards, turn around and place the skull with whiplash <br/>
 Checkpoint <br/>
 Dash slide into the soap room <br/>
-Break the ceiling with a rocket <br/>
+Break the grate on the ceiling with a rocket <br/>
 Use malicious rail to boost up and whiplash to grab the soap <br/>
 Checkpoint <br/>
 [Dash jump](/speedrun-tech.md#dash-jump) backwards, slam then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) down the corridor <br/>
