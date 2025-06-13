@@ -30,12 +30,28 @@ next: ./any-1-2
 
 <div class="hidden-header">
 
+### Upwarp
+
+</div>
+<details class="easy">
+    <summary>
+        <b>Upwarp</b> // <b>DIFFICULTY</b>: 2/10  // <b>FASTEST</b>
+    </summary>
+    <p>
+       @user darkn you do this
+    </p>
+</details>
+
+## Arena Clear
+
+<div class="hidden-header">
+
 ### Arena Clear
 
 </div>
 <details class=easy>
     <summary>
-        <b>Arena Clear</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Arena Clear</b> // <b>DIFFICULTY</b>: 2.5/10
         </summary>
     <p>
         <a href="/speedrun-tech#dash-jump">Dash Jump</a> into a <a href="/speedrun-tech#slide-jump">slide jump</a> to reach the arena.
