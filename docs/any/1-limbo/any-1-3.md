@@ -50,13 +50,10 @@ next: ./any-1-4
      Dash backwards, then turn around and place the skull with whiplash and checkpoint.
      <p>
       </p>
-     Dash slide into the soap room.
+     Dash, turn right, and dash jump into the soap room.
      <p>
       </p>
-     Break the grate on the ceiling with a rocket.
-     <p>
-      </p>
-     Use malicious rail to boost up and whiplash to grab the soap. 
+     Fire a rocket at the ceiling to break the grate, slam, then fire malicious rail down to boost up and grab the soap with whiplash. 
      <p>
       </p>
      Checkpoint. 
@@ -73,6 +70,9 @@ next: ./any-1-4
      <p>
       </p>
      <a href="/speedrun-tech#ub-exit">UB Exit</a>.
+     <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/R4iSLYg.mp4" type="video/mp4">
+    </video>
     </p>
 </details>
 
@@ -115,6 +115,9 @@ next: ./any-1-4
       <p>
       </p>
      You want to start your <a href="/speedrun-tech#dsj-dash-slide-jump">Slam Store</a> right before the boss gibs. This may require some practice to get used to.
+     <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/3HUcMhb.mp4" type="video/mp4">
+    </video>
       <p>
       </p>
      <div class="note">
