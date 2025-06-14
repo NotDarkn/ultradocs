@@ -5,78 +5,183 @@ next: ./any-1-3
 
 # 1-2 // THE BURNING WORLD (Any%)
 
-## 1st Checkpoint
+## First Checkpoint
 
-### [Malicious Rail](https://youtu.be/WKLfKy4Ohog)
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+<div class="hidden-header">
 
-[Slam Store](/speedrun-tech.md#slam-store) in the entrance hallway, then slide until you are out from under the central structure, then boost up with malicious rail cannon <br/>
-Dash to the checkpoint 
+### Malicious Rail
 
-### [Dive](https://youtu.be/6B99s3ZIFF0)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+</div>
 
-[Dash jump](/speedrun-tech.md#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) off of the red doors as they open, hold forward until you land, then [Dive](/speedrun-tech.md#dives) <br/>
-Slam onto the ledge then [DSJ](/speedrun-tech.md#dsj-dash-slide-jump) to the checkpoint
+<details class="easy">
+    <summary>
+        <b>Malicious Rail</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      Start off by doing a <a href="/speedrun-tech#slam-storage">Slam Store</a> in the entrance hallway, then slide until you are out from under the central structure, then fire the malicious rail cannon down to boost up and then dash to the checkpoint.
+    </p>
+</details>
 
-### [Climbstep](https://youtu.be/45_CONkKkZg)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+<div class="hidden-header">
 
-[Slam Store](/speedrun-tech.md#slam-store) in the entrance hallway then [Dive](/speedrun-tech.md#dives), when you land [Dive](/speedrun-tech.md#dives) again and hold slide. <br/>
-Getting this to work correctly is very inconsistent and essentially random
+### Dive
 
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Dive</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      <a href="/speedrun-tech#dash-jump">Dash Jump</a> and <a href="/speedrun-tech#slam-storage">Slam Store</a> off the side of the red doors as they open, hold forward until you land, then <a href="/speedrun-tech#dive">Dive</a> and hold slide until you reach the door.
+      <p>
+      </p>
+      Slam onto the ledge then <a href="/speedrun-tech#DSJ(dash-slide-jump)">DSJ</a> to the checkpoint.
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Climbstep
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Climbstep</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      Start off by doing a <a href="/speedrun-tech#slam-storage">Slam Store</a> in the entrance hallway then <a href="/speedrun-tech#dive">Dive</a>, when you land <a href="/speedrun-tech#dive">Dive</a> again and hold slide.
+      </p>
+      <p>
+      This will cause you to boost off of the central structure and go straight to the door.
+      </p>
+      <p>
+<div class="tips">
+    <div class="tips-header">
+        <i class="fa-solid fa-circle-exclamation"></i>
+        Note
+    </div>
+    Getting this to work correctly is very inconsistent and essentially random.
+</div>
+    </p>
+</details>
 
 ## First Arena
 
-### [Arena Clear](https://youtu.be/-FE5HcNvP80)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+<div class="hidden-header">
 
-Dash fire an overheat saw at the middle of the skull on the locked door for the second wave drones <br/>
-Charge an over pump and use a knuckleblaster shockwave followed by a [Over Pump Dodge](/speedrun-tech.md#over-pump-dodge) to clear the filth <br/>
-Place a [Rocket Trap](/speedrun-tech.md#rocket-traps) for one set of schisms <br/>
-Malicious rail the other <br/>
-You don't need to hit the schisms directly, just shoot the wall at the back of the tunnel and it should kill <br/>
-Use dash slides to reach the shortcut and open it with jumpstart <br/>
-Slam down then dash to the checkpoint
+### Arena Clear
 
-### [Trigger Skip](https://youtu.be/GjGnX1FBuSA)
-<font size="2">
-    <b>Difficulty</b>: Slightly Hard (4/5)
-</font>
+</div>
 
-Go around the middle of the arena and come close to the corner next to the door<br/>
-You will be going through 2 triggers that are placed coming off of that corner, where you align yourself just like in the video and this is where you will perform the trigger skip <br/>
-Look downwards at a 45° angle, shoot and then freeze a rocket in quick succession, slam down onto the rocket and you will have passed the triggers <br/>
-Oil and dash slides will help you reach the shortcut tunnel as fast as possible and once you reach it dash to the power box and use jump start to open it
-With this method the checkpoint is not necessary, so slam down and slide jump from there into the arena <br/>
+<details class="easy">
+    <summary>
+        <b>Arena Clear</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      Dash forward and fire a blue saw to charge the oversaw and fire it at the middle of the skull on the locked door, this will kill the drones in the second wave.
+      Stand in the middle of the room, charge an overpump, and use a knuckleblaster shockwave to clear out some of the filth, then use an <a href="/speedrun-tech#overpump-dodge">Overpump Dodge</a> for the rest.
+      </p>
+      <p>
+      Shoot a rocket down one of the tunnels and freeze it as close to the back wall as you can, creating a rocket trap to kill the schisms.
+      </p>
+      <p>
+      Fire malicious rail cannon at the back wall on the other side of the room to kill the schisms.
+      </p>
+      <p>
+      Dash slide through the door diagonally as it opens, then jump and knuckleblast the breakable wall, dash through the hole, then dash slide and use jumpstart to open the shortcut.
+      </p>
+      <p>
+      Slam down then dash to the checkpoint.
+    </p>
+</details>
 
+<div class="hidden-header">
+
+### Trigger Skip
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Trigger Skip</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      to be added
+    </p>
+</details>
 
 ## Final Arena
 
-### [Slarp Variant](https://youtu.be/4wiT_K6roJk)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
+<div class="hidden-header">
 
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) into the arena (making sure to avoid the light), use slab sharpshooter alt fire to kill the first two street cleaners <br/>
-Place an overheat saw where the second wave’s street cleaners spawn <br/>
-[Nuke](/speedrun-tech.md#nukes) the center of the room <br/>
-[Slam Store Exit](/speedrun-tech.md#slam-store-exit) <br/>
+### Slarp 
 
-### [Splitcoin Variant](https://youtu.be/5SE9n-Bqxb8)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
+</div>
 
-Dash jump into the arena, slide forward, then jump and throw a coin and [Split Coin](/speedrun-tech.md#split-coins) it to insta kill both street cleaners <br/>
-Place an overheat saw where the second wave’s street cleaners spawn <br/>
-[Nuke](/speedrun-tech.md#nukes) the center of the room <br/>
-[Slam Store Exit](/speedrun-tech.md#slam-store-exit) <br/>
+<details class="easy">
+    <summary>
+        <b>Slarp</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      Dash to the side of the cerberus statue and <a href="/speedrun-tech#/speedrun-tech.html#ce-boost-core-eject-boost)">CE Boost</a>, slide as you land fire the slab shooter to kill both streetcleaners.
+      </p>
+      <p>
+      Fire a blue saw to charge the overheat, then fire an oversaw where the second set of streetcleaners spawn.
+      </p>
+      <p>
+      Jump and <a href="/speedrun-tech#nuke">Nuke</a> the center of the room as the second wave spawns.
+      </p>
+      <p>
+      Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Splitcoin
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Splitcoin</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      <a href="/speedrun-tech#dsj(dash-slide-jump)">DSJ</a> around the cerberus statue, and slam jump right before landing, look up at a 45 degree angle, and throw a coin, then splitcoin it to kill both streetcleaners.
+      </p>
+      <p>
+      Stand in the center of the room and charge the slab sharpshooter, aiming at where one of the two streetcleaners in the second wave will spawn, as soon as it does fire the sharpshooter.
+      </p>
+      <p>
+      Jump and <a href="/speedrun-tech#nuke">Nuke</a> the center of the room.
+      </p>
+      <p>
+      Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Pre Fire
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Pre Fire</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+      <a href="/speedrun-tech#dsj(dash-slide-jump)">DSJ</a> around the cerberus statue, and slam jump right before landing, look up at a 45 degree angle, and throw a coin, then splitcoin it to kill both streetcleaners.
+      </p>
+      <p>
+      Stand in the center of the room and launch a core eject straight up, aim at where one of the two streetcleaners in the second wave will spawn and charge the slab sharpshooter, as soon as it does fire the sharpshooter.
+      </p>
+      <p>
+      Look up and fire malicious rail at the core to perform a <a href="/speedrun-tech#nuke">Nuke</a> clearing the rest of room.
+      </p>
+      <p>
+      Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
+    </p>
+</details>
