@@ -12,6 +12,8 @@ export default hopeTheme({
 
   docsDir: "docs",
 
+  darkmode: "enable",
+
   navbar,
 
   sidebar,
