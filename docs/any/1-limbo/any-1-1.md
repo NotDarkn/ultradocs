@@ -25,6 +25,9 @@ next: ./any-1-2
         </p>
     <p>
         Slam off the rocket, and turn around, let yourself fall for a moment, then <a href="/speedrun-tech#flick-ub">Flick UB</a> to the checkpoint.
+        <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/WpBkcXy.mp4" type="video/mp4">
+    </video>
     </p>
 </details>
 
@@ -60,16 +63,18 @@ next: ./any-1-2
         Fire saws as you enter the arena, place all of your magnets on the bottom center of the exit door then fire an oversaw.
     </p>
     <p>
-        Whiplash and jumpstart one of the strays, fire some nails into it, then knuckleblast it 
-        Throw a few coins for additional conduction.
+        Whiplash and jumpstart one of the strays, fire nails into it until it dies, then throw a few coins for additional conduction.
     </p>
     <p>
-        Stand in the center of the room facing straight up, and <a href="/speedrun-tech#nuke">Nuke</a> when the drones spawn.
+        Stand in the center of the room facing straight up, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawn.
     </p>
     <p>
-        Delaying the nuke until slightly after the drones spawn will make it kill all of them more consistently.
+        Delaying the <a href="/speedrun-tech#nukes">Nuke</a> until slightly after the drones spawn will make it kill all of them more consistently.
         </p>
     <p>
         <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>
+        <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/4HlXrFD.mp4" type="video/mp4">
+    </video>
     </p>
 </details>

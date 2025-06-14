@@ -131,7 +131,7 @@ next: ./any-1-3
       Fire a blue saw to charge the overheat, then fire an oversaw where the second set of streetcleaners spawn.
       </p>
       <p>
-      Jump and <a href="/speedrun-tech#nuke">Nuke</a> the center of the room as the second wave spawns.
+      Jump and <a href="/speedrun-tech#nukes">Nuke</a> the center of the room as the second wave spawns.
       </p>
       <p>
       Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
@@ -155,7 +155,7 @@ next: ./any-1-3
       Stand in the center of the room and charge the slab sharpshooter, aiming at where one of the two streetcleaners in the second wave will spawn, as soon as it does fire the sharpshooter.
       </p>
       <p>
-      Jump and <a href="/speedrun-tech#nuke">Nuke</a> the center of the room.
+      Jump and <a href="/speedrun-tech#nukes">Nuke</a> the center of the room.
       </p>
       <p>
       Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
