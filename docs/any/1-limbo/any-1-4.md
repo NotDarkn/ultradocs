@@ -7,45 +7,66 @@ next: ../2-lust/
 
 ## Enter Arena
 
-### [Slam Store + Over Pump](https:youtu.be//ytG8nZaw5Pk&t=0s)
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+<div class="hidden-header">
 
-Charge an overpump
-[Slam Store](/speedrun-tech.md#slam-store) in the red room hallway, then slide <br/>
-[Slide Jump](/speedrun-tech.md#slide-jump) until you’re near the window. <br/>
-Whiplash the window <br/>
-Over pump to boost through the window <br/>
+### Slam Store + Over Pump
 
-### [Regular UB](https://youtu.be/ytG8nZaw5Pk&t=13s)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (2/5)
-</font>
+</div>
 
-Align yourself with the alignment shown in the video, then go down the stairs till you’re at the same spot as the one in the video <br/>
-[UB](/speedrun-tech.md#ub-ultraboost) <br/> 
-Start charging an overpump <br/>
-Jump as soon as you land <br/>
-[Slide Jump](/speedrun-tech.md#slide-jump) <br/>
-Whiplash the window <br/>
-Over pump to boost through the window <br/>
+<details class="easy">
+    <summary>
+        <b>Slam Store + Over Pump</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     Start by charging an overpump and then performing a <a href="/speedrun-tech#slam-store">Slam Store</a> in the red room hallway and sliding.
+     <p>
+      </p>
+     When you land, <a href="/speedrun-tech#slide-jump">Slide Jump</a> then repeat until you reach the window. Break the glass with whiplash, look down and overpump to boost through the window.
+    </p>
+</details>
 
-### [UB + Oil](https://youtu.be/ytG8nZaw5Pk&t=29s)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
+<div class="hidden-header">
 
-Align yourself with the alignment shown in the video, then go down the stairs till you’re at the same spot as the one in the video. <br/>
-[UB](/speedrun-tech.md#ub-ultraboost) <br/>
-Place oil under you to maintain speed, then pause once you hit the checkpoint. <br/>
-Instantly press the slide button after checkpointing so you have some momentum <br/>
-Whiplash the window <br/>
-Turn around and [UB](/speedrun-tech.md#ub-ultraboost) <br/>
+### Regular UB
 
-::: note
-Using oil is only possible in patch 15a or above
-:::
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Regular UB</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     Start by turning around and aligning your camera as shown then walk backwards until you reach the spot shown. 
+     <p>
+      </p>
+      Right as the door opens <a href="/speedrun-tech#ub(ultraboost)">UB</a> and begin charging an overpump
+      <p>
+      </p>
+      As you land <a href="/speedrun-tech#bhop">Bhop</a> to preserve your momentum, then <a href="/speedrun-tech#slide-jump">Slide Jump</a> the next time you land, whiplash to break the glass. Look down and overpump to boost through the window. 
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### UB + Oil
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>UB + Oil</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     Start by turning around and aligning your camera as shown then walk backwards until you reach the spot shown.
+    <p>
+    </p>
+    Right as the door opens <a href="/speedrun-tech#ub(ultraboost)">UB</a> then quickly turn around and place oil beneath you to maintain your speed until you reach the checkpoint.
+    <p>
+      </p>
+      Checkpoint, and immediatly slide to preserve speed through the checkpoint, use whiplash to break the glass, turn around and <a href="/speedrun-tech#ub(ultraboost)">UB</a> while continuing to hold slide.
+    </p>
+</details>
+
 
 ### God UB
 <font size="2">
@@ -67,40 +88,71 @@ Regular [Ultraboost](/speedrun-tech.md#ub-ultraboost) ranging from <=130 HU/s, a
 
 ## Boss Kill
 
-### [5 Coin Punch](https://youtu.be/W8pI1cWF8lE)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+<div class="hidden-header">
 
-Slam during the slowdown <br/>
-Jump throw a coin straight down and punch [it](/speedrun-tech.md#coin-punch) <br/>
-Punch the coin 4 additional times to kill v2 <br/>
-Overpump, grab V2’s arm, dash twice, slam and slide into the exit, using [Slideways](/speedrun-tech.md#slideways) for extra speed <br/>
+### 5 Coin Punch
 
-### [Double Dead Coin](https://youtu.be/W8pI1cWF8lE&t=13s)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
+</div>
 
-Throw a coin as you go through the window <br/>
-Shoot the coin during the slowdown <br/>
-[Double dead coin](/speedrun-tech.md#double-dead-coin) <br/>
-[Punch the coin](/speedrun-tech.md#coin-punch) into v2 3 times <br/>
-Shoot the coin with the marksman revolver <br/>
-Overpump, grab V2’s arm, dash twice, slam and slide into the exit, using [Slideways](/speedrun-tech.md#slideways) for extra speed <br/>
+<details class="easy">
+    <summary>
+        <b>5 Coin Punch</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     As you reach the trigger for V2 spawning, the game will slowdown, when it does, slam to the ground. 
+     <p>
+      </p>
+      Jump over the shockwave from V2 landing, look down, throw a coin, and <a href="/speedrun-tech#coin-punch">Punch</a> it
+      Junp, punch the same coin back into V2, and slam to the ground. Repeat this until V2 dies.
+      <p>
+      </p>
+      Charge an overpump and stand in the spot as shown. Wait until V2 jumps, then overpump to grab the arm as it spawns, then dash twice towards the exit, slam and slide into the exit using <a href="/speedrun-tech#slideways">Slideways</a> for extra speed.
+    </p>
+</details>
 
-### [Giorgi Kill](https://youtu.be/W8pI1cWF8lE&t=24s)
-<font size="2">
-    <b>Difficulty</b>: Slightly Hard (4/5)
-</font>
+<div class="hidden-header">
 
-As you’re entering the window, [Double Dead Coin](/speedrun-tech.md#multi-deadcoin) <br/>
-[Punch your coin](/speedrun-tech.md#coin-punch) as soon as possible <br/>
-Slam <br/>
-Aim at where the coin ended up after punching (usually in the air where V2 leaps out of), then [Dead Coin](/speedrun-tech.md#dead-coins) it <br/>
-Jump, [punch the coin](/speedrun-tech.md#coin-punch) twice <br/>
-Shoot the coin with the marksman revolver <br/>
-Overpump, grab V2’s arm, dash twice, slam and slide into the exit, using [Slideways](/speedrun-tech.md#slideways) for extra speed <br/>
+### Double Dead Coin
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Double Dead Coin</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     As you go through the window, throw a coin. As you reach the trigger for V2 spawning, the game will slowdown, when it does, shoot the coin and slam to the ground. 
+     <p>
+      </p>
+      <a href="/speedrun-tech#multi-deadcoin">Double Dead Coin</a>, jump, and punch the coin, into V2 twice, slam jump, punch the coin again, look down and shoot the coin with the marksman.
+      <p>
+      </p>
+      Charge an overpump and stand in the spot as shown. Wait until V2 jumps, then overpump to grab the arm as it spawns, then dash twice towards the exit, slam and slide into the exit using <a href="/speedrun-tech#slideways">Slideways</a> for extra speed.
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Giorgi Kill
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Giorgi Kill</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     As you’re entering the window, [Double Dead Coin](/speedrun-tech.md#multi-deadcoin) and then <a href="/speedrun-tech#multi-deadcoin">Punch your coin</a> as soon as possible. 
+     <p>
+      </p>
+     Slam, then aim at where the coin ended up after punching (usually in the air where V2 leaps out of), then <a href="/speedrun-tech#dead-coin">Dead Coin</a> it. Jump, <a href="/speedrun-tech#ce-boost-core-eject-boost">Punch the coin</a> twice and then shoot it with the marksman 
+     <p>
+      </p>
+      Charge an overpump and stand in the spot as shown. Wait until V2 jumps, then overpump to grab the arm as it spawns, then dash twice towards the exit, slam and slide into the exit using <a href="/speedrun-tech#slideways">Slideways</a> for extra speed.
+    </p>
+</details>
+
+
 
 ::: details 🛈 **Alternative Giorgi Kill** 🛈
 ## Split-Giorgi Kill
