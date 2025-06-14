@@ -22,6 +22,9 @@ next: ./any-3-2
      <p>
       </p>
      Collect the checkpoint from beneath the door or it will be closed when you checkpoint. If this happens dash backwards and checkpoint again to fix it.
+     <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/jJDimI1.mp4" type="video/mp4">
+    </video>
     </p>
 </details>
 
@@ -48,6 +51,11 @@ next: ./any-3-2
       <p>
       </p>
       <a href="/speedrun-tech#ce-boost-exit">CE Boost Exit</a>
+      <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/VjBLFeL.mp4" type="video/mp4">
+    </video>
+      <p>
+      </p> 
     </p>
 </details>
 
