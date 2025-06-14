@@ -28,6 +28,9 @@ next: ./any-1-4
       <p>
       </p>
       Checkpoint 
+      <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/u9c6MFt.mp4" type="video/mp4">
+    </video>
     </p>
 </details>
 
