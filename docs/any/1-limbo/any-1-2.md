@@ -19,24 +19,9 @@ next: ./any-1-3
     </summary>
     <p>
       Start off by doing a <a href="/speedrun-tech#slam-storage">Slam Store</a> in the entrance hallway, then slide until you are out from under the central structure, then fire the malicious rail cannon down to boost up and then dash to the checkpoint.
-    </p>
-</details>
-
-<div class="hidden-header">
-
-### Dive
-
-</div>
-
-<details class="easy">
-    <summary>
-        <b>Dive</b> // <b>DIFFICULTY</b>: 1.5/10
-    </summary>
-    <p>
-      <a href="/speedrun-tech#dash-jump">Dash Jump</a> and <a href="/speedrun-tech#slam-storage">Slam Store</a> off the side of the red doors as they open, hold forward until you land, then <a href="/speedrun-tech#dive">Dive</a> and hold slide until you reach the door.
-      <p>
-      </p>
-      Slam onto the ledge then <a href="/speedrun-tech#DSJ(dash-slide-jump)">DSJ</a> to the checkpoint.
+      <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/BFVOgez.mp4" type="video/mp4">
+    </video>
     </p>
 </details>
 
@@ -55,6 +40,12 @@ next: ./any-1-3
       </p>
       <p>
       This will cause you to boost off of the central structure and go straight to the door.
+       </p>
+      <p>
+      Slam and dash jump to the checkpoint.
+      <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/iv5CBGf.mp4" type="video/mp4">
+    </video>
       </p>
       <p>
 <div class="tips">
@@ -94,6 +85,9 @@ next: ./any-1-3
       </p>
       <p>
       Slam down then dash to the checkpoint.
+      <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/cVjELd4.mp4" type="video/mp4">
+    </video>
     </p>
 </details>
 
@@ -159,6 +153,9 @@ next: ./any-1-3
       </p>
       <p>
       Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
+      <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/KRzh2H0.mp4" type="video/mp4">
+    </video>
     </p>
 </details>
 
