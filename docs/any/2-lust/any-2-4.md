@@ -101,7 +101,7 @@ next: ../3-gluttony/
      Move backwards slightly so that you wont interact with the tram, then <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a>.
      <p>
       </p>
-      Wait until you slightly in front of the ceiling of the doorway then <a href="/speedrun-tech#flick-ub">Flick UB</a> so that you bonk. 
+      Wait until you are slightly in front of the ceiling of the doorway then <a href="/speedrun-tech#flick-ub">Flick UB</a> so that you bonk. 
     <p>
       </p>
       When you land turn left and <a href="/speedrun-tech#slide-jump">Slide Jump</a>, maintaining speed from the <a href="/speedrun-tech#flick-ub">Flick UB</a>. <a href="/speedrun-tech#slide-jump">Slide Jump</a> again, then dash twice into the doorway, turn right and use whiplash to grab the skull, then checkpoint.
