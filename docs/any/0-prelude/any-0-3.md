@@ -39,7 +39,7 @@ next: ./any-0-4
 
 <details class="easy">
     <summary>
-        <b>Glasspunch</b> // <b>DIFFICULTY</b>: 2.5/10
+        <b>Glasspunch</b> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
         In the start room, <a href="/speedrun-tech#slam-storage">slam store</a> and <a href="/speedrun-tech#dives">dive</a> through the opening doors.

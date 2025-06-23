@@ -31,19 +31,6 @@ next: ./any-1-2
     </p>
 </details>
 
-<div class="hidden-header">
-
-### Upwarp
-
-</div>
-<details class="easy">
-    <summary>
-        <b>Upwarp</b> // <b>DIFFICULTY</b>: 2/10  // <b>FASTEST</b>
-    </summary>
-    <p>
-       @user darkn you do this
-    </p>
-</details>
 
 ## Arena Clear
 
