@@ -21,7 +21,7 @@
       2. Jump while sliding
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/681yYZz.mp4" type="video/mp4">
         </video>
     </td>
@@ -45,7 +45,7 @@
       2. Jump during the dash
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/GFZ36NN.mp4" type="video/mp4">
         </video>
     </td>
@@ -70,7 +70,7 @@
       3. Jump during the slide
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/UPxfYY9.mp4" type="video/mp4">
         </video>
     </td>
@@ -94,7 +94,7 @@
       2. Wall jump at the same time
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/Tgh2YzL.mp4" type="video/mp4">
         </video>
     </td>
@@ -118,7 +118,7 @@
       2. Slide immediately after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/tao4ZSX.mp4" type="video/mp4">
         </video>
     </td>
@@ -143,7 +143,7 @@
       3. Hold either A or D according to the direction you're looking
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/9fFwdcx.mp4" type="video/mp4">
         </video>
     </td>
@@ -171,7 +171,7 @@ This can be done during <a href="#dives">dives</a> as well, as they put you in a
       2. Wall jump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/DLs1vFU.mp4">
         </video>
     </td>
@@ -196,7 +196,7 @@ This can be done during <a href="#dives">dives</a> as well, as they put you in a
       2. Jump as soon as you hit the ground
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/rNzxNC1.mp4" type="video/mp4">
         </video>
     </td>
@@ -224,7 +224,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
       2. Slide shortly after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/jkMKtTi.mp4" type="video/mp4">
         </video>
     </td>
@@ -249,7 +249,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
       3. Jump immediately after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/SeBT91e.mp4" type="video/mp4">
         </video>
     </td>
@@ -273,7 +273,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
       2. Jump within 3 frames of releasing slide
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/nYxJx4f.mp4" type="video/mp4">
         </video>
     </td>
@@ -306,7 +306,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
       3. Press and hold slide immediately after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/bHX625Q.mp4" type="video/mp4">
         </video>
     </td>
@@ -331,7 +331,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
       3. Press space within 3 frames
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/SzxYXFR.mp4" type="video/mp4">
         </video>
     </td>
@@ -357,7 +357,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
       4. Press jump within 3 frames
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/v3iXdlo.mp4" type="video/mp4">
         </video>
     </td>
@@ -388,7 +388,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Whiplash again or punch
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/WSvxWLB.mp4" type="video/mp4">
         </video>
     </td>
@@ -412,7 +412,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Slam while you are being dragged
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/iRLiKs6.mp4" type="video/mp4">
         </video>
     </td>
@@ -440,7 +440,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Shoot a core at your feet
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/LXi9awh.mp4" type="video/mp4">
         </video>
     </td>
@@ -464,7 +464,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Shoot the core with the Malicious Railcanon.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/N3lWuh8.mp4" type="video/mp4">
         </video>
     </td>
@@ -493,7 +493,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       3. Shoot the core with Malicious Railcanon
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/xkWApby.mp4" type="video/mp4">
         </video>
     </td>
@@ -518,7 +518,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       3. Checkpoint
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/0U3JWu0.mp4" type="video/mp4">
         </video>
     </td>
@@ -547,7 +547,7 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS NOT PRACTICALLY APPL
       3. Freeze the rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/KLWZ1x3.mp4" type="video/mp4">
         </video>
     </td>
@@ -572,7 +572,7 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS NOT PRACTICALLY APPL
       3. Shoot and whiplash a rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/RBE2wuE.mp4" type="video/mp4">
         </video>
     </td>
@@ -601,7 +601,7 @@ Sometimes on wonky geometry, Floor FUPs will cause you to take damage. Be weary 
       3. Shoot a rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/vpNlXqB.mp4" type="video/mp4">
         </video>
     </td>
@@ -627,7 +627,7 @@ Sometimes on wonky geometry, Floor FUPs will cause you to take damage. Be weary 
       4. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/Y1439QE.mp4" type="video/mp4">
         </video>
     </td>
@@ -653,7 +653,7 @@ Sometimes on wonky geometry, Floor FUPs will cause you to take damage. Be weary 
       4. Unfreeze
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/98snRE2.mp4" type="video/mp4">
         </video>
     </td>
@@ -678,7 +678,7 @@ Sometimes on wonky geometry, Floor FUPs will cause you to take damage. Be weary 
       3. Shoot overpump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/ZP1yjMz.mp4" type="video/mp4">
         </video>
     </td>
@@ -707,7 +707,7 @@ Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you 
       3. Dash into the explosion
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/xujptA9.mp4" type="video/mp4">
         </video>
     </td>
@@ -734,7 +734,7 @@ The height the core needs to be when you shoot it is very lenient.
       1. Primary fire with shotgun
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/DJ1e15x.mp4" type="video/mp4">
         </video>
     </td>
@@ -762,7 +762,7 @@ The height the core needs to be when you shoot it is very lenient.
       2. Hold left and right click simultaneously
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/gHOimZH.mp4 4" type="video/mp4">
         </video>
     </td>
@@ -786,7 +786,7 @@ The height the core needs to be when you shoot it is very lenient.
       2. Swap shotgun after shooting
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/vPBZ7Dn.mp4" type="video/mp4">
         </video>
     </td>
@@ -813,7 +813,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       1. Shoot the primary fire during the parry window.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/v60PNII.mp4" type="video/mp4">
         </video>
     </td>
@@ -837,7 +837,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Feedbacker punch
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/3YBnxaw.mp4" type="video/mp4">
         </video>
     </td>
@@ -861,7 +861,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Shoot the core with Malicious Rail
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/07DX3U1.mp4" type="video/mp4">
         </video>
     </td>
@@ -885,7 +885,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Shoot core with Revolver
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/e7HpacY.mp4" type="video/mp4">
         </video>
     </td>
@@ -909,7 +909,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Shoot overpump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/jDa0VDN.mp4" type="video/mp4">
         </video>
     </td>
@@ -934,7 +934,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       3. Freeze the rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/flVGt45.mp4" type="video/mp4">
         </video>
     </td>
@@ -961,7 +961,7 @@ Freezing the rocket creates an explosion significantly larger than an unfrozen r
       1. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/7WNaQrP.mp4" type="video/mp4">
         </video>
     </td>
@@ -988,7 +988,7 @@ This can be done with any explosion.
       1. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/1UN7D9c.mp4" type="video/mp4">
         </video>
     </td>
@@ -1012,7 +1012,7 @@ This can be done with any explosion.
       2. Punch the cannonball
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/ofuAJdI.mp4" type="video/mp4">
         </video>
     </td>
@@ -1040,7 +1040,7 @@ You only need to charge srs cannon to 25% for full damage.
       1. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/taWzptc.mp4" type="video/mp4">
         </video>
     </td>
@@ -1064,7 +1064,7 @@ You only need to charge srs cannon to 25% for full damage.
       2. Shoot rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/LJp6WTF.mp4" type="video/mp4">
         </video>
     </td>
@@ -1092,7 +1092,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
       2. Whiplash/Swap arm
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/V1k5u1X.mp4" type="video/mp4">
         </video>
     </td>
@@ -1117,7 +1117,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
       3. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/gn18NAX.mp4" type="video/mp4">
         </video>
     </td>
@@ -1143,7 +1143,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
       4. Punch with feedbacker
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/T5Zdg9E.mp4" type="video/mp4">
         </video>
     </td>
@@ -1175,7 +1175,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
       5. Punch with feedbacker
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/rgii1vA.mp4" type="video/mp4">
         </video>
     </td>
@@ -1203,7 +1203,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
       2. Shoot the coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/XFpaRzP.mp4" type="video/mp4">
         </video>
     </td>
@@ -1227,7 +1227,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
       2. Punch the coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/4RCy1hi.mp4" type="video/mp4">
         </video>
     </td>
@@ -1255,7 +1255,7 @@ The power increase caused by punches is limited to 3 punches against a surface, 
       2. Shoot the coin and toss a new one
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/J3qT3BX.mp4" type="video/mp4">
         </video>
     </td>
@@ -1281,7 +1281,7 @@ The power increase caused by punches is limited to 3 punches against a surface, 
       4. Toss a new coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/rL9gB56.mp4" type="video/mp4">
         </video>
     </td>
@@ -1315,7 +1315,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Toss another coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/yqFX3AC.mp4" type="video/mp4">
         </video>
     </td>
@@ -1340,7 +1340,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Shoot the coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/fmeJZZH.mp4" type="video/mp4">
         </video>
     </td>
@@ -1364,7 +1364,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       2. Fire the electric rail
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/2FSrwEm.mp4" type="video/mp4">
         </video>
     </td>
@@ -1389,7 +1389,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Toss more coins
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/KspbosQ.mp4" type="video/mp4">
         </video>
     </td>
@@ -1414,7 +1414,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Shoot coin with second hitscan
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/tgUlu1B.mp4" type="video/mp4">
         </video>
     </td>
@@ -1440,7 +1440,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       4. Punch second coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/Yf12mzZ.mp4" type="video/mp4">
         </video>
     </td>
@@ -1467,7 +1467,7 @@ This becomes significantly easier with a specific "feedbacker punch" keybind, as
       TBA (To be added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/JV20y6R.mp4" type="video/mp4">
         </video>
     </td>
@@ -1514,7 +1514,7 @@ tl;dr Shoot the coin after 4.85~ seconds to do 5x damage and instakill most boss
       5. Unfreeze rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/r9bhKIY.mp4" type="video/mp4">
         </video>
     </td>
@@ -1545,7 +1545,7 @@ Untagged walls can be identified by whiplashing them; if the whiplash passes thr
       5. Jump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/YEIhvQS.mp4" type="video/mp4">
         </video>
     </td>
@@ -1573,7 +1573,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       3. Jump and whip the rocket at the same time
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="metadata" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
           <source src="https://i.imgur.com/zV3d8Wk.mp4" type="video/mp4">
       </video>
     </td>
@@ -1600,7 +1600,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       3. Mount the rocket.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/nMNL2AA.mp4" type="video/mp4">
         </video>
     </td>
@@ -1632,7 +1632,7 @@ The execution varies depending on the tight space you're attempting to clip thro
       etc.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/anfcDlY.mp4" type="video/mp4">
         </video>
     </td>
@@ -1662,7 +1662,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. Unfreeze rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/yg5GOJh.mp4" type="video/mp4">
         </video>
     </td>
@@ -1687,7 +1687,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. Unfreeze rocket
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="metadata" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
           <source src="https://i.imgur.com/uc35pEG.mp4" type="video/mp4">
       </video>
     </td>
@@ -1703,7 +1703,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     4. Dismount
   </td>
   <td width="200px">
-    <video width="300" height="auto" preload="metadata" loop controls muted>
+    <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
         <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
     </video>
   </td>
@@ -1730,7 +1730,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. <a href="#wall-bounces">Wall Bounce</a>
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/NVM1okg.mp4" type="video/mp4">
         </video>
     </td>
@@ -1755,7 +1755,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. Shoot rocket at the peak of the dive
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="metadata" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
           <source src="https://i.imgur.com/DRyrWHK.mp4" type="video/mp4">
       </video>
     </td>
@@ -1782,7 +1782,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. Unfreeze rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/64IHG1F.mp4" type="video/mp4">
         </video>
     </td>
@@ -1806,7 +1806,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. Dash
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="metadata" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
           <source src="https://i.imgur.com/8akfRQE.mp4" type="video/mp4">
       </video>
     </td>
@@ -1836,7 +1836,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/O25XQfw.mp4" type="video/mp4">
         </video>
     </td>
@@ -1861,7 +1861,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. <a href="#slideways">Slideways</a>
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/otXguVe.mp4" type="video/mp4">
         </video>
     </td>
@@ -1888,7 +1888,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       5. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/y9LEYAr.mp4" type="video/mp4">
         </video>
     </td>
@@ -1914,7 +1914,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/z1skjh7.mp4" type="video/mp4">
         </video>
     </td>
@@ -1939,7 +1939,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/bPYepT0.mp4" type="video/mp4">
         </video>
     </td>
@@ -1967,7 +1967,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       6. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/PSshF6l.mp4" type="video/mp4">
         </video>
     </td>
@@ -1992,7 +1992,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. <a href="#ub-ultraboost">Ultraboost</a>
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/gKuQVwa.mp4" type="video/mp4">
         </video>
     </td>
@@ -2016,7 +2016,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       2. Hit the first rocket with jackhammer into the other rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="metadata" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
             <source src="https://i.imgur.com/8EkRHML.mp4" type="video/mp4">
         </video>
     </td>
@@ -2042,7 +2042,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       5. Slam <br />
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="metadata" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
           <source src="https://i.imgur.com/dfZLgcs.mp4" type="video/mp4">
       </video>
     </td>
