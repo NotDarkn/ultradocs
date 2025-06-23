@@ -5,44 +5,70 @@ next: ../3-gluttony/
 
 # 2-4 // Court of the Corpse King (Any%)
 
-## Door Clip
+## Off The Beaten Track
 
-### [Slide + Dash](https://youtu.be/1Eu5UfgGCkw)
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+<div class="hidden-header">
 
-Start sliding until you are past the starting room door <br/>
-Turn right, and dash into the corner <br/>
-Spam slide till you’re out of bounds <br/>
-Flick ub <br/>
-Instant rocket ride <br/>
-Checkpoint
+### Slide + Dash
 
-### [Dash Jump](https://youtu.be/FPo-AaR_yu8)
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+</div>
 
-Do a dash jump till you’re through the starting door <br/>
-Quickly slam, flick to the right, then dash through the corner <br/>
-Spam slide till you’re out of bounds <br/>
-Flick ub <br/>
-Instant rocket ride <br/>
-Checkpoint
+<details class="easy">
+    <summary>
+        <b>Slide + Dash</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Start off by sliding until you are past the red room door, then turn right and dash into corner so that the door pushes you while it opens. This will cause you to get stuck inbetween the door in and the wall. Next face out of bounds then spam slide until you clip out.
+     <p>
+      </p>
+     Look towards the checkpoint floating in the void and <a href="/speedrun-tech#flick-ub">Flick Ub</a>
+     <p>
+      </p>
+     Once you are lower than the checkpoint, <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> angle the rocket down slightly, then shoot it with the revolver to boost yourself into the checkpoint.
+    </p>
+</details>
 
-### [Slam Store](https://youtu.be/s9-s--KsGq0)
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+<div class="hidden-header">
 
-Do a slam store then slide till you’re through the starting door <br/>
-Quickly slam, flick to the right, then dash through the corner <br/>
-Spam slide till you’re out of bounds <br/>
-Flick ub <br/>
-Instant rocket ride <br/>
-Checkpoint
+### Dash Jump
 
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Dash Jump</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Start off by <a href="/speedrun-tech#dash-jumping">Dash Jumping</a>, then right as you land, hold back and right and slide into the corner so that the door pushes you while it opens. This will cause you to get stuck inbetween the door in and the wall. Next face out of bounds then spam slide until you clip out.
+     <p>
+      </p>
+     Look towards the checkpoint floating in the void and <a href="/speedrun-tech#flick-ub">Flick Ub</a>
+     <p>
+      </p>
+     Once you are lower than the checkpoint, <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> angle the rocket down slightly, then shoot it with the revolver to boost yourself into the checkpoint.
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Slam Store
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Slam Store</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Start off by performing a <a href="/speedrun-tech#slam-store">Slam Store</a> in the starting room, then sliding, when you land hold back and right and slide into the corner so that the door pushes you while it opens. This will cause you to get stuck inbetween the door in and the wall. Next face out of bounds then spam slide until you clip out. 
+     <p>
+      </p>
+     Look towards the checkpoint floating in the void and <a href="/speedrun-tech#flick-ub">Flick Ub</a>
+     <p>
+      </p>
+     Once you are lower than the checkpoint, <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> angle the rocket down slightly, then shoot it with the revolver to boost yourself into the checkpoint.
+    </p>
+</details>
 
 ## Red Skull
 
