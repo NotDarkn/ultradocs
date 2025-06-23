@@ -5,7 +5,7 @@ next: ./any-1-2
 
 # 1-1 // HEART OF THE SUNRISE (Any%)
 
-## First  Checkpoint
+## First Checkpoint
 
 <div class="hidden-header">
 
@@ -22,7 +22,7 @@ next: ./any-1-2
     </p>
     <p>
         Stand against the wall between the fallen pillar and the door, look straight down, fire and a frozen rocket. Jump and slam to mount the rocket, this will place you out of bounds.
-        </p>
+    </p>
     <p>
         Slam off the rocket, and turn around, let yourself fall for a moment, then <a href="/speedrun-tech#flick-ub">Flick UB</a> to the checkpoint.
         <video width="735" height="auto" loop controls muted>
@@ -32,17 +32,17 @@ next: ./any-1-2
 </details>
 
 
-## Arena Clear
+## Arena Clears
 
 <div class="hidden-header">
 
-### Arena Clear
+### Jumpstart Clear (Schism)
 
 </div>
 <details class=easy>
     <summary>
-        <b>Arena Clear</b> // <b>DIFFICULTY</b>: 2.5/10
-        </summary>
+        <b>Jumpstart Clear (Schism)</b> // <b>DIFFICULTY</b>: 2.5/10
+    </summary>
     <p>
         After you checkpoint, <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> when you land to preserve speed to reach the arena.
     </p>
@@ -63,5 +63,103 @@ next: ./any-1-2
         <video width="735" height="auto" loop controls muted>
         <source src="https://i.imgur.com/4HlXrFD.mp4" type="video/mp4">
     </video>
+    <details class="easy">
+        <summary>
+            <b>Jumpstart Clear (Schism)</b> // <b>DIFFICULTY</b>: 2.5/10
+        </summary>
+        <p>
+            hi
+        </p>
+    </details>
     </p>
+</details>
+
+<div class="hidden-header">
+
+### Jumpstart Clear (Stray)
+
+</div>
+<details class=easy>
+    <summary>
+        <b>Jumpstart Clear (Stray)</b> // <b>DIFFICULTY</b>: 2.5/10
+        </summary>
+    <p>
+        After you checkpoint, <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> when you land to preserve speed to reach the arena.
+    </p>
+    <p>
+        Fire saws as you enter the arena, place all of your magnets on the bottom center of the exit door then fire an oversaw.
+    </p>
+    <p>
+        Whiplash and jumpstart one of the strays, fire nails into it until it dies, then throw a few coins for additional conduction.
+    </p>
+    <p>
+        Stand in the center of the room facing straight up, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawn.
+    </p>
+    <p>
+        Delaying the <a href="/speedrun-tech#nukes">Nuke</a> until slightly after the drones spawn will make it kill all of them more consistently.
+    </p>
+    <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>
+    <video width="735" height="auto" loop controls muted>
+    <source src="https://i.imgur.com/4HlXrFD.mp4" type="video/mp4">
+    </video>
+</details>
+
+<div class="hidden-header">
+
+### Stams Clear
+
+</div>
+<details class=easy>
+    <summary>
+        <b>Stams Clear</b> // <b>DIFFICULTY</b>: 2.5/10
+        </summary>
+    <p>
+        After you checkpoint, <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> when you land to preserve speed to reach the arena.
+    </p>
+    <p>
+        Fire saws as you enter the arena, place all of your magnets on the bottom center of the exit door then fire an oversaw.
+    </p>
+    <p>
+        Whiplash and jumpstart one of the strays, fire nails into it until it dies, then throw a few coins for additional conduction.
+    </p>
+    <p>
+        Stand in the center of the room facing straight up, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawn.
+    </p>
+    <p>
+        Delaying the <a href="/speedrun-tech#nukes">Nuke</a> until slightly after the drones spawn will make it kill all of them more consistently.
+    </p>
+    <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>
+    <video width="735" height="auto" loop controls muted>
+    <source src="https://i.imgur.com/4HlXrFD.mp4" type="video/mp4">
+    </video>
+</details>
+
+<div class="hidden-header">
+
+### Saw Clear
+
+</div>
+<details class=easy>
+    <summary>
+        <b>Saw Clear</b> // <b>DIFFICULTY</b>: 2.5/10
+    </summary>
+    <p>
+        After you checkpoint, <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> when you land to preserve speed to reach the arena.
+    </p>
+    <p>
+        Fire saws as you enter the arena, place all of your magnets on the bottom center of the exit door then fire an oversaw.
+    </p>
+    <p>
+        Whiplash and jumpstart one of the strays, fire nails into it until it dies, then throw a few coins for additional conduction.
+    </p>
+    <p>
+        Stand in the center of the room facing straight up, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawn.
+    </p>
+    <p>
+        Delaying the <a href="/speedrun-tech#nukes">Nuke</a> until slightly after the drones spawn will make it kill all of them more consistently.
+    </p>
+    <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>
+    <video width="735" height="auto" loop controls muted>
+    <source src="https://i.imgur.com/4HlXrFD.mp4" type="video/mp4">
+    </video>
 </details>

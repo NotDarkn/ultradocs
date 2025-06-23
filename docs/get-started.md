@@ -3,141 +3,9 @@
 toc: false
 
 ---
+<!--
 
-# Getting Started
-::: caution
-This is in **EXTREME DEVELOPMENT.** Some instructions may not be clear, or may require **significant changes.**
-:::
-
-::: note
-Changes are being made periodically / semi-regularly, so expect things to be different as time passes on.
-:::
-<div class="gs-table">
-    <tb>
-        <tr>
-            <th colspan="3" bgcolor="2A2B2E">
-                <font size="10">Categories</font>
-            </th>
-        </tr>
-        <tr class="gs-table-tr">
-            <td colspan="3">Pick a category to run!</td>
-        </tr>
-        <tr style="width: 50%; text-align: center; font-size: 30px">
-            <td>
-                <a href="/any/">Any%</a>
-            </td>
-            <td>
-                <a href="/p-rank/">P%</a>
-            </td>
-            <td>
-                <a href="/nomo/">NoMo%</a>
-            </td>
-        </tr>
-    </tb>
-</div>
-<br />
-<details class="easy">
-    <summary>
-        <b>Ignore This Thanks</b>
-    </summary>
-
-LINK REDIRECT EXAMPLE:
-[text](/speedrun-tech.md#base-movement)
-```md
-[text](/speedrun-tech.md#base-movement)
-[any%](/any/any-choosing.md)
-[4-2](/any/level/any-4-2.md)
-```
-::: important
-make FUCKING SURE you use `.md`
-:::
-
-VIDEO EXAMPLE:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-
-::: note
-make sure to change `wS88pQJbhqc` to the ID of the video YOU ARE USING.
-:::
-
-VIDEO EXAMPLE (AT A TIMESTAMP):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc?start=7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
-
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wS88pQJbhqc?start=7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
-```
-
-::: note
-make sure to change `wS88pQJbhqc` to the ID of the video YOU ARE USING.
-:::
-
-NOTE EXAMPLE:
-::: danger
-beware of CATPERFECT, stay safe y'all
-:::
-
-```
-::: danger
-beware of CATPERFECT, stay safe y'all
-:::
-```
-
-::: warning
-hi
-:::
-
-```
-::: warning
-hi
-:::
-```
-
-::: important
-this is really important
-:::
-
-```
-::: important
-this is really important
-:::
-```
-
-::: tip
-i love cats
-:::
-
-```
-::: tip
-i love cats
-:::
-```
-
-::: note
-i don't like dogs
-:::
-
-```
-::: note
-i don't like dogs
-:::
-```
-
-::: details
-bruh
-:::
-
-```
-::: details
-bruh
-:::
-```
-
-(HTML) GFM ALERTS IN HTML
-::: details GFM Alerts
-
+GFM ALERTS (use these to add alerts/notes in your dropdowns)
 <div class="warning">
     <div class="warning-header">
         <i class="fa-solid fa-triangle-exclamation"></i>
@@ -185,55 +53,57 @@ bruh
     </div>
     This is a important box.
 </div>
+-->
 
-:::
+# Getting Started
 
-(HTML) LIST EXAMPLE:
-<ul>
-    <li><font size="4">
-        <a href="/any/layer/any-lust.md"><b>Lust</b></a>
-    </font></li>
-</ul>
+<div class="caution">
+    <div class="caution-header">
+        <i class="fa-solid fa-skull"></i>
+        Caution
+    </div>
+    This is in <b>EXTREME DEVELOPMENT.</b> Some instructions may not be clear, or may require <b>significant changes</b>.
+</div>
 
-```html
-<ul>
-    <li><font size="4">
-        <a href="/any/layer/any-lust.md"><b>Lust</b></a>
-    </font></li>
-</ul>
-```
+<hr />
 
-(MARKDOWN) LIST EXAMPLE:
-- hi wassup
-- wassup 
-- lol fuck you
+<div class="gap-header">
+    <h1>Welcome to ULTRADOCS</h1>
+</div>
 
-```md
-- hi wassup
-- wassup 
-- lol fuck you
-```
+This is meant to be a resource that includes **ALL** strats used in submittd & uploaded runs, so if you're looking
+to learn a strat from a run, this is probably the resource for you.
+<hr />
 
-(HTML) FONT SIZE EXAMPLE:
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
-
-```html
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
-```
-
-(MARKDOWN) HEADER SIZE EXAMPLE:
-### hewwo
-## hewwo
-# hewwo
-
-```
-### hewwo
-## hewwo
-# hewwo
-```
-
-</details>
+<div class="gs-table">
+    <table> <!-- would make this <tb> (to avoid errors) if it actually scrolled/formatted properly for mobile devices -->
+        <th colspan="3" bgcolor="2A2B2E">
+            <font size="10">Categories</font>
+        </th>
+        <tr class="gs-table-tr">
+            <td colspan="3">Pick a category to run!</td>
+        </tr>
+        <tr style="width: 50%; text-align: center; font-size: 35px">
+            <td>
+                <a href="/any/">Any%</a>
+            </td>
+            <td>
+                <a href="/p-rank/">P%</a>
+            </td>
+            <td>
+                <a href="/nomo/">NoMo%</a>
+            </td>
+        </tr>
+        <tr style="text-align: center; font-size: 14px">
+            <td>
+                <p>A relative popular category. <b>Currently in development.</b> 💜</p>
+            </td>
+            <td>
+                <p>Difficult yet fascinating, but writing hasn't started. ❤️</p>
+            </td>
+            <td>
+                <p>Movement is cool, but no writing has been made yet. 🩷</p>
+            </td>
+        </tr>
+    </table>
+</div>

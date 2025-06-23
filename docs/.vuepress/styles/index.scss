@@ -127,9 +127,7 @@ iframe {
 
 .gs-table {
     display: flex;
-    overflow: hidden;
     justify-content: center;
-    align-items: center;
 }
 
 .gs-table-tr {
@@ -144,4 +142,8 @@ iframe {
     margin-bottom: -25px;
     margin-top: -25px;
     color: rgba(255, 255, 255, 0)
+}
+
+.gap-header {
+    margin-top: -10px;
 }

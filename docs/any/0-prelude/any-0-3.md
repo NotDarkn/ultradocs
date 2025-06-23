@@ -72,7 +72,7 @@ next: ./any-0-4
         After <a href="/speedrun-tech#ub-ultraboost">UBing</a>, swap to the alternate shotgun (it doesn't matter which variation) and charge the primary fire. Dash and slide through the door, quickly flick around, and hit one of the Strays with the Jackhammer. If done correctly, you will be launched toward the checkpoint.
     </p>
     <div class="caution">
-        <div class="important-header">
+        <div class="caution-header">
             <i class="fa-solid fa-bell"></i>
             Important
         </div>
@@ -80,7 +80,7 @@ next: ./any-0-4
     </div>
     <br />
     <div class="caution">
-        <div class="tips-header">
+        <div class="caution-header">
             <i class="fa-solid fa-lightbulb"></i>
             Tips
         </div>
@@ -93,23 +93,18 @@ next: ./any-0-4
 </details>
 
 ## Swordsmachine Kills
-
-<div class="hidden-header">
-<br />
-<p>
-    <div class="important">
-        <div class="important-header">
-            <i class="fa-solid fa-bell"></i>
-            Important
-        </div>
-        For every SM kill listed here-- with the exception of <a href="#halakill">Halakill</a>-- you must charge your Oversaw by shooting at least one blue saw before you checkpoint. This is done after <a href="/speedrun-tech#ce-boost-core-eject-boost">CE boosting</a>, and you can see an example in the video for <a href="#glasspunch">Glasspunch</a>.
+<div class="important">
+    <div class="important-header">
+        <i class="fa-solid fa-bell"></i>
+        Important
     </div>
-</p>
+    For every SM kill listed here-- with the exception of <a href="#halakill">Halakill</a>-- you must charge your Oversaw by shooting at least one blue saw before you checkpoint. This is done after <a href="/speedrun-tech#ce-boost-core-eject-boost">CE boosting</a>, and you can see an example in the video for <a href="#glasspunch">Glasspunch</a>.
+</div>
 
 <div class="hidden-header">
 
 ### Beginner Kill
-</div>
+
 </div>
 
 <details class="easy">
@@ -204,22 +199,23 @@ next: ./any-0-4
 
 ### Prepunch
 </div>
-           <div class="note">
-        <div class="note-header">
-            <i class="fa-solid fa-circle-exclamation"></i>
-             Prepunching
-        </div>
-        As you've seen in the previous two kills, punching the initial coin can be quite tricky, since you're going to unintentionally perform a <a href="/speedrun-tech#pboost-projectile-boost">projectile boost</a>, which may lead to the explosion pushing you or the coin away. <br />
-        In order to fix this, you can do something called a <b>prepunch</b> (see video).
-    <p>
-    <video width="350" height="auto" loop controls muted>
-        <source src="https://i.imgur.com/94lLgMU.mp4" type="video/mp4">
-    </video>
-    </p>
-        For every kill that has an initial coin punch like this, right as the Swordsmachine spawns, you can jump, punch the coin, then slam. This makes the initial punch significantly more consistent, and prevents an accidental projectile boost, in exchange for being slightly more difficult. It's recommended to prepunch whenever applicable, as there's no reason not to. <br />
-        <br />
-        <i>(Every listed kill from now on will include prepunching.)</i>
+
+<div class="note">
+    <div class="note-header">
+        <i class="fa-solid fa-circle-exclamation"></i>
+        Prepunching
     </div>
+    As you've seen in the previous two kills, punching the initial coin can be quite tricky, since you're going to unintentionally perform a <a href="/speedrun-tech#pboost-projectile-boost">projectile boost</a>, which may lead to the explosion pushing you or the coin away. <br />
+    In order to fix this, you can do something called a <b>prepunch</b> (see video).
+    <p>
+        <video width="350" height="auto" loop controls muted>
+            <source src="https://i.imgur.com/94lLgMU.mp4" type="video/mp4">
+        </video>
+    </p>
+    For every kill that has an initial coin punch like this, right as the Swordsmachine spawns, you can jump, punch the coin, then slam. This makes the initial punch significantly more consistent, and prevents an accidental projectile boost, in exchange for being slightly more difficult. It's recommended to prepunch whenever applicable, as there's no reason not to. <br />
+    <br />
+    <i>(Every listed kill from now on will include prepunching.)</i>
+ </div>
 
 <div class="hidden-header">
 
@@ -244,28 +240,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Slarp Kill
-
-</div>
-
-<details class="hard">
-    <summary>
-        <b>Slarp Kill</b> // <b>DIFFICULTY</b>: 7/10
-    </summary>
-    <p>
-        [TBA]
-    </p>
-    <video width="500" height="auto" loop controls muted>
-        <source src="https://i.imgur.com/dTTtXHh.mp4" type="video/mp4">
-    </video>
-    <p>
-        After killing, perform a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a> to finish the level.
-    </p>
-</details>
-
-<div class="hidden-header">
-
-### Slarpkopol
+### Chainslarp
 
 </div>
 
@@ -278,27 +253,6 @@ next: ./any-0-4
     </p>
     <video width="500" height="auto" loop controls muted>
         <source src="https://i.imgur.com/KK5SRT1.mp4" type="video/mp4">
-    </video>
-    <p>
-        After killing, perform a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a> to finish the level.
-    </p>
-</details>
-
-<div class="hidden-header">
-
-### Typesplit Kill
-
-</div>
-
-<details class="hard">
-    <summary>
-        <b>Typesplit Kill</b> // <b>DIFFICULTY</b>: 8/10
-    </summary>
-    <p>
-        [TBA]
-    </p>
-    <video width="500" height="auto" loop controls muted>
-        <source src="https://i.imgur.com/DAEvJHB.mp4" type="video/mp4">
     </video>
     <p>
         After killing, perform a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a> to finish the level.
@@ -320,27 +274,6 @@ next: ./any-0-4
     </p>
     <video width="500" height="auto" loop controls muted>
         <source src="https://i.imgur.com/UJ0i70L.mp4" type="video/mp4">
-    </video>
-    <p>
-        After killing, perform a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a> to finish the level.
-    </p>
-</details>
-
-<div class="hidden-header">
-
-### Killswitch
-
-</div>
-
-<details class="hard">
-    <summary>
-        <b>Killswitch</b> // <b>DIFFICULTY</b>: 10/10 // <i>THEORETICAL FASTEST</i>
-    </summary>
-    <p>
-        [TBA]
-    </p>
-    <video width="500" height="auto" loop controls muted>
-        <source src="https://i.imgur.com/WVacJWq.mp4" type="video/mp4">
     </video>
     <p>
         After killing, perform a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a> to finish the level.
