@@ -72,7 +72,7 @@ next: ./any-1-2
         Delaying the <a href="/speedrun-tech#nukes">Nuke</a> until slightly after the drones spawn will make it kill all of them more consistently.
         </p>
     <p>
-        <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>
+        <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>
         <video width="735" height="auto" loop controls muted>
         <source src="https://i.imgur.com/4HlXrFD.mp4" type="video/mp4">
     </video>

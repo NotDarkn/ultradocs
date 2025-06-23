@@ -73,7 +73,7 @@ next: ./any-2-3
     After checkpointing, dash slide and place oil to maintain speed. <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> when you reach final room, curve your rocket up, jump, then turn around and shoot the panel with a rocket. 
     <p>
       </p>
-    Slam down and slide towards the exit while charging a core eject, turn right and look up at a 45 degree angle fire the core and <a href="/speedrun-tech#nuke">Nuke</a> to break both of the remaining panels
+    Slam down and slide towards the exit while charging a core eject, turn right and look up at a 45 degree angle fire the core and <a href="/speedrun-tech#nukes">Nuke</a> to break both of the remaining panels
     <p>
       </p>
       As the door to the exit opens <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> under it, then <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>

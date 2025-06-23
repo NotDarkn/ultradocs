@@ -111,7 +111,7 @@ next: ./any-1-4
      Finish off the boss with an <a href="/speedrun-tech#s-r-s-combo">SRS Combo</a>.
       <p>
       </p>
-     Move towards the exit to time a <a href="/speedrun-tech#slam-store-exit">Slam Store</a>.
+     Move towards the exit to time a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>.
       <p>
       </p>
      You want to start your <a href="/speedrun-tech#dsj-dash-slide-jump">Slam Store</a> right before the boss gibs. This may require some practice to get used to.

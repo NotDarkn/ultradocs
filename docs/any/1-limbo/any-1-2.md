@@ -36,7 +36,7 @@ next: ./any-1-3
         <b>Climbstep</b> // <b>DIFFICULTY</b>: 1.5/10
     </summary>
     <p>
-      Start off by doing a <a href="/speedrun-tech#slam-storage">Slam Store</a> in the entrance hallway then <a href="/speedrun-tech#dive">Dive</a>, when you land <a href="/speedrun-tech#dive">Dive</a> again and hold slide.
+      Start off by doing a <a href="/speedrun-tech#slam-storage">Slam Store</a> in the entrance hallway then <a href="/speedrun-tech#dives">Dive</a>, when you land <a href="/speedrun-tech#dives">Dive</a> again and hold slide.
       </p>
       <p>
       This will cause you to boost off of the central structure and go straight to the door.
@@ -128,7 +128,7 @@ next: ./any-1-3
       Jump and <a href="/speedrun-tech#nukes">Nuke</a> the center of the room as the second wave spawns.
       </p>
       <p>
-      Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
+      Dash to the red door and <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>.
     </p>
 </details>
 
@@ -152,7 +152,7 @@ next: ./any-1-3
       Jump and <a href="/speedrun-tech#nukes">Nuke</a> the center of the room.
       </p>
       <p>
-      Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
+      Dash to the red door and <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>.
       <video width="735" height="auto" loop controls muted>
         <source src="https://i.imgur.com/KRzh2H0.mp4" type="video/mp4">
     </video>
@@ -179,6 +179,6 @@ next: ./any-1-3
       Look up and fire malicious rail at the core to perform a <a href="/speedrun-tech#nuke">Nuke</a> clearing the rest of room.
       </p>
       <p>
-      Dash to the red door and <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>.
+      Dash to the red door and <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>.
     </p>
 </details>
