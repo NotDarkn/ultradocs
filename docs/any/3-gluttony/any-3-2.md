@@ -5,42 +5,48 @@ next: ../4-greed/
 
 # 3-2 // IN THE FLESH (Any%)
 
-
-## Entrance
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
-
-[Dash Jump](/speedrun-tech.md#dash-jump) from where you land in the red room, then look straight up with blue sawgun (alternate attractor)
-
-
 ## Eye Shortcut
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
 
-Aim around here<br/>
+<div class="hidden-header">
+
+### Eye Shortcut
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Eye Shortcut</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Start off by <a href="/speedrun-tech#dash-jump">Dash Jumping</a>, then look up and aim as shown.
+     <p>
+      </p>
+      Fire a blue saw to cut the stem of the eye, wait until it lands, then dash forward and slam into the hole.
+      <p>
+      </p>
+      Turn around while falling, then slide jump into the arena when you land.
+    </p>
+</details>
+
 ![3-2-eye-shortcut-line-up](</../images/3-2-eye-shortcut-line-up.png>)
-Shoot your saws until you see the eye falling, equip alternate overpump, dash to where the hole is, then slam into the hole and start charging the overpump. <br/>
-Continue charging it while slamming down into the hole the eye creates.<br/>
-When through the hole wait ~0.5 seconds then release the overpump and shoot a coin.<br/>
-Continue with the kill.
-
 
 ## Boss Kill
 
-### [Deadcoin](https://youtu.be/MSDlRIudFZ8)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+<div class="hidden-header">
 
-[Dash Jump](/speedrun-tech.md#dash-jump), look down and throw a coin, then [punch it](/speedrun-tech.md#coin-punch) 3 times <br/>
-Look up and [Dead Coin](/speedrun-tech.md#dead-coins) 4 times <br/>
-Jump and punch the coin as Gabriel spawns <br/>
-Start charging a slab piercer charge shot <br/>
-Slam jump and punch the coin again <br/>
-Dash to the coin and punch it a 3rd time <br/>
-Slam then jump and punch the coin a final time <br/>
-Fire the [charge shot and electric railcannon](/speedrun-tech.md#ricostacks) up through Gabriel into the coin <br/>
+### Deadcoin
 
-### Ricostack or something idk
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Deadcoin</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Look down and throw a coin as you enter the arena, then <a href="/speedrun-tech#coin-punch">Punch it</a> as you hit the wall, then jump, <a href="/speedrun-tech#coin-punch">Punch the coin</a>, and slam twice to build damage on it, then look up and <a href="/speedrun-tech#deadcoins">Deadcoin</a> four times, then begin charging a slab piercer charge shot
+     <p>
+      </p>
+      Jump, slam jump, and <a href="/speedrun-tech#coin-punch">Punch the coin</a> as soon as the boss fight starts. Move forward and <a href="/speedrun-tech#coin-punch">Punch it</a> again, slam jump and <a href="/speedrun-tech#coin-punch">Punch</a> the coin again. Then slam jump and <a href="/speedrun-tech#coin-punch">Punch</a> the coin a fourth time, slam, look up and fire <a href="/speedrun-tech#ricostacks">charge shot and electric railcannon</a> through Gabriel into the coin
+    </p>
+</details>
+
