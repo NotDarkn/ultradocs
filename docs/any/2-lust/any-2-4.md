@@ -72,42 +72,97 @@ next: ../3-gluttony/
 
 ## Red Skull
 
-### [Tram Jumpstart](https://youtu.be/9b46ZNWydsY)
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+<div class="hidden-header">
 
-Jumpstart the tram and move it forward
-When the tram stops dash and whiplash the skull
-Checkpoint
+### Tram Jumpstart
 
-### [Ub Bonk](https://youtu.be/tGdgJMjRPQ4)
-<font size="2">
-    <b>Difficulty</b>: Slightly Hard (4/5)
-</font>
+</div>
 
-Walk backwards slightly
-Ce Boost
-Flick Ub so that you bonk on the ceiling of the doorway
-Turn left and Slide Sump
-Dash and whiplash the skull
-Checkpoint
+<details class="easy">
+    <summary>
+        <b>Tram Jumpstart</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Jumpstart the tram and move it forward, then wait until it stops. Jump and dash twice over the front of the tram, then turn right and use whiplash to grab the skull and checkpoint.
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Ub Bonk
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Ub Bonk</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Move backwards slightly so that you wont interact with the tram, then <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a>.
+     <p>
+      </p>
+      Wait until you slightly in front of the ceiling of the doorway then <a href="/speedrun-tech#flick-ub">Flick UB</a> so that you bonk. 
+    <p>
+      </p>
+      When you land turn left and <a href="/speedrun-tech#slide-jump">Slide Jump</a>, maintaining speed from the <a href="/speedrun-tech#flick-ub">Flick UB</a>. <a href="/speedrun-tech#slide-jump">Slide Jump</a> again, then dash twice into the doorway, turn right and use whiplash to grab the skull, then checkpoint.
+    </p>
+</details>
 
 ## Boss Kill
 
-### RCP
+<div class="hidden-header">
 
-### [Slab Rail Coin Punch](https://youtu.be/tIjRrshyjfE)
-Jump, dash and place the skull with whiplash <br/>
-Place a sawtrap with 8 blue saws and an overheat saw on the ceiling <br/>
-Fire a core straight up, then shoot it with a revolver <br/>
-Throw 3 coins <br/>
-Charge a slab piercer charge shot <br/>
-Slam jump <br/>
-Then fire the [piercer shot and electric rail](/speedrun-tech.md#ricostacks) straight up <br/>
-Throw a coin down, and [punch it](/speedrun-tech.md#coin-punch) as the rail chains to it <br/>
-Shoot a rocket and activate freeze frame <br/>
-Alternate projectile boosts and rockets until you fire a fourth rocket, then unfreeze <br/>
-[Ce Boost Exit](/speedrun-tech.md#ce-boost-exit) <br/>
+### Rail Coin Punch
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Rail Coin Punch</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     To be added
+    </p>
+</details>
+
+<div class="hidden-header">
+
+### Slab Rail Coin Punch
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Slab Rail Coin Punch</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Jump, dash forward, turn left and place the skull using whiplash.
+     <p>
+      </p>
+     Place a sawtrap with 5 blue saws and an overheat saw on the ceiling.
+     <p>
+      </p>
+     Fire a uncharged core eject straight up, then shoot it with a revolver to boost yourself up. Throw 3 coins as you move up. Begin charging a slab piercer charge shot and slam jump, then fire the <a href="/speedrun-tech#ricostacks">piercer shot and electric rail</a> straight up, look down, throw a coin down, and <a href="/speedrun-tech#coin-punch">Punch it</a> as the rail chains to it.
+     <p>
+      </p>
+      Activate freezeframe and fire a rocket, then a <a href="/speedrun-tech#pboost-projectile-boost">Projectile Boost</a> and repeat until you have five frozen rocckets, then unfreeze as you fire the final one. 
+      <p>
+      </p>
+      <a href="/speedrun-tech#ce-boost-exit">CE Boost Exit</a>
+    </p>
+</details>
+
+<div class="hidden-header">
 
 ### Ice Beam
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Ice Beam</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     To be added
+    </p>
+</details>
