@@ -339,5 +339,5 @@ next: ../1-limbo/
 </details>
 
 ## Video Guides
-<b>ULTRAKILL || 0-5 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>Ghastly_gengar</code></a>
+<b>ULTRAKILL || 0-5 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>@Ghastly_gengar</code></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgdBuRpolg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -50,3 +50,6 @@ next: ../4-greed/
     </p>
 </details>
 
+## Video Guides
+<b>ULTRAKILL || 3-2's Worst Speedrun Guide (Any% + P%)</b> by <a href="https://www.youtube.com/@Zenkn/videos"><code>@Zenkn</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JYzE4J5hzN0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

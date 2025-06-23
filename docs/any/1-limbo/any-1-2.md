@@ -182,3 +182,7 @@ next: ./any-1-3
       Dash to the red door and <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>.
     </p>
 </details>
+
+## Video Guides
+<b>ULTRAKILL || 1-2 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>@Ghastly_gengar</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bjn2ftfqBnA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -198,3 +198,7 @@ This will both split the coin into V2 with a richoshot and deadcoin your coin.
 Finnaly finish the kill by only having to punch the coin twice.
 </div>
 </details>
+
+## Video Guides
+<b>ULTRAKILL || 1-4 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>@Ghastly_gengar</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p4ofSgzYRmo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
