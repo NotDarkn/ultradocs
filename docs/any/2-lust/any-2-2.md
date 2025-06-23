@@ -5,46 +5,77 @@ next: ./any-2-3
 
 # 2-2 // DEATH AT 20,000 VOLTS (Any%)
 
-## [First Room](https://youtu.be/aIgoM4be7I8)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+## First Room
 
-[Slam Store](/speedrun-tech.md#slam-store) in the start room, slide into the right wall of the red room, then [Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
-Fire a rocket at the window of the building on the right to break the electrical panel inside it <br/>
-[UB](/speedrun-tech.md#ub-ultraboost) up in front of the door to break the panel on the other side of the wall <br/>
-Break the final panel with a projectile boost or revolver shot <br/>
-Slam, then ce boost under the door as it opens <br/>
-[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) up the second set of stairs <br/>
-Ce boost to the checkpoint, this will kill you, but you can hit checkpoints while dead
+<div class="hidden-header">
 
-## Untagged Wall Clip: 
+### First Room
 
-### [Slower Method](https://youtu.be/1vAmRO13oW4)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+</div>
 
-[Checkpoint ub](/speedrun-tech.md#chub-checkpoint-ub) straight up <br/>
-Dash backward and land on the pipe <br/>
-Put your back to the wall, look up, and shoot a frozen rocket, then jump on it <br/>
-[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to the final room while charging an over pump <br/>
-Open the door to load final room, then over pump <br/>
-Shoot a rocket at the panel <br/>
-Use a [Nuke](/speedrun-tech.md#nukes) to break both panels by the exit <br/>
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) under the door as it opens <br/>
-[Slam Store Exit](/speedrun-tech.md#slam-store-exit) <br/>
+<details class="easy">
+    <summary>
+        <b>First Room</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     Start off by performing a <a href="/speedrun-tech#slam-store">Slam Store</a> in the starting room and then sliding into the right wall and then <a href="/speedrun-tech#wall-bounces">Wall Bouncing</a>. 
+     <p>
+      </p>
+      Fire a rocket at the window of the building on the right to break the electrical panel behind it. When you are next to the door slam, look up, and <a href="/speedrun-tech#ub-ultaboost">UB</a> to break another panel. 
+      <p>
+      </p>
+      As soon as you are above the building dash to stop your momentum, <a href="/speedrun-tech#pboost-projectile-boost">Projectile Boost</a> the final panel, then dash backwards and slam back to the door.
+      <p>
+      </p>
+      <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> under the door as it opens, turn right and dash slide. When you reach the top of the stairs, turn left and <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> again to reach the checkpoint. 
+      <div class="note">
+     <div class="note-header">
+        <i class="fa-solid fa-circle-exclamation"></i>
+        Note
+    </div>
+    If you are not on harmless, you will not have enough health for the final <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a>, however you can still collect the checkpoint while dead.
+</div>
+    </p>
+</details>
 
-### [Faster Method](https://youtu.be/G6TvLtWIz0w)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
 
-Move your camera slightly upwards, [Checkpoint ub](/speedrun-tech.md#chub-checkpoint-ub) <br/>
-Hold backwards, look up, and place a frozen rocket right before you bonk on the ceiling <br/>
-[Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to the final room while charging an over pump <br/>
-Open the door to load final room, then over pump <br/>
-Shoot a rocket at the panel <br/>
-Use a [nuke](/speedrun-tech.md#nukes) to break both panels by the exit <br/>
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) under the door as it opens <br/>
-[Slam Store Exit](/speedrun-tech.md#slam-store-exit) <br/>
+## Fan Room
+
+<div class="hidden-header">
+
+### Fan Room
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Fan Room</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+     After checkpointing turn around and aim as shown, then <a href="/speedrun-tech#ub-ultraboost">UB</a> 
+     When you reach the center of the room <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> to the door. When you reach the door, slam off the rocket and <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> through it, then slam and use jackhammer on one of the soldiers to boost and place oil beneath you to maintain speed. When you reach the end of the hallway, turn and dash to the checkpoint.
+    </p>
+</details>
+
+## Final Room
+
+<div class="hidden-header">
+
+### Final Room
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Final Room</b> // <b>DIFFICULTY</b>: 1.5/10
+    </summary>
+    <p>
+    After checkpointing, dash slide and place oil to maintain speed. <a href="/speedrun-tech#rocket-ride">Rocket Ride</a> when you reach final room, curve your rocket up, jump, then turn around and shoot the panel with a rocket. 
+    <p>
+      </p>
+    Slam down and slide towards the exit while charging a core eject, turn right and look up at a 45 degree angle fire the core and <a href="/speedrun-tech#nuke">Nuke</a> to break both of the remaining panels
+    <p>
+      </p>
+      As the door to the exit opens <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> under it, then <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>
+      </p>
+</details>
