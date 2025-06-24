@@ -15,7 +15,7 @@ next: ../2-lust/
 
 <details class="easy">
     <summary>
-        <b>Slam Store + Over Pump</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Slam Store + Over Pump</b> // <b>DIFFICULTY</b>: 2/10
     </summary>
     <p>
      Start by charging an overpump and then performing a <a href="/speedrun-tech#slam-store">Slam Store</a> in the red room hallway and sliding.
@@ -25,15 +25,36 @@ next: ../2-lust/
     </p>
 </details>
 
+
+<div class="hidden-header">
+
+### UB + Oil
+
+</div>
+
+<details class="medium">
+    <summary>
+        <b>UB + Oil</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+     Start by turning around and aligning your camera as shown then walk backwards until you reach the spot shown.
+    </p>
+    <p>
+    Right as the door opens <a href="/speedrun-tech#ub(ultraboost)">UB</a> then quickly turn around and place oil beneath you to maintain your speed until you reach the checkpoint.
+    </p>
+      <p>
+      Checkpoint, and immediatly slide to preserve speed through the checkpoint, use whiplash to break the glass, turn around and <a href="/speedrun-tech#ub(ultraboost)">UB</a> while continuing to hold slide.
+    </p>
+</details>
 <div class="hidden-header">
 
 ### Regular UB
 
 </div>
 
-<details class="easy">
+<details class="medium">
     <summary>
-        <b>Regular UB</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Regular UB</b> // <b>DIFFICULTY</b>: 6/10
     </summary>
     <p>
      Start by turning around and aligning your camera as shown then walk backwards until you reach the spot shown. 
@@ -46,42 +67,22 @@ next: ../2-lust/
     </p>
 </details>
 
-<div class="hidden-header">
-
-### UB + Oil
-
-</div>
-
-<details class="easy">
-    <summary>
-        <b>UB + Oil</b> // <b>DIFFICULTY</b>: 1.5/10
-    </summary>
-    <p>
-     Start by turning around and aligning your camera as shown then walk backwards until you reach the spot shown.
-    </p>
-    <p>
-    Right as the door opens <a href="/speedrun-tech#ub(ultraboost)">UB</a> then quickly turn around and place oil beneath you to maintain your speed until you reach the checkpoint.
-    </p>
-      <p>
-      Checkpoint, and immediatly slide to preserve speed through the checkpoint, use whiplash to break the glass, turn around and <a href="/speedrun-tech#ub(ultraboost)">UB</a> while continuing to hold slide.
-    </p>
-</details>
-
-
 ### God UB
 <font size="2">
-    <b>Difficulty</b>: Very Hard (4/5)
+    
 </font>
-<p>
-God UB is simulair to the UB + Oil / [UB](/speedrun-tech.md#ub-ultraboost) but with the difference of speed. <br/>
-Align yourself with the alignment shown in the video, then go down the stairs till you’re at the same spot as the one in either video. <br/>
-God UB will only accur when you allign yourself perfectly and time the [UB](/speedrun-tech.md#ub-ultraboost) perfectly aswell and follow that up by a [Bhop](/speedrun-tech.md#bhop).
-</p>
-::: details **Regarding UB Speed**
-Regular [Ultraboost](/speedrun-tech.md#ub-ultraboost) ranging from <=130 HU/s, and a God UB ranges from 130 to 142.x hU/s 
-:::
+<div class="note">
+        <div class="tips-header">
+            <i class="fa-solid fa-lightbulb"></i>
+            What is a GodUB?
+        </div>
+        <b> its all in the speed </b>
+        <p>
+        </p>
+        GodUB's are classified when you are reaching speeds <b> above </b> 120 Hu/s
+</div>
 
-::: details **patch 15d or under**
+::: details **Running on Patch 15d or under? (Pre-Revamp)**
 [Slam Store + Over Pump](https://youtu.be/4uwNYTG6wPM)
 [Regular UB](https://youtu.be/4uwNYTG6wPM&t=11s)
 [UB + Oil](https://youtu.be/4uwNYTG6wPM&t=24s)
@@ -107,7 +108,7 @@ Regular [Ultraboost](/speedrun-tech.md#ub-ultraboost) ranging from <=130 HU/s, a
       Junp, punch the same coin back into V2, and slam to the ground. Repeat this until V2 dies.
       </p>
       <p>
-      Charge an overpump and stand in the spot as shown. Wait until V2 jumps, then overpump to grab the arm as it spawns, then 3 times towards the exit, slam and slide into the exit using <a href="/speedrun-tech#slideways">Slideways</a> for extra speed.
+      Charge an overpump and stand in the spot as shown. Wait until V2 jumps, then overpump to grab the arm as it spawns, then dash 3 times towards the exit, slam and slide into the exit using <a href="/speedrun-tech#slideways">Slideways</a> for extra speed.
     </p>
 </details>
 
@@ -184,7 +185,7 @@ Overpump, grab V2’s arm, dash 3 times, slam and slide into the exit, using <a 
             <i class="fa-solid fa-lightbulb"></i>
             Alternative Giorgi Kill
         </div>
-        <b> Split Giorgi </b> // <b>DIFFICULTY</b>: 8.5/10
+        <b> Split Giorgi </b> // <b>DIFFICULTY</b>: 9/10 // <b> FASTEST </b>
 
 As you’re entering the window, <a href="/speedrun-tech#multi-deadcoin">Double Deadcoin</a> and punch it as soon as possible.
 

@@ -33,7 +33,7 @@ next: ./any-1-3
 
 <details class="easy">
     <summary>
-        <b>Climbstep</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Climbstep</b> // <b>DIFFICULTY</b>: 2.5/10
     </summary>
     <p>
       Start off by doing a <a href="/speedrun-tech#slam-storage">Slam Store</a> in the entrance hallway then <a href="/speedrun-tech#dives">Dive</a>, when you land <a href="/speedrun-tech#dives">Dive</a> again and hold slide.
@@ -68,7 +68,7 @@ next: ./any-1-3
 
 <details class="easy">
     <summary>
-        <b>Arena Clear</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Arena Clear</b> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
       Dash forward and fire a blue saw to charge the oversaw and fire it at the middle of the skull on the locked door, this will kill the drones in the second wave.
@@ -97,9 +97,9 @@ next: ./any-1-3
 
 </div>
 
-<details class="easy">
+<details class="medium">
     <summary>
-        <b>Trigger Skip</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Trigger Skip</b> // <b>DIFFICULTY</b>: 6/10
     </summary>
     <p>
       to be added
@@ -116,7 +116,7 @@ next: ./any-1-3
 
 <details class="easy">
     <summary>
-        <b>Slarp</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Slarp</b> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
       Dash to the side of the cerberus statue and <a href="/speedrun-tech#/speedrun-tech.html#ce-boost-core-eject-boost)">CE Boost</a>, slide as you land fire the slab shooter to kill both streetcleaners.
@@ -138,9 +138,9 @@ next: ./any-1-3
 
 </div>
 
-<details class="easy">
+<details class="medium">
     <summary>
-        <b>Splitcoin</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Splitcoin</b> // <b>DIFFICULTY</b>: 5/10
     </summary>
     <p>
       <a href="/speedrun-tech#dsj(dash-slide-jump)">DSJ</a> around the cerberus statue, and slam jump right before landing, look up at a 45 degree angle, and throw a coin, then splitcoin it to kill both streetcleaners.
@@ -165,9 +165,9 @@ next: ./any-1-3
 
 </div>
 
-<details class="easy">
+<details class="medium">
     <summary>
-        <b>Pre Fire</b> // <b>DIFFICULTY</b>: 1.5/10
+        <b>Pre Fire</b> // <b>DIFFICULTY</b>: 6/10
     </summary>
     <p>
       <a href="/speedrun-tech#dsj(dash-slide-jump)">DSJ</a> around the cerberus statue, and slam jump right before landing, look up at a 45 degree angle, and throw a coin, then splitcoin it to kill both streetcleaners.
