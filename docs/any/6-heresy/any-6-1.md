@@ -7,25 +7,29 @@ next: ./any-6-2
 
 ## Arch Clip
 
-### [Third Room Clip](https://youtu.be/yNfrjTKevMU)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+<div class="hidden-header">
 
-[Slam Store](/speedrun-tech.md#slam-store) in the starting room hallway and slide <br/>
-[Slide Jump](/speedrun-tech.md#slide-jump), overheat saw, then slide <br/>
-Charge an over pump, stand close to swordsmachine to force the standing attack <br/>
-Parry swordsmachine <br/>
-Look down, and overpump as soon as you take damage from the malicious face orbs <br/>
-Electric Rail swordsmachine <br/>
-[Dash Jump](/speedrun-tech.md#dash-jump) to the checkpoint <br/>
-Checkpoint <br/> 
-[DSJ](/speedrun-tech.md#dsj-dash-slide-jump) then dash slide to reach the top of the stairs <br/>
-Jump against the wall and place a frozen rocket in the curved part of the curved ceiling <br/>
-Stand against the wall behind you, then [Dive](/speedrun-tech.md#dives) and hold slide <br/>
-[Flick UB](/speedrun-tech.md#flick-ub) <br/>
-[Instant rocket ride](/speedrun-tech.md#instant-rocket-ride) <br/>
-Checkpoint
+### Third Room Clip
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Third Room Clip</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Start off by firing saws from the overheat sawblade launcher to heat the alternate fire and continue firing until the overheat saw is used, then perform a <a href="/speedrun-tech#slam-store">Slam Store</a> in the hallway of the starting room and slide. When you land <a href="/speedrun-tech#slide-jump">Slide Jump</a> then fire the overheat saw as you go through the door into the first arena so that it bounces between the two doors. Then slide when you land to start the arena.
+     <p>
+      </p>
+      Start charging an overpump and position yourself centered between the two malicious faces and directly in front of the swordsmachine. Parry the swordsmachine, then look down. Wait until one of the malicious face orbs hit you, then fire the overpump. The inviciblility from getting hit will prevent the overpump from damaging you and the explosion will reflect the orbs back, killing both malicious faces.
+      <p>
+      </p>
+      Stand against the door and to the side, slam after the shockwave bounces you, then <a href="/speedrun-tech#dash-jump">Dash Jump</a>, then slide jump to get to the top of the stairs. Turn right and stand against the wall, activate freezeframe and jump. Place a frozen rocket at the peak of your jump so that it is partially in the ceiling, then move to the wall behind you and <a href="/speedrun-tech#dives">Dive</a>, holding the slide input. If done correctly landing on the rocket will clip you out of bounds. 
+      <p>
+      </p>
+      Turn right and <a href="/speedrun-tech#flick-ub">Flick UB</a> towards the checkpoint, once you are lower down than the checkpoint, <a href="/speedrun-tech#instant-rocket-ride">Instant Rocket Ride</a> to reach it.
+    </p>
+</details>
 
 ### [First Room Clip](https://youtu.be/hghUj1bhGSQ)
 <font size="2">
@@ -62,5 +66,3 @@ Whiplash to the cerberus and [S.R.S. Combo](/speedrun-tech.md#srs-combo) it <br/
 [Split Coin](/speedrun-tech.md#split-coins) the remaining strays <br/>
 Rocket ride to reach the exit <br/>
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
-
-### Firestorm’s Swag Clear
