@@ -27,23 +27,30 @@ next: ./any-6-2
       Stand against the door and to the side, slam after the shockwave bounces you, then <a href="/speedrun-tech#dash-jump">Dash Jump</a>, then slide jump to get to the top of the stairs. Turn right and stand against the wall, activate freezeframe and jump. Place a frozen rocket at the peak of your jump so that it is partially in the ceiling, then move to the wall behind you and <a href="/speedrun-tech#dives">Dive</a>, holding the slide input. If done correctly landing on the rocket will clip you out of bounds. 
       <p>
       </p>
-      Turn right and <a href="/speedrun-tech#flick-ub">Flick UB</a> towards the checkpoint, once you are lower down than the checkpoint, <a href="/speedrun-tech#instant-rocket-ride">Instant Rocket Ride</a> to reach it.
+      Turn right and <a href="/speedrun-tech#flick-ub">Flick UB</a> towards the checkpoint, once you are lower down than the checkpoint, <a href="/speedrun-tech#instant-rocket-ride">Instant Rocket Ride</a> to reach it, then checkpoint
     </p>
 </details>
 
-### [First Room Clip](https://youtu.be/hghUj1bhGSQ)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
+<div class="hidden-header">
 
-[Dash Jump](/speedrun-tech.md#dash-jump) and [Slam Store](/speedrun-tech.md#slam-store) in the red room hallway, dont do a second walljump <br/>
-[Dive](/speedrun-tech.md#dives) and hold slide, you want to be as centered as possible <br/>
-Look up at a 45 degree angle <br/>
-Place a frozen rocket in the ceiling right after you hit it <br/>
-[Wall Bounce](/speedrun-tech.md#wall-bounces) into the rocket <br/>
-[Flick UB](/speedrun-tech.md#flick-ub) <br/>
-Slam then dash to the checkpoint <br/>
-Checkpoint
+### Instant Arch Clip
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Instant Arch Clip</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Start by <a href="/speedrun-tech#dash-jump">Dash Jumping</a> into the right side of the red room hallway and then performing a <a href="/speedrun-tech#ce-boost-core-eject-boost">Slam Store</a>, then wall jump off of the left side and land centered in the hallway in and dive, holding the slide input. 
+     <p>
+      </p>
+      Look up at a 45 degree angle, activate freezeframe, and fire a rocket as you hit the ceiling to clip through.
+      <p>
+      </p>
+      Angle slightly to the left, dash backwards, and <a href="/speedrun-tech#ub-ultraboost">UB</a>. Once you are over top of the checkpoint, slam and dash to collect it, then checkpoint
+    </p>
+</details>
 
 ## Final Arena
 
