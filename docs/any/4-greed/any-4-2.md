@@ -1,13 +1,9 @@
-`---
+---
 prev: ./any-4-1
 next: ./any-4-3
 ---
 
 # 4-2 // GOD DAMN THE SUN (Any%)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GDiA841lcrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/>
-One revised part of this video is the Pillar Line up for the red skull, as the pillar has been shortened. Here is a video demonstrating the new lineup. (note that it is not as precise as demonstrated in the video and is only presented that way for accuracy). <br/>
-<iframe width="280" height="157" src="https://www.youtube.com/embed/_41SdAlHmXs " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Secret Exit
 
@@ -33,3 +29,10 @@ Whiplash to grab torch then [Checkpoint UB](/speedrun-tech.md#checkpoint-ub)
 Use momentum from [Checkpoint UB](/speedrun-tech.md#checkpoint-ub) to place the torch <br/>
 As soon as you place the torch, [UB](/speedrun-tech.md#ub-ultraboost)<br/>
 [Duck Boost](/speedrun-tech.md#duck-boosting)
+
+## Video Guides
+<b>How to Speedrun 4-2 in ULTRAKILL</b> by <a href="https://www.youtube.com/@fishybandit/videos"><code>@fishybandit</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GDiA841lcrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<b>Post-Revamp Pillar Lineup</b> by <a href="https://www.youtube.com/@fishybandit/videos"><code>@fishybandit</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_41SdAlHmXs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

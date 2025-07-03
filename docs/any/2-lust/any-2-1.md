@@ -128,3 +128,7 @@ The exit will start opening when you are over the path <br/>
 [Dash Jump](/speedrun-tech.md#dash-jump) to the exit <br/>
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
 :::
+
+## Video Guides
+<b>ULTRAKILL || 2-1 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>@ghastly_gengar</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MtYqiCHNFKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

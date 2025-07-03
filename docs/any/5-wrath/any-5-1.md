@@ -74,3 +74,7 @@ Whipcancel red jackhammer primary and secondary fire to kill the sentry <br/>
 If you won't be close enough to the exit for the slam store, flick your camera as you jackhammer the sentry to boost to the exit
 
 ### Virtue Slab Coin
+
+## Video Guides
+<b>The Ultimate 5-1 Any% Guide. - ULTRAKILL</b> by <a href="https://www.youtube.com/@PsychoGeneticFGC/videos"><code>@PsychoGeneticFGC</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZ9erfWUM6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
