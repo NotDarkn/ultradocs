@@ -1,6 +1,6 @@
 ---
 prev: ./any-p-1
-next: ../
+next: ../11-encores/
 ---
 
 # P-2 // WAIT OF THE WORLD (Any%)

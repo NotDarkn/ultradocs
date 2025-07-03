@@ -1,6 +1,6 @@
 ---
 prev: ./
-next: ./any-5-2
+next: ./any-5-S
 ---
 
 # 5-1 // IN THE WAKE OF POSEIDON (Any%)

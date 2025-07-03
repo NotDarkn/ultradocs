@@ -1,6 +1,6 @@
 ---
 prev: ./
-next: ./any-1-2
+next: ./any-1-S
 ---
 
 # 1-1 // HEART OF THE SUNRISE (Any%)

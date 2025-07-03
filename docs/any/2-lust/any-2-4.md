@@ -1,9 +1,9 @@
 ---
-prev: ./any-2-3
+prev: ./any-2-S
 next: ../3-gluttony/
 ---
 
-# 2-4 // Court of the Corpse King (Any%)
+# 2-4 // COURT OF THE CORPSE KING (Any%)
 
 ## Off The Beaten Track
 

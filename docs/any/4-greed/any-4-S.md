@@ -1,4 +1,9 @@
-# 4-S // Clash Bandicoot
+---
+prev: ./any-4-2
+next: ./any-4-3
+---
+
+# 4-S // CLASH BANDICOOT
 
 # any% 
 1. Do a slam storage off the back wall <br />

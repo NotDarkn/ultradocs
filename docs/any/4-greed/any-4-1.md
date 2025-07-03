@@ -38,9 +38,6 @@ Turn around towards the start of the stage and [UB](/speedrun-tech.md#ub-ultrabo
 Shoot the breakable ceiling with the slab revolver <br/>
 Slam into the hole <br/>
 
-
-
-
 ## Exit
 
 ### [CE Boost Exit](/speedrun-tech.md#ce-boost-exit) 

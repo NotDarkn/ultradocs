@@ -1,6 +1,6 @@
 ---
 prev: ./any-4-1
-next: ./any-4-3
+next: ./any-4-S
 ---
 
 # 4-2 // GOD DAMN THE SUN (Any%)

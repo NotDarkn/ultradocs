@@ -1,4 +1,11 @@
-# 5-S // I Only Say Morning
+---
+prev: ./any-5-1
+next: ./any-5-2
+---
 
-# Hi Slopkn <br />
+# 5-S // I ONLY SAY MORNING
+
+# Hi Slopkn
 meow
+
+hi?? - from darkn

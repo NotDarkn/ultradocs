@@ -1,5 +1,5 @@
 ---
-prev: ./
+prev: ../
 next: ./any-p-2
 ---
 

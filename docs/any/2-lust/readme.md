@@ -1,10 +1,12 @@
 ---
 
 toc: false
+prev: ../1-limbo/
+next: ../3-gluttony/
 
 ---
 
-# Lust
+# LUST
 
 Alright, it seems you want to run **Lust**! What level would you like to run?
 
@@ -16,4 +18,10 @@ Alright, it seems you want to run **Lust**! What level would you like to run?
 
 - ### [2-3 // SHEER HEART ATTACK](/any/2-lust/any-2-3.md)
 
-- ### [2-4 // Court of the Corpse King](/any/2-lust/any-2-4.md)
+- ### [2-S // ALL-IMPERFECT LOVE SONG](/any/2-lust/any-2-S.md)
+
+- ### [2-4 // COURT OF THE CORPSE KING](/any/2-lust/any-2-4.md)
+
+<p style="font-size: 1.75px; color: #4d4d4d00; margin-bottom: -52.5px;">
+    <i>workaround gap</i>
+</p>

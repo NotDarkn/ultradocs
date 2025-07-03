@@ -1,6 +1,6 @@
 ---
 prev: ./any-2-2
-next: ./any-2-4
+next: ./any-2-S
 ---
 
 # 2-3 // SHEER HEART ATTACK (Any%)

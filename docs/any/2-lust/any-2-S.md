@@ -1,4 +1,9 @@
-# 2-S // All-Imperfect Love Song
+---
+prev: ./any-2-3
+next: ./any-2-4
+---
+
+# 2-S // ALL-IMPERFECT LOVE SONG
 
 # Optimal settings
 

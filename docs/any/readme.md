@@ -37,6 +37,11 @@ toc: false
 ## ACT III: GODFIST SUICIDE
 - ### [VIOLENCE](/any/7-violence/)
 
-- ### FRAUD (not out yet)
+- ### [FRAUD](/any/8-fraud/) (not out yet)
 
-- ### TREACHERY (not out yet)
+- ### [TREACHERY](/any/9-treachery/) (not out yet)
+
+## OTHER
+- ### [PRIME SANCTUMS](/any/10-prime-sanctums/)
+
+- ### [ENCORES](/any/11-encores/)
