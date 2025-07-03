@@ -68,11 +68,14 @@ GFM ALERTS (use these to add alerts/notes in your dropdowns)
 <hr />
 
 <div class="gap-header">
-    <h1>Welcome to ULTRADOCS</h1>
+    <b>Welcome to ULTRADOCS</b>
 </div>
 
-This is meant to be a resource that includes **ALL** strats used in submittd & uploaded runs, so if you're looking
-to learn a strat from a run, this is probably the resource for you.
+<p style="text-align: center">
+    This is meant to be a resource that includes <b>ALL</b> strats used in submitted & uploaded runs, so if you're looking
+    to learn a strat from a run, this is probably the resource for you.
+</p>
+
 <hr />
 
 <div class="gs-table">
