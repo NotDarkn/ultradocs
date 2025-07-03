@@ -7,7 +7,8 @@
         Documentation for all speedrun-related tech in <a href="https://store.steampowered.com/app/1229490/ULTRAKILL/">ULTRAKILL</a>, made by ULTRAKILL speedrunners.
     </i></p>
     
-   <img alt="Steam ULTRAKILL"  src="https://img.shields.io/badge/steam-ultrakill-darkred?style=for-the-badge&logo=steam&label=%20&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F" />
+   <img alt="Steam ULTRAKILL" src="https://img.shields.io/badge/steam-ultrakill-darkred?style=for-the-badge&logo=steam&label=%20&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F" />
+   <img alt="VuePress Badge" src="https://img.shields.io/badge/vuepress-the?style=for-the-badge&logo=vue.js&logoColor=white&color=%23C53F1C">
    <img alt="Cloudflare Badge" src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F">
 </div>
 
