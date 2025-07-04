@@ -526,8 +526,61 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
 </tb>
 
 ::: caution
-AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS NOT PRACTICALLY APPLICABLE IN RUNS.
+AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS SIGNIFICANTLY HARDER IN RUNS.
 :::
+
+
+### Jackhammer UB
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      Through utilizing the jackhammer and a rocket (or two), you're able to be launched at the same speed as an <a href="#ub-ultraboost">Ultraboost</a>.
+    </td>
+    <td width="100px"> 
+      1. Place 2 Frozen rockets <br />
+      2. Hit the first rocket with jackhammer into the other rocket
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+            <source src="https://i.imgur.com/8EkRHML.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: details 🛈 **Alternate Jackhammer UB** 🛈
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>VARIATION DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      If you use the alternate core eject and then boost the core into the rocket using the jackhammer at the right time and placement, you're able to go at the same speed as a <a href="#ub-ultraboost">UB</a>.
+    </td>
+    <td width="100px"> 
+      1. Place 1 Frozen rocket <br />
+      2. Equip Alt CE, hold left click <br />
+      3. Aim slightly up, throw core <br />
+      4. Release left click when core & rocket are aligned <br />
+      5. Slam <br />
+    </td>
+    <td width="200px">
+      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+          <source src="https://i.imgur.com/dfZLgcs.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</tb>
+:::
+
 
 ### FUP (Frozen Unfriendly Pull-it) 
 <br />
@@ -1999,53 +2052,3 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
   </tr>
 </tb>
 
-### Jackhammer Exit
-<br />
-<tb style="width:100%; vertical-align: top">
-  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
-    <td>DESCRIPTION</td>
-    <td>INPUTS</td>
-    <td>EXAMPLE</td>
-  </tr>
-  <tr>
-    <td> 
-      Through utilizing the jackhammer and a rocket (or two), you're able to be launched at the same speed as an <a href="#ub-ultraboost">Ultraboost</a>.
-    </td>
-    <td width="100px"> 
-      1. Place 2 Frozen rockets <br />
-      2. Hit the first rocket with jackhammer into the other rocket
-    </td>
-    <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/8EkRHML.mp4" type="video/mp4">
-        </video>
-    </td>
-  </tr>
-</tb>
-
-::: details 🛈 **Alternate Jackhammer Exit Variations** 🛈
-<tb style="width:100%; vertical-align: top">
-  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
-    <td>VARIATION DESCRIPTION</td>
-    <td>INPUTS</td>
-    <td>EXAMPLE</td>
-  </tr>
-  <tr>
-    <td> 
-      If you use the alternate core eject and then boost the core into the rocket using the jackhammer at the right time and placement, you're able to go at the same speed as a <a href="#ub-ultraboost">UB</a>.
-    </td>
-    <td width="100px"> 
-      1. Place 1 Frozen rocket <br />
-      2. Equip Alt CE, hold left click <br />
-      3. Aim slightly up, throw core <br />
-      4. Release left click when core & rocket are aligned <br />
-      5. Slam <br />
-    </td>
-    <td width="200px">
-      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-          <source src="https://i.imgur.com/dfZLgcs.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
-</tb>
-:::
