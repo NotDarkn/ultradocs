@@ -103,4 +103,4 @@ next: ./any-7-4
 
 ## Video Guides
 <b>ultrakill 7-S out of bounds guide</b> by <a href="https://www.youtube.com/@tootaroni/videos"><code>@tootaroni</code></a>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=C3_vrHdoXEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3_vrHdoXEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
