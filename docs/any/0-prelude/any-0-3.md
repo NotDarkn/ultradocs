@@ -243,6 +243,47 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
+### Part Halak
+
+</div> 
+
+<details class="medium">
+    <summary>
+        <b>Part Halak</b> // <b>DIFFICULTY</b>: 6.5/10
+    </summary>
+    <p>
+        Immediately after checkpointing, dash then <a href="/speedrun-tech#dash-jump">dash jump</a> through the door.
+        As soon as you get through the door, shoot your Oversaw and very quickly swap to the Marksman revolver and throw a coin then immediately do a <a href="/speedrun-tech#deadcoins">deadcoin. </a> 
+        Immediately after doing the deadcoin switch to Sawed-on and start charging the chainsaw.
+    </p>
+    <p>
+        Do a prepunch then <a href="/speedrun-tech#shotgun-parry">shotgun parry</a> Swordsmachine then instantly punch the coin again and slam then pull out <a href="/general-info#e-rail">E Rail </a> and shoot the coin through Swordsmachine, then instantly flick down and throw another coin while either looking straight down or to the side like in the video.
+    </p>
+    <p>
+        whip the coin you threw earlier and <a href="/speedrun-tech#fast-coin>">fast coin</a> at the same time. Right after fast coining jump and punch the coin while still in the air, then slam and use <a href="/general-infol#s-r-s-srs">S.R.S Cannon </a> to finish the kill. 
+    </p>
+    <p>
+     <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/6bHscfV.mp4" type="video/mp4">
+    </video>
+    </p>
+    <p>
+        After killing, perform a <a href="/speedrun-tech#slideways-exit">Slideways Exit</a> to finish the level.
+    </p>
+    </br>
+<div class="caution">
+        <div class="caution-header">
+            <i class="fa-solid fa-lightbulb"></i>
+            Part Halak Optimization
+        </div>
+        <b> Ricostack </b> // <b>DIFFICULTY</b>: 7/10 // <b> FASTER </b>
+
+Instead of instantly shooting the coin at the end you wait a little bit, and make sure you <b> SHOOT THE COIN </b>
+</div>
+</details>
+
+<div class="hidden-header">
+
 ### Chainslarp
 
 </div>
