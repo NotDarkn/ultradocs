@@ -1,6 +1,6 @@
 ---
 date: 2025-07-04
-author: Humpster
+author: Humpster, Fishy
 
 prev: ./any-7-3
 next: ./any-7-4
@@ -44,8 +44,13 @@ next: ./any-7-4
         <b>Second Oob</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
     </summary>
     <p>
-       You will now want to checkpoint, and then <b><a href="/speedrun-tech#dash-jump">Dash Jump</a></b> towards the <b>blue skull</b>, punch inside the red square, and <b>checkpoint</b> as soon as you punch.
+       You will now want to checkpoint, and then <b><a href="/speedrun-tech#dash-jump">Dash Jump</a></b> towards the <b>blue skull</b>, punch inside the red square (<i>player position doesnt matter</i>), and <b>checkpoint</b> as soon as you punch.
        </p>
+            <img
+        class="image"
+        src="https://i.imgur.com/erT2CE1.png"
+        width="735"
+    ></img>
        <p>
        Be careful to not go too far when you <a href="/speedrun-tech#dash-jump">Dash Jump</a>, as if you go <b>too far</b> you will trigger the encounter, causing the door to close, making the oob harder.
        </p>
