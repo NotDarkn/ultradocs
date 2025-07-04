@@ -1,9 +1,5 @@
 // place your custom styles here
 
-.page {
-    font-size: 500px;
-}
-
 // warning
 .warning-header {
     font-size: 15px;
@@ -152,4 +148,13 @@ iframe {
     font-size: 27.5px;
     margin-bottom: -10px;
     text-align: center;
+}
+
+// removing that stupid button from the home page (cause we don't have anything to scroll down to lol)
+.vp-hero-slide-down-button {
+    visibility: hidden;
+}
+
+.vp-project-home {
+    margin-top: -31.6125px;
 }
