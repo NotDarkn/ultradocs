@@ -16,5 +16,3 @@ actions:
     type: secondary
 
 ---
-
-hi
