@@ -1,4 +1,7 @@
 ---
+date: 2025-07-04
+author: Darkn
+
 prev: ./any-0-4
 next: ../1-limbo/
 ---

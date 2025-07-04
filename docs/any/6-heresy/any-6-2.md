@@ -1,4 +1,7 @@
 ---
+date: 2025-02-19
+author: No One Yet
+
 prev: ./
 next: ../7-violence/
 ---

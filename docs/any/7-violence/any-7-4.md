@@ -1,4 +1,7 @@
 ---
+date: 2025-02-17
+author: No One Yet
+
 prev: ./any-7-s
 next: ../
 ---

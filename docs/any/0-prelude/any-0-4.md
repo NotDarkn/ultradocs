@@ -1,4 +1,7 @@
 ---
+date: 2025-04-28
+author: Darkn
+
 prev: ./any-0-3
 next: ./any-0-5
 ---

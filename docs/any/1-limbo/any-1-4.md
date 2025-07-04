@@ -1,4 +1,7 @@
 ---
+date: 2025-06-24
+author: Ashley, Kano
+
 prev: ./any-1-3
 next: ../2-lust/
 ---

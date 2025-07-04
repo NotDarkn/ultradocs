@@ -1,4 +1,7 @@
 ---
+date: 2025-06-23
+author: Kano
+
 prev: ./any-3-1
 next: ../4-greed/
 ---

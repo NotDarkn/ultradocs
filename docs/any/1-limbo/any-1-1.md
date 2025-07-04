@@ -1,4 +1,7 @@
 ---
+date: 2025-06-24
+author: Kano, Darkn, Ashley
+
 prev: ./
 next: ./any-1-S
 ---

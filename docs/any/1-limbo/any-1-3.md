@@ -1,4 +1,7 @@
 ---
+date: 2025-06-24
+author: Kano, Ashley
+
 prev: ./any-1-2
 next: ./any-1-4
 ---

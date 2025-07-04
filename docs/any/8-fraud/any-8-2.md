@@ -1,4 +1,7 @@
 ---
+date: 2025-07-03
+author: No One Yet
+
 prev: ./any-8-1
 next: ./any-8-3
 ---

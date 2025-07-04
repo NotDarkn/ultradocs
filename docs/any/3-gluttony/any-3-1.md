@@ -1,4 +1,7 @@
 ---
+date: 2025-06-14
+author: Kano
+
 prev: ./
 next: ./any-3-2
 ---

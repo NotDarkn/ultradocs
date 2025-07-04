@@ -1,5 +1,6 @@
 ---
 home: true
+footer: false
 
 title: Home
 heroImage: https://i.imgur.com/3aKZ4Ro.png
