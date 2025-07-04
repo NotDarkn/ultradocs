@@ -260,7 +260,7 @@ next: ./any-0-4
         Do a prepunch then <a href="/speedrun-tech#shotgun-parry">shotgun parry</a> Swordsmachine then instantly punch the coin again and slam then pull out <a href="/general-info#e-rail">E Rail </a> and shoot the coin through Swordsmachine, then instantly flick down and throw another coin while either looking straight down or to the side like in the video.
     </p>
     <p>
-        whip the coin you threw earlier and <a href="/speedrun-tech#fast-coin>">fast coin</a> at the same time. Right after fast coining jump and punch the coin while still in the air, then slam and use <a href="/general-infol#s-r-s-srs">S.R.S Cannon </a> to finish the kill. 
+        Wait a little bit for the electric beam to connect with the coin then whip the coin and <a href="/speedrun-tech#fast-coin>">fast coin</a> at the same time. Right after fast coining jump and punch the coin while still in the air, then slam and use <a href="/general-infol#s-r-s-srs">S.R.S Cannon </a> to finish the kill. 
     </p>
     <p>
      <video width="500" height="auto" loop controls muted>
@@ -280,7 +280,7 @@ next: ./any-0-4
 
 Instead of instantly shooting the coin at the end you wait a little bit, aim, and then make sure you <b> SHOOT THE COIN. </b> the timing is odd but it can get consistent with practice. 
 
-Use style meter to check if you are doing it correctly. It should say <b>ULTRA</b>ricoshot x14 twice and <b>ULTRA</b>ricoshot x15 once. (See video to check) 
+Use style meter to check if you are doing it correctly. It should say <b>ULTRA</b>ricoshot x15 twice and <b>ULTRA</b>ricoshot x14 once. (See video to check) 
 <p>
      <video width="500" height="auto" loop controls muted>
         <source src="https://i.imgur.com/Lrbwuwg.mp4" type="video/mp4">
@@ -321,8 +321,24 @@ Use style meter to check if you are doing it correctly. It should say <b>ULTRA</
         <b>Halakill</b> // <b>DIFFICULTY</b>: 8.5/10 // <b>FASTEST</b>
     </summary>
     <p>
-        [TBA]
+        Immediately after checkpointing, dash then <a href="/speedrun-tech#dash-jump">dash jump</a> through the door.
+        As soon as you get through the door, shoot your Oversaw and very quickly swap to the Marksman revolver and throw a coin then immediately do a <a href="/speedrun-tech#deadcoins">deadcoin. </a> 
+        Immediately after doing the deadcoin switch to Sawed-on and start charging the chainsaw.
     </p>
+    <p>
+        Do a prepunch then <a href="/speedrun-tech#shotgun-parry">shotgun parry</a> Swordsmachine then instantly pull out Jumpstart nailgun and attach it to Swordsmachine. You have around a 100 milisecond window to do this (you want to attach it before he sits on the ground after the parry.) After attaching the jumpstart, equip <a href="/general-info#e-rail">E Rail </a> and shoot the coin through Swordsmachine then instantly flick down and throw a coin and instantly whip it and do a <a href="/speedrun-tech#fast-coin>">fast coin</a> at the same time.
+    </p>
+    <p>
+        To finish the kill jump after throwing the coin and punch it then aim above Swordsmachine and shoot the coin with the Marksman Revolver. When done correctly It should say in the style meter: <b>ULTRA</b>ricoshot x13 twice and <b>ULTRA</b>ricoshot x12 once. The timing will get consistent with practice
+    </p>
+    <div class="caution">
+    <div class="caution-header">
+        <i class="fa-solid fa-lightbulb"></i>
+        Tips
+    </div>
+    If it is showing <b>ULTRA</b>ricoshot x24 you aren't shooting the coin. <br />
+    If it shows <b>ricoshot</b> x25, you are shooting the coin too late
+</div>
     <video width="500" height="auto" loop controls muted>
         <source src="https://i.imgur.com/UJ0i70L.mp4" type="video/mp4">
     </video>
