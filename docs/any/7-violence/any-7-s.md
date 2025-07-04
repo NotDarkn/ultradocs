@@ -1,6 +1,6 @@
 ---
-date: 2025-04-05
-author: No One Yet
+date: 2025-07-04
+author: Humpster
 
 prev: ./any-7-3
 next: ./any-7-4
@@ -8,54 +8,94 @@ next: ./any-7-4
 
 # 7-S // HELL BATH NO FURY (Any%)
 
-## First Oob
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+## Intro
 
-[Slam Store](/speedrun-tech.md#slam-store) in the hallway of the starting room, [Dive](/speedrun-tech.md#dives) into the right wall, then [Wall Bounce](/speedrun-tech.md#wall-bounces) <br/>
-[Misclip](/speedrun-tech.md#misclip)
+<div class="hidden-header">
 
-## Second Oob
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
+### First Oob
 
-Dash jump then slam <br/>
-Punch anywhere inside this red square to grab the skull <br/>
-![7-s skull grab](</../images/7-s-skull-grab.png>)
-Checkpoint <br/>
-Dash backwards <br/>
-[Misclip](/speedrun-tech.md#misclip) <br/>
-Whiplash to place the skull <br/>
-Make your way to the door
+</div>
 
-### Ultraboost Exit
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+<details class="easy">
+    <summary>
+        <b>First Oob</b> // <b>DIFFICULTY</b>: 3/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+       Start with a <b><a href="/speedrun-tech#slam-storage">Slam store</a></b> in the starting room, and <b><a href="/speedrun-tech#dives">Dive</a></b> off the <b>side wall</b> and keep sliding until you make it to the wall you need to clip through.
+       </p>
+       <p>
+       Once you are at the wall you want to go through, equip your <b>Freezeframe Rocket launcher</b> and <b><a href="/speedrun-tech#misclip">Misclip</a></b> through the wall and grab the checkpoint.
+       </p>
+       <p>
+     <h3>VIDEO MISSING</h3>
+       </p>
+</details>
 
-When the door opens [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) <br/>
-Place oil to maintain speed <br/>
-Grab one of the weapons <br/>
-[UB Exit](/speedrun-tech.md#ub-exit) 
+## Checkpoint
 
-### Double Ub
-<font size="2">
-    <b>Difficulty</b>: Slightly Hard (4/5)
-</font>
+<div class="hidden-header">
 
-When the door opens [Ultraboost](/speedrun-tech.md#ub-ultraboost) <br/>
-When you have grabbed a weapon, slide jump backwards and checkpoint <br/>
-Make your way over to the exit door <br/>
-[UB Exit](/speedrun-tech.md#ub-exit) 
+### Second Oob
+
+</div>
+
+<details class="medium">
+    <summary>
+        <b>Second Oob</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+       You will now want to checkpoint, and then <b><a href="/speedrun-tech#dash-jump">Dash Jump</a></b> towards the <b>blue skull</b>, punch inside the red square, and <b>checkpoint</b> as soon as you punch.
+       </p>
+       <p>
+       Be careful to not go too far when you <a href="/speedrun-tech#dash-jump">Dash Jump</a>, as if you go <b>too far</b> you will trigger the encounter, causing the door to close, making the oob harder.
+       </p>
+       <p>
+       Once you have checkpointed, you will Dash to the wall of the hallway and do another <b><a href="/speedrun-tech#misclip">Misclip</a></b>, and make your way to the exit door.   <br />
+        (<i>when you <a href="/speedrun-tech#misclip">misclip</a>, you will want to mount the rocket before hitting the roof this helps with consistency a lot for some reason</i>)
+       </p>
+       <p>
+       <h3>VIDEO MISSING</h3>
+       </p>
+</details>
+
+## Exits
+
+<div class="hidden-header">
+
+### UB Exit
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>UB Exit</b> // <b>DIFFICULTY</b>: 3/10
+    </summary>
+    <p>
+       Once the door is open, do a <b><a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a></b> and grab one of the cleaning tools. After that, perform a <b><a href="/speedrun-tech#ub-exit">UB Exit</a></b> and dont get hit by the terminal!
+       </p>
+       <p>
+      <h3>VIDEO MISSING</h3>
+       </p>
+</details>
+
+<div class="hidden-header">
 
 ### Exit Oob
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
 
-When the door opens [Ultraboost](/speedrun-tech.md#ub-ultraboost) <br/>
-When you have grabbed a weapon, checkpoint <br/>
-[Misclip](/speedrun-tech.md#misclip) <br/>
-Quickly [Rocket Ride](/speedrun-tech.md#rocket-ride) before the exit spawns
+</div>
+
+<details class="medium">
+    <summary>
+        <b>Exit Oob</b> // <b>DIFFICULTY</b>: 6/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+       Once the door is open, you will do an <b><a href="/speedrun-tech#ub-ultraboost">Ultra Boost</a></b> and grab a tool. As soon as you do, you will checkpoint and perform a <b><a href="/speedrun-tech#misclip">Misclip</a></b> the same place you did it the first time. You dont need to rush the oob. When you have clipped through the wall, make your way to where the exit pipe will load and once it loads, thats the end of the level!
+       </p>
+       <p>
+       <h3>VIDEO MISSING</h3>
+       </p>
+</details>
+
+## Video Guides
+<b>ultrakill 7-S out of bounds guide</b> by <a href="https://www.youtube.com/@tootaroni/videos"><code>@tootaroni</code></a>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=C3_vrHdoXEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
