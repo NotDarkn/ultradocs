@@ -1,6 +1,6 @@
 ---
 date: 2025-06-23
-author: vivyan, Darkn
+author: vivyan, Darkn, nsethiz
 
 prev: ./any-0-S
 next: ./any-0-4
@@ -278,7 +278,14 @@ next: ./any-0-4
         </div>
         <b> Ricostack </b> // <b>DIFFICULTY</b>: 7/10 // <b> FASTER </b>
 
-Instead of instantly shooting the coin at the end you wait a little bit, and make sure you <b> SHOOT THE COIN </b>
+Instead of instantly shooting the coin at the end you wait a little bit, aim, and then make sure you <b> SHOOT THE COIN. </b> the timing is odd but it can get consistent with practice. 
+
+Use style meter to check if you are doing it correctly. It should say <b>ULTRA</b>ricoshot x14 twice and <b>ULTRA</b>ricoshot x15 once. (See video to check) 
+<p>
+     <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/Lrbwuwg.mp4" type="video/mp4">
+    </video>
+    </p>
 </div>
 </details>
 
