@@ -44,10 +44,10 @@ next: ../1-limbo/
 
 <details class="medium">
     <summary>
-        <b>Lava Hall</b> <a href="/speedrun-tech#ce-boost-core-eject-boost"><b>UB</b></a> // <b>DIFFICULTY</b>: 3/10 // <b>FASTEST</b>
+        <b>Lava Hall</b> <a href="/speedrun-tech#ce-boost-core-eject-boost"><b>UB</b></a> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
-        Start off by <b>placing oil in the middle</b> using the Firestart Rocket Launcher. Then, do a <a href="/speedrun-tech#slam-store"><b>Slam Store</b></a> (<i>or two</i>) and slide until you make it to the first door.
+        Start off by <b>placing oil in the middle</b> using the Firestarter Rocket Launcher. Then, do a <a href="/speedrun-tech#slam-store"><b>Slam Store</b></a> (<i>or two</i>) and slide until you make it to the first door.
     </p>
     <p>
         Once at the first door, slam down, then do a dash slide through it. After you're past the door, line up in the following spot below.
@@ -73,6 +73,59 @@ next: ../1-limbo/
     </p>
     <video width="735" height="auto" loop controls muted>
         <source src="https://i.imgur.com/DkRdJIJ.mp4" type="video/mp4">
+    </video>
+</details>
+
+<div class="hidden-header">
+
+### Jackhammer UB + Lava Hall UB
+
+</div>
+
+<details class="medium">
+    <summary>
+        <b>Jackhammer</b> <a href="/speedrun-tech#ce-boost-core-eject-boost"><b>UB</b></a> + <b>Lava Hall UB</b> // <b>DIFFICULTY</b>: 5/10 // <b>FASTEST</b>
+    </summary>
+    <p>
+        Start off by <b>shooting a rocket</b> then <b>slightly delaying freezing it</b> using the Freezeframe Rocket Launcher. Afterward, <b>shoot another rocket</b> while still frozen. Then, <b>unfreeze the rocket</b>, followed by <b>another freeze</b> once it's near the entrance door.
+    </p>
+    <p>
+        <b>Equip</b> any variation of the jackhammer, ideally the <b>Sawed-On Jackhammer</b>, then hold the <b>primary fire</b> (<i>left click</i>) and <b>start sliding down</b>. Look back at the rockets and release the primary fire. As long as the rocket you're looking at hits the one behind it, you will be sent at <a href="/speedrun-tech#ce-boost-core-eject-boost"><b>UB</b></a> speeds.
+    </p>
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        The <b>placement</b> of the rockets matter here. If they are <b>too close to eachother</b>, the first rocket you hit will <b>not hit the second one.</b> If they're too far away, then <b>you won't be sent at UB speeds.</b>
+    </div><br />
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/6VokecZ.mp4" type="video/mp4">
+    </video>
+    <p>
+        Once at the first door, slam down, then do a dash slide through it. After you're past the door, line up in the following spot below.
+    </p>
+        <img
+        class="image"
+        src="https://i.imgur.com/KG5VX8q.png"
+        width="735"
+    ></img>
+    <br /><br />
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Note
+        </div>
+        The <b>placement</b> of where you are also matters. While this lineup is <i>close</i> to where you need to aim, <b>you will need to get a feel for where you need to be placed</b>. Ideally, being a bit right to the lineup is roughly where you need to be.
+    </div>
+    <p>
+        After doing an <a href="/speedrun-tech#ub-ultraboost">Ultraboost</a>, quickly <b>swap to the Firestarter Rocket Launcher</b> and start placing oil when you're near the door to the arena. 
+    </p>
+    <p>
+        Once close to the floor, start sliding while still placing oil til you hit both the checkpoint and open the arena door. After hitting the arena door, <b>checkpoint</b> and enter the arena.
+    </p>
+    <video width="735" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/Sag89Dn.mp4" type="video/mp4">
     </video>
 </details>
 
@@ -215,7 +268,7 @@ next: ../1-limbo/
         After both <a href="/general-info#cerb-cerberi-andre">Cerberi</a> are dead, move onto the <a href="#arena-exits">Arena Exits</a> section and see which one you're able to do. Below will be a full demonstration of the kill.
     </p>
     <video width="735" height="auto" loop controls muted>
-        <source src="https://i.imgur.com/EOuki8m.mp4" type="video/mp4">
+        <source src="https://i.imgur.com/vkGLcrU.mp4" type="video/mp4">
     </video>
 </details>
 
@@ -257,7 +310,7 @@ next: ../1-limbo/
         After both <a href="/general-info#cerb-cerberi-andre">Cerberi</a> are dead, move onto the <a href="#arena-exits">Arena Exits</a> section and see which one you're able to do. Below will be a full demonstration of the kill.
     </p>
     <video width="735" height="auto" loop controls muted>
-        <source src="https://i.imgur.com/vkGLcrU.mp4" type="video/mp4">
+        <source src="https://i.imgur.com/EOuki8m.mp4" type="video/mp4">
     </video>
 </details>
 
