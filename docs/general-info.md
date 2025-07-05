@@ -29,7 +29,7 @@ Leaderboards for ULTRAKILL are not sorted by difficulty.
 
 - Separate arm binds are not required but recommended.<br/>
 
-- Using either **Variation 3** or the previous input variation is strongly suggested. Previous variation is input on release, so Variation 3 is considered better.<br/>
+- Using either **Variation 3** or previous variation input(s) is strongly suggested. Previous variation is input on release, so Variation 3 is considered better.<br/>
 
 - Having two slide buttons can help with slide clips, allowing you to mash faster and easier.
 
