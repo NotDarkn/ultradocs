@@ -1,5 +1,5 @@
 ---
-date: 2025-07-04
+date: 2025-07-05
 author: Fishy, Humpster
 
 prev: ./
@@ -47,9 +47,25 @@ next: ./any-4-2
         <video width="500" height="auto" loop controls muted>
         <source src="https://i.imgur.com/zcgbVrZ.mp4" type="video/mp4">
     </video>
+    <br/>
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            <a href="/speedrun-tech#ssj-super-slide-jump">SSJ</a> Optimization
+        </div>
+        <p>
+            Instead of instantly doing a <a href="/speedrun-tech#slam-storage">Slam Store</a> Dive, you can perform an <a href="/speedrun-tech#ssj-super-slide-jump">SSJ</a>. This allows you to get even more horizontal speed and save time. The SSJ Indicator is used to better demonstrate the use of SSJs in this run, please note that this indicator is <b>NOT</b> allowed for runs submitted to SRC.
+        </p>
+        <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/A3pLLlp.mp4" type="video/mp4">
+    </video>
+        </div>
+
 </details>
 
 <div class="hidden-header">
+
+
 
 ### Jackhammer UB
 
@@ -173,14 +189,76 @@ next: ./any-4-2
 
 ## Exit
 
-### [CE Boost Exit](/speedrun-tech.md#ce-boost-exit) 
-<font size="2">
-    <b>Difficulty</b>: Easy (1/5)
-</font>
+<details class="easy">
+    <summary>
+        <b><a href="/speedrun-tech#ce-boost-exit">CE Exit</a></b> // <b>DIFFICULTY</b>: 1/10
+    </summary>
+    <p>
+        <a href="/speedrun-tech#ce-boost-exit">CE Exit</a>.
+    </p>
+     <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/tR5vX4r.mp4" type="video/mp4">
+    </video> 
+</details>
 
+<br/>
 
-### [Jackhammer Exit](/speedrun-tech.md#jackhammer-exit)
-<font size="2">
-    <b>Difficulty</b>: Hard (5/5)
-</font>
-<!-- I think this should be good as it is already explained in speedrun tech -->
+<details class="easy">
+    <summary>
+        <b>Backwards <a href="/speedrun-tech#floor-fup">Floor FUP</a></b> // <b>DIFFICULTY</b>: 3/10
+    </summary>
+    <p>
+        While slamming into breakable, do a 180 to face <b>away</b> from the exit door. Freeze the Freezeframe and perform <a href="/speedrun-tech#floor-fup">Floor FUP</a>.
+    </p>
+    <div class="tips">
+        <div class="tips-header">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            Tip
+        </div>
+            You want to perform your Floor FUP as parallel to yourself as you can to get the most horizontal speed as possible. Going too parallel can lead to you taking damage instead.
+            Spend some time experimenting on the best angle!
+         </div>
+    <p>
+        Turn around and use the Firestarter to place oil and <a href="/speedrun-tech#slide-jump">Slide Jump</a>. Slam into exit.
+    </p>
+    <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/xQ3x8ll.mp4" type="video/mp4">
+    </video>
+</details>
+
+<br/>
+
+<details class="medium">
+    <summary>
+        <b>Jackhammer Exit</b> // <b>DIFFICULTY</b>: 6.5/10 // <b>FASTEST</b>
+    </summary>
+    <br/>
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-triangle-exclamation"></i>
+            Note
+        </div>
+            This exit can only be performed if you have above 50 HP.
+        </div>
+    <p>
+    While slamming into breakable, do a 180 to face <b>away</b> from the exit door and freeze the Freezeframe rocket. Align with the center of the sliding doors yourself, <b> NOT JUST THE CROSSHAIR </b>, as pictured below:
+    </p>
+    <img
+        class="image"
+        src="https://i.imgur.com/O33e3m9.png"
+        width="500"
+    ></img>
+    <p> Shoot the frozen rocket and back up towards the exit door. Using the Core Eject Jackhammer, perform a <a href="/speedrun-tech#jackhammer-ub">jackhammer UB</a> using the core and rocket. Do a 180 and use the Firestarter rocket launcher to place oil on the ground to preserve your speed. Slam into exit hole.
+    </p>
+    <div class="warning">
+        <div class="warning-header">
+            <i class="fa-solid fa-lightbulb"></i>
+            Tips
+        </div>
+        The timing on this is really tight as the exit door starts to open as you enter breakable. As such, practicing getting the timing down is key in saving as much time as possible.
+    </div>
+    <br/>
+    <video width="500" height="auto" loop controls muted>
+        <source src="https://i.imgur.com/LqBSGHU.mp4" type="video/mp4">
+    </video> 
+</details>
