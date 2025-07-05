@@ -1,16 +1,12 @@
-![ULTRADOCS (light)](/images/ultraguides-light-github.png#gh-dark-mode-only)
-![ULTRADOCS (dark)](/images/ultraguides-dark-github.png#gh-light-mode-only)
-
-<div align="center">
-    <h3><a href="https://ultradocs.pages.dev">ULTRADOCS</a></h3>
-    <p><i>
-        Documentation for all speedrun-related tech in <a href="https://store.steampowered.com/app/1229490/ULTRAKILL/">ULTRAKILL</a>, made by ULTRAKILL speedrunners.
-    </i></p>
-    
-   <img alt="Steam ULTRAKILL" src="https://img.shields.io/badge/steam-ultrakill-darkred?style=for-the-badge&logo=steam&label=%20&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F" />
-   <img alt="VuePress Badge" src="https://img.shields.io/badge/vuepress-the?style=for-the-badge&logo=vue.js&logoColor=white&color=%23C53F1C">
-   <img alt="Cloudflare Badge" src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F">
-</div>
+![ULTRADOCS Banner](/images/ultradocs-banner-github.png)
+<hr />
+<h3 align="left"><i>Documentation for all speedrun-related tech in <a href="https://store.steampowered.com/app/1229490/ULTRAKILL/">ULTRAKILL</a></i>.</h3>
+<p align="left">Made by ULTRAKILL speedrunners, for ULTRAKILL speedrunners.</p>
+<p align="left">
+  <img alt="Steam ULTRAKILL" src="https://img.shields.io/badge/steam-ultrakill-darkred?style=for-the-badge&logo=steam&label=%20&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F" />
+  <img alt="VuePress Badge" src="https://img.shields.io/badge/vuepress-the?style=for-the-badge&logo=vue.js&logoColor=white&color=%23C53F1C">
+  <img alt="Cloudflare Badge" src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white&link=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1229490%2FULTRAKILL%2F">
+</p>
 
 ## ❓ About ULTRADOCS ❓
 **ULTRADOCS** is an **open-source speedrun guide** meant to document and guide all of the available speedrun strats for every level in the game, [**ULTRAKILL**](https://store.steampowered.com/app/1229490/ULTRAKILL/). The idea originally came from [@Kano127](https://github.com/Kano127) when he noticed a thread that I, (Darkn), made on speedrun.com titled "[_When Are We Getting Proper Speedrun Guides?_](https://www.speedrun.com/ultrakill/forums/2jgrb)". Kano came up to me about it, and after a bit of convincing, we now have ULTRADOCS.
