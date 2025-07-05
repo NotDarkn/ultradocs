@@ -94,7 +94,7 @@ next: ./any-0-2
         After checkpointing, start off by equipping the <b>Sharpshooter</b>, then while holding right click (to charge it up), do a dash slide into the arena.
     </p>
     <p>
-        Land almost exactly below <a href="/general-info#enemy-terms">Maurice</a>, then release right click after Maurice shoots at least one of its bullets.
+        Land almost exactly below <a href="/general-info#enemy-terms">Maurice</a>, then release right click after Maurice shoots at least one of its projectiles.
     </p>
     <video width="500" height="auto" loop controls muted>
         <source src="https://i.imgur.com/aWLHeBP.mp4" type="video/mp4">
@@ -128,7 +128,7 @@ next: ./any-0-2
         After checkpointing, start off by equipping the <b>Alternate Sawed-On Jackhammer</b>, then while holding left and right click, do a <a href="/speedrun-tech#dsj-dash-slide-jump">DSJ</a>.
     </p>
     <p>
-        Before hitting the <a href="/general-info#enemy-terms">Maurice</a> with Jackhammer, punch using the Knuckleblaster a few frames beforehand.
+        Before hitting the <a href="/general-info#enemy-terms">Maurice</a> with Jackhammer, punch using the Knuckleblaster a few frames before impact.
     </p>
     <p>
         Aim the Jackhammer at the Maurice once it spawns in, then release both your left and right click.

@@ -8,7 +8,7 @@ next: ./any-0-4
 
 # 0-3 // DOUBLE DOWN (Any%)
 
-## First  Checkpoint
+## First Checkpoint
 
 <div class="hidden-header">
 
@@ -87,7 +87,7 @@ next: ./any-0-4
             <i class="fa-solid fa-lightbulb"></i>
             Tips
         </div>
-        You must time your dash right so that you can slide under the door. If you have to slam or are too far from the door, you won't have a red guage on your jackhammer.
+        You must time your dash right so that you can slide under the door. If you have to slam or are too far from the door, you won't have a red gauge on your jackhammer.
     </div>
     <br />
     <video width="500" height="auto" loop controls muted>
@@ -128,7 +128,7 @@ next: ./any-0-4
     <p>
         Swap to the Piercer alternate revolver. Begin charging it, then jump and punch the coin for a fourth time. <br />
         Slam down, look up, then shoot the coin through the SM's head with the <a href="/speedrun-tech#slab-coins">slabcoin</a>. <br />
-        Very quickly swap to the Electric Railcanon and hit the coin with it too, performing a <a href="/speedrun-tech#ricostacks">ricostack</a>.
+        Very quickly swap to the Electric Railcannon and hit the coin with it too, performing a <a href="/speedrun-tech#ricostacks">ricostack</a>.
     </p>
     <p>
         Swap to the SRS rocket launcher, and perform an <a href="/speedrun-tech#s-r-s-combo">SRS punch</a> to finish out the kill.
@@ -253,14 +253,14 @@ next: ./any-0-4
     </summary>
     <p>
         Immediately after checkpointing, dash then <a href="/speedrun-tech#dash-jump">dash jump</a> through the door.
-        As soon as you get through the door, shoot your Oversaw and very quickly swap to the Marksman revolver and throw a coin then immediately do a <a href="/speedrun-tech#deadcoins">deadcoin. </a> 
-        Immediately after doing the deadcoin switch to Sawed-on and start charging the chainsaw.
+        As soon as you get through the door, shoot your Oversaw and very quickly swap to the Marksman revolver and throw a coin then immediately do a <a href="/speedrun-tech#deadcoins">deadcoin</a>.
+        Immediately after, switch to the Sawed-On and begin charging the chainsaw.
     </p>
     <p>
-        Do a prepunch then <a href="/speedrun-tech#shotgun-parry">shotgun parry</a> Swordsmachine then instantly punch the coin again and slam then pull out <a href="/general-info#e-rail">E Rail </a> and shoot the coin through Swordsmachine, then instantly flick down and throw another coin while either looking straight down or to the side like in the video.
+        Do a prepunch then <a href="/speedrun-tech#shotgun-parry">shotgun parry</a> Swordsmachine then instantly punch the coin again and slam, then pull out <a href="/general-info#e-rail">E-Rail </a> and shoot the coin through Swordsmachine, then instantly flick down and throw another coin while aiming either straight down or to the side, as shown in the video.
     </p>
     <p>
-        Wait a little bit for the electric beam to connect with the coin then whip the coin and <a href="/speedrun-tech#fast-coin>">fast coin</a> at the same time. Right after fast coining jump and punch the coin while still in the air, then slam and use <a href="/general-infol#s-r-s-srs">S.R.S Cannon </a> to finish the kill. 
+        Wait a little bit for the electric beam to connect with the coin then whip the coin and <a href="/speedrun-tech#fast-coin">fast coin</a> at the same time. Right after fast coining jump and punch the coin mid-air, then slam and use the <a href="/general-info#s-r-s-srs">S.R.S Cannon </a> to finish the kill. 
     </p>
     <p>
      <video width="500" height="auto" loop controls muted>
@@ -323,21 +323,21 @@ Use style meter to check if you are doing it correctly. It should say <b>ULTRA</
     <p>
         Immediately after checkpointing, dash then <a href="/speedrun-tech#dash-jump">dash jump</a> through the door.
         As soon as you get through the door, shoot your Oversaw and very quickly swap to the Marksman revolver and throw a coin then immediately do a <a href="/speedrun-tech#deadcoins">deadcoin. </a> 
-        Immediately after doing the deadcoin switch to Sawed-on and start charging the chainsaw.
+        Immediately after doing the deadcoin switch to Sawed-On and start charging the chainsaw.
     </p>
     <p>
-        Do a prepunch then <a href="/speedrun-tech#shotgun-parry">shotgun parry</a> Swordsmachine then instantly pull out Jumpstart nailgun and attach it to Swordsmachine. You have around a 100 milisecond window to do this (you want to attach it before he sits on the ground after the parry.) After attaching the jumpstart, equip <a href="/general-info#e-rail">E Rail </a> and shoot the coin through Swordsmachine then instantly flick down and throw a coin and instantly whip it and do a <a href="/speedrun-tech#fast-coin>">fast coin</a> at the same time.
+        Do a prepunch then <a href="/speedrun-tech#shotgun-parry">shotgun parry</a> Swordsmachine then instantly pull out Jumpstart nailgun and attach it to Swordsmachine. You have around a 100 millisecond window to do this (you want to attach it before he sits on the ground after the parry.) After attaching the jumpstart, equip <a href="/general-info#e-rail">E-Rail </a> and shoot the coin through the Swordsmachine, then instantly flick down, throw another coin, whip it, and perform a <a href="/speedrun-tech#fast-coin">fast coin</a> at the same time.
     </p>
     <p>
-        To finish the kill jump after throwing the coin and punch it then aim above Swordsmachine and shoot the coin with the Marksman Revolver. When done correctly It should say in the style meter: <b>ULTRA</b>ricoshot x13 twice and <b>ULTRA</b>ricoshot x12 once. The timing will get consistent with practice
+        To finish the kill jump after throwing the coin and punch it then aim above the Swordsmachine and shoot the coin with the Marksman revolver. When done correctly, it should say in the style meter <b>ULTRA</b>ricoshot x13 twice and <b>ULTRA</b>ricoshot x12 once. The timing will get consistent with practice.
     </p>
     <div class="caution">
     <div class="caution-header">
         <i class="fa-solid fa-lightbulb"></i>
         Tips
     </div>
-    If it is showing <b>ULTRA</b>ricoshot x24 you aren't shooting the coin. <br />
-    If it shows <b>ricoshot</b> x25, you are shooting the coin too late
+    If the style meter shows <b>ULTRA</b>ricoshot ×24, you're not shooting the coin.
+    If it shows <b>ricoshot</b> ×25, you're shooting the coin too late.
 </div>
 <br />
     <video width="500" height="auto" loop controls muted>
