@@ -146,11 +146,11 @@ next: ./any-4-2
        After a period of time, you will want to do your second UB. If your angle towards breakable is off angle, you can use this second UB to adjust your angle acordingly.
     </p>
     <p>
-        It's <b>not possible</b> to have a consistant time to do your second UB. This is due to factors such as angle, initial UB speed, and <a href="/speedrun-techtml#duck-boosting">duck boosting</a>. Deciding when to do your
+        It's <b>not possible</b> to have a consistant time to do your second UB. This is due to factors such as angle, initial UB speed, and <a href="/speedrun-tech#duck-boosting">duck boosting</a>. Deciding when to do your
         second UB will come down to intuition from playing the stage, and the amount you are willing to risk on Duck boost speed.
     </p>
     <p>
-        During the period flying towards breakable, you can preform <a href="/speedrun-techtml#duck-boosting">duck boosting</a> for either potential additional horizantal speed, or, if you are too high above breakable,
+        During the period flying towards breakable, you can preform <a href="/speedrun-tech#duck-boosting">duck boosting</a> for either potential additional horizantal speed, or, if you are too high above breakable,
         Duck boost downwards to slight move your position lower without loosing speed.
     </p>
     <p>
