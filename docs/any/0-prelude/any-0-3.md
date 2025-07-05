@@ -339,6 +339,7 @@ Use style meter to check if you are doing it correctly. It should say <b>ULTRA</
     If it is showing <b>ULTRA</b>ricoshot x24 you aren't shooting the coin. <br />
     If it shows <b>ricoshot</b> x25, you are shooting the coin too late
 </div>
+<br />
     <video width="500" height="auto" loop controls muted>
         <source src="https://i.imgur.com/UJ0i70L.mp4" type="video/mp4">
     </video>
