@@ -87,14 +87,14 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/eanra'>eanra</a></h4>
 </td>
-</tr>
-
-<tr>
   <td id='FishyBandit'>
   <a href='https://github.com/FishyBandit'>
   <img src='https://i.imgur.com/3qm9q4h.png' width='140px;' height='140px'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/FishyBandit'>Fishy</a></h4>
+</tr>
+
+<tr>
 </td>
   <td id='nsethiz'>
   <a href='https://github.com/nsethiz'>
@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/nsethiz'>nsethiz</a></h4>
 </td>
-  <td id='angelica'>
+  <td id='Angelica'>
   <a href='https://github.com/eternal664'>
   <img src='https://www.speedrun.com/static/user/jonom7n8/image.jpg?v=df124f5' width='140px;' height='140px'>
 </a>
@@ -114,12 +114,23 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/vivyaann'>vivyaann</a></h4>
 </td>
-  <td id='N/A'>
+  <td id='humpster'>
   <a href='https://github.com/humpster2'>
   <img src='https://github.com/humpster2.png' width='140px;' height='140px;'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/humpster'>humpster</a></h4>
 </td>
+  <td id='SStereo'>
+  <a href='https://youtu.be/AIkktiq_T0Y'>
+  <img src='https://i.imgur.com/0ZBfx3f.png' width='140px;' height='140px;'>
+</a>
+  <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>SStereo</a></h4>
+</td>
+  <td id='???'>
+  <a href='https://youtu.be/AIkktiq_T0Y'>
+  <img src='https://archive.org/images/person2.png' width='140px;' height='140px;'>
+</a>
+  <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>???</a></h4>
 </tr>
 </table>
 
