@@ -582,6 +582,36 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS SIGNIFICANTLY HARDER
 :::
 
 
+### 35 HP Jackhammer UB
+<br />
+<tb style="width:100%; vertical-align: top">
+  <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
+    <td>DESCRIPTION</td>
+    <td>INPUTS</td>
+    <td>EXAMPLE</td>
+  </tr>
+  <tr>
+    <td> 
+      By preforming a UB with the Core Eject Jackhammer, you are able to consistely get 35 HP <a href="#ub-ultraboost">Ultraboosts</a> by looking down.
+      It can be preformed while stationary or moving.
+    </td>
+    <td width="100px"> 
+      1. Look straight down <br/>
+      2. Shoot out core eject<br/>
+      3. Shoot core eject with malicious rail cannon
+    </td>
+    <td width="200px">
+        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+            <source src="https://i.imgur.com/lS3AMZD.mp4" type="video/mp4">
+        </video>
+    </td>
+  </tr>
+</tb>
+
+::: tip
+The faster you are moving horisantally, the closer you will get to the max UB speed of 143 when preforming this Ultraboost
+:::
+
 ### FUP (Frozen Unfriendly Pull-it) 
 <br />
 <tb style="width:100%; vertical-align: top">
