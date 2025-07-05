@@ -39,7 +39,7 @@ next: ./any-4-2
     ></img>
     </div>
     <p>
-        A short period after staring your dive, preform a <a href="/speedrun-tech#flick-ub">flick UB</a> aimed towards breakable. For potential additional speed, you can  <a href="/speedrun-techtml#duck-boosting">duck boost</a> while flying towards breakable.
+        A short period after staring your dive, preform a <a href="/speedrun-tech#flick-ub">flick UB</a> aimed towards breakable. For potential additional speed, you can  <a href="/speedrun-tech#duck-boosting">duck boost</a> while flying towards breakable.
     </p>
     <p>
         Shoot breakable with any alternate varient of the pistol and slam into it.
