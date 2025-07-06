@@ -57,22 +57,29 @@ next: ./any-6-2
 
 ## Final Arena
 
-### [Oil Clear](https://youtu.be/SM6GxEzTiTo)
-<font size="2">
-    <b>Difficulty</b>: Intermediate (3/5)
-</font>
+<div class="hidden-header">
 
-[Dash Jump](/speedrun-tech.md#dash-jump), slam and throw 3 coins, [Slab Coin](/speedrun-tech.md#slab-coins) them to kill the left hideous mass <br/>
-The angle you throw the coins at is important, you want the coins to be at about the same  height as the hideous mass's weakpoint or it might miss the weakpoint and not kill <br/>
-You can fire the piercer slightly before the hideous mass spawns due to hitscans taking time to pass between coins <br/>
-Whiplash to the right hideous mass <br/>
-Fire 3 magnets and jumpstart into its weakpoint <br/>
-Knuckleblast and fire saws to proc jumpstart <br/>
-Place and then ignite oil to kill soldiers <br/>
-Place a saw trap with remaining blue saws and overheat saw <br/>
-[Nuke](/speedrun-tech.md#nukes) far enough out to kill the 2 closer strays <br/>
-Dash right to avoid the nuke, then [CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) to hit the swordsmachine <br/>
-Whiplash to the cerberus and [S.R.S. Combo](/speedrun-tech.md#srs-combo) it <br/>
-[Split Coin](/speedrun-tech.md#split-coins) the remaining strays <br/>
-Rocket ride to reach the exit <br/>
-[CE Boost Exit](/speedrun-tech.md#ce-boost-exit)
+### Oil Clear
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b></b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     <a href="/speedrun-tech#dash-jump">Dash Jump</a> into the arena, slam jump and throw 3 coins aiming at eye level and slightly to the left. Slam jump again while moving forward, and <a href="/speedrun-tech#slab-coin">Slab Coin</a> the 3 coins to kill the left hideous mass. Ideally you want to fire the piercer shot slightly before the hideous mass spawns as shots take time to travel between coins.
+      <p>
+      </p>
+      Whiplash the hideous mass on the right, start firing saws while placing 3 magnets on the hideous mass's weakpoint, then jumpstart it, knuckleblast it and continue firing saws from the blue sawblade launcher to proc jumpstart and kill the hideous mass. You can stop firing saws slightly before it dies.
+      <p>
+      </p>
+      Slam jump and place a line of oil along the stairs in the center, then fire a rocket to ignite it, then dash towards where the cerberus spawns and place a magnet at the top of the stairs. Fire all of your blue saws and place an additional magnet so the sawtrap will hit the cerberus. Fire the overheat saw into the sawtrap, and charge a core eject. 
+      <p>
+      </p>
+      Wait until the swordsmachine walks into the saws, then fire the core towards the middle of the room and <a href="/speedrun-tech#nukes">Nuke</a> so that it kills the 2 strays and damages the swordsmachine and cerberus, dash to the right to avoid the nuke and <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a> from next to the swordsmachine over to the other cerberus. Split coin the second set of strays then whiplash to the cerberus and <a href="/speedrun-tech#s-r-s-combo">SRS Combo</a>
+      <p>
+      </p>
+      <a href="/speedrun-tech#instatnt-rocket-ride">Instant Rocket Ride</a> to reach the exit and <a href="/speedrun-tech#ce-boost-exit">CE Boost Exit</a>
+    </p>
+</details>
