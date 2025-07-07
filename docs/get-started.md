@@ -72,7 +72,7 @@ GFM ALERTS (use these to add alerts/notes in your dropdowns)
 </div>
 
 <p style="text-align: center">
-    This is meant to be a resource that includes <b>ALL</b> strats used in submitted & uploaded runs, so if you're looking
+    This is meant to be a resource that includes <b>ALL</b> strats used in top submitted runs, so if you're looking
     to learn a strat from a run, this is probably the resource for you.
 </p>
 
@@ -110,3 +110,7 @@ GFM ALERTS (use these to add alerts/notes in your dropdowns)
         </tr>
     </table>
 </div>
+
+<p style="font-size: 1.75px; color: #4d4d4d00; margin-bottom: -50px;">
+    <i>workaround gap</i>
+</p>
