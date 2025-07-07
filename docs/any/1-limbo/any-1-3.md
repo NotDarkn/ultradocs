@@ -12,7 +12,7 @@ next: ./any-1-4
 
 <div class="hidden-header">
 
-### Blue Skull
+###### Blue Skull
 
 </div>
 
@@ -41,7 +41,7 @@ next: ./any-1-4
 
 <div class="hidden-header">
 
-### Soap Kill
+###### Soap Kill
 
 </div>
 
@@ -78,7 +78,7 @@ next: ./any-1-4
 
 <div class="hidden-header">
 
-### Soapless Kill
+###### Soapless Kill
 
 </div>
 

@@ -12,7 +12,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-### Dashing
+###### Dashing
 
 </div>
 
@@ -42,7 +42,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-### Diving
+###### Diving
 
 </div>
 
@@ -74,7 +74,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-### Sharpshooter Kill
+###### Sharpshooter Kill
 
 </div>
 
@@ -108,7 +108,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-### Jackhammer DSJ + Knuckleblaster
+###### Jackhammer DSJ + Knuckleblaster
 
 </div>
 
@@ -145,7 +145,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-### Jackhammer DSJ + Electric Rail
+###### Jackhammer DSJ + Electric Rail
 
 </div>
 
@@ -184,7 +184,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-### Rocket Ride False Exit
+###### Rocket Ride False Exit
 
 </div>
 <details class="easy">
@@ -209,7 +209,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-### Dash Under False Exit
+###### Dash Under False Exit
 
 </div>
 

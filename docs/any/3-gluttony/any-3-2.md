@@ -12,7 +12,7 @@ next: ../4-greed/
 
 <div class="hidden-header">
 
-### Eye Shortcut
+###### Eye Shortcut
 
 </div>
 
@@ -37,7 +37,7 @@ next: ../4-greed/
 
 <div class="hidden-header">
 
-### Deadcoin
+###### Deadcoin
 
 </div>
 

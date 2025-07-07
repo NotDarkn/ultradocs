@@ -12,7 +12,7 @@ next: ./any-2-3
 
 <div class="hidden-header">
 
-### First Room
+###### First Room
 
 </div>
 
@@ -46,7 +46,7 @@ next: ./any-2-3
 
 <div class="hidden-header">
 
-### Fan Room
+###### Fan Room
 
 </div>
 
@@ -64,7 +64,7 @@ next: ./any-2-3
 
 <div class="hidden-header">
 
-### Final Room
+###### Final Room
 
 </div>
 

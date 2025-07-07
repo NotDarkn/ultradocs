@@ -12,7 +12,7 @@ next: ./any-1-3
 
 <div class="hidden-header">
 
-### Malicious Rail
+###### Malicious Rail
 
 </div>
 
@@ -30,7 +30,7 @@ next: ./any-1-3
 
 <div class="hidden-header">
 
-### Climbstep
+###### Climbstep
 
 </div>
 
@@ -65,7 +65,7 @@ next: ./any-1-3
 
 <div class="hidden-header">
 
-### Arena Clear
+###### Arena Clear
 
 </div>
 
@@ -96,7 +96,7 @@ next: ./any-1-3
 
 <div class="hidden-header">
 
-### Trigger Skip
+###### Trigger Skip
 
 </div>
 
@@ -113,7 +113,7 @@ next: ./any-1-3
 
 <div class="hidden-header">
 
-### Slarp 
+###### Slarp 
 
 </div>
 
@@ -137,7 +137,7 @@ next: ./any-1-3
 
 <div class="hidden-header">
 
-### Splitcoin
+###### Splitcoin
 
 </div>
 
@@ -164,7 +164,7 @@ next: ./any-1-3
 
 <div class="hidden-header">
 
-### Pre Fire
+###### Pre Fire
 
 </div>
 

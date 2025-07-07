@@ -12,7 +12,7 @@ next: ./any-3-2
 
 <div class="hidden-header">
 
-### Yup, That's a Cavity
+###### Yup, That's a Cavity
 
 </div>
 
@@ -35,7 +35,7 @@ next: ./any-3-2
 
 <div class="hidden-header">
 
-### Knuckleblast Clear
+###### Knuckleblast Clear
 
 </div>
 
@@ -64,7 +64,7 @@ next: ./any-3-2
 
 <div class="hidden-header">
 
-### Oil Clear
+###### Oil Clear
 
 </div>
 

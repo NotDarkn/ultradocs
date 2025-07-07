@@ -12,7 +12,7 @@ next: ./any-0-S
 
 <div class="hidden-header">
 
-### Diving
+###### Diving
 
 </div>
 
@@ -53,7 +53,7 @@ next: ./any-0-S
 
 <div class="hidden-header">
 
-### CE Boost + Rocket
+###### CE Boost + Rocket
 
 </div>
 
@@ -76,7 +76,7 @@ next: ./any-0-S
 
 <div class="hidden-header">
 
-### Standstill
+###### Standstill
 
 </div>
 
@@ -111,7 +111,7 @@ next: ./any-0-S
 
 <div class="hidden-header">
 
-### Sliding In
+###### Sliding In
 
 </div>
 
@@ -155,7 +155,7 @@ next: ./any-0-S
 
 <div class="hidden-header">
 
-### Bottom False Exit
+###### Bottom False Exit
 
 </div>
 
@@ -184,7 +184,7 @@ next: ./any-0-S
 
 <div class="hidden-header">
 
-### Side False Exit
+###### Side False Exit
 
 </div>
 

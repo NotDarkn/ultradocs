@@ -1,5 +1,5 @@
 ---
-date: 2025-06-28
+date: 2025-07-07
 author: Kano
 
 prev: ./
@@ -12,7 +12,7 @@ next: ./any-6-2
 
 <div class="hidden-header">
 
-### Third Room Clip
+###### Third Room Clip
 
 </div>
 
@@ -36,7 +36,7 @@ next: ./any-6-2
 
 <div class="hidden-header">
 
-### Instant Arch Clip
+###### Instant Arch Clip
 
 </div>
 
@@ -59,7 +59,7 @@ next: ./any-6-2
 
 <div class="hidden-header">
 
-### Oil Clear
+###### Oil Clear
 
 </div>
 

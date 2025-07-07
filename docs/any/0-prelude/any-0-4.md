@@ -12,7 +12,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Trigger Skip
+###### Trigger Skip
 
 </div>
 
@@ -41,7 +41,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Jumpstart Clear
+###### Jumpstart Clear
 
 </div>
 
@@ -79,7 +79,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Nuke Clear
+###### Nuke Clear
 
 </div>
 
@@ -124,7 +124,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Splitcoin Clear
+###### Splitcoin Clear
 
 </div>
 
@@ -172,7 +172,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### CE Boost
+###### CE Boost
 
 </div>
 
@@ -198,7 +198,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### DSJ Nuke
+###### DSJ Nuke
 
 </div>
 
@@ -227,7 +227,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### UB Slide
+###### UB Slide
 
 </div>
 
@@ -274,7 +274,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Malrail
+###### Malrail
 
 </div>
 
@@ -301,7 +301,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Trigger Skip
+###### Trigger Skip
 
 </div>
 
@@ -327,7 +327,7 @@ next: ./any-0-5
 
 <div class="hidden-header">
 
-### Fan Teleport
+###### Fan Teleport
 
 </div>
 

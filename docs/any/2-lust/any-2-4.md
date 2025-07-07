@@ -12,7 +12,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Slide + Dash
+###### Slide + Dash
 
 </div>
 
@@ -33,7 +33,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Dash Jump
+###### Dash Jump
 
 </div>
 
@@ -54,7 +54,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Slam Store
+###### Slam Store
 
 </div>
 
@@ -77,7 +77,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Tram Jumpstart
+###### Tram Jumpstart
 
 </div>
 
@@ -92,7 +92,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Ub Bonk
+###### Ub Bonk
 
 </div>
 
@@ -115,7 +115,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Rail Coin Punch
+###### Rail Coin Punch
 
 </div>
 
@@ -130,7 +130,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Slab Rail Coin Punch
+###### Slab Rail Coin Punch
 
 </div>
 
@@ -157,7 +157,7 @@ next: ../3-gluttony/
 
 <div class="hidden-header">
 
-### Ice Beam
+###### Ice Beam
 
 </div>
 

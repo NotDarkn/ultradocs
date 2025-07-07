@@ -29,7 +29,7 @@ next: ./any-2-2
 
 <div class="hidden-header">
 
-### Flick UB
+###### Flick UB
 
 </div>
 
@@ -47,7 +47,7 @@ next: ./any-2-2
 
 <div class="hidden-header">
 
-### Rocket UB
+###### Rocket UB
 
 </div>
 <details class=easy>
@@ -66,7 +66,7 @@ next: ./any-2-2
 
 <div class="hidden-header">
 
-### Flick UB
+###### Flick UB
 
 </div>
 
@@ -93,7 +93,7 @@ next: ./any-2-2
 
 
 ::: details Running patch 15d or lower? (Pre-revamp)
-### [Flick Ub](https://youtu.be/-eq9mjIppO0)
+###### [Flick Ub](https://youtu.be/-eq9mjIppO0)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>
@@ -104,7 +104,7 @@ Slam down to the hole,                                                          
 Around when you reach the second building                                   [Instant Rocket Ride](/speedrun-tech.md#instant-rocket-ride) to go up to the exit <br/>
 [CE Boost Exit](/speedrun-tech.md#ce-boost-exit) <br/>
 
-### [Rocket Ub](https://youtu.be/pX1UGK8bMAo)
+###### [Rocket Ub](https://youtu.be/pX1UGK8bMAo)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
 </font>

@@ -12,7 +12,7 @@ next: ./any-4-2
 
 <div class="hidden-header">
 
-### Slam Store Dive
+###### Slam Store Dive
 
 </div>
 
@@ -67,9 +67,7 @@ next: ./any-4-2
 
 <div class="hidden-header">
 
-
-
-### Jackhammer UB
+###### Jackhammer UB
 
 </div>
 
@@ -124,7 +122,7 @@ next: ./any-4-2
 
 <div class="hidden-header">
 
-### Dawarning UB
+###### Dawarning UB
 
 </div>
 

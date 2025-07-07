@@ -12,7 +12,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### CE Boost
+###### CE Boost
 
 </div>
 
@@ -41,7 +41,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Lava Hall UB
+###### Lava Hall UB
 
 </div>
 
@@ -81,7 +81,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Jackhammer UB + Lava Hall UB
+###### Jackhammer UB + Lava Hall UB
 
 </div>
 
@@ -136,7 +136,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Saws + JS + Slarp
+###### Saws + JS + Slarp
 
 </div>
 
@@ -189,7 +189,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Jackhammer + JS
+###### Jackhammer + JS
 
 </div>
 
@@ -235,7 +235,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Rocket + Jackhammer + JS
+###### Rocket + Jackhammer + JS
 
 </div>
 
@@ -277,7 +277,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Rocket + SRS + Jackhammer + JS
+###### Rocket + SRS + Jackhammer + JS
 
 </div>
 
@@ -321,7 +321,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Diving
+###### Diving
 
 </div>
 
@@ -342,7 +342,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Overpump
+###### Overpump
 
 </div>
 
@@ -372,7 +372,7 @@ next: ../1-limbo/
 
 <div class="hidden-header">
 
-### Ultraboost
+###### Ultraboost
 
 </div>
 

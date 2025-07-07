@@ -12,7 +12,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### No Glasspunch
+###### No Glasspunch
 
 </div>
 
@@ -36,7 +36,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Glasspunch
+###### Glasspunch
 
 </div>
 
@@ -57,7 +57,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Jackhammer
+###### Jackhammer
 
 </div>
 
@@ -106,7 +106,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Beginner Kill
+###### Beginner Kill
 
 </div>
 
@@ -143,7 +143,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Saw Kill
+###### Saw Kill
 
 </div>
 
@@ -179,7 +179,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Dram Kill
+###### Dram Kill
 
 </div>
 
@@ -200,7 +200,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Prepunch
+###### Prepunch
 </div>
 
 <div class="note">
@@ -222,7 +222,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Neverkill
+###### Neverkill
 
 </div>
 
@@ -243,7 +243,7 @@ next: ./any-0-4
 
 <div class="hidden-header">
 
-### Part Halak
+###### Part Halak
 
 </div> 
 
@@ -291,7 +291,7 @@ Use style meter to check if you are doing it correctly. It should say <b>ULTRA</
 
 <div class="hidden-header">
 
-### Chainslarp
+###### Chainslarp
 
 </div>
 
@@ -312,7 +312,7 @@ Use style meter to check if you are doing it correctly. It should say <b>ULTRA</
 
 <div class="hidden-header">
 
-### Halakill
+###### Halakill
 
 </div>
 

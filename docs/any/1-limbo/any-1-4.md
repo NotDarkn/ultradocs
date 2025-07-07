@@ -12,7 +12,7 @@ next: ../2-lust/
 
 <div class="hidden-header">
 
-### Slam Store + Over Pump
+###### Slam Store + Over Pump
 
 </div>
 
@@ -31,7 +31,7 @@ next: ../2-lust/
 
 <div class="hidden-header">
 
-### UB + Oil
+###### UB + Oil
 
 </div>
 
@@ -51,7 +51,7 @@ next: ../2-lust/
 </details>
 <div class="hidden-header">
 
-### Regular UB
+###### Regular UB
 
 </div>
 
@@ -70,7 +70,7 @@ next: ../2-lust/
     </p>
 </details>
 
-### God UB
+###### God UB
 <font size="2">
     
 </font>
@@ -95,7 +95,7 @@ next: ../2-lust/
 
 <div class="hidden-header">
 
-### 5 Coin Punch
+###### 5 Coin Punch
 
 </div>
 
@@ -117,7 +117,7 @@ next: ../2-lust/
 
 <div class="hidden-header">
 
-### Double Dead Coin
+###### Double Dead Coin
 
 </div>
 
@@ -138,7 +138,7 @@ next: ../2-lust/
 
 <div class="hidden-header">
 
-### Double Dead Coin
+###### Double Dead Coin
 
 </div>
 
@@ -162,7 +162,7 @@ next: ../2-lust/
 
 <div class="hidden-header">
 
-### Giorgi Kill
+###### Giorgi Kill
 
 </div>
 

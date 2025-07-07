@@ -12,7 +12,7 @@ next: ./any-1-S
 
 <div class="hidden-header">
 
-### Untagged Wall Clip
+###### Untagged Wall Clip
 
 </div>
 
@@ -39,7 +39,7 @@ next: ./any-1-S
 
 <div class="hidden-header">
 
-### Jumpstart Clear (Schism)
+###### Jumpstart Clear (Schism)
 
 </div>
 <details class=easy>
@@ -71,7 +71,7 @@ next: ./any-1-S
 
 <div class="hidden-header">
 
-### Jumpstart Clear (Stray)
+###### Jumpstart Clear (Stray)
 
 </div>
 
@@ -102,7 +102,7 @@ next: ./any-1-S
 
 <div class="hidden-header">
 
-### Stams Clear
+###### Stams Clear
 
 </div>
 <details class=hard>
@@ -120,7 +120,7 @@ next: ./any-1-S
 
 <div class="hidden-header">
 
-### Saw Clear
+###### Saw Clear
 
 </div>
 <details class=hard>
