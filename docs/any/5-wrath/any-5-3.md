@@ -1,6 +1,6 @@
 ---
-date: 2025-02-19
-author: No One Yet
+date: 2025-07-08
+author: Kano
 
 prev: ./any-5-2
 next: ./any-5-4
@@ -8,20 +8,31 @@ next: ./any-5-4
 
 # 5-3 // SHIP OF FOOLS (Any%)
 
-## [Tight Space Clip](https://youtu.be/yMunNEGBo20)
-<font size="2">
-    <b>Difficulty</b>: Slightly Easy (2/5)
-</font>
+## Checkpoint
 
-[Slam store](/speedrun-tech.md#slam-store) in the red room hallway then slide <br/>
-[CE Boost](/speedrun-tech.md#ce-boost-core-eject-boost) then shoot a rocket at the wall to get more height <br/>
-Dash forward slam, then [Dash Extension](/speedrun-tech.md#dash-extension) down the stairs <br/>
-Face down and into the gap in the broken door <br/>
-Place a frozen rocket, jump and hold forward and left <br/>
-Dash twice to the falling wall, and hold against it <br/>
-[UB](/speedrun-tech.md#ub-ultraboost) up <br/>
-[Instant rocket ride](/speedrun-tech.md#instant-rocket-ride) to the checkpoint <br/>
+<div class="hidden-header">
 
+###### Tight Space Clip
+
+</div>
+
+<details class="easy">
+    <summary>
+        <b>Tight Space Clip</b> // <b>DIFFICULTY</b>: /10
+    </summary>
+    <p>
+     Start off by performing a <a href="/speedrun-tech#slam-store">Slam Store</a> in the red room hallway, then sliding until you reach the first arena, then turn left and <a href="/speedrun-tech#ce-boost-core-eject-boost">CE Boost</a>. When you hit the wall, fire a rocket at the wall to boost yourself up and break the railing, then dash forward, slam, turn left and perform a <a href="/speedrun-tech#dash-extension">Dash Extension</a> to go down the stairs.
+     <p>
+      </p>
+      When you reach the bottom, slam to stop your momentum, then walk into gap in the broken door on the left, look down as shown, fire a rocket, jump, and slam to mount the rocket and clip through the opening. 
+      <p>
+      </p>
+      Turn left and dash twice to reach the section of the wall the falls, and hold against the wall for a moment to wall cling, then look up and <a href="/speedrun-tech#ub-ultraboost">UB</a>.
+      <p>
+      </p>
+      The checkpoint will be behind you at the peak of the <a href="/speedrun-tech#ub-ultraboost">UB</a>, once you high enough, <a href="/speedrun-tech#instant-rocket-ride">Instant Rocket Ride</a> to reach the checkpoint.
+    </p>
+</details>
 
 ## Exit
 
@@ -52,20 +63,4 @@ Dash to the door <br/>
 Dash again as it opens to cancel the knockback of the water <br/>
 Slam and [dive](/speedrun-tech.md#dives) to the door <br/>
 [Flick UB](/speedrun-tech.md#flick-ub) through the door <br/>
-Place oil to maintain speed
-
-### Stupid Hell Strats
-<font size="2">
-    <b>Difficulty</b>: Hard (5/5)
-</font>
-
-Flick Checkpoint ub <br/>
-Jackhammer boost off the cerberus <br/>
-Charge an over pump <br/>
-Dsj up the stairs <br/>
-Dash to the door  <br/>
-Dash again as it opens to cancel the knockback <br/>
-Slam <br/>
-Slide jump and overpump down <br/>
-Flick ub through the door <br/>
 Place oil to maintain speed
