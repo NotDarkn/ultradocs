@@ -30,6 +30,8 @@ export default hopeTheme({
 
   editLink: false,
 
+  print: false,
+
   lastUpdated: false,
 
   copyright: false,
