@@ -102,12 +102,6 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/nsethiz'>nsethiz</a></h4>
 </td>
-  <td id='Angelica'>
-  <a href='https://github.com/eternal664'>
-  <img src='https://www.speedrun.com/static/user/jonom7n8/image.jpg?v=df124f5' width='136px;' height='136px'>
-</a>
-  <h4 align='center'><a href='https://speedrun.com/users/The_Black_Silence'>Angelica</a></h4>
-</td>
   <td id='vivyaann'>
   <a href='https://github.com/vivyaann'>
   <img src='https://github.com/vivyaann.png' width='136px;' height='136px'>
@@ -125,6 +119,12 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
   <img src='https://i.imgur.com/0ZBfx3f.png' width='136px;' height='136px;'>
 </a>
   <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>SStereo</a></h4>
+</td>
+  <td id='???'>
+  <a href='https://youtu.be/AIkktiq_T0Y'>
+  <img src='https://archive.org/images/person2.png' width='136px;' height='136px;'>
+</a>
+  <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>???</a></h4>
 </td>
   <td id='???'>
   <a href='https://youtu.be/AIkktiq_T0Y'>
