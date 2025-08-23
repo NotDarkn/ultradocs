@@ -8,6 +8,14 @@ next: ./any-3-2
 
 # 3-1 // BELLY OF THE BEAST (Any%)
 
+<div class="warning">
+    <div class="warning-header">
+        <i class="fa-solid fa-triangle-exclamation"></i>
+        Warning
+    </div>
+    This page still needs to be <b>revamped</b>, either with new information due to the revamp update, or perhaps a complete remake. <b>Proceed with caution.</b>
+</div>
+
 ## Checkpoint
 
 <div class="hidden-header">

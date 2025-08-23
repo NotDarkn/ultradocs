@@ -12,7 +12,7 @@ next: ./any-0-2
 
 <div class="hidden-header">
 
-###### Dashing
+### Dashing
 
 </div>
 
@@ -245,3 +245,13 @@ next: ./any-0-2
 ## Video Guides
 <b>ULTRAKILL || 0-1 Beginner Speedrun Guide (Any%)</b> by <a href="https://www.youtube.com/@ghastly_gengar/videos"><code>@Ghastly_gengar</code></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CFefgAGQAeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<details class="hard">
+    <summary> <b>Jackhammer Boost</b> // <b>DIFFICULTY:</b> 7.5 </summary>
+    <p> In the start room, <a href="/speedrun-tech#slam-storage">Slam Store</a> and <a href="/speedrun-tech#dives">Dive</a> through the opening doors. </p>
+    <p> Look up and <a href="/speedrun-tech#ub-ultraboost">UB (Ultraboost)</a>. You may do either the <a href="#glasspunch">Glasspunch</a> or <a href="#no-glasspunch">No Glasspunch</a> variation. </p>
+    <p> After <a href="/speedrun-tech#ub-ultraboost">UBing</a>, swap to the alternate shotgun (it doesn't matter which variation) and charge the primary fire. Dash and slide through the door, quickly flick around, and hit one of the Strays with the Jackhammer. If done correctly, you will be launched toward the checkpoint. </p>
+    <div class="caution"> <div class="caution-header"> <i class="fa-solid fa-bell"></i> Important </div> For whatever reason, you <b>must</b> quickly swap to another weapon after hitting the Stray with the Jackhammer. Failing to do so will result in significantly less speed, roughly <i>70-80</i> hu/s rather than <i>160-180</i> hu/s. </div><br />
+    <div class="caution"> <div class="caution-header"> <i class="fa-solid fa-lightbulb"></i> Tips </div> You must time your dash right so that you can slide under the door. If you have to slam or are too far from the door, you won't have a red gauge on your jackhammer. </div><br />
+    <video width="500" height="auto" loop controls muted> <source src="https://i.imgur.com/COHg6rH.mp4" type="video/mp4"> </video>
+</details>

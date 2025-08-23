@@ -8,6 +8,14 @@ next: ./any-4-4
 
 # 4-3 // A SHOT IN THE DARK (Any%)
 
+<div class="warning">
+    <div class="warning-header">
+        <i class="fa-solid fa-triangle-exclamation"></i>
+        Warning
+    </div>
+    This page still needs to be <b>revamped</b>, either with new information due to the revamp update, or perhaps a complete remake. <b>Proceed with caution.</b>
+</div>
+
 ## [Filth Clip](https://youtu.be/cvTkN7axEpQ)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)
