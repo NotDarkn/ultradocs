@@ -40,15 +40,15 @@ next: ./any-1-S
 
 </div>
 
-<details class="medium">
+<details class="easy">
     <summary>
-        <b>Untagged Wall Clip (Advanced)</b> // <b>DIFFICULTY</b>: 4/10
+        <b>Untagged Wall Clip (Advanced)</b> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
         Start off by doing a <a href="/speedrun-tech#dash-jump">Dash jump</a> in the start room, then <a href="/speedrun-tech#slam-storage">Slam Store</a> in the wall before the door opens then Slide Jump slightly to the right to curve around the cerberus statue. When you land turn left and slide under the tree branch.
     </p>
     <p>
-        Stand against the wall between the fallen pillar and the door, look straight down, fire and a frozen rocket. Jump and whip to mount the rocket and slide, this will place you out of bounds.
+        Stand against the wall between the fallen pillar and the door, look straight down, fire and a frozen rocket. Jump <b>and whip</b> to mount the rocket and slide, this will place you out of bounds.
     </p>
     <p>
         Slam off the rocket, and turn around, let yourself fall for a moment, then <a href="/speedrun-tech#flick-ub">Flick UB</a> to the checkpoint.
@@ -134,18 +134,19 @@ next: ./any-1-S
         <b>Stams Clear</b> // <b>DIFFICULTY</b>: 7/10
         </summary>
     <p>
-        After checkpoint you can take the <a href="/speedrun-tech#flick-ub">Flick UB</a> momentum do <a href="/speedrun-tech#slide-jump">Slide Jump</a>.</p>
-        (<i> or you can do the <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> <b>which is slower.</b>)
-    </i>
+        After checkpoint you can take the <a href="/speedrun-tech#flick-ub">Flick UB</a> momentum do <a href="/speedrun-tech#slide-jump">Slide Jump</a>.
+        (<i> or you can do the <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> <b>which is slower.</b></i>)
+    </p>
     <p>
     fire rocket and freeze it in the second right stray.
     </p>
-     <div class="tips">
-        <div class="tips-header">
-            <i class="fa-solid fa-circle-exclamation"></i>
-            Note
+     <div class="caution">
+        <div class="caution-header">
+            <i class="fa-solid fa-lightbulb"></i>
         </div>
-        <p> Try to freeze it a little far from Schism like the picture below:</p>
+            Tip
+        <p> Try to freeze it a little far from Schism because it will not kill schism and try to aim here in the picture below:</p>
+        <br/><br/>
          <img
         class="image"
         src="https://i.imgur.com/PFq1VDZ.png"
@@ -153,11 +154,8 @@ next: ./any-1-S
     ></img> 
     </div>
     <p>
-        Dash to the left of the room and place saws to the left pillar and use knuckle blaster to the right stray.
-    </p>
-<p>
-        get to the center of the room, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawns.
-        </p>
+        Dash to the left of the room and place saws to the left pillar and use knuckle blaster to the right stray. get to the center of the room, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawns.
+ </p>
     <video width="735" height="auto" loop controls muted>
     <source src="https://i.imgur.com/M0mbbIN.mp4" type="video/mp4">
     </video>
