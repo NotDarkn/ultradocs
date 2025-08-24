@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
   <a href='https://github.com/AshleyPerfect'>
   <img src='https://github.com/AshleyPerfect.png' width='136px;' height='136px'>
 </a>
-  <h4 align='center'><a href='https://www.speedrun.com/users/CATPERFECT'>CATPERFECT</a></h4>
+  <h4 align='center'><a href='https://www.speedrun.com/users/CATPERFECT'>Ashley</a></h4>
 </td>
   <td id='eanra'>
   <a href='https://github.com/okEanra'>
@@ -120,11 +120,11 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>SStereo</a></h4>
 </td>
-  <td id='???'>
-  <a href='https://youtu.be/AIkktiq_T0Y'>
-  <img src='https://archive.org/images/person2.png' width='136px;' height='136px;'>
+  <td id='DevilHunter'>
+  <a href='http://github.com/DevilHunter-0'>
+  <img src='http://github.com/DevilHunter-0.png' width='136px;' height='136px;'>
 </a>
-  <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>???</a></h4>
+  <h4 align='center'><a href='https://www.speedrun.com/users/DevilHunterY'>DevilHunter</a></h4>
 </td>
   <td id='???'>
   <a href='https://youtu.be/AIkktiq_T0Y'>
