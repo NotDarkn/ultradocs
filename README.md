@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
   <a href='https://github.com/Kano127'>
   <img src='https://github.com/Kano127.png' width='136px;' height='136px'>
 </a>
-  <h4 align='center'><a href='https://www.speedrun.com/users/Kano127'>Kano127</a></h4>
+  <h4 align='center'><a href='https://www.speedrun.com/users/Kano127'>Kano</a></h4>
 </td>
   <td id='kiacxn'>
   <a href='https://github.com/kiacxn'>
@@ -100,13 +100,13 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
   <a href='https://github.com/nsethiz'>
   <img src='https://cdn.discordapp.com/avatars/1136820300634390598/5db23dab689848bd618d4c2ec03e03c4.png' width='136px;' height='136px';>
 </a>
-  <h4 align='center'><a href='https://speedrun.com/users/nsethiz'>nsethiz</a></h4>
+  <h4 align='center'><a href='https://speedrun.com/users/nsethiz'>Seth</a></h4>
 </td>
   <td id='vivyaann'>
   <a href='https://github.com/vivyaann'>
   <img src='https://github.com/vivyaann.png' width='136px;' height='136px'>
 </a>
-  <h4 align='center'><a href='https://speedrun.com/users/vivyaann'>vivyaann</a></h4>
+  <h4 align='center'><a href='https://speedrun.com/users/vivyaann'>vivian</a></h4>
 </td>
   <td id='humpster'>
   <a href='https://github.com/humpster2'>
