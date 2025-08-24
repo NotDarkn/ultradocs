@@ -142,17 +142,14 @@ next: ./any-1-S
     </summary>
     <p>
         After checkpoint you can take the <a href="/speedrun-tech#flick-ub">Flick UB</a> momentum do <a href="/speedrun-tech#slide-jump">Slide Jump</a>.
-        (<i> or you can do the <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> <b>which is slower.</b></i>)
-    </p>
-    <p>
-    fire rocket and freeze it in the second right stray.
+        (<i> or you can do the <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> <b>which is slower.</b></i>) fire rocket and freeze it in the second right stray.
     </p>
      <div class="caution">
         <div class="caution-header">
             <i class="fa-solid fa-lightbulb"></i>
-        </div>
             Tip
-        <p> Try to freeze it a little far from Schism because it will not kill schism and try to aim here in the picture below:</p>
+        </div>
+        Try to freeze it around this spot seen in the picture below, as if it's in any other spot then the rocket won't explode or won't kill the Schism near the exit door.
         <br/><br/>
          <img
         class="image"
