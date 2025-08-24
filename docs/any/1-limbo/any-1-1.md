@@ -95,7 +95,7 @@ next: ./any-1-S
     <p>
         <a href="/speedrun-tech#slideways-exit">Slideways Exit</a>
         <video width="735" height="auto" loop controls muted>
-        <source src="https://i.imgur.com/9eM3yAO.mp4" type="video/mp4">
+        <source src="https://i.imgur.com/oA68lkc.mp4" type="video/mp4">
     </video>
     </p>
 </details>
@@ -158,7 +158,7 @@ next: ./any-1-S
     ></img> 
     </div>
     <p>
-        Dash to the left of the room and place saws to the left pillar and use knuckle blaster to the right stray. get to the center of the room, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawns.
+        Dash to the left of the room and place magnet and fire saws in the left pillar and use knuckle blaster to the right stray. get to the center of the room, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawns.
  </p>
     <video width="735" height="auto" loop controls muted>
     <source src="https://i.imgur.com/M0mbbIN.mp4" type="video/mp4">
@@ -170,16 +170,17 @@ next: ./any-1-S
 ###### Saw Clear
 
 </div>
-<details class=hard>
+<details class=easy>
     <summary>
-        <b>Saw Clear</b> // <b>DIFFICULTY</b>: ?/10
+        <b>Saw Clear</b> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
-        Dev note: (TBA) To Be Added
+        After you checkpoint, <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> when you land to preserve speed to reach the arena. </p>
+    <p> fire saws as you enter the arena, try to be in the middle between the 2 Schism, place <b>2 magnets</b> one in the left pillar and the other in the right one.
+Jump and then <a href="/speedrun-tech#slam">Slam</a> throw 1 coin and <a href="/speedrun-tech#split-coins">split coin</a>, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawns.
     </p>
-    <a href="/speedrun-tech#slam-store-exit">Slam Store Exit</a>
     <video width="735" height="auto" loop controls muted>
-    <source src="https://i.imgur.com/9eM3yAO.mp4" type="video/mp4">
+    <source src="https://i.imgur.com/hRIuBs4.mp4" type="video/mp4">
     </video>
 </details>
 
