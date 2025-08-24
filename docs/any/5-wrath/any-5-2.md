@@ -8,6 +8,14 @@ next: ./any-5-3
 
 # 5-2 // WAVES OF THE STARLESS SEA (Any%)
 
+<div class="warning">
+    <div class="warning-header">
+        <i class="fa-solid fa-triangle-exclamation"></i>
+        Warning
+    </div>
+    This page still needs to be <b>revamped</b>, either with new information due to the revamp update, or perhaps a complete remake. <b>Proceed with caution.</b>
+</div>
+
 ## [First Checkpoint](https://youtu.be/CLuZN7JOyDA)
 <font size="2">
     <b>Difficulty</b>: Slightly Easy (2/5)

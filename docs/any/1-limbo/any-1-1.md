@@ -8,6 +8,14 @@ next: ./any-1-S
 
 # 1-1 // HEART OF THE SUNRISE (Any%)
 
+<div class="warning">
+    <div class="warning-header">
+        <i class="fa-solid fa-triangle-exclamation"></i>
+        Warning
+    </div>
+    This page still needs to be <b>revamped</b>, either with new information due to the revamp update, or perhaps a complete remake. <b>Proceed with caution.</b>
+</div>
+
 ## First Checkpoint
 
 <div class="hidden-header">
@@ -57,7 +65,6 @@ next: ./any-1-S
     </video>
     </p>
 </details>
-
 
 ## Arena Clears
 
@@ -132,7 +139,7 @@ next: ./any-1-S
 <details class=hard>
     <summary>
         <b>Stams Clear</b> // <b>DIFFICULTY</b>: 7/10
-        </summary>
+    </summary>
     <p>
         After checkpoint you can take the <a href="/speedrun-tech#flick-ub">Flick UB</a> momentum do <a href="/speedrun-tech#slide-jump">Slide Jump</a>.
         (<i> or you can do the <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> <b>which is slower.</b></i>)
