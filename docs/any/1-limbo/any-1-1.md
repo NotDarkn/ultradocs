@@ -1,6 +1,6 @@
 ---
-date: 2025-06-24
-author: Kano, Darkn, Ashley
+date: 2025-09-04
+author: Kano, Darkn, Ashley, DevilHunter
 
 prev: ./
 next: ./any-1-S
@@ -176,8 +176,8 @@ next: ./any-1-S
     </summary>
     <p>
         After you checkpoint, <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> when you land to preserve speed to reach the arena. </p>
-    <p> fire saws as you enter the arena, try to be in the middle between the 2 Schism, place <b>2 magnets</b> one in the left pillar and the other in the right one.
-Jump and then <a href="/speedrun-tech#slam">Slam</a> throw 1 coin and <a href="/speedrun-tech#split-coins">split coin</a>, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawns.
+    <p> fire saws as you enter the arena, try to be in the middle between the 2 Schism, Place <b>2 Magnets</b> one in the left pillar and the other in the right one.
+Jump and then <a href="/speedrun-tech#slam">Slam</a> throw 1 coin and <a href="/speedrun-tech#split-coins">Split Coin</a>, and <a href="/speedrun-tech#nukes">Nuke</a> when the drones spawns.
     </p>
     <video width="735" height="auto" loop controls muted>
     <source src="https://i.imgur.com/hRIuBs4.mp4" type="video/mp4">
