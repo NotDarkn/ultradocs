@@ -142,7 +142,7 @@ next: ./any-1-S
     </summary>
     <p>
         After checkpoint you can take the <a href="/speedrun-tech#flick-ub">Flick UB</a> momentum do <a href="/speedrun-tech#slide-jump">Slide Jump</a>.
-        (<i> or you can do the <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> <b>which is slower.</b></i>) fire rocket and freeze it in the second right stray.
+        (<i> or you can do the <a href="/speedrun-tech#dash-jump">Dash Jump</a> then <a href="/speedrun-tech#slide-jump">Slide Jump</a> <b>which is slower.</b></i>) fire rocket and freeze it in the second right stray to <a href="/speedrun-Rocket-Traps">Rocket Trap</a>.
     </p>
      <div class="caution">
         <div class="caution-header">
