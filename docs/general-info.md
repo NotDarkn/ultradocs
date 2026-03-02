@@ -120,7 +120,7 @@ This refers to the first boss of the game, **Malicious Face**.
 This refers to the boss, **Cerberus**.
 
 ### HiM
-This refers to the boss, **Hidemous Mass**.
+This refers to the boss, **Hideous Mass**.
 
 ### SM
 This refers to the boss, **Swordsmachine**.
