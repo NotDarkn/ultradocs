@@ -6,6 +6,6 @@ prev: ./any-8-1
 next: ./any-8-3
 ---
 
-# 8-2 // ???
+# 8-2 // THROUGH THE MIRROR
 
-NOT RELEASED YET (*but, when it does come out, we'll try to add it :>*)
+Has not been added yet but we will do soon.
