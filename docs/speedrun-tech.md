@@ -637,7 +637,7 @@ The faster you are moving horisantally, the closer you will get to the max UB sp
   </tr>
 </tb>
 
-### Floor FUP
+### Rocket Push
 <br />
 <tb style="width:100%; vertical-align: top">
   <tr style="font-size: 11px; font-weight: bold" bgcolor="232428">
@@ -663,7 +663,7 @@ The faster you are moving horisantally, the closer you will get to the max UB sp
 </tb>
 
 ::: note
-Sometimes on wonky geometry, Floor FUPs will cause you to take damage. Be weary of this in low health situations.
+Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be weary of this in low health situations.
 :::
 
 ### Rocket Jump

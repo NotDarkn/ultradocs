@@ -205,17 +205,17 @@ next: ./any-4-2
 
 <details class="easy">
     <summary>
-        <b>Backwards <a href="/speedrun-tech#floor-fup">Floor FUP</a></b> // <b>DIFFICULTY</b>: 3/10
+        <b>Backwards <a href="/speedrun-tech#rocket-push">Rocket Push</a></b> // <b>DIFFICULTY</b>: 3/10
     </summary>
     <p>
-        While slamming into breakable, do a 180 to face <b>away</b> from the exit door. Freeze the Freezeframe and perform <a href="/speedrun-tech#floor-fup">Floor FUP</a>.
+        While slamming into breakable, do a 180 to face <b>away</b> from the exit door. Freeze the Freezeframe and perform <a href="/speedrun-tech#rocket-push">Rocket Push</a>.
     </p>
     <div class="tips">
         <div class="tips-header">
             <i class="fa-solid fa-circle-exclamation"></i>
             Tip
         </div>
-            You want to perform your Floor FUP as parallel to yourself as you can to get the most horizontal speed as possible. Going too parallel can lead to you taking damage instead.
+            You want to perform your Rocket Push as parallel to yourself as you can to get the most horizontal speed as possible. Going too parallel can lead to you taking damage instead.
             Spend some time experimenting on the best angle!
          </div>
     <p>
