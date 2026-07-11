@@ -22,7 +22,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/681yYZz.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/2cxvp5.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -46,7 +46,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/GFZ36NN.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/8j06g7.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -71,7 +71,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/UPxfYY9.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/1gjwz4.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -95,7 +95,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/Tgh2YzL.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/89ev9g.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -119,7 +119,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/tao4ZSX.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/a06o8g.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -144,7 +144,7 @@
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/9fFwdcx.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/03m458.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -172,7 +172,7 @@ This can be done during <a href="#dives">dives</a> as well, as they put you in a
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/DLs1vFU.mp4">
+            <source src="https://files.catbox.moe/iiywey.mp4">
         </video>
     </td>
   </tr>
@@ -197,7 +197,7 @@ This can be done during <a href="#dives">dives</a> as well, as they put you in a
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/rNzxNC1.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/aedd7i.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -225,7 +225,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/jkMKtTi.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/5kmbm9.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -250,7 +250,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/SeBT91e.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/lgjwdk.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -274,7 +274,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/nYxJx4f.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/hgtbzv.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -282,7 +282,6 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
 
 ::: note
 Entering the command `prefs set bool ssjIndicator true` into console (opened by pressing F8) will tell you when you successfully ssj and what frame it was. <br />
-**As this is a console command, you may <ins>not</ins> submit runs with the ssjIndicator on.**
 :::
 ::: tip
 If you perform an SSJ while looking sideways and holding either A or D (corresponding to the direction you're looking), you will add 5 units to your SSJ.
@@ -307,7 +306,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/bHX625Q.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/h25bf0.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -332,7 +331,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/SzxYXFR.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/djehkx.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -358,7 +357,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/v3iXdlo.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/ly8c3y.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -389,7 +388,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/WSvxWLB.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/fhqt5t.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -413,7 +412,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/iRLiKs6.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/58fl6e.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -441,7 +440,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/LXi9awh.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/xh8b87.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -465,7 +464,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/N3lWuh8.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/joju6l.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -494,7 +493,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/xkWApby.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/f9neci.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -519,7 +518,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/0U3JWu0.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/jpnwhi.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -548,7 +547,7 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS SIGNIFICANTLY HARDER
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/8EkRHML.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/v058fp.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -602,7 +601,7 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS SIGNIFICANTLY HARDER
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/lS3AMZD.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/gaqsuo.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -631,7 +630,7 @@ The faster you are moving horisantally, the closer you will get to the max UB sp
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/KLWZ1x3.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/dozfd3.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -656,7 +655,7 @@ The faster you are moving horisantally, the closer you will get to the max UB sp
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/RBE2wuE.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/um429g.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -685,7 +684,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/vpNlXqB.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/dqil73.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -711,7 +710,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/Y1439QE.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/5x7y0e.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -737,7 +736,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/98snRE2.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/vq5gf6.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -762,7 +761,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/ZP1yjMz.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/qox22t.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -791,7 +790,7 @@ Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you 
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/xujptA9.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/86skgt.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -818,7 +817,7 @@ The height the core needs to be when you shoot it is very lenient.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/DJ1e15x.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/yrhpa9.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -846,7 +845,7 @@ The height the core needs to be when you shoot it is very lenient.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/gHOimZH.mp4 4" type="video/mp4">
+            <source src="https://files.catbox.moe/pm674p.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -870,7 +869,7 @@ The height the core needs to be when you shoot it is very lenient.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/vPBZ7Dn.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/61815k.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -897,7 +896,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/v60PNII.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/9kp2gs.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -921,7 +920,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/3YBnxaw.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/52omma.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -945,7 +944,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/07DX3U1.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/2569ug.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -969,7 +968,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/e7HpacY.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/cyhjki.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -993,7 +992,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/jDa0VDN.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/y1508w.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1018,7 +1017,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/flVGt45.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/eirvry.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1045,7 +1044,7 @@ Freezing the rocket creates an explosion significantly larger than an unfrozen r
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/7WNaQrP.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/z2muzw.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1072,7 +1071,7 @@ This can be done with any explosion.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/1UN7D9c.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/indkgu.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1096,7 +1095,7 @@ This can be done with any explosion.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/ofuAJdI.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/r82hsy.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1124,7 +1123,7 @@ You only need to charge srs cannon to 25% for full damage.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/taWzptc.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/sdcq0w.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1148,7 +1147,7 @@ You only need to charge srs cannon to 25% for full damage.
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/LJp6WTF.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/f4l51q.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1176,7 +1175,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/V1k5u1X.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/4yxptx.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1201,7 +1200,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/gn18NAX.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/bb7f3o.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1227,7 +1226,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/T5Zdg9E.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/a1omnu.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1259,7 +1258,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/rgii1vA.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/hvc604.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1287,7 +1286,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/XFpaRzP.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/3aw4ad.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1311,7 +1310,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/4RCy1hi.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/3fzb0v.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1339,7 +1338,7 @@ The power increase caused by punches is limited to 3 punches against a surface, 
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/J3qT3BX.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/cabsyf.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1365,7 +1364,7 @@ The power increase caused by punches is limited to 3 punches against a surface, 
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/rL9gB56.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/lrampb.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1399,7 +1398,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/yqFX3AC.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/eq253j.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1424,7 +1423,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/fmeJZZH.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/i2io8u.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1448,7 +1447,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/2FSrwEm.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/6svprc.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1473,7 +1472,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/KspbosQ.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/ylzlnn.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1498,7 +1497,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/tgUlu1B.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/rzio2m.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1524,7 +1523,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/Yf12mzZ.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/5qty0x.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1551,7 +1550,7 @@ This becomes significantly easier with a specific "feedbacker punch" keybind, as
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/JV20y6R.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/7qb9mm.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1598,7 +1597,7 @@ tl;dr Shoot the coin after 4.85~ seconds to do 5x damage and instakill most boss
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/r9bhKIY.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/3hzjzh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1629,7 +1628,7 @@ Untagged walls can be identified by whiplashing them; if the whiplash passes thr
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/YEIhvQS.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/8q168e.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1684,7 +1683,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/nMNL2AA.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/cpi4fh.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1716,7 +1715,7 @@ The execution varies depending on the tight space you're attempting to clip thro
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/anfcDlY.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/y2u6xy.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1746,7 +1745,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/yg5GOJh.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/g7ngaq.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1814,7 +1813,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/NVM1okg.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/n5zv8w.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1866,7 +1865,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/64IHG1F.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/cmwzkx.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1897,6 +1896,10 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
 </tb>
 :::
 
+::: note
+Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require very tight angles and timing in order to be accomplished.
+:::
+
 <!---------------------------------------------->
 
 ## Level Exits
@@ -1920,7 +1923,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/O25XQfw.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/4pbjiy.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1945,7 +1948,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/otXguVe.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/djcq8r.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1972,7 +1975,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/y9LEYAr.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/wro6du.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -1998,7 +2001,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/z1skjh7.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/zfmn1c.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -2023,7 +2026,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/bPYepT0.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/qrfu0z.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -2051,7 +2054,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/PSshF6l.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/9nps9b.mp4" type="video/mp4">
         </video>
     </td>
   </tr>
@@ -2076,7 +2079,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     </td>
     <td width="200px">
         <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
-            <source src="https://i.imgur.com/gKuQVwa.mp4" type="video/mp4">
+            <source src="https://files.catbox.moe/xdiog5.mp4" type="video/mp4">
         </video>
     </td>
   </tr>

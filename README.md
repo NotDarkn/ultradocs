@@ -126,11 +126,11 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/DevilHunter'>DevilHunter</a></h4>
 </td>
-  <td id='???'>
-  <a href='https://youtu.be/AIkktiq_T0Y'>
-  <img src='https://archive.org/images/person2.png' width='136px;' height='136px;'>
+  <td id='OscarStars'>
+  <a href='https://en.pronouns.page/@oscar_stars'>
+  <img src='https://cdn.pronouns.page/images-copy/discord/00a48353701e77ed9a8b871700c144e1c2abce493ac47e072d6a4341250ca4b3.png' width='136px;' height='136px;'>
 </a>
-  <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>???</a></h4>
+  <h4 align='center'><a href='https://en.pronouns.page/@oscar_stars'>Oscar Stars</a></h4>
 </tr>
 </table>
 
