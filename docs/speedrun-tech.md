@@ -21,7 +21,7 @@
       2. Jump while sliding
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/2cxvp5.mp4" type="video/mp4">
         </video>
     </td>
@@ -45,7 +45,7 @@
       2. Jump during the dash
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/8j06g7.mp4" type="video/mp4">
         </video>
     </td>
@@ -70,7 +70,7 @@
       3. Jump during the slide
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/1gjwz4.mp4" type="video/mp4">
         </video>
     </td>
@@ -94,7 +94,7 @@
       2. Wall jump at the same time
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/89ev9g.mp4" type="video/mp4">
         </video>
     </td>
@@ -118,7 +118,7 @@
       2. Slide immediately after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/a06o8g.mp4" type="video/mp4">
         </video>
     </td>
@@ -143,7 +143,7 @@
       3. Hold either A or D according to the direction you're looking
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/03m458.mp4" type="video/mp4">
         </video>
     </td>
@@ -171,7 +171,7 @@ This can be done during <a href="#dives">dives</a> as well, as they put you in a
       2. Wall jump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/iiywey.mp4">
         </video>
     </td>
@@ -196,7 +196,7 @@ This can be done during <a href="#dives">dives</a> as well, as they put you in a
       2. Jump as soon as you hit the ground
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/aedd7i.mp4" type="video/mp4">
         </video>
     </td>
@@ -224,7 +224,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
       2. Slide shortly after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/5kmbm9.mp4" type="video/mp4">
         </video>
     </td>
@@ -249,7 +249,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
       3. Jump immediately after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/lgjwdk.mp4" type="video/mp4">
         </video>
     </td>
@@ -273,7 +273,7 @@ Placing oil on the ground makes Bhops significantly more lenient, since oil natu
       2. Jump within 3 frames of releasing slide
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/hgtbzv.mp4" type="video/mp4">
         </video>
     </td>
@@ -305,7 +305,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
       3. Press and hold slide immediately after
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/h25bf0.mp4" type="video/mp4">
         </video>
     </td>
@@ -330,7 +330,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
       3. Press space within 3 frames
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/djehkx.mp4" type="video/mp4">
         </video>
     </td>
@@ -356,7 +356,7 @@ If you perform an SSJ while looking sideways and holding either A or D (correspo
       4. Press jump within 3 frames
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/ly8c3y.mp4" type="video/mp4">
         </video>
     </td>
@@ -387,7 +387,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Whiplash again or punch
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/fhqt5t.mp4" type="video/mp4">
         </video>
     </td>
@@ -411,7 +411,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Slam while you are being dragged
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/58fl6e.mp4" type="video/mp4">
         </video>
     </td>
@@ -439,7 +439,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Shoot a core at your feet
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/xh8b87.mp4" type="video/mp4">
         </video>
     </td>
@@ -463,7 +463,7 @@ You can combine this with an <a href="#ssj-dive">SSJ dive</a> to instantly reach
       2. Shoot the core with the Malicious Railcanon.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/joju6l.mp4" type="video/mp4">
         </video>
     </td>
@@ -492,7 +492,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       3. Shoot the core with Malicious Railcanon
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/f9neci.mp4" type="video/mp4">
         </video>
     </td>
@@ -517,7 +517,7 @@ If the core is hit while it is very close to you it will deal 35 damage instead 
       3. Checkpoint
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/jpnwhi.mp4" type="video/mp4">
         </video>
     </td>
@@ -546,7 +546,7 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS SIGNIFICANTLY HARDER
       2. Hit the first rocket with jackhammer into the other rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/v058fp.mp4" type="video/mp4">
         </video>
     </td>
@@ -572,7 +572,7 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS SIGNIFICANTLY HARDER
       5. Slam <br />
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
           <source src="https://i.imgur.com/dfZLgcs.mp4" type="video/mp4">
       </video>
     </td>
@@ -600,7 +600,7 @@ AS OF PATCH 16d, THIS TECH NO LONGER WORKS NORMALLY, AND IS SIGNIFICANTLY HARDER
       3. Shoot core eject with malicious rail cannon
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/gaqsuo.mp4" type="video/mp4">
         </video>
     </td>
@@ -629,7 +629,7 @@ The faster you are moving horisantally, the closer you will get to the max UB sp
       3. Freeze the rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/dozfd3.mp4" type="video/mp4">
         </video>
     </td>
@@ -654,7 +654,7 @@ The faster you are moving horisantally, the closer you will get to the max UB sp
       3. Shoot and whiplash a rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/um429g.mp4" type="video/mp4">
         </video>
     </td>
@@ -683,7 +683,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
       3. Shoot a rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/dqil73.mp4" type="video/mp4">
         </video>
     </td>
@@ -709,7 +709,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
       4. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/5x7y0e.mp4" type="video/mp4">
         </video>
     </td>
@@ -735,7 +735,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
       4. Unfreeze
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/vq5gf6.mp4" type="video/mp4">
         </video>
     </td>
@@ -760,7 +760,7 @@ Sometimes on wonky geometry, rocket pushes will cause you to take damage. Be wea
       3. Shoot overpump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/qox22t.mp4" type="video/mp4">
         </video>
     </td>
@@ -789,7 +789,7 @@ Jamblasts can deal either 33 or 50 HP depending on your timing. 33 HP means you 
       3. Dash into the explosion
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/86skgt.mp4" type="video/mp4">
         </video>
     </td>
@@ -816,7 +816,7 @@ The height the core needs to be when you shoot it is very lenient.
       1. Primary fire with shotgun
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/yrhpa9.mp4" type="video/mp4">
         </video>
     </td>
@@ -844,7 +844,7 @@ The height the core needs to be when you shoot it is very lenient.
       2. Hold left and right click simultaneously
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/pm674p.mp4" type="video/mp4">
         </video>
     </td>
@@ -868,7 +868,7 @@ The height the core needs to be when you shoot it is very lenient.
       2. Swap shotgun after shooting
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/61815k.mp4" type="video/mp4">
         </video>
     </td>
@@ -895,7 +895,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       1. Shoot the primary fire during the parry window.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/9kp2gs.mp4" type="video/mp4">
         </video>
     </td>
@@ -919,7 +919,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Feedbacker punch
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/52omma.mp4" type="video/mp4">
         </video>
     </td>
@@ -943,7 +943,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Shoot the core with Malicious Rail
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/2569ug.mp4" type="video/mp4">
         </video>
     </td>
@@ -967,7 +967,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Shoot core with Revolver
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/cyhjki.mp4" type="video/mp4">
         </video>
     </td>
@@ -991,7 +991,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       2. Shoot overpump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/y1508w.mp4" type="video/mp4">
         </video>
     </td>
@@ -1016,7 +1016,7 @@ If you have an alt shotgun equipped, you have to use a variation number keybind.
       3. Freeze the rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/eirvry.mp4" type="video/mp4">
         </video>
     </td>
@@ -1043,7 +1043,7 @@ Freezing the rocket creates an explosion significantly larger than an unfrozen r
       1. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/z2muzw.mp4" type="video/mp4">
         </video>
     </td>
@@ -1070,7 +1070,7 @@ This can be done with any explosion.
       1. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/indkgu.mp4" type="video/mp4">
         </video>
     </td>
@@ -1094,7 +1094,7 @@ This can be done with any explosion.
       2. Punch the cannonball
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/r82hsy.mp4" type="video/mp4">
         </video>
     </td>
@@ -1122,7 +1122,7 @@ You only need to charge srs cannon to 25% for full damage.
       1. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/sdcq0w.mp4" type="video/mp4">
         </video>
     </td>
@@ -1146,7 +1146,7 @@ You only need to charge srs cannon to 25% for full damage.
       2. Shoot rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/f4l51q.mp4" type="video/mp4">
         </video>
     </td>
@@ -1174,7 +1174,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
       2. Whiplash/Swap arm
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/4yxptx.mp4" type="video/mp4">
         </video>
     </td>
@@ -1199,7 +1199,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
       3. Shoot
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/bb7f3o.mp4" type="video/mp4">
         </video>
     </td>
@@ -1225,7 +1225,7 @@ Placing a rocket where an enemy will spawn will create a red explosion regardles
       4. Punch with feedbacker
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/a1omnu.mp4" type="video/mp4">
         </video>
     </td>
@@ -1257,7 +1257,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
       5. Punch with feedbacker
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/hvc604.mp4" type="video/mp4">
         </video>
     </td>
@@ -1285,7 +1285,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
       2. Shoot the coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/3aw4ad.mp4" type="video/mp4">
         </video>
     </td>
@@ -1309,7 +1309,7 @@ You must be moving in the direction you're aiming in order to do this, otherwise
       2. Punch the coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/3fzb0v.mp4" type="video/mp4">
         </video>
     </td>
@@ -1337,7 +1337,7 @@ The power increase caused by punches is limited to 3 punches against a surface, 
       2. Shoot the coin and toss a new one
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/cabsyf.mp4" type="video/mp4">
         </video>
     </td>
@@ -1363,7 +1363,7 @@ The power increase caused by punches is limited to 3 punches against a surface, 
       4. Toss a new coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/lrampb.mp4" type="video/mp4">
         </video>
     </td>
@@ -1397,7 +1397,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Toss another coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/eq253j.mp4" type="video/mp4">
         </video>
     </td>
@@ -1422,7 +1422,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Shoot the coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/i2io8u.mp4" type="video/mp4">
         </video>
     </td>
@@ -1446,7 +1446,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       2. Fire the electric rail
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/6svprc.mp4" type="video/mp4">
         </video>
     </td>
@@ -1471,7 +1471,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Toss more coins
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/ylzlnn.mp4" type="video/mp4">
         </video>
     </td>
@@ -1496,7 +1496,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       3. Shoot coin with second hitscan
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/rzio2m.mp4" type="video/mp4">
         </video>
     </td>
@@ -1522,7 +1522,7 @@ For each additional coin you're deadcoining off of, you should wait roughly 100m
       4. Punch second coin
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/5qty0x.mp4" type="video/mp4">
         </video>
     </td>
@@ -1549,7 +1549,7 @@ This becomes significantly easier with a specific "feedbacker punch" keybind, as
       TBA (To be added)
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/7qb9mm.mp4" type="video/mp4">
         </video>
     </td>
@@ -1596,7 +1596,7 @@ tl;dr Shoot the coin after 4.85~ seconds to do 5x damage and instakill most boss
       5. Unfreeze rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/3hzjzh.mp4" type="video/mp4">
         </video>
     </td>
@@ -1627,7 +1627,7 @@ Untagged walls can be identified by whiplashing them; if the whiplash passes thr
       5. Jump
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/8q168e.mp4" type="video/mp4">
         </video>
     </td>
@@ -1655,7 +1655,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       3. Jump and whip the rocket at the same time
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
           <source src="https://i.imgur.com/zV3d8Wk.mp4" type="video/mp4">
       </video>
     </td>
@@ -1682,7 +1682,7 @@ Shoot a frozen rocket and get on it. Getting on a rocket that is in this state w
       3. Mount the rocket.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/cpi4fh.mp4" type="video/mp4">
         </video>
     </td>
@@ -1714,7 +1714,7 @@ The execution varies depending on the tight space you're attempting to clip thro
       etc.
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/y2u6xy.mp4" type="video/mp4">
         </video>
     </td>
@@ -1744,7 +1744,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. Unfreeze rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/g7ngaq.mp4" type="video/mp4">
         </video>
     </td>
@@ -1769,7 +1769,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. Unfreeze rocket
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
           <source src="https://i.imgur.com/uc35pEG.mp4" type="video/mp4">
       </video>
     </td>
@@ -1785,7 +1785,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
     4. Dismount
   </td>
   <td width="200px">
-    <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+    <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
         <source src="https://i.imgur.com/UR64fbd.mp4" type="video/mp4">
     </video>
   </td>
@@ -1812,7 +1812,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. <a href="#wall-bounces">Wall Bounce</a>
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/n5zv8w.mp4" type="video/mp4">
         </video>
     </td>
@@ -1837,7 +1837,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. Shoot rocket at the peak of the dive
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
           <source src="https://i.imgur.com/DRyrWHK.mp4" type="video/mp4">
       </video>
     </td>
@@ -1864,7 +1864,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       4. Unfreeze rocket
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/cmwzkx.mp4" type="video/mp4">
         </video>
     </td>
@@ -1888,7 +1888,7 @@ For levels like 5-1 and 7-3, it's best to come into the hole with lots of speed,
       3. Dash
     </td>
     <td width="200px">
-      <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+      <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
           <source src="https://i.imgur.com/8akfRQE.mp4" type="video/mp4">
       </video>
     </td>
@@ -1922,7 +1922,7 @@ Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require 
       3. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/4pbjiy.mp4" type="video/mp4">
         </video>
     </td>
@@ -1947,7 +1947,7 @@ Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require 
       3. <a href="#slideways">Slideways</a>
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/djcq8r.mp4" type="video/mp4">
         </video>
     </td>
@@ -1974,7 +1974,7 @@ Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require 
       5. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/wro6du.mp4" type="video/mp4">
         </video>
     </td>
@@ -2000,7 +2000,7 @@ Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require 
       4. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/zfmn1c.mp4" type="video/mp4">
         </video>
     </td>
@@ -2025,7 +2025,7 @@ Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require 
       3. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/qrfu0z.mp4" type="video/mp4">
         </video>
     </td>
@@ -2053,7 +2053,7 @@ Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require 
       6. Slam
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/9nps9b.mp4" type="video/mp4">
         </video>
     </td>
@@ -2078,7 +2078,7 @@ Skuggles on PATCH 17: FRAUD are much more difficult to accomplish. They require 
       3. <a href="#ub-ultraboost">Ultraboost</a>
     </td>
     <td width="200px">
-        <video width="300" height="auto" preload="none" poster="https://i.imgur.com/B8yMGXY.png" loop controls muted>
+        <video width="300" height="auto" preload="none" poster="https://files.catbox.moe/nettra.png" loop controls muted>
             <source src="https://files.catbox.moe/xdiog5.mp4" type="video/mp4">
         </video>
     </td>
