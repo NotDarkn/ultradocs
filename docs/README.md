@@ -3,7 +3,7 @@ home: true
 footer: false
 
 title: Home
-heroImage: https://i.imgur.com/bVRnm5r.png
+heroImage: https://files.catbox.moe/81b5na.png
 heroFullScreen: true
 actions:
   - text: Get Started

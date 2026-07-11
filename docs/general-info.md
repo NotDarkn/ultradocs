@@ -8,7 +8,7 @@ The moderators would really appreciate it! (They will kill you with hammers if y
 :::
 
 ## Submitting Runs
-<iframe width="592" height="333" src="https://www.youtube.com/embed/_thljcHvekk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="592" height="333" src="https://www.youtube.com/embed/XXqeIB3L8zY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Difficulty
 

@@ -6,7 +6,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://ultradocs.pages.dev",
 
-  logo: "https://i.imgur.com/bVRnm5r.png",
+  logo: "https://files.catbox.moe/81b5na.png",
 
   repo: "NotDarkn/ULTRADOCS",
 
