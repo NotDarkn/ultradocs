@@ -59,37 +59,37 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 <tr>
   <td id='Darkn'>
   <a href='https://github.com/NotDarkn'>
-  <img src='https://github.com/NotDarkn.png' width='136px;' height='136px'>
+  <img src='https://github.com/NotDarkn.png' width='120px;' height='120px'>
 </a>
   <h4 align='center'><a href='https://darkn.bio'>Darkn</a></h4>
 </td>
   <td id='Kano127'>
   <a href='https://github.com/Kano127'>
-  <img src='https://github.com/Kano127.png' width='136px;' height='136px'>
+  <img src='https://github.com/Kano127.png' width='120px;' height='120px'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/Kano127'>Kano</a></h4>
 </td>
   <td id='kiacxn'>
   <a href='https://github.com/kiacxn'>
-  <img src='https://i.imgur.com/7J2Sa1p.jpeg' width='136px;' height='136px'>
+  <img src='https://i.imgur.com/7J2Sa1p.jpeg' width='120px;' height='120px'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/kiacxn'>cxn</a></h4>
 </td>
   <td id='CATPERFECT'>
   <a href='https://github.com/AshleyPerfect'>
-  <img src='https://github.com/AshleyPerfect.png' width='136px;' height='136px'>
+  <img src='https://github.com/AshleyPerfect.png' width='120px;' height='120px'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/CATPERFECT'>Ashley</a></h4>
 </td>
   <td id='eanra'>
   <a href='https://github.com/okEanra'>
-  <img src='https://i.imgur.com/shCh6xr.jpeg' width='136px;' height='136px;'>
+  <img src='https://i.imgur.com/shCh6xr.jpeg' width='120px;' height='120px;'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/eanra'>eanra</a></h4>
 </td>
   <td id='FishyBandit'>
   <a href='https://github.com/FishyBandit'>
-  <img src='https://i.imgur.com/3qm9q4h.png' width='136px;' height='136px'>
+  <img src='https://i.imgur.com/3qm9q4h.png' width='120px;' height='120px'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/FishyBandit'>Fishy</a></h4>
 </tr>
@@ -98,37 +98,37 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </td>
   <td id='nsethiz'>
   <a href='https://github.com/nsethiz'>
-  <img src='https://cdn.discordapp.com/avatars/1136820300634390598/5db23dab689848bd618d4c2ec03e03c4.png' width='136px;' height='136px';>
+  <img src='https://cdn.discordapp.com/avatars/1136820300634390598/5db23dab689848bd618d4c2ec03e03c4.png' width='120px;' height='120px';>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/nsethiz'>Seth</a></h4>
 </td>
   <td id='vivyaann'>
   <a href='https://github.com/vivyaann'>
-  <img src='https://github.com/vivyaann.png' width='136px;' height='136px'>
+  <img src='https://github.com/vivyaann.png' width='120px;' height='120px'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/vivyaann'>vivyan</a></h4>
 </td>
   <td id='humpster'>
   <a href='https://github.com/humpster2'>
-  <img src='https://github.com/humpster2.png' width='136px;' height='136px;'>
+  <img src='https://github.com/humpster2.png' width='120px;' height='120px;'>
 </a>
   <h4 align='center'><a href='https://speedrun.com/users/humpster'>humpster</a></h4>
 </td>
   <td id='SStereo'>
   <a href='https://youtu.be/AIkktiq_T0Y'>
-  <img src='https://i.imgur.com/0ZBfx3f.png' width='136px;' height='136px;'>
+  <img src='https://i.imgur.com/0ZBfx3f.png' width='120px;' height='120px;'>
 </a>
   <h4 align='center'><a href='https://youtu.be/AIkktiq_T0Y'>SStereo</a></h4>
 </td>
   <td id='DevilHunter'>
   <a href='http://github.com/DevilHunter-0'>
-  <img src='http://github.com/DevilHunter-0.png' width='136px;' height='136px;'>
+  <img src='http://github.com/DevilHunter-0.png' width='120px;' height='120px;'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/DevilHunter'>DevilHunter</a></h4>
 </td>
   <td id='OscarStars'>
   <a href='https://en.pronouns.page/@oscar_stars'>
-  <img src='https://cdn.pronouns.page/images-copy/discord/00a48353701e77ed9a8b871700c144e1c2abce493ac47e072d6a4341250ca4b3.png' width='136px;' height='136px;'>
+  <img src='https://cdn.pronouns.page/images-copy/discord/00a48353701e77ed9a8b871700c144e1c2abce493ac47e072d6a4341250ca4b3.png' width='120px;' height='120px;'>
 </a>
   <h4 align='center'><a href='https://en.pronouns.page/@oscar_stars'>Oscar Stars</a></h4>
 </tr>
