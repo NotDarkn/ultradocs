@@ -83,7 +83,7 @@ https://github.com/user-attachments/assets/267a7af3-1d65-4a12-9498-a06f6df74542
 </td>
   <td id='eanra'>
   <a href='https://github.com/okEanra'>
-  <img src='https://i.imgur.com/shCh6xr.jpeg' width='120px;' height='120px;'>
+  <img src='https://i.imgur.com/shCh6xr.jpeg' width='118px;' height='118px;'>
 </a>
   <h4 align='center'><a href='https://www.speedrun.com/users/eanra'>eanra</a></h4>
 </td>
